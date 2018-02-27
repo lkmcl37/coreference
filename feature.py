@@ -12,18 +12,29 @@ class Markable(object):
         self.feat = self.features()
 
     def features(self):
+        
         f = {}
-
+        
         f['text'] = ' '.join([t[1] for t in self.tokens])
-        f['named-entity'] = self.tokens[0][4]
+        f['named-entity'] = self.tokens[0][4] if self.tokens[0][4] != '' else 'OTHER'
         
         f['definite'] = self.is_definite()
         f['demonstrative'] = self.is_demos()
         f['pronoun'] = self.is_pronoun()
+        f['proper_noun'] = self.is_proper_noun()
         
+        #print(f)
         return f
     
     
+    def is_proper_noun(self):
+        for word in self.tokens:
+            if word[2] in ['NNP', 'NNPS']:
+                return 1
+        
+        return 0
+        
+        
     def is_definite(self):
         if self.tokens[0][1].lower() == 'the':
             return 1
@@ -36,30 +47,11 @@ class Markable(object):
             return 1
         
         return 0
-        
-        
-    def sem_class(self,is_pronoun,NE):
-        if is_pronoun:
-            word = self.tokens[0][1].lower()
-            if word in {'he','she','you','i','me','her','him','his','hers','mine','us','ours','we'}:
-                return 1
-            if word in {'it','its'}:
-                return 0
-            if word in {'them','they','their'}:
-                return 2
-        else:
-            if NE in {'NORP','PERSON'}:
-                return 1
-            if NE in {'TIME','GPE','ORG','CARDINAL','LOC','QUANTITY','DATE','FAC'}:
-                return 0
-            else:
-                return 2
-        return 2
-        
+
         
     def is_pronoun(self):
         if len(self.tokens) == 1:
-            if self.tokens[0][2].startswith('PRP'):
+            if self.tokens[0][2] in ['PRP', 'PRP$']:
                 return 1
         return 0
     
@@ -83,12 +75,14 @@ class MarkablePair(object):
         f['antecedent_definite'] = self.antecedent['definite']
         f['antecedent_demonstrative'] = self.antecedent['demonstrative']
         f['antecedent_pronoun'] = self.antecedent['pronoun']
-      
+        f['antecedent_proper_noun'] = self.antecedent['proper_noun']
+        
         f['anaphor_text'] = self.anaphor['text']
         f['anaphor_NE'] = self.anaphor['named-entity']
         f['anaphor_definite'] = self.anaphor['definite']
         f['anaphor_demonstrative'] = self.anaphor['demonstrative']
         f['anaphor_pronoun'] = self.anaphor['pronoun']
+        f['anaphor_proper_noun'] = self.anaphor['proper_noun']
         
-        return f    
+        return f
 
