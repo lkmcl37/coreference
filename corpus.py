@@ -90,7 +90,11 @@ def parse_file(path):
                 corpus.append(doc)
             else:
                 fields = line.split()
+<<<<<<< HEAD
                 anns = [fields[2],fields[3],fields[4], fields[8],fields[10].strip('(*)'), fields[-1]]
+=======
+                anns = [fields[2],fields[3],fields[4], fields[8],fields[10].strip('(*)'),fields[-1]]
+>>>>>>> origin/master
                 sent.append(anns)
                 '''
                 0    Word number    
