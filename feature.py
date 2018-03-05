@@ -58,7 +58,7 @@ class Markable(object):
                 return 1
         return 0
     
-    
+# a pair of refexps from a doc to indicate if they refer to the same chain id/entity
 class MarkablePair(object):
 
     def __init__(self, antecedent: Markable, anaphor: Markable, same_sent: int):
