@@ -10,43 +10,56 @@ def get_metions(tokens):
     
     mentions = []
     stack = defaultdict(list)
-    
+
+    # process from the last word of the sentence
+    # check if this word is in a coref chain (the start)
     for i, t in reversed(list(enumerate(tokens))):
         if '(' not in t[-1]:
             continue
         ids = [int(x.replace(')','').replace('(','')) for x in t[-1].split('|') if x.startswith('(')]
+        # j is actually the coref id of the chain
+        # each coref id records the start word of all refexps in this chain that appear in the sentence
         for j in ids:
             stack[j].append((i,t))
-    
+
+    # process from the start word of the sentence
+    # check if this word is in a coref chain (the end)
     for i, t in enumerate(tokens):
         if ')' not in t[-1]:
             continue
         ids = [int(x.replace(')','').replace('(','')) for x in t[-1].split('|') if x.endswith(')')]
         for j in ids:
+            # s is the index of the start word of the refexp in this chain
             s = stack[j].pop()[0]
             mentions.append(Markable(tokens[s:i+1], (s,i), j))
        
     return mentions
        
 
-#pair the extracted mentions to create positive and negative train instances 
+# pair all extracted mentions with all possible combinations in one doc
+# to create positive and negative train instances
 def get_pairs(doc):
     pairs = []
     mentions = {}
     
     for sent_idx, sent in enumerate(doc):
-        mentions[sent_idx] = get_metions(sent)
+        # each sentence gets a mention list
+        mentions[sent_idx] = mention_list = get_metions(sent)
         
         #pair the in-sentence mentions
-        for i in range(len(mentions[sent_idx])-1,0,-1):
-            anaphor = mentions[sent_idx][i]
+        for i in range(len(mention_list)-1,0,-1):
+            anaphor = mention_list[i]
             for j in range(i-1,-1,-1):
-                antecedent = mentions[sent_idx][j]
-                
+                antecedent = mention_list[j]
+
+                # pair all possible combinations between current refexp and every refexp before it
+                # to see if they refer to the same referent
                 if antecedent.end < anaphor.start:
                     pairs.append(MarkablePair(antecedent, anaphor, 1))
             
-            #pair the in-document/cross-sentence mentions
+            # pair the in-document/cross-sentence mentions
+            # check all sentences before current sentence, and all refexps in those
+            # sentences must be antecedents
             for k in range(sent_idx-1,-1,-1):
                 pairs.extend([MarkablePair(antecedent,anaphor,0) for antecedent in mentions[k]])
     
@@ -90,11 +103,7 @@ def parse_file(path):
                 corpus.append(doc)
             else:
                 fields = line.split()
-<<<<<<< HEAD
                 anns = [fields[2],fields[3],fields[4], fields[8],fields[10].strip('(*)'), fields[-1]]
-=======
-                anns = [fields[2],fields[3],fields[4], fields[8],fields[10].strip('(*)'),fields[-1]]
->>>>>>> origin/master
                 sent.append(anns)
                 '''
                 0    Word number    
@@ -105,12 +114,15 @@ def parse_file(path):
                 5    Coreference
                 '''
               
-    X = []
-    y = []
+    X = [] # the refexp pairs in the whole corpus
+    y = [] # the labels indicating if the pair refers to the same entity
     for doc in corpus:
         pairs = get_pairs(doc)
+        # print(pairs)
         X.extend([p.feat for p in pairs])
         y.extend([p.label for p in pairs])
     
     return X, y
 
+train_path = 'conll-2012/train/english/annotations'
+build_features(train_path)

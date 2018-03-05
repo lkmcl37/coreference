@@ -2,12 +2,16 @@
 Created on Feb 24, 2018
 '''
 
+# a refexp instance in a sentence
 class Markable(object):
     def __init__(self, tokens, span, label):
+        # tokens are the segment of refexp
         self.tokens = tokens
+        # start and end in span are inclusive
         self.start = span[0]
         self.end = span[1]
-        
+
+        # coref chain id of this refexp
         self.label = label
         self.feat = self.features()
 
@@ -17,7 +21,6 @@ class Markable(object):
         
         f['text'] = ' '.join([t[1] for t in self.tokens])
         f['named-entity'] = self.tokens[0][4] if self.tokens[0][4] != '' else 'OTHER'
-        
         f['definite'] = self.is_definite()
         f['demonstrative'] = self.is_demos()
         f['pronoun'] = self.is_pronoun()
@@ -58,9 +61,10 @@ class Markable(object):
     
 class MarkablePair(object):
 
-    def __init__(self, antecedent, anaphor, same_sent):
+    def __init__(self, antecedent: Markable, anaphor: Markable, same_sent: int):
         self.antecedent = antecedent.feat
         self.anaphor = anaphor.feat
+        # check if two refexp belong to the same chain id
         self.label = True if antecedent.label == anaphor.label else False
         
         self.same_sentence = same_sent
