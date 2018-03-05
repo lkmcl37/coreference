@@ -7,6 +7,7 @@ import pickle
 from sklearn.svm import LinearSVC
 from corpus import build_features
 from sklearn.metrics import f1_score
+from sklearn.neural_network import MLPClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction import DictVectorizer  
     
@@ -27,7 +28,10 @@ X_train = vec.fit_transform(X_train)
 #clf = LogisticRegression()
 #model = clf.fit(X_train, y_train)
 
-clf = LinearSVC() 
+#clf = LinearSVC() 
+clf = MLPClassifier(solver='lbfgs', alpha=1e-5,
+hidden_layer_sizes=(5, 2), random_state=1)
+
 model = clf.fit(X_train, y_train)
 
 #Validate the model
@@ -40,6 +44,6 @@ pred = model.predict(X_dev)
 print("F1: ", f1_score(y_dev, pred, average='macro'))
 
 end = time.time()
-pickle.dump(model, open("svm.model", 'wb'))
+pickle.dump(model, open("MP.model", 'wb'))
 print("Saving to model...")
 print("Total time used: ", (end - start)/3600)
