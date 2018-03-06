@@ -131,10 +131,3 @@ class MarkablePair(object):
         
         return 0
         
-    
-    def is_hyponyms(self):
-        
-        f1 = self.antecedent['text']
-        f2 = self.self.anaphor['text']
-        
-        return f2 in f1.hyponyms() or f1 in f2.hyponyms()
