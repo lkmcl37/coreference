@@ -109,21 +109,6 @@ class MarkablePair(object):
 
         # Substring
         f['substring'] = self.is_substring()
-        
-        #The last word of antecedent and anaphor match or not
-        f['last_word_match'] = 1 if self.antecedent['text'].split()[-1] == self.anaphor['text'].split()[-1] else 0
-        
-        #Whether antecedent and anaphor are exactly the same in String
-        f['string_match'] = 1 if self.antecedent['text'] == self.anaphor['text'] else 0
-        
-        #Same entity type
-        f['ner_match'] = 1 if self.antecedent['named-entity'] == self.anaphor['named-entity'] else 0
-        
-        #number match
-        f['number_match'] = self.number_match()
-        
-        #Substring
-        f['substring'] = self.is_substring()
 
         return f
 
