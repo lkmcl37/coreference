@@ -1,6 +1,5 @@
 
 
-# a refexp instance in a sentence
 class Markable(object):
     def __init__(self, tokens, span, label, doc_id, part_id, sent_id):
         self.tokens = tokens  # tokens are the segment of refexp
@@ -8,14 +7,16 @@ class Markable(object):
 
         self.label = label    # coref chain id of this refexp
         self.position = (doc_id, part_id, sent_id)
+
         self.feat = self.features()
 
     def features(self):
         f = {}
-        
+
         f['text'] = ' '.join([t[3] for t in self.tokens])
         ne = self.tokens[0][10].strip("(*)")
         f['named-entity'] = ne if ne != '' else 'OTHER'
+
         f['definite'] = self.is_definite()
         f['demonstrative'] = self.is_demos()
         f['pronoun'] = self.is_pronoun()
@@ -34,6 +35,7 @@ class Markable(object):
             return 2
 
         return 0
+    
     
     def is_proper_noun(self):
         for t in self.tokens:
@@ -61,20 +63,24 @@ class Markable(object):
         return 0
 
 
+
 # a pair of refexps from a doc to indicate if they refer to the same chain id/entity
 class MarkablePair(object):
 
     def __init__(self, antecedent: Markable, anaphor: Markable, same_sent: int):
         self.antecedent = antecedent
         self.anaphor = anaphor
+
         self.label = True if antecedent.label == anaphor.label else False
         self.same_sentence = same_sent
         self.feat = self.features()
         
+        
     def features(self):
         f = {}
+
         f['in_sentences'] = self.same_sentence
-        
+
         # f['antecedent_text'] = self.antecedent.feat['text']
         # f['antecedent_NE'] = self.antecedent.feat['named-entity']
         f['antecedent_definite'] = self.antecedent.feat['definite']
@@ -104,7 +110,23 @@ class MarkablePair(object):
         # Substring
         f['substring'] = self.is_substring()
         
+        #The last word of antecedent and anaphor match or not
+        f['last_word_match'] = 1 if self.antecedent['text'].split()[-1] == self.anaphor['text'].split()[-1] else 0
+        
+        #Whether antecedent and anaphor are exactly the same in String
+        f['string_match'] = 1 if self.antecedent['text'] == self.anaphor['text'] else 0
+        
+        #Same entity type
+        f['ner_match'] = 1 if self.antecedent['named-entity'] == self.anaphor['named-entity'] else 0
+        
+        #number match
+        f['number_match'] = self.number_match()
+        
+        #Substring
+        f['substring'] = self.is_substring()
+
         return f
+
 
     def is_substring(self):
         f1 = self.antecedent.feat['text']
