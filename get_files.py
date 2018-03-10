@@ -107,10 +107,10 @@ def reduce_chain(chain_dict):
 
 def modify_corpus(corpus_data, chain_dict):
     for chain_id, mentions in chain_dict.items():
-        print(chain_id, [m.span for m in mentions],
-              [m.label for m in mentions],
-              [m.feat["text"] for m in mentions],
-              [m.position for m in mentions])
+        # print(chain_id, [m.span for m in mentions],
+        #       [m.label for m in mentions],
+        #       [m.feat["text"] for m in mentions],
+        #       [m.position for m in mentions])
 
         for m in mentions:
             doc_id, part_id, sent_id = m.position
