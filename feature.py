@@ -36,7 +36,6 @@ class Markable(object):
 
         return 0
     
-    
     def is_proper_noun(self):
         for t in self.tokens:
             if t[4] in ['NNP', 'NNPS']:
@@ -63,7 +62,6 @@ class Markable(object):
         return 0
 
 
-
 # a pair of refexps from a doc to indicate if they refer to the same chain id/entity
 class MarkablePair(object):
 
@@ -74,7 +72,6 @@ class MarkablePair(object):
         self.label = True if antecedent.label == anaphor.label else False
         self.same_sentence = same_sent
         self.feat = self.features()
-        
         
     def features(self):
         f = {}
@@ -111,7 +108,6 @@ class MarkablePair(object):
         f['substring'] = self.is_substring()
 
         return f
-
 
     def is_substring(self):
         f1 = self.antecedent.feat['text']
