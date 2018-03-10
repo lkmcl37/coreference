@@ -13,13 +13,17 @@ from get_files import generate_files
 def main():
     parser = argparse.ArgumentParser(description='Run pairwise coreference resolution system')
     parser.add_argument('task', help='choose one task to go on: train/dev/test')
-    parser.add_argument('-g', '--gold', default='gold.txt', help='gold file')
-    parser.add_argument('-o', '--output', default='output.txt', help='output file')
+    parser.add_argument('-g', '--gold', default='gold', help='gold file name')
+    parser.add_argument('-o', '--output', default='response', help='response file name')
+    parser.add_argument('-m', '--model', default='model', help='model name')
+    parser.add_argument('-v', '--vec', default='vec', help='vector name')
 
     args = parser.parse_args()
     task = args.task
-    gold = args.gold
-    output = args.output
+    gold = args.gold + ".txt"
+    output = args.output + ".txt"
+    model_name = args.model + ".pkl"
+    vec_name = args.vec + ".pkl"
 
     path = {
         "dev": 'conll-2012/dev/english/annotations',
@@ -37,7 +41,7 @@ def main():
         vec = DictVectorizer()
         vec.fit(X)
         print("Saving vec...")
-        joblib.dump(vec, 'vec.pkl')
+        joblib.dump(vec, vec_name)
 
         print("Transforming data...")
         clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(5, 2), random_state=1)
@@ -46,12 +50,12 @@ def main():
         print("Training model...")
         model = clf.fit(X, y)
         print("Saving model...")
-        joblib.dump(model, 'model.pkl')
+        joblib.dump(model, model_name)
 
     else:
         print("Transforming data...")
-        vec = joblib.load("vec.pkl")
-        model = joblib.load("model.pkl")
+        vec = joblib.load(vec_name)
+        model = joblib.load(model_name)
         X = vec.transform(X)
 
         print("Predicting...")
