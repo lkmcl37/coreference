@@ -11,10 +11,7 @@ def get_corpus(path, train=True):
     corpus_pairs = []
     doc_id = 0
 
-    if train:
-        end_str = "auto_conll"
-    else:
-        end_str = "gold_conll"
+    end_str = "auto_conll" if train else "gold_conll"
 
     for root, _, files in os.walk(path):
         for file in files:
