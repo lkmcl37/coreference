@@ -1,12 +1,97 @@
-'''
-Created on Feb 24, 2018
-'''
 import os
 from collections import defaultdict
 from feature import *
 
-#parse the coreference fields of the file and obtain the mentions
-def get_metions(tokens):
+
+# parse each raw file and extract features
+def get_corpus(path, train=True):
+    X = []  # the refexp pairs in the whole corpus, all docs
+    y = []
+    corpus_data = []
+    corpus_pairs = []
+    doc_id = 0
+
+    if train:
+        end_str = "auto_conll"
+    else:
+        end_str = "gold_conll"
+
+    for root, _, files in os.walk(path):
+        for file in files:
+            if file.endswith(end_str):
+                X_temp, y_temp, doc_data, doc_pairs = parse_file(os.path.join(root, file), doc_id)
+                X.extend(X_temp)
+                y.extend(y_temp)
+                corpus_data.append(doc_data)
+                corpus_pairs.append(doc_pairs)
+                doc_id += 1
+
+    return X, y, corpus_data, corpus_pairs
+
+
+# helper function for parsing ONE auto_conell file (one doc)
+def parse_file(path, doc_id):
+    part = []
+    sent = []
+    doc = []
+
+    with open(path, 'r', encoding="utf8") as f:
+        for line in f:
+            line = line.strip('\n')
+            if not line:
+                if sent:
+                    part.append(sent)
+                    sent = []
+                continue
+
+            # a new part in one doc
+            if line.startswith('#begin'):
+                part = [line.split()]
+                sent = []
+                continue
+            # the end of current part in one doc
+            elif line == '#end document':
+                part.append(line.split())
+                doc.append(part)
+            else:
+                fields = line.split()
+                sent.append(fields)
+
+    X = []  # the refexp pairs in this doc
+    y = []  # the labels indicating if the pair refers to the same entity
+    doc_pairs = []
+    for part_id, part in enumerate(doc):
+        # the refexp pairs in this part
+        part_pairs = get_pairs(part, part_id, doc_id)
+        doc_pairs.append(part_pairs)
+        # append part pairs to doc pair list
+        X.extend([p.feat for p in part_pairs])
+        y.extend([p.label for p in part_pairs])
+
+    return X, y, doc, doc_pairs
+
+
+# pair all extracted mentions with all possible combinations in one part
+# to create positive and negative train instances
+def get_pairs(part, part_id, doc_id):
+    pairs = []
+    part_mentions = []
+
+    for sent_id in range(1, len(part) - 1, 1):
+        sent_mentions = get_metions(doc_id, part_id, sent_id, part[sent_id])
+        part_mentions.append(sent_mentions)
+
+    for i, sent_mentions in enumerate(part_mentions):
+        for j, antecedent in enumerate(sent_mentions):
+            pairs.extend([MarkablePair(antecedent, anaphor, 1) for anaphor in sent_mentions[j + 1:]])
+            for next_sent_mentions in part_mentions[i + 1:]:
+                pairs.extend([MarkablePair(antecedent, anaphor, 0) for anaphor in next_sent_mentions])
+
+    return pairs
+
+
+# parse the coreference fields of the file and obtain the mentions
+def get_metions(doc_id, part_id, sent_id, tokens):
     
     mentions = []
     stack = defaultdict(list)
@@ -31,98 +116,7 @@ def get_metions(tokens):
         for j in ids:
             # s is the index of the start word of the refexp in this chain
             s = stack[j].pop()[0]
-            mentions.append(Markable(tokens[s:i+1], (s,i), j))
-       
+            mentions.append(Markable(tokens[s:i+1], (s,i), j, doc_id, part_id, sent_id))
+
+    # the mentions are already in order according to their appearances in the sentence
     return mentions
-       
-
-# pair all extracted mentions with all possible combinations in one doc
-# to create positive and negative train instances
-def get_pairs(doc):
-    pairs = []
-    mentions = {}
-    
-    for sent_idx, sent in enumerate(doc):
-        # each sentence gets a mention list
-        mentions[sent_idx] = mention_list = get_metions(sent)
-        
-        #pair the in-sentence mentions
-        for i in range(len(mention_list)-1,0,-1):
-            anaphor = mention_list[i]
-            for j in range(i-1,-1,-1):
-                antecedent = mention_list[j]
-
-                # pair all possible combinations between current refexp and every refexp before it
-                # to see if they refer to the same referent
-                if antecedent.end < anaphor.start:
-                    pairs.append(MarkablePair(antecedent, anaphor, 1))
-            
-            # pair the in-document/cross-sentence mentions
-            # check all sentences before current sentence, and all refexps in those
-            # sentences must be antecedents
-            for k in range(sent_idx-1,-1,-1):
-                pairs.extend([MarkablePair(antecedent,anaphor,0) for antecedent in mentions[k]])
-    
-    return pairs
-                   
-        
-#parse each raw file and extract features           
-def build_features(path):
-    X = []
-    y = []
-    for root, _, files in os.walk(path):
-        for file in files:
-            if file.endswith("auto_conll"):
-                X_temp, y_temp = parse_file(os.path.join(root, file)) 
-                X.extend(X_temp)
-                y.extend(y_temp)
-
-    return X, y
-        
-        
-#helper function for parsing file     
-def parse_file(path):
-    doc = []
-    sent = []
-    corpus = []
-    
-    with open(path,'r', encoding="utf8") as f:
-        for line in f:
-            line = line.strip('\n')
-            if not line:
-                if sent:
-                    doc.append(sent)
-                    sent = []
-                continue 
-            
-            if line.startswith('#begin'):
-                doc = []
-                sent = []
-                continue
-            elif line == '#end document':
-                corpus.append(doc)
-            else:
-                fields = line.split()
-                anns = [fields[2],fields[3],fields[4], fields[8],fields[10].strip('(*)'), fields[-1]]
-                sent.append(anns)
-                '''
-                0    Word number    
-                1    Word itself 
-                2    Part-of-Speech    
-                3    Word sense
-                4    Named Entities
-                5    Coreference
-                '''
-              
-    X = [] # the refexp pairs in the whole corpus
-    y = [] # the labels indicating if the pair refers to the same entity
-    for doc in corpus:
-        pairs = get_pairs(doc)
-        # print(pairs)
-        X.extend([p.feat for p in pairs])
-        y.extend([p.label for p in pairs])
-    
-    return X, y
-
-train_path = 'conll-2012/train/english/annotations'
-build_features(train_path)
