@@ -1,0 +1,260 @@
+#begin document (bn/cnn/02/cnn_0295); part 000
+bn/cnn/02/cnn_0295   0   0    General   NNP  (TOP(FRAG(NP*       -    -   -   -            *   (ARG0*   (8
+bn/cnn/02/cnn_0295   0   1     Brooks   NNP              *)      -    -   -   -      (PERSON)       *)   -
+bn/cnn/02/cnn_0295   0   2    talking   VBG           (VP*     talk  01   1   -            *      (V*)   -
+bn/cnn/02/cnn_0295   0   3      about    IN           (PP*       -    -   -   -            *   (ARG1*    -
+bn/cnn/02/cnn_0295   0   4      three    CD           (NP*       -    -   -   -    (CARDINAL)       *    -
+bn/cnn/02/cnn_0295   0   5      major    JJ              *       -    -   -   -            *        *    -
+bn/cnn/02/cnn_0295   0   6     points   NNS            *)))   point   -   4   -            *        *)   -
+bn/cnn/02/cnn_0295   0   7          .     .             *))      -    -   -   -            *        *    8)
+
+bn/cnn/02/cnn_0295   0    0            One    CD     (TOP(S(NP*)         -    -   -   -            *    (ARG1*)        *           *       -
+bn/cnn/02/cnn_0295   0    1             is   VBZ           (VP*          be  01   2   -            *       (V*)        *           *       -
+bn/cnn/02/cnn_0295   0    2            the    DT        (NP(NP*          -    -   -   -            *         *         *           *      (1
+bn/cnn/02/cnn_0295   0    3        capture    NN              *)    capture   -   1   -            *         *         *           *       -
+bn/cnn/02/cnn_0295   0    4             of    IN           (PP*          -    -   -   -            *         *         *           *       -
+bn/cnn/02/cnn_0295   0    5         number    NN           (NP*      number   -   2   -   (CARDINAL*         *         *           *      (6
+bn/cnn/02/cnn_0295   0    6            24     CD            *)))         -    -   -   -            *)        *         *           *       -
+bn/cnn/02/cnn_0295   0    7             as    IN         (SBAR*          -    -   -   -            *         *         *           *       -
+bn/cnn/02/cnn_0295   0    8             it   PRP         (S(NP*)         -    -   -   -            *         *    (ARG1*)          *      (1)
+bn/cnn/02/cnn_0295   0    9             's   VBZ           (VP*          be   -   1   -            *         *         *           *       -
+bn/cnn/02/cnn_0295   0   10      described   VBN           (VP*    describe  01   1   -            *         *       (V*)          *       -
+bn/cnn/02/cnn_0295   0   11              ,     ,              *          -    -   -   -            *         *         *           *       -
+bn/cnn/02/cnn_0295   0   12          Samir   NNP        (NP(NP*)         -    -   -   -      (PERSON)        *         *      (ARG1*)      -
+bn/cnn/02/cnn_0295   0   13            who    WP    (SBAR(WHNP*)         -    -   -   -            *         *         *    (R-ARG1*)      -
+bn/cnn/02/cnn_0295   0   14             is   VBZ         (S(VP*          be  01   1   -            *         *         *         (V*)      -
+bn/cnn/02/cnn_0295   0   15    responsible    JJ         (ADJP*          -    -   -   -            *         *         *      (ARG2*       -
+bn/cnn/02/cnn_0295   0   16            for    IN           (PP*          -    -   -   -            *         *         *           *       -
+bn/cnn/02/cnn_0295   0   17            the    DT           (NP*          -    -   -   -            *         *         *           *       -
+bn/cnn/02/cnn_0295   0   18        Baghdad   NNP              *          -    -   -   -         (GPE)        *         *           *      (2)
+bn/cnn/02/cnn_0295   0   19       district    NN   *))))))))))))   district   -   1   -            *         *         *           *)   6)|1)
+bn/cnn/02/cnn_0295   0   20              .     .             *))         -    -   -   -            *         *         *           *       -
+
+bn/cnn/02/cnn_0295   0    0    Indications    NNS   (TOP(S(S(NP*)   indication   -   1   -            *       (ARG1*)       *         *        *     -
+bn/cnn/02/cnn_0295   0    1            are    VBP           (VP*            be  01   4   -            *          (V*)       *         *        *     -
+bn/cnn/02/cnn_0295   0    2            the     DT           (NP*            -    -   -   -            *       (ARG2*        *         *        *     -
+bn/cnn/02/cnn_0295   0    3          Kurds   NNPS              *)           -    -   -   -        (NORP)           *)       *         *        *     -
+bn/cnn/02/cnn_0295   0    4             in     IN           (PP*            -    -   -   -            *   (ARGM-LOC*        *         *        *     -
+bn/cnn/02/cnn_0295   0    5            the     DT        (NP(NP*            -    -   -   -            *            *        *         *        *    (3
+bn/cnn/02/cnn_0295   0    6          north     NN              *)           -    -   -   -            *            *        *         *        *     3)
+bn/cnn/02/cnn_0295   0    7         handed    VBD           (VP*          hand  02   1   -            *            *      (V*)        *        *     -
+bn/cnn/02/cnn_0295   0    8           this     DT           (NP*            -    -   -   -            *            *   (ARG1*         *        *    (6
+bn/cnn/02/cnn_0295   0    9            man     NN              *)          man   -   2   -            *            *        *)        *        *     6)
+bn/cnn/02/cnn_0295   0   10           over     RP     (PRT*))))))           -    -   -   -            *            *)       *         *        *     -
+bn/cnn/02/cnn_0295   0   11             so     CC              *            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   12           this     DT         (S(NP*)           -    -   -   -            *            *        *    (ARG1*)       *    (6)
+bn/cnn/02/cnn_0295   0   13             is    VBZ           (VP*            be  01   2   -            *            *        *       (V*)       *     -
+bn/cnn/02/cnn_0295   0   14         number     NN           (NP*        number   -   1   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   15             4      CD              *)           -    -   -   -    (CARDINAL)           *        *         *        *     -
+bn/cnn/02/cnn_0295   0   16            out     IN           (PP*            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   17             of     IN           (PP*            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   18           that     DT        (NP(NP*            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   19        playing     NN          (NML*          play   -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   20           card     NN              *)         card   -   1   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   21           deck     NN              *)         deck   -   1   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   22             of     IN           (PP*            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   23            55      CD       (NP*)))))           -    -   -   -        (DATE)           *        *         *        *     -
+bn/cnn/02/cnn_0295   0   24           that     IN         (SBAR*            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   25            the     DT         (S(NP*            -    -   -   -            *            *        *         *   (ARG1*     -
+bn/cnn/02/cnn_0295   0   26           U.S.    NNP              *)           -    -   -   -         (GPE)           *        *         *        *)    -
+bn/cnn/02/cnn_0295   0   27             is    VBZ           (VP*            be  01   4   -            *            *        *         *      (V*)    -
+bn/cnn/02/cnn_0295   0   28          after     IN           (PP*            -    -   -   -            *            *        *         *   (ARG2*     -
+bn/cnn/02/cnn_0295   0   29              ,      ,              *            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   30            top     JJ        (NP(NP*            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   31        leaders    NNS              *)       leader   -   1   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   32             in     IN           (PP*            -    -   -   -            *            *        *         *        *     -
+bn/cnn/02/cnn_0295   0   33           Iraq    NNP   (NP*)))))))))           -    -   -   -         (GPE)           *        *         *        *)    -
+bn/cnn/02/cnn_0295   0   34              .      .             *))           -    -   -   -            *            *        *         *        *     -
+
+bn/cnn/02/cnn_0295   0    0        Also    RB   (TOP(S(ADVP*)         -    -   -   -        *    (ARGM-DIS*)    -
+bn/cnn/02/cnn_0295   0    1        that    DT           (NP*          -    -   -   -        *    (ARGM-TMP*    (9
+bn/cnn/02/cnn_0295   0    2        bomb    NN              *)       bomb   -   1   -        *             *)    -
+bn/cnn/02/cnn_0295   0    3        site    NN        (NP(NP*)       site   -   1   -        *             *     -
+bn/cnn/02/cnn_0295   0    4          in    IN           (PP*          -    -   -   -        *             *     -
+bn/cnn/02/cnn_0295   0    5     Baghdad   NNP         (NP*)))         -    -   -   -     (GPE)            *    (2)
+bn/cnn/02/cnn_0295   0    6         hit   VBD           (VP*         hit  01   2   -        *           (V*)   (0)
+bn/cnn/02/cnn_0295   0    7       about    RB        (NP(NP*          -    -   -   -   (DATE*             *     -
+bn/cnn/02/cnn_0295   0    8           a    DT              *          -    -   -   -        *             *     -
+bn/cnn/02/cnn_0295   0    9        week    NN              *)       week   -   1   -        *             *     -
+bn/cnn/02/cnn_0295   0   10         and    CC              *          -    -   -   -        *             *     -
+bn/cnn/02/cnn_0295   0   11           a    DT           (NP*          -    -   -   -        *             *     -
+bn/cnn/02/cnn_0295   0   12        half    NN             *))       half   -   1   -        *             *     -
+bn/cnn/02/cnn_0295   0   13         ago    RB         (ADVP*)         -    -   -   -        *)            *     9)
+bn/cnn/02/cnn_0295   0   14           ,     ,              *          -    -   -   -        *             *     -
+bn/cnn/02/cnn_0295   0   15         the    DT           (NP*          -    -   -   -        *             *     -
+bn/cnn/02/cnn_0295   0   16     Mansour   NNP              *          -    -   -   -     (GPE)            *     -
+bn/cnn/02/cnn_0295   0   17    district    NN             *))   district   -   1   -        *             *     -
+bn/cnn/02/cnn_0295   0   18           .     .             *))         -    -   -   -        *             *     -
+
+bn/cnn/02/cnn_0295   0    0            No    DT  (TOP(S(S(NP*          -    -   -   -          *       (ARG1*        *            *    -
+bn/cnn/02/cnn_0295   0    1       remains   NNS             *)     remain   -   -   -          *            *)       *            *    -
+bn/cnn/02/cnn_0295   0    2    identified   VBN          (VP*    identify  01   1   -          *          (V*)       *            *    -
+bn/cnn/02/cnn_0295   0    3          just    RB        (ADVP*          -    -   -   -          *   (ARGM-TMP*        *            *    -
+bn/cnn/02/cnn_0295   0    4           yet    RB           *)))         -    -   -   -          *            *)       *            *    -
+bn/cnn/02/cnn_0295   0    5             ,     ,         (PRN*          -    -   -   -          *            *        *            *    -
+bn/cnn/02/cnn_0295   0    6       General   NNP        (S(NP*          -    -   -   -          *            *   (ARG0*            *   (8
+bn/cnn/02/cnn_0295   0    7        Brooks   NNP             *)         -    -   -   -    (PERSON)           *        *)           *    8)
+bn/cnn/02/cnn_0295   0    8          says   VBZ         (VP*))        say  01   1   -          *            *      (V*)           *    -
+bn/cnn/02/cnn_0295   0    9             ,     ,             *)         -    -   -   -          *            *        *            *    -
+bn/cnn/02/cnn_0295   0   10           but    CC             *          -    -   -   -          *            *        *            *    -
+bn/cnn/02/cnn_0295   0   11          only    RB        (S(NP*          -    -   -   -          *            *        *       (ARG1*    -
+bn/cnn/02/cnn_0295   0   12           the    DT             *          -    -   -   -          *            *        *            *    -
+bn/cnn/02/cnn_0295   0   13       initial    JJ             *          -    -   -   -          *            *        *            *    -
+bn/cnn/02/cnn_0295   0   14       surveys   NNS             *)     survey   -   1   -          *            *        *            *)   -
+bn/cnn/02/cnn_0295   0   15          have   VBP          (VP*        have   -   -   -          *            *        *            *    -
+bn/cnn/02/cnn_0295   0   16          been   VBN          (VP*          be   -   -   -          *            *        *            *    -
+bn/cnn/02/cnn_0295   0   17     completed   VBN          (VP*    complete  01   1   -          *            *        *          (V*)   -
+bn/cnn/02/cnn_0295   0   18            so    RB        (ADVP*          -    -   -   -          *            *        *   (ARGM-TMP*    -
+bn/cnn/02/cnn_0295   0   19           far    RB         *)))))         -    -   -   -          *            *        *            *)   -
+bn/cnn/02/cnn_0295   0   20             .     .            *))         -    -   -   -          *            *        *            *    -
+
+bn/cnn/02/cnn_0295   0    0          There     EX      (TOP(S(NP*)            -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0    1             is    VBZ         (VP(VP*             be   -      3   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0    2         strong     JJ            (NP*             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0    3    speculation     NN               *    speculation   -      2   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0    4           that     IN          (SBAR*             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0    5            his   PRP$          (S(NP*             -    -      -   -            *   (ARG1*             *             *         *     -
+bn/cnn/02/cnn_0295   0    6            two     CD               *             -    -      -   -    (CARDINAL)       *             *             *         *     -
+bn/cnn/02/cnn_0295   0    7           sons    NNS               *)            -    -      -   -            *        *)            *             *         *     -
+bn/cnn/02/cnn_0295   0    8           were    VBD            (VP*             be  01      4   -            *      (V*)            *             *         *     -
+bn/cnn/02/cnn_0295   0    9         inside     IN            (PP*             -    -      -   -            *   (ARG2*             *             *         *     -
+bn/cnn/02/cnn_0295   0   10             of     IN            (PP*             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   11           that     DT            (NP*             -    -      -   -            *        *             *             *         *    (9
+bn/cnn/02/cnn_0295   0   12       building     NN             *)))      building   -      1   -            *        *)            *             *         *     9)
+bn/cnn/02/cnn_0295   0   13           when    WRB   (SBAR(WHADVP*)            -    -      -   -            *        *    (ARGM-TMP*)            *         *     -
+bn/cnn/02/cnn_0295   0   14             it    PRP          (S(NP*)            -    -      -   -            *        *        (ARG1*)            *         *    (9)
+bn/cnn/02/cnn_0295   0   15            was    VBD            (VP*             be   -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   16            hit    VBN            (VP*            hit  01      1   -            *        *           (V*)            *         *    (0)
+bn/cnn/02/cnn_0295   0   17             by     IN            (PP*             -    -      -   -            *        *        (ARG2*             *         *     -
+bn/cnn/02/cnn_0295   0   18      coalition     NN            (NP*             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   19          bombs    NNS     *)))))))))))          bomb   -      1   -            *        *             *)            *         *     -
+bn/cnn/02/cnn_0295   0   20              ,      ,               *             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   21             or     CC               *             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   22            may     MD            (VP*             -    -      -   -            *        *             *    (ARGM-MOD*)        *     -
+bn/cnn/02/cnn_0295   0   23           have     VB            (VP*           have   -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   24           left    VBN            (VP*          leave  01      3   -            *        *             *           (V*)        *     -
+bn/cnn/02/cnn_0295   0   25          prior     RB          (ADVP*             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   26             to     IN            (PP*             -    -      -   -            *        *             *             *         *     -
+bn/cnn/02/cnn_0295   0   27            the     DT            (NP*             -    -      -   -            *        *             *             *         *    (0
+bn/cnn/02/cnn_0295   0   28        bombing     NN             *)))          bomb   -      -   -            *        *             *             *         *     0)
+bn/cnn/02/cnn_0295   0   29         taking    VBG            (VP*           take  14   14.1   -            *        *             *             *       (V*)    -
+bn/cnn/02/cnn_0295   0   30          place     NN       (NP*))))))         place   -      3   -            *        *             *             *    (ARG1*)    -
+bn/cnn/02/cnn_0295   0   31              .      .              *))            -    -      -   -            *        *             *             *         *     -
+
+bn/cnn/02/cnn_0295   0    0          Again    RB   (TOP(S(ADVP*)      -    -   -   -   *    (ARGM-DIS*)  -
+bn/cnn/02/cnn_0295   0    1              ,     ,              *       -    -   -   -   *             *   -
+bn/cnn/02/cnn_0295   0    2            all   PDT           (NP*       -    -   -   -   *        (ARG1*   -
+bn/cnn/02/cnn_0295   0    3           this    DT              *)      -    -   -   -   *             *)  -
+bn/cnn/02/cnn_0295   0    4             is   VBZ           (VP*       be  01   1   -   *           (V*)  -
+bn/cnn/02/cnn_0295   0    5             an    DT        (NP(NP*       -    -   -   -   *        (ARG2*   -
+bn/cnn/02/cnn_0295   0    6    outstanding    JJ              *       -    -   -   -   *             *   -
+bn/cnn/02/cnn_0295   0    7          issue    NN              *)   issue   -   1   -   *             *   -
+bn/cnn/02/cnn_0295   0    8          right    RB         (ADVP*       -    -   -   -   *             *   -
+bn/cnn/02/cnn_0295   0    9            now    RB            *)))      -    -   -   -   *             *)  -
+bn/cnn/02/cnn_0295   0   10              .     .             *))      -    -   -   -   *             *   -
+
+bn/cnn/02/cnn_0295   0    0         In    IN     (TOP(S(PP*       -    -   -   -   *         *    -
+bn/cnn/02/cnn_0295   0    1        the    DT           (NP*       -    -   -   -   *         *   (3
+bn/cnn/02/cnn_0295   0    2      north    NN             *))      -    -   -   -   *         *    3)
+bn/cnn/02/cnn_0295   0    3          ,     ,              *       -    -   -   -   *         *    -
+bn/cnn/02/cnn_0295   0    4        you   PRP           (NP*)      -    -   -   -   *    (ARG0*)   -
+bn/cnn/02/cnn_0295   0    5        're   VBP           (VP*       -    -   -   -   *         *    -
+bn/cnn/02/cnn_0295   0    6      going   VBG           (VP*       go   -   7   -   *         *    -
+bn/cnn/02/cnn_0295   0    7         to    TO         (S(VP*       -    -   -   -   *         *    -
+bn/cnn/02/cnn_0295   0    8       hear    VB           (VP*     hear  01   1   -   *       (V*)   -
+bn/cnn/02/cnn_0295   0    9          a    DT        (NP(NP*       -    -   -   -   *         *    -
+bn/cnn/02/cnn_0295   0   10        lot    NN              *)     lot   -   1   -   *         *    -
+bn/cnn/02/cnn_0295   0   11      about    IN           (PP*       -    -   -   -   *         *    -
+bn/cnn/02/cnn_0295   0   12        the    DT        (NP(NP*       -    -   -   -   *         *   (5
+bn/cnn/02/cnn_0295   0   13    shallow    JJ              *       -    -   -   -   *         *    -
+bn/cnn/02/cnn_0295   0   14     graves   NNS              *)   grave   -   -   -   *         *    5)
+bn/cnn/02/cnn_0295   0   15      today    NN   (NP*)))))))))   today   -   2   -   *         *    -
+bn/cnn/02/cnn_0295   0   16          .     .             *))      -    -   -   -   *         *    -
+
+bn/cnn/02/cnn_0295   0    0         At    IN  (TOP(FRAG(NP(NP(QP(ADVP*        -    -   -   -            *       (ARG1*   (5
+bn/cnn/02/cnn_0295   0    1      least   JJS                         *)       -    -   -   -            *            *    -
+bn/cnn/02/cnn_0295   0    2      1500     CD                        *))       -    -   -   -        (DATE)           *    -
+bn/cnn/02/cnn_0295   0    3          ,     ,                         *        -    -   -   -            *            *    -
+bn/cnn/02/cnn_0295   0    4      maybe    RB                   (NP(QP*        -    -   -   -            *            *    -
+bn/cnn/02/cnn_0295   0    5      1600     CD                         *)       -    -   -   -    (CARDINAL)           *    -
+bn/cnn/02/cnn_0295   0    6     graves   NNS                        *))    grave   -   -   -            *            *)   5)
+bn/cnn/02/cnn_0295   0    7    located   VBN                      (VP*    locate  01   2   -            *          (V*)   -
+bn/cnn/02/cnn_0295   0    8         in    IN                      (PP*        -    -   -   -            *   (ARGM-LOC*    -
+bn/cnn/02/cnn_0295   0    9        the    DT                      (NP*        -    -   -   -            *            *   (3
+bn/cnn/02/cnn_0295   0   10      north    NN                       *)))       -    -   -   -            *            *)   3)
+bn/cnn/02/cnn_0295   0   11          .     .                        *))       -    -   -   -            *            *    -
+
+bn/cnn/02/cnn_0295   0    0        Jane    NNP  (TOP(S(S(NP*          -    -   -   -    (PERSON*       (ARG0*             *             *    (7
+bn/cnn/02/cnn_0295   0    1       Arraf    NNP             *)         -    -   -   -           *)           *)            *             *     7)
+bn/cnn/02/cnn_0295   0    2         has    VBZ          (VP*        have   -   -   -           *            *             *             *     -
+bn/cnn/02/cnn_0295   0    3        made    VBN          (VP*        make  01   2   -           *          (V*)            *             *     -
+bn/cnn/02/cnn_0295   0    4         her   PRP$          (NP*          -    -   -   -           *       (ARG1*             *             *    (7)
+bn/cnn/02/cnn_0295   0    5         way     NN             *)        way   -   4   -           *            *)            *             *     -
+bn/cnn/02/cnn_0295   0    6          to     IN          (PP*          -    -   -   -           *   (ARGM-DIR*             *             *     -
+bn/cnn/02/cnn_0295   0    7        that     DT          (NP*          -    -   -   -           *            *             *             *    (3
+bn/cnn/02/cnn_0295   0    8    location     NN         *)))))   location   -   1   -           *            *)            *             *     3)
+bn/cnn/02/cnn_0295   0    9         and     CC             *          -    -   -   -           *            *             *             *     -
+bn/cnn/02/cnn_0295   0   10          we    PRP        (S(NP*)         -    -   -   -           *            *        (ARG0*)            *    (4)
+bn/cnn/02/cnn_0295   0   11       heard    VBD          (VP*        hear  01   -   -           *            *           (V*)            *     -
+bn/cnn/02/cnn_0295   0   12         her   PRP$          (NP*          -    -   -   -           *            *        (ARG1*             *    (7)
+bn/cnn/02/cnn_0295   0   13       first     JJ             *          -    -   -   -    (ORDINAL)           *             *             *     -
+bn/cnn/02/cnn_0295   0   14        live     JJ             *          -    -   -   -           *            *             *             *     -
+bn/cnn/02/cnn_0295   0   15      report     NN             *)     report   -   1   -           *            *             *)            *     -
+bn/cnn/02/cnn_0295   0   16       about     IN          (PP*          -    -   -   -      (TIME*            *             *             *     -
+bn/cnn/02/cnn_0295   0   17          an     DT          (NP*          -    -   -   -           *            *             *             *     -
+bn/cnn/02/cnn_0295   0   18        hour     NN            *))       hour   -   1   -           *            *             *             *     -
+bn/cnn/02/cnn_0295   0   19         ago     RB      (ADVP*)))         -    -   -   -           *)           *    (ARGM-TMP*)            *     -
+bn/cnn/02/cnn_0295   0   20         and     CC             *          -    -   -   -           *            *             *             *     -
+bn/cnn/02/cnn_0295   0   21          we    PRP        (S(NP*)         -    -   -   -           *            *             *        (ARG0*)   (4)
+bn/cnn/02/cnn_0295   0   22        will     MD          (VP*          -    -   -   -           *            *             *    (ARGM-MOD*)    -
+bn/cnn/02/cnn_0295   0   23        talk     VB          (VP*        talk  01   1   -           *            *             *           (V*)    -
+bn/cnn/02/cnn_0295   0   24        with     IN          (PP*          -    -   -   -           *            *             *        (ARG2*     -
+bn/cnn/02/cnn_0295   0   25        Jane    NNP         (NP*))         -    -   -   -     (PERSON)           *             *             *)   (7)
+bn/cnn/02/cnn_0295   0   26       again     RB     (ADVP*))))         -    -   -   -           *            *             *    (ARGM-TMP*)    -
+bn/cnn/02/cnn_0295   0   27           .      .            *))         -    -   -   -           *            *             *             *     -
+
+bn/cnn/02/cnn_0295   0    0        We    PRP   (TOP(S(PRN(S(NP*)     -    -   -   -        *    (ARG0*)            *             *            *         *    (4)
+bn/cnn/02/cnn_0295   0    1      know    VBP               (VP*    know  01   1   -        *       (V*)            *             *            *         *     -
+bn/cnn/02/cnn_0295   0    2      that     IN        (SBAR(SBAR*      -    -   -   -        *    (ARG1*             *             *            *         *     -
+bn/cnn/02/cnn_0295   0    3         ,      ,                  *      -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0    4     quote     UH             (INTJ*)     -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0    5         ,      ,                  *      -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0    6      work     NN             (S(NP*)   work   -   2   -        *         *        (ARG1*)            *            *         *     -
+bn/cnn/02/cnn_0295   0    7      will     MD               (VP*      -    -   -   -        *         *    (ARGM-MOD*)            *            *         *     -
+bn/cnn/02/cnn_0295   0    8        be     VB               (VP*      be   -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0    9      done    VBN               (VP*      do  02   1   -        *         *           (V*)            *            *         *     -
+bn/cnn/02/cnn_0295   0   10      with     IN               (PP*      -    -   -   -        *         *        (ARG2*             *            *         *     -
+bn/cnn/02/cnn_0295   0   11       the     DT               (NP*      -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0   12    Iraqis   NNPS            *)))))))     -    -   -   -    (NORP)        *             *)            *            *         *     -
+bn/cnn/02/cnn_0295   0   13       and     CC                  *      -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0   14      that     IN             (SBAR*      -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0   15      work     NN             (S(NP*)   work   -   3   -        *         *             *        (ARG1*)           *         *     -
+bn/cnn/02/cnn_0295   0   16      will     MD               (VP*      -    -   -   -        *         *             *    (ARGM-MOD*)           *         *     -
+bn/cnn/02/cnn_0295   0   17      come     VB        (VP*))))))))   come  01   1   -        *         *)            *           (V*)           *         *     -
+bn/cnn/02/cnn_0295   0   18         ,      ,                  *      -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0   19        we    PRP               (NP*)     -    -   -   -        *         *             *             *       (ARG2*)        *    (4)
+bn/cnn/02/cnn_0295   0   20       are    VBP               (VP*     are   -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0   21      told    VBN               (VP*    tell  01   1   -        *         *             *             *          (V*)        *     -
+bn/cnn/02/cnn_0295   0   22         ,      ,                  *      -    -   -   -        *         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0   23        in     IN               (PP*      -    -   -   -        *         *             *             *   (ARGM-TMP*         *     -
+bn/cnn/02/cnn_0295   0   24       the     DT               (NP*      -    -   -   -   (DATE*         *             *             *            *         *     -
+bn/cnn/02/cnn_0295   0   25    coming    VBG                  *    come  01   6   -        *         *             *             *            *       (V*)    -
+bn/cnn/02/cnn_0295   0   26      days    NNS               *))))    day   -   4   -        *)        *             *             *            *)   (ARG1*)    -
+bn/cnn/02/cnn_0295   0   27         .      .                 *))     -    -   -   -        *         *             *             *            *         *     -
+
+bn/cnn/02/cnn_0295   0    0            A    DT  (TOP(S(NP(NP*      -    -   -   -          *   (ARG1*   -
+bn/cnn/02/cnn_0295   0    1         wrap    NN              *)   wrap   -   3   -          *        *   -
+bn/cnn/02/cnn_0295   0    2         from    IN           (PP*      -    -   -   -          *        *   -
+bn/cnn/02/cnn_0295   0    3      CentCom   NNP        (NP(NP*)     -    -   -   -       (ORG)       *   -
+bn/cnn/02/cnn_0295   0    4          and    CC              *      -    -   -   -          *        *   -
+bn/cnn/02/cnn_0295   0    5         here    RB      (ADVP*))))     -    -   -   -          *        *)  -
+bn/cnn/02/cnn_0295   0    6           is   VBZ           (VP*      be  01   4   -          *      (V*)  -
+bn/cnn/02/cnn_0295   0    7    Fredricka   NNP        (NP(NP*      -    -   -   -   (PERSON*   (ARG2*   -
+bn/cnn/02/cnn_0295   0    8    Whitfield   NNP              *)     -    -   -   -          *)       *   -
+bn/cnn/02/cnn_0295   0    9           at    IN           (PP*      -    -   -   -          *        *   -
+bn/cnn/02/cnn_0295   0   10          the    DT           (NP*      -    -   -   -      (FAC*        *   -
+bn/cnn/02/cnn_0295   0   11          CNN   NNP              *      -    -   -   -          *        *   -
+bn/cnn/02/cnn_0295   0   12       Center   NNP           *))))     -    -   -   -          *)       *)  -
+bn/cnn/02/cnn_0295   0   13            .     .             *))     -    -   -   -          *        *   -
+
+#end document

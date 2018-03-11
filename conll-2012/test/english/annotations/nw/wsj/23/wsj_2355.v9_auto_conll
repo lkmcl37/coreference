@@ -1,0 +1,63 @@
+#begin document (nw/wsj/23/wsj_2355); part 000
+nw/wsj/23/wsj_2355   0    0      Kenneth   NNP   (TOP(S(NP(NP*           -    -   -   -   (PERSON*      (ARG1*         *   (ARG0*   -
+nw/wsj/23/wsj_2355   0    1           J.   NNP               *           -    -   -   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0    2    Thygerson   NNP               *)          -    -   -   -          *)          *)        *        *   -
+nw/wsj/23/wsj_2355   0    3            ,     ,               *           -    -   -   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0    4          who    WP     (SBAR(WHNP*)          -    -   -   -          *    (R-ARG1*)        *        *   -
+nw/wsj/23/wsj_2355   0    5          was   VBD          (S(VP*           be   -   -   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0    6        named   VBN            (VP*         name  01   3   -          *         (V*)        *        *   -
+nw/wsj/23/wsj_2355   0    7    president    NN       (S(NP(NP*)   president   -   1   -          *      (ARG2*         *        *   -
+nw/wsj/23/wsj_2355   0    8           of    IN            (PP*           -    -   -   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0    9         this    DT         (NP(NP*           -    -   -   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0   10       thrift    NN          (ADJP*       thrift   -   1   -          *           *    (ARG1*)       *   -
+nw/wsj/23/wsj_2355   0   11      holding   VBG               *)        hold  01   8   -          *           *       (V*)       *   -
+nw/wsj/23/wsj_2355   0   12      company    NN               *)     company   -   1   -          *           *    (ARG0*)       *   -
+nw/wsj/23/wsj_2355   0   13           in    IN            (PP*           -    -   -   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0   14       August   NNP   (NP*))))))))))          -    -   -   -      (DATE)          *)        *        *   -
+nw/wsj/23/wsj_2355   0   15            ,     ,               *)          -    -   -   -          *           *         *        *)  -
+nw/wsj/23/wsj_2355   0   16     resigned   VBD            (VP*       resign   -   1   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0   17            ,     ,               *           -    -   -   -          *           *         *        *   -
+nw/wsj/23/wsj_2355   0   18       citing   VBG          (S(VP*         cite  01   2   -          *           *         *      (V*)  -
+nw/wsj/23/wsj_2355   0   19     personal    JJ            (NP*           -    -   -   -          *           *         *   (ARG1*   -
+nw/wsj/23/wsj_2355   0   20      reasons   NNS            *))))      reason   -   1   -          *           *         *        *)  -
+nw/wsj/23/wsj_2355   0   21            .     .              *))          -    -   -   -          *           *         *        *   -
+
+nw/wsj/23/wsj_2355   0    0          Mr.    NNP       (TOP(S(NP*          -    -   -   -          *   (ARG0*         *             *   (ARG0*   -
+nw/wsj/23/wsj_2355   0    1    Thygerson    NNP                *)         -    -   -   -    (PERSON)       *)        *             *        *)  -
+nw/wsj/23/wsj_2355   0    2         said    VBD          (VP(VP*         say  01   1   -          *      (V*)        *             *        *   -
+nw/wsj/23/wsj_2355   0    3           he    PRP      (SBAR(S(NP*)         -    -   -   -          *   (ARG1*    (ARG0*)       (ARG0*)       *   -
+nw/wsj/23/wsj_2355   0    4          had    VBD             (VP*        have   -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0    5      planned    VBN             (VP*        plan  01   1   -          *        *       (V*)            *        *   -
+nw/wsj/23/wsj_2355   0    6           to     TO           (S(VP*          -    -   -   -          *        *    (ARG1*             *        *   -
+nw/wsj/23/wsj_2355   0    7       travel     VB             (VP*      travel  01   1   -          *        *         *           (V*)       *   -
+nw/wsj/23/wsj_2355   0    8      between     IN             (PP*          -    -   -   -          *        *         *        (ARG1*        *   -
+nw/wsj/23/wsj_2355   0    9          the     DT          (NP(NP*          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   10          job     NN                *)        job   -   1   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   11           in     IN             (PP*          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   12       Denver    NNP          (NP(NP*)         -    -   -   -       (GPE)       *         *             *        *   -
+nw/wsj/23/wsj_2355   0   13          and     CC                *          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   14          his   PRP$             (NP*          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   15          San    NNP                *          -    -   -   -      (GPE*        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   16        Diego    NNP            *)))))         -    -   -   -          *)       *         *             *)       *   -
+nw/wsj/23/wsj_2355   0   17         home     RB   (ADVP*)))))))))         -    -   -   -          *        *)        *)   (ARGM-TMP*)       *   -
+nw/wsj/23/wsj_2355   0   18            ,      ,                *          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   19          but     CC                *          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   20          has    VBZ             (VP*        have   -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   21        found    VBD             (VP*        find  01   1   -          *        *         *             *      (V*)  -
+nw/wsj/23/wsj_2355   0   22          the     DT           (S(NP*          -    -   -   -          *        *         *             *   (ARG1*   -
+nw/wsj/23/wsj_2355   0   23      commute     NN                *)    commute   -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   24          too     RB           (ADJP*          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   25    difficult     JJ                *          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   26           to     TO           (S(VP*          -    -   -   -          *        *         *             *        *   -
+nw/wsj/23/wsj_2355   0   27     continue     VB      (VP*))))))))   continue   -   1   -          *        *         *             *        *)  -
+nw/wsj/23/wsj_2355   0   28            .      .               *))         -    -   -   -          *        *         *             *        *   -
+
+nw/wsj/23/wsj_2355   0   0            A    DT  (TOP(S(NP*           -    -   -   -   *        (ARG1*   -
+nw/wsj/23/wsj_2355   0   1          new    JJ           *           -    -   -   -   *             *   -
+nw/wsj/23/wsj_2355   0   2    president    NN           *)   president   -   3   -   *             *)  -
+nw/wsj/23/wsj_2355   0   3          was   VBD        (VP*           be   -   -   -   *             *   -
+nw/wsj/23/wsj_2355   0   4          n't    RB           *           -    -   -   -   *    (ARGM-NEG*)  -
+nw/wsj/23/wsj_2355   0   5        named   VBN       (VP*))        name  01   3   -   *           (V*)  -
+nw/wsj/23/wsj_2355   0   6            .     .          *))          -    -   -   -   *             *   -
+
+#end document

@@ -1,0 +1,70 @@
+#begin document (bn/cnn/03/cnn_0318); part 000
+bn/cnn/03/cnn_0318   0    0            The    DT   (TOP(NP(NP*           -    -   -   -        *        (ARG0*   -
+bn/cnn/03/cnn_0318   0    1    Palestinian    JJ             *           -    -   -   -    (NORP)            *   -
+bn/cnn/03/cnn_0318   0    2     crossroads   NNS             *)          -    -   -   -        *             *)  -
+bn/cnn/03/cnn_0318   0    3           that   WDT   (SBAR(WHNP*)          -    -   -   -        *      (R-ARG0*)  -
+bn/cnn/03/cnn_0318   0    4          could    MD        (S(VP*           -    -   -   -        *    (ARGM-MOD*)  -
+bn/cnn/03/cnn_0318   0    5           lead    VB          (VP*         lead  03   1   -        *           (V*)  -
+bn/cnn/03/cnn_0318   0    6             to    IN          (PP*           -    -   -   -        *        (ARG2*   -
+bn/cnn/03/cnn_0318   0    7            the    DT       (NP(NP*           -    -   -   -        *             *   -
+bn/cnn/03/cnn_0318   0    8       relation    NN             *)    relation   -   3   -        *             *   -
+bn/cnn/03/cnn_0318   0    9             in    IN          (PP*           -    -   -   -        *             *   -
+bn/cnn/03/cnn_0318   0   10              a    DT          (NP*           -    -   -   -        *             *   -
+bn/cnn/03/cnn_0318   0   11            new    JJ             *           -    -   -   -        *             *   -
+bn/cnn/03/cnn_0318   0   12      direction    NN      *))))))))   direction   -   2   -        *             *)  -
+bn/cnn/03/cnn_0318   0   13              .     .            *))          -    -   -   -        *             *   -
+
+bn/cnn/03/cnn_0318   0   0      Yasser   NNP  (TOP(S(NP*      -    -   -   -   (PERSON*       (ARG0*    (2
+bn/cnn/03/cnn_0318   0   1      Arafat   NNP           *)     -    -   -   -          *)           *)    2)
+bn/cnn/03/cnn_0318   0   2      backed   VBD        (VP*    back  01   2   -          *          (V*)   (0)
+bn/cnn/03/cnn_0318   0   3         Abu   NNP        (NP*      -    -   -   -   (PERSON*       (ARG1*    (1
+bn/cnn/03/cnn_0318   0   4       Mazen   NNP           *)     -    -   -   -          *)           *)    1)
+bn/cnn/03/cnn_0318   0   5          as    IN        (PP*      -    -   -   -          *   (ARGM-PRD*     -
+bn/cnn/03/cnn_0318   0   6       Prime   NNP        (NP*      -    -   -   -          *            *     -
+bn/cnn/03/cnn_0318   0   7    Minister   NNP         *)))     -    -   -   -          *            *)    -
+bn/cnn/03/cnn_0318   0   8           .     .          *))     -    -   -   -          *            *     -
+
+bn/cnn/03/cnn_0318   0   0         A    DT   (TOP(NP(NP*       -    -   -   -           *     (ARG1*    (0
+bn/cnn/03/cnn_0318   0   1     first    JJ             *       -    -   -   -    (ORDINAL)         *     -
+bn/cnn/03/cnn_0318   0   2      step    NN             *)    step   -   1   -           *          *)    -
+bn/cnn/03/cnn_0318   0   3        he   PRP   (SBAR(S(NP*)      -    -   -   -           *     (ARG0*)   (2)
+bn/cnn/03/cnn_0318   0   4      says   VBZ          (VP*      say  01   1   -           *        (V*)    -
+bn/cnn/03/cnn_0318   0   5    toward    IN          (PP*       -    -   -   -           *   (C-ARG1*     -
+bn/cnn/03/cnn_0318   0   6     peace    NN       (NP(NP*)   peace   -   1   -           *          *     -
+bn/cnn/03/cnn_0318   0   7      with    IN          (PP*       -    -   -   -           *          *     -
+bn/cnn/03/cnn_0318   0   8    Israel   NNP    (NP*)))))))      -    -   -   -        (GPE)         *)    -
+bn/cnn/03/cnn_0318   0   9         .     .            *))      -    -   -   -           *          *     0)
+
+bn/cnn/03/cnn_0318   0    0            Now     RB   (TOP(S(ADVP*)        -    -   -   -          *    (ARGM-TMP*)       *     -
+bn/cnn/03/cnn_0318   0    1    Palestinian     JJ           (NP*         -    -   -   -      (NORP)       (ARG0*        *     -
+bn/cnn/03/cnn_0318   0    2        leaders    NNS              *)    leader   -   1   -          *             *)       *     -
+bn/cnn/03/cnn_0318   0    3           must     MD           (VP*         -    -   -   -          *    (ARGM-MOD*)       *     -
+bn/cnn/03/cnn_0318   0    4           vote     VB           (VP*       vote  01   1   -          *           (V*)       *     -
+bn/cnn/03/cnn_0318   0    5             on     IN           (PP*         -    -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0    6        whether     IN         (SBAR*         -    -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0    7             to     IN         (S(PP*         -    -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0    8      September    NNP           (NP*         -    -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0    9            24      CD          (NML*         -    -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0   10             -    HYPH              *         -    -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0   11         member     NN              *)    member   -   1   -          *             *        *     -
+bn/cnn/03/cnn_0318   0   12        cabinet     NN             *))        -    -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0   13           that     DT           (NP*         -    -   -   -          *             *   (ARG0*     -
+bn/cnn/03/cnn_0318   0   14          Mazen    NNP              *)        -    -   -   -    (PERSON)            *        *)   (1)
+bn/cnn/03/cnn_0318   0   15             is    VBZ           (VP*         be   -   -   -          *             *        *     -
+bn/cnn/03/cnn_0318   0   16     presenting    VBG     (VP*)))))))   present  01   2   -          *             *      (V*)    -
+bn/cnn/03/cnn_0318   0   17              .      .             *))        -    -   -   -          *             *        *     -
+
+bn/cnn/03/cnn_0318   0   0       Kelly   NNP  (TOP(S(NP*       -    -      -   -   (PERSON*   (ARG1*   -
+bn/cnn/03/cnn_0318   0   1     Wallace   NNP           *)      -    -      -   -          *)       *)  -
+bn/cnn/03/cnn_0318   0   2          is   VBZ        (VP*       be   -      -   -          *        *   -
+bn/cnn/03/cnn_0318   0   3    standing   VBG        (VP*    stand  05   7.15   -          *      (V*)  -
+bn/cnn/03/cnn_0318   0   4          by    RB    (ADVP*)))      -    -      -   -          *        *   -
+bn/cnn/03/cnn_0318   0   5           .     .          *))      -    -      -   -          *        *   -
+
+bn/cnn/03/cnn_0318   0   0      What    WP   (TOP(SBARQ(WHNP*)   -    -   -   -   *    (ARG2*)  -
+bn/cnn/03/cnn_0318   0   1        's   VBZ               (SQ*    be  01   1   -   *       (V*)  -
+bn/cnn/03/cnn_0318   0   2       the    DT               (NP*    -    -   -   -   *    (ARG1*   -
+bn/cnn/03/cnn_0318   0   3    latest   JJS                 *))   -    -   -   -   *         *)  -
+bn/cnn/03/cnn_0318   0   4         ?     .                 *))   -    -   -   -   *         *   -
+
+#end document

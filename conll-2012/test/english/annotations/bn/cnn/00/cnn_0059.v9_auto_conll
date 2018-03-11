@@ -1,0 +1,86 @@
+#begin document (bn/cnn/00/cnn_0059); part 000
+bn/cnn/00/cnn_0059   0    0             A    DT      (TOP(S(NP*            -    -   -   -           *   (ARG0*             *         *   -
+bn/cnn/00/cnn_0059   0    1       Russian   NNP           (NML*            -    -   -   -       (ORG*        *             *         *   -
+bn/cnn/00/cnn_0059   0    2          Navy   NNP               *)           -    -   -   -           *)       *             *         *   -
+bn/cnn/00/cnn_0059   0    3     spokesman    NN               *)           -    -   -   -           *        *)            *         *   -
+bn/cnn/00/cnn_0059   0    4          says   VBZ            (VP*           say  01   1   -           *      (V*)            *         *   -
+bn/cnn/00/cnn_0059   0    5           bad    JJ     (SBAR(S(NP*            -    -   -   -           *   (ARG1*        (ARG0*         *   -
+bn/cnn/00/cnn_0059   0    6       weather    NN               *)      weather   -   -   -           *        *             *)        *   -
+bn/cnn/00/cnn_0059   0    7         could    MD            (VP*            -    -   -   -           *        *    (ARGM-MOD*)        *   -
+bn/cnn/00/cnn_0059   0    8    complicate    VB            (VP*    complicate  01   1   -           *        *           (V*)        *   -
+bn/cnn/00/cnn_0059   0    9           the    DT         (NP(NP*            -    -   -   -           *        *             *    (ARG0*   -
+bn/cnn/00/cnn_0059   0   10          work    NN               *)         work   -   2   -           *        *             *         *)  -
+bn/cnn/00/cnn_0059   0   11            to    TO     (SBAR(S(VP*            -    -   -   -           *        *             *         *   -
+bn/cnn/00/cnn_0059   0   12       recover    VB            (VP*       recover  02   1   -           *        *             *       (V*)  -
+bn/cnn/00/cnn_0059   0   13        bodies   NNS            (NP*)         body   -   3   -           *        *             *    (ARG1*)  -
+bn/cnn/00/cnn_0059   0   14          from    IN            (PP*            -    -   -   -           *        *             *    (ARG2*   -
+bn/cnn/00/cnn_0059   0   15           the    DT         (NP(NP*            -    -   -   -           *        *             *         *   -
+bn/cnn/00/cnn_0059   0   16        sunken    JJ               *            -    -   -   -           *        *             *         *   -
+bn/cnn/00/cnn_0059   0   17       nuclear    JJ               *            -    -   -   -           *        *             *         *   -
+bn/cnn/00/cnn_0059   0   18     submarine    NN               *)    submarine   -   1   -           *        *             *         *   -
+bn/cnn/00/cnn_0059   0   19            ``    ``            (NP*            -    -   -   -           *        *             *         *   -
+bn/cnn/00/cnn_0059   0   20         Kursk   NNP   *)))))))))))))           -    -   -   -    (PRODUCT)       *)            *         *)  -
+bn/cnn/00/cnn_0059   0   21             .     .               *            -    -   -   -           *        *             *         *   -
+bn/cnn/00/cnn_0059   0   22            ''    ''              *))           -    -   -   -           *        *             *         *   -
+
+bn/cnn/00/cnn_0059   0    0         Russian    JJ  (TOP(S(NP(ADJP*           -    -   -   -    (NORP)       (ARG0*   -
+bn/cnn/00/cnn_0059   0    1             and    CC                *           -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0    2       Norwegian    JJ                *)          -    -   -   -    (NORP)            *   -
+bn/cnn/00/cnn_0059   0    3          divers   NNS                *)          -    -   -   -        *             *)  -
+bn/cnn/00/cnn_0059   0    4    successfully    RB           (ADVP*)          -    -   -   -        *    (ARGM-MNR*)  -
+bn/cnn/00/cnn_0059   0    5         removed   VBD             (VP*       remove  01   1   -        *           (V*)  -
+bn/cnn/00/cnn_0059   0    6               a    DT          (NP(NP*           -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0    7          rubber    NN                *       rubber   -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0    8         coating    NN                *)        coat   -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0    9         between    IN             (PP*           -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0   10             the    DT          (NP(NP*           -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0   11           inner    JJ           (ADJP*           -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0   12             and    CC                *           -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0   13           outer    JJ                *)          -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0   14           hulls   NNS                *)          -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0   15              of    IN             (PP*           -    -   -   -        *             *   -
+bn/cnn/00/cnn_0059   0   16             sub    NN          (NP(NP*)         sub   -   -   -     (LOC)            *   -
+bn/cnn/00/cnn_0059   0   17       yesterday    NN       (NP*)))))))   yesterday   -   1   -    (DATE)            *   -
+bn/cnn/00/cnn_0059   0   18               .     .               *))          -    -   -   -        *             *   -
+
+bn/cnn/00/cnn_0059   0    0         Thick   NNP  (TOP(FRAG(NP*       -    -   -   -   (WORK_OF_ART*            *   -
+bn/cnn/00/cnn_0059   0    1           fog   NNP              *)      -    -   -   -               *)           *   -
+bn/cnn/00/cnn_0059   0    2             ,     ,              *       -    -   -   -               *            *   -
+bn/cnn/00/cnn_0059   0    3          rain    NN           (NP*)    rain   -   -   -               *            *   -
+bn/cnn/00/cnn_0059   0    4           and    CC              *       -    -   -   -               *            *   -
+bn/cnn/00/cnn_0059   0    5          high    JJ         (S(NP*       -    -   -   -               *       (ARG0*   -
+bn/cnn/00/cnn_0059   0    6         winds   NNS              *)    wind   -   1   -               *            *)  -
+bn/cnn/00/cnn_0059   0    7           are   VBP           (VP*      are   -   -   -               *            *   -
+bn/cnn/00/cnn_0059   0    8      limiting   VBG         (S(VP*    limit  01   1   -               *          (V*)  -
+bn/cnn/00/cnn_0059   0    9    visibility    NN           (NP*)      -    -   -   -               *       (ARG1*)  -
+bn/cnn/00/cnn_0059   0   10            at    IN           (PP*       -    -   -   -               *   (ARGM-LOC*   -
+bn/cnn/00/cnn_0059   0   11           the    DT           (NP*       -    -   -   -               *            *   -
+bn/cnn/00/cnn_0059   0   12          site    NN         *))))))    site   -   1   -               *            *)  -
+bn/cnn/00/cnn_0059   0   13             .     .             *))      -    -   -   -               *            *   -
+
+bn/cnn/00/cnn_0059   0    0          All    DT   (TOP(S(NP(NP*           -    -   -   -            *       (ARG1*             *             *   -
+bn/cnn/00/cnn_0059   0    1         118     CD               *           -    -   -   -    (CARDINAL)           *             *             *   -
+bn/cnn/00/cnn_0059   0    2       people   NNS               *)      people   -   1   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0    3           on    IN            (PP*           -    -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0    4        board    NN               *        board   -   7   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0    5          the    DT            (NP*           -    -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0    6           ``    ``               *           -    -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0    7        Kursk   NNP               *           -    -   -   -     (PRODUCT)           *             *             *   -
+bn/cnn/00/cnn_0059   0    8           ''    ''             *)))          -    -   -   -            *            *)            *             *   -
+bn/cnn/00/cnn_0059   0    9         died   VBD            (VP*          die  01   1   -            *          (V*)            *             *   -
+bn/cnn/00/cnn_0059   0   10         when   WRB   (SBAR(WHADVP*)          -    -   -   -            *   (ARGM-TMP*    (ARGM-TMP*)   (ARGM-TMP*)  -
+bn/cnn/00/cnn_0059   0   11          the    DT          (S(NP*           -    -   -   -            *            *        (ARG1*        (ARG1*   -
+bn/cnn/00/cnn_0059   0   12    submarine    NN               *)   submarine   -   1   -            *            *             *)            *)  -
+bn/cnn/00/cnn_0059   0   13     exploded   VBD         (VP(VP*)     explode  01   1   -            *            *           (V*)            *   -
+bn/cnn/00/cnn_0059   0   14          and    CC               *           -    -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0   15         sank   VBD            (VP*         sink  01   1   -            *            *             *           (V*)  -
+bn/cnn/00/cnn_0059   0   16           to    IN            (PP*           -    -   -   -            *            *             *        (ARG2*   -
+bn/cnn/00/cnn_0059   0   17          the    DT         (NP(NP*           -    -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0   18       bottom    NN               *)      bottom   -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0   19           of    IN            (PP*           -    -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0   20          the    DT            (NP*           -    -   -   -        (LOC*            *             *             *   -
+bn/cnn/00/cnn_0059   0   21      Barents   NNP               *           -    -   -   -            *            *             *             *   -
+bn/cnn/00/cnn_0059   0   22          Sea   NNP       *)))))))))          -    -   -   -            *)           *)            *             *)  -
+bn/cnn/00/cnn_0059   0   23            .     .              *))          -    -   -   -            *            *             *             *   -
+
+#end document

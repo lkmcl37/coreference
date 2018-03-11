@@ -1,0 +1,398 @@
+#begin document (nw/xinhua/01/chtb_0196); part 000
+nw/xinhua/01/chtb_0196   0   0    Demin   NNP  (TOP(FRAG(NP*   -   -   -   -   (PERSON*   -
+nw/xinhua/01/chtb_0196   0   1       Li   NNP            *)))  -   -   -   -          *)  -
+
+nw/xinhua/01/chtb_0196   0    0              On    IN   (TOP(S(PP*           -    -   -   -          *   (ARGM-TMP*        *    -
+nw/xinhua/01/chtb_0196   0    1        December   NNP      (NP(NP*           -    -   -   -     (DATE*            *        *    -
+nw/xinhua/01/chtb_0196   0    2            26th    CD            *)          -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0    3              of    IN         (PP*           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0    4            last    JJ         (NP*           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0    5            year    NN         *))))        year   -   1   -          *)           *)       *    -
+nw/xinhua/01/chtb_0196   0    6               ,     ,            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0    7             the    DT         (NP*           -    -   -   -      (ORG*       (ARG0*        *   (2
+nw/xinhua/01/chtb_0196   0    8               "    ``            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0    9           Hubei   NNP            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   10           Daily   NNP            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   11               "    ''            *)          -    -   -   -          *)           *)       *    2)
+nw/xinhua/01/chtb_0196   0   12        released   VBD         (VP*      release  01   2   -          *          (V*)       *    -
+nw/xinhua/01/chtb_0196   0   13               a    DT      (NP(NP*           -    -   -   -          *       (ARG1*        *    -
+nw/xinhua/01/chtb_0196   0   14           group    NN            *)       group   -   1   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   15              of    IN         (PP*           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   16        articles   NNS       (NP*)))     article   -   1   -          *            *)       *    -
+nw/xinhua/01/chtb_0196   0   17               ,     ,            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   18          naming   VBG       (S(VP*         name   -   1   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   19             and    CC            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   20     criticizing   VBG            *    criticize   -   1   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   21               a    DT      (NP(NP*           -    -   -   -          *            *        *   (5
+nw/xinhua/01/chtb_0196   0   22         comrade    NN            *)          -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   23              at    IN         (PP*           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   24               a    DT      (NP(NP*           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   25         village    NN            *      village   -   2   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   26    broadcasting    NN            *    broadcast   -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   27         station    NN            *)     station   -   1   -          *            *        *    5)
+nw/xinhua/01/chtb_0196   0   28             for    IN         (PP*           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   29     fabricating   VBG       (S(VP*    fabricate   -   1   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   30               a    DT      (NP(NP*           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   31            news    NN            *         news   -   1   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   32         release    NN            *)     release   -   5   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   33               ,     ,            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   34               "    ``            *           -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   35           Guofu   NNP       (S(NP*           -    -   -   -   (PERSON*            *   (ARG0*   (0
+nw/xinhua/01/chtb_0196   0   36              Ba   NNP            *)          -    -   -   -          *)           *        *)   0)
+nw/xinhua/01/chtb_0196   0   37            hits   VBZ         (VP*          hit  02   2   -          *            *      (V*)   -
+nw/xinhua/01/chtb_0196   0   38               a    DT         (NP*           -    -   -   -          *            *   (ARG1*    -
+nw/xinhua/01/chtb_0196   0   39       roadblock    NN          *)))          -    -   -   -          *            *        *)   -
+nw/xinhua/01/chtb_0196   0   40               "    ''   *))))))))))          -    -   -   -          *            *        *    -
+nw/xinhua/01/chtb_0196   0   41               .     .           *))          -    -   -   -          *            *        *    -
+
+nw/xinhua/01/chtb_0196   0    0              It   PRP   (TOP(S(NP*)          -    -   -   -       *        (ARG0*)       *            *        *    (2)
+nw/xinhua/01/chtb_0196   0    1            also    RB       (ADVP*)          -    -   -   -       *    (ARGM-ADV*)       *            *        *     -
+nw/xinhua/01/chtb_0196   0    2        released   VBD         (VP*      release  01   2   -       *           (V*)       *            *        *     -
+nw/xinhua/01/chtb_0196   0    3              an    DT         (NP*           -    -   -   -       *        (ARG1*        *            *        *     -
+nw/xinhua/01/chtb_0196   0    4       editorial    JJ            *           -    -   -   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0    5         article    NN            *)     article   -   1   -       *             *)       *            *        *     -
+nw/xinhua/01/chtb_0196   0    6        pointing   VBG       (S(VP*        point  02   1   -       *    (ARGM-ADV*      (V*)           *        *     -
+nw/xinhua/01/chtb_0196   0    7             out    RP        (PRT*)          -    -   -   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0    8            that    IN       (SBAR*           -    -   -   -       *             *   (ARG1*            *        *     -
+nw/xinhua/01/chtb_0196   0    9        sticking   VBG     (S(S(VP*        stick  01   3   -       *             *        *          (V*)  (ARG1*     -
+nw/xinhua/01/chtb_0196   0   10              to    IN         (PP*           -    -   -   -       *             *        *       (ARG2*        *     -
+nw/xinhua/01/chtb_0196   0   11      principles   NNS      (NP(NP*)   principle   -   1   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0   12              of    IN         (PP*           -    -   -   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0   13    authenticity    NN      (NP*))))          -    -   -   -       *             *        *            *)       *     -
+nw/xinhua/01/chtb_0196   0   14              in    IN         (PP*           -    -   -   -       *             *        *   (ARGM-LOC*        *     -
+nw/xinhua/01/chtb_0196   0   15            news    NN         (NP*         news   -   1   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0   16       reporting    NN         *))))      report   -   -   -       *             *        *            *)       *)    -
+nw/xinhua/01/chtb_0196   0   17              is   VBZ         (VP*           be  01   1   -       *             *        *            *      (V*)    -
+nw/xinhua/01/chtb_0196   0   18              an    DT      (NP(NP*           -    -   -   -       *             *        *            *   (ARG2*     -
+nw/xinhua/01/chtb_0196   0   19       excellent    JJ            *           -    -   -   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0   20       tradition    NN            *)          -    -   -   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0   21              in    IN         (PP*           -    -   -   -       *             *        *            *        *     -
+nw/xinhua/01/chtb_0196   0   22           Party    NN         (NP*        party   -   1   -    (ORG)            *        *            *        *    (4)
+nw/xinhua/01/chtb_0196   0   23      journalism    NN    *)))))))))          -    -   -   -       *             *)       *)           *        *)    -
+nw/xinhua/01/chtb_0196   0   24               .     .           *))          -    -   -   -       *             *        *            *        *     -
+
+nw/xinhua/01/chtb_0196   0    0       Similar    JJ  (TOP(S(S(NP*           -    -   -   -       *   (ARG1*             *    -
+nw/xinhua/01/chtb_0196   0    1         false    JJ        (ADJP*           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0    2           and    CC             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0    3     partially    RB             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0    4         false    JJ             *)          -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0    5          news    NN             *         news   -   1   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0    6         items   NNS             *)        item   -   1   -       *        *)            *    -
+nw/xinhua/01/chtb_0196   0    7          have   VBP          (VP*         have   -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0    8          been   VBN          (VP*           be   -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0    9          seen   VBN          (VP*          see  01   1   -       *      (V*)            *    -
+nw/xinhua/01/chtb_0196   0   10           not    RB     (PP(ADVP*           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   11          only    RB             *)          -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   12            in    IN             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   13           the    DT          (NP*           -    -   -   -   (ORG*        *             *   (2
+nw/xinhua/01/chtb_0196   0   14             "    ``             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   15         Hubei   NNP             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   16         Daily   NNP             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   17             "    ''        *))))))          -    -   -   -       *)       *             *    2)
+nw/xinhua/01/chtb_0196   0   18             ,     ,             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   19           but    CC             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   20          also    RB      (S(ADVP*)          -    -   -   -       *        *    (ARGM-ADV*)   -
+nw/xinhua/01/chtb_0196   0   21         other    JJ       (NP(NP*           -    -   -   -       *        *        (ARG0*    -
+nw/xinhua/01/chtb_0196   0   22    newspapers   NNS             *)   newspaper   -   1   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   23             ,     ,             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   24            TV    NN          (NP*)          tv   -   1   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   25           and    CC             *           -    -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   26         radio    NN         (NP*))       radio   -   -   -       *        *             *)   -
+nw/xinhua/01/chtb_0196   0   27          have   VBP          (VP*         have   -   -   -       *        *             *    -
+nw/xinhua/01/chtb_0196   0   28           had   VBN          (VP*         have  03   2   -       *        *           (V*)   -
+nw/xinhua/01/chtb_0196   0   29          such    JJ          (NP*           -    -   -   -       *        *        (ARG1*    -
+nw/xinhua/01/chtb_0196   0   30          news    NN          *))))        news   -   1   -       *        *             *)   -
+nw/xinhua/01/chtb_0196   0   31             .     .            *))          -    -   -   -       *        *             *    -
+
+nw/xinhua/01/chtb_0196   0    0     Although    IN  (TOP(S(SBAR*           -    -   -   -   *         *   (ARGM-ADV*   -
+nw/xinhua/01/chtb_0196   0    1        false    JJ        (S(NP*           -    -   -   -   *    (ARG1*            *   -
+nw/xinhua/01/chtb_0196   0    2         news    NN             *)        news   -   1   -   *         *)           *   -
+nw/xinhua/01/chtb_0196   0    3           is   VBZ          (VP*           be  01   1   -   *       (V*)           *   -
+nw/xinhua/01/chtb_0196   0    4         rare    JJ     (ADJP*))))          -    -   -   -   *    (ARG2*)           *)  -
+nw/xinhua/01/chtb_0196   0    5            ,     ,             *           -    -   -   -   *         *            *   -
+nw/xinhua/01/chtb_0196   0    6          the    DT          (NP*           -    -   -   -   *         *       (ARG1*   -
+nw/xinhua/01/chtb_0196   0    7    influence    NN             *)   influence   -   1   -   *         *            *)  -
+nw/xinhua/01/chtb_0196   0    8           is   VBZ          (VP*           be  01   1   -   *         *          (V*)  -
+nw/xinhua/01/chtb_0196   0    9    extremely    RB        (ADJP*           -    -   -   -   *         *       (ARG2*   -
+nw/xinhua/01/chtb_0196   0   10          bad    JJ            *))          -    -   -   -   *         *            *)  -
+nw/xinhua/01/chtb_0196   0   11            .     .            *))          -    -   -   -   *         *            *   -
+
+nw/xinhua/01/chtb_0196   0    0         If    IN  (TOP(S(SBAR*         -    -   -   -            *    (ARGM-ADV*   -
+nw/xinhua/01/chtb_0196   0    1      there    EX        (S(NP*)        -    -   -   -            *             *   -
+nw/xinhua/01/chtb_0196   0    2         is   VBZ          (VP*         be   -   3   -            *             *   -
+nw/xinhua/01/chtb_0196   0    3        one    CD       (NP(NP*         -    -   -   -    (CARDINAL)            *   -
+nw/xinhua/01/chtb_0196   0    4      false    JJ             *         -    -   -   -            *             *   -
+nw/xinhua/01/chtb_0196   0    5      piece    NN             *)     piece   -   2   -            *             *   -
+nw/xinhua/01/chtb_0196   0    6         of    IN          (PP*         -    -   -   -            *             *   -
+nw/xinhua/01/chtb_0196   0    7       news    NN        (NP*)))      news   -   1   -            *             *   -
+nw/xinhua/01/chtb_0196   0    8        out    IN          (PP*         -    -   -   -            *             *   -
+nw/xinhua/01/chtb_0196   0    9         of    IN          (PP*         -    -   -   -            *             *   -
+nw/xinhua/01/chtb_0196   0   10       100     CD          (NP*         -    -   -   -    (CARDINAL)            *   -
+nw/xinhua/01/chtb_0196   0   11     pieces   NNS        *))))))     piece   -   2   -            *             *)  -
+nw/xinhua/01/chtb_0196   0   12          ,     ,             *         -    -   -   -            *             *   -
+nw/xinhua/01/chtb_0196   0   13    readers   NNS          (NP*)        -    -   -   -            *        (ARG0*)  -
+nw/xinhua/01/chtb_0196   0   14       will    MD          (VP*         -    -   -   -            *    (ARGM-MOD*)  -
+nw/xinhua/01/chtb_0196   0   15    suspect    VB          (VP*    suspect  01   1   -            *           (V*)  -
+nw/xinhua/01/chtb_0196   0   16        the    DT          (NP*         -    -   -   -            *        (ARG1*   -
+nw/xinhua/01/chtb_0196   0   17      other    JJ             *         -    -   -   -            *             *   -
+nw/xinhua/01/chtb_0196   0   18        99     CD             *         -    -   -   -    (CARDINAL)            *   -
+nw/xinhua/01/chtb_0196   0   19     pieces   NNS           *)))     piece   -   2   -            *             *)  -
+nw/xinhua/01/chtb_0196   0   20          .     .            *))        -    -   -   -            *             *   -
+
+nw/xinhua/01/chtb_0196   0    0          The    DT    (TOP(S(NP*           -    -   -   -   (ORG*   (ARG1*           *        *   (4
+nw/xinhua/01/chtb_0196   0    1      Chinese   NNP             *           -    -   -   -       *        *           *        *    -
+nw/xinhua/01/chtb_0196   0    2    Communist   NNP             *           -    -   -   -       *        *           *        *    -
+nw/xinhua/01/chtb_0196   0    3        Party   NNP             *)          -    -   -   -       *)       *)          *        *    4)
+nw/xinhua/01/chtb_0196   0    4           is   VBZ          (VP*           be  01   1   -       *      (V*)          *        *    -
+nw/xinhua/01/chtb_0196   0    5            a    DT       (NP(NP*           -    -   -   -       *   (ARG2*      (ARG0*        *    -
+nw/xinhua/01/chtb_0196   0    6        party    NN             *)       party   -   1   -       *        *           *)       *    -
+nw/xinhua/01/chtb_0196   0    7         that   WDT   (SBAR(WHNP*)          -    -   -   -       *        *    (R-ARG0*)       *    -
+nw/xinhua/01/chtb_0196   0    8    maintains   VBZ        (S(VP*     maintain  01   1   -       *        *         (V*)       *    -
+nw/xinhua/01/chtb_0196   0    9          the    DT       (NP(NP*           -    -   -   -       *        *      (ARG1*        *    -
+nw/xinhua/01/chtb_0196   0   10    principle    NN             *)   principle   -   1   -       *        *           *        *    -
+nw/xinhua/01/chtb_0196   0   11           of    IN          (PP*           -    -   -   -       *        *           *        *    -
+nw/xinhua/01/chtb_0196   0   12        being   VBG        (S(VP*           be  01   1   -       *        *           *      (V*)   -
+nw/xinhua/01/chtb_0196   0   13    practical    JJ        (ADJP*           -    -   -   -       *        *           *   (ARG2*    -
+nw/xinhua/01/chtb_0196   0   14          and    CC             *           -    -   -   -       *        *           *        *    -
+nw/xinhua/01/chtb_0196   0   15    realistic    JJ    *))))))))))          -    -   -   -       *        *)          *)       *)   -
+nw/xinhua/01/chtb_0196   0   16            .     .            *))          -    -   -   -       *        *           *        *    -
+
+nw/xinhua/01/chtb_0196   0    0         Party   NNP  (TOP(S(NP*           -    -   -   -   *        (ARG0*        *    (4)
+nw/xinhua/01/chtb_0196   0    1    journalism    NN           *)          -    -   -   -   *             *)       *     -
+nw/xinhua/01/chtb_0196   0    2        should    MD        (VP*           -    -   -   -   *    (ARGM-MOD*)       *     -
+nw/xinhua/01/chtb_0196   0    3          also    RB      (ADVP*)          -    -   -   -   *    (ARGM-DIS*)       *     -
+nw/xinhua/01/chtb_0196   0    4        follow    VB        (VP*       follow  02   3   -   *           (V*)       *     -
+nw/xinhua/01/chtb_0196   0    5           the    DT     (NP(NP*           -    -   -   -   *        (ARG1*        *     -
+nw/xinhua/01/chtb_0196   0    6     principle    NN           *)   principle   -   1   -   *             *        *     -
+nw/xinhua/01/chtb_0196   0    7            of    IN        (PP*           -    -   -   -   *             *        *     -
+nw/xinhua/01/chtb_0196   0    8         being   VBG      (S(VP*           be  01   1   -   *             *      (V*)    -
+nw/xinhua/01/chtb_0196   0    9     practical    JJ      (ADJP*           -    -   -   -   *             *   (ARG2*     -
+nw/xinhua/01/chtb_0196   0   10           and    CC           *           -    -   -   -   *             *        *     -
+nw/xinhua/01/chtb_0196   0   11     realistic    JJ     *)))))))          -    -   -   -   *             *)       *)    -
+nw/xinhua/01/chtb_0196   0   12             .     .          *))          -    -   -   -   *             *        *     -
+
+nw/xinhua/01/chtb_0196   0    0      Regardless    RB  (TOP(S(ADVP*        -    -   -   -   *         *        *   (ARGM-ADV*         *   -
+nw/xinhua/01/chtb_0196   0    1              of    IN          (PP*        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0    2         whether    IN        (SBAR*        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0    3             you   PRP        (S(NP*)       -    -   -   -   *    (ARG1*)       *            *         *   -
+nw/xinhua/01/chtb_0196   0    4             are   VBP          (VP*        be  01   1   -   *       (V*)       *            *         *   -
+nw/xinhua/01/chtb_0196   0    5               a    DT       (NP(NP*        -    -   -   -   *    (ARG2*        *            *         *   -
+nw/xinhua/01/chtb_0196   0    6    professional    JJ             *        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0    7      journalist    NN             *)       -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0    8              or    CC             *        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0    9              an    DT          (NP*        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   10         amateur    NN       *)))))))       -    -   -   -   *         *)       *            *)        *   -
+nw/xinhua/01/chtb_0196   0   11               ,     ,             *        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   12      regardless    RB        (ADVP*        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   13              of    IN          (PP*        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   14         whether    IN        (SBAR*        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   15       reporting   VBG        (S(VP*    report  01   1   -   *         *      (V*)           *         *   -
+nw/xinhua/01/chtb_0196   0   16            good    JJ       (NP(NP*        -    -   -   -   *         *   (ARG1*            *         *   -
+nw/xinhua/01/chtb_0196   0   17            news    NN             *)     news   -   1   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   18              or    CC             *        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   19       reporting    NN          (NP*    report   -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   20             bad    JJ             *        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   21            news    NN       *)))))))     news   -   1   -   *         *        *)           *         *   -
+nw/xinhua/01/chtb_0196   0   22               ,     ,             *        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   23             all    DT       (NP(NP*)       -    -   -   -   *         *        *       (ARG0*    (ARG1*   -
+nw/xinhua/01/chtb_0196   0   24              of    IN          (PP*        -    -   -   -   *         *        *            *         *   -
+nw/xinhua/01/chtb_0196   0   25              it   PRP        (NP*)))       -    -   -   -   *         *        *            *)        *)  -
+nw/xinhua/01/chtb_0196   0   26           needs   VBZ          (VP*      need  01   2   -   *         *        *          (V*)        *   -
+nw/xinhua/01/chtb_0196   0   27              to    TO        (S(VP*        -    -   -   -   *         *        *       (ARG1*         *   -
+nw/xinhua/01/chtb_0196   0   28              be    VB          (VP*        be  01   1   -   *         *        *            *       (V*)  -
+nw/xinhua/01/chtb_0196   0   29            true    JJ    (ADJP*)))))       -    -   -   -   *         *        *            *)   (ARG2*)  -
+nw/xinhua/01/chtb_0196   0   30               .     .            *))       -    -   -   -   *         *        *            *         *   -
+
+nw/xinhua/01/chtb_0196   0    0           There    EX          (TOP(S(S(NP*)       -    -   -   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0    1             are   VBP                  (VP*        be  02   3   -   *      (V*)       *        *         *   -
+nw/xinhua/01/chtb_0196   0    2               a    DT               (NP(NP*        -    -   -   -   *   (ARG1*        *        *         *   -
+nw/xinhua/01/chtb_0196   0    3             lot    NN                     *)      lot   -   1   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0    4              of    IN                  (PP*        -    -   -   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0    5         reasons   NNS               (NP(NP*)   reason   -   1   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0    6             for    IN                  (PP*        -    -   -   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0    7         causing   VBG                (S(VP*     cause  01   1   -   *        *      (V*)       *         *   -
+nw/xinhua/01/chtb_0196   0    8            news    NN               (NP(NP*)     news   -   1   -   *        *   (ARG1*        *         *   -
+nw/xinhua/01/chtb_0196   0    9              to    TO           (SBAR(S(VP*        -    -   -   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0   10              be    VB                  (VP*        be  01   1   -   *        *        *      (V*)        *   -
+nw/xinhua/01/chtb_0196   0   11    inconsistent    JJ                (ADJP*        -    -   -   -   *        *        *   (ARG2*         *   -
+nw/xinhua/01/chtb_0196   0   12            with    IN                  (PP*        -    -   -   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0   13           facts   NNS   (NP*))))))))))))))))     fact   -   1   -   *        *)       *)       *)        *   -
+nw/xinhua/01/chtb_0196   0   14               ,     ,                     *        -    -   -   -   *        *        *        *         *   -
+nw/xinhua/01/chtb_0196   0   15            most   JJS                (S(NP*)       -    -   -   -   *        *        *        *    (ARG1*)  -
+nw/xinhua/01/chtb_0196   0   16             are   VBP                  (VP*        be  01   1   -   *        *        *        *       (V*)  -
+nw/xinhua/01/chtb_0196   0   17      subjective    JJ                  (NP*        -    -   -   -   *        *        *        *    (ARG2*   -
+nw/xinhua/01/chtb_0196   0   18         reasons   NNS                   *)))   reason   -   1   -   *        *        *        *         *)  -
+nw/xinhua/01/chtb_0196   0   19               .     .                    *))       -    -   -   -   *        *        *        *         *   -
+
+nw/xinhua/01/chtb_0196   0    0          The     DT  (TOP(S(NP*           -    -   -   -   (ORG*   (ARG0*   (2
+nw/xinhua/01/chtb_0196   0    1            "     ``           *           -    -   -   -       *        *    -
+nw/xinhua/01/chtb_0196   0    2        Hubei    NNP           *           -    -   -   -       *        *    -
+nw/xinhua/01/chtb_0196   0    3        Daily    NNP           *           -    -   -   -       *        *    -
+nw/xinhua/01/chtb_0196   0    4            "     ''           *)          -    -   -   -       *)       *)   2)
+nw/xinhua/01/chtb_0196   0    5    published    VBD        (VP*      publish  01   1   -       *      (V*)   -
+nw/xinhua/01/chtb_0196   0    6         that     DT     (NP(NP*           -    -   -   -       *   (ARG1*   (5
+nw/xinhua/01/chtb_0196   0    7      comrade     NN           *           -    -   -   -       *        *    -
+nw/xinhua/01/chtb_0196   0    8           's    POS           *)          -    -   -   -       *        *    5)
+nw/xinhua/01/chtb_0196   0    9         self     NN           *           -    -   -   -       *        *    -
+nw/xinhua/01/chtb_0196   0   10           -    HYPH           *           -    -   -   -       *        *    -
+nw/xinhua/01/chtb_0196   0   11    criticism     NN          *))   criticism   -   1   -       *        *)   -
+nw/xinhua/01/chtb_0196   0   12            .      .          *))          -    -   -   -       *        *    -
+
+nw/xinhua/01/chtb_0196   0    0           He   PRP           (TOP(S(NP*)          -    -    -   -          *    (ARG0*)           *            *           *            *         *        *        *             *    (5)
+nw/xinhua/01/chtb_0196   0    1         said   VBD                 (VP*          say  01    1   -          *       (V*)           *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    2            ,     ,                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    3            "    ``                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    4           In    IN             (S(S(PP*           -    -    -   -          *         *            *   (ARGM-PRP*           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    5        order    NN                 (NP*        order   -   10   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    6           to    TO               (S(VP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    7          get    VB                 (VP*          get  01    1   -          *         *          (V*)           *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    8            a    DT                 (NP*           -    -    -   -          *         *       (ARG1*            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0    9         good    JJ                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   10    appraisal    NN                    *)   appraisal   -    1   -          *         *            *)           *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   11           at    IN                 (PP*           -    -    -   -          *         *   (ARGM-TMP*            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   12          the    DT              (NP(NP*           -    -    -   -     (DATE*         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   13          end    NN                    *)         end   -    3   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   14           of    IN                 (PP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   15          the    DT                 (NP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   16         year    NN            *)))))))))        year   -    1   -          *)        *            *)           *)          *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   17            ,     ,                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   18            I   PRP                 (NP*)          -    -    -   -          *         *            *       (ARG0*)          *            *         *        *        *             *    (5)
+nw/xinhua/01/chtb_0196   0   19      changed   VBD                 (VP*       change  01    1   -          *         *            *          (V*)          *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   20          the    DT              (NP(NP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   21         time    NN                    *         time   -    3   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   22          and    CC                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   23        place    NN                    *)       place   -    3   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   24           of    IN                 (PP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   25    incidents   NNS              (NP(NP*)    incident   -    2   -          *         *            *            *      (ARG1*)           *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   26        which   WDT          (SBAR(WHNP*)          -    -    -   -          *         *            *            *    (R-ARG1*)           *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   27     happened   VBD        (S(VP*))))))))      happen  01    1   -          *         *            *            *         (V*)           *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   28           or    CC                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   29            I   PRP               (S(NP*)          -    -    -   -          *         *            *            *           *       (ARG0*)   (ARG0*)       *        *             *    (5)
+nw/xinhua/01/chtb_0196   0   30          had   VBD              (VP(VP*         have   -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   31    witnessed   VBN                 (VP*      witness  01    1   -          *         *            *            *           *          (V*)        *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   32           in    IN                 (PP*           -    -    -   -          *         *            *            *           *   (ARGM-TMP*         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   33          the    DT                 (NP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   34         past    NN                 *))))        past   -    1   -          *         *            *            *           *            *)        *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   35            ,     ,                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   36          and    CC                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   37       fudged   VBD                 (VP*        fudge  01    -   -          *         *            *            *           *            *       (V*)       *        *             *     -
+nw/xinhua/01/chtb_0196   0   38         such    JJ                 (NP*           -    -    -   -          *         *            *            *           *            *    (ARG1*        *        *             *     -
+nw/xinhua/01/chtb_0196   0   39    scenarios   NNS                    *)          -    -    -   -          *         *            *            *           *            *         *)       *        *             *     -
+nw/xinhua/01/chtb_0196   0   40           as    IN                 (PP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   41            '    ``                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   42          the    DT            (S(NP(NP*           -    -    -   -          *         *            *            *           *            *         *   (ARG0*        *             *     -
+nw/xinhua/01/chtb_0196   0   43     director    NN                    *     director   -    1   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   44      general    NN                    *)     general   -    1   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   45           of    IN                 (PP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   46      revenue    NN               (NP*)))     revenue   -    1   -          *         *            *            *           *            *         *        *)       *             *     -
+nw/xinhua/01/chtb_0196   0   47      insists   VBZ                 (VP*       insist  01    1   -          *         *            *            *           *            *         *      (V*)       *             *     -
+nw/xinhua/01/chtb_0196   0   48           on    IN                 (PP*           -    -    -   -          *         *            *            *           *            *         *   (ARG1*        *             *     -
+nw/xinhua/01/chtb_0196   0   49       giving   VBG               (S(VP*         give  01    1   -          *         *            *            *           *            *         *        *      (V*)            *     -
+nw/xinhua/01/chtb_0196   0   50        Guofu   NNP                 (NP*           -    -    -   -   (PERSON*         *            *            *           *            *         *        *   (ARG2*             *    (0
+nw/xinhua/01/chtb_0196   0   51           Ba   NNP                    *)          -    -    -   -          *)        *            *            *           *            *         *        *        *)            *     0)
+nw/xinhua/01/chtb_0196   0   52            a    DT              (NP(NP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   53       reward    NN                    *)      reward   -    4   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   54           of    IN                 (PP*           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   55          50     CD                 (NP*           -    -    -   -    (MONEY*         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   56         yuan   NNS                    *         yuan   -    1   -          *)        *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   57            '    ''                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   58          and    CC                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   59            '    ``                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   60        Guofu   NNP            (S(NP(NP*           -    -    -   -   (PERSON*         *            *            *           *            *         *        *        *        (ARG0*    (0
+nw/xinhua/01/chtb_0196   0   61           Ba   NNP                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   62           's   POS                    *)          -    -    -   -          *)        *            *            *           *            *         *        *        *             *     0)
+nw/xinhua/01/chtb_0196   0   63        child    NN                    *)       child   -    1   -          *         *            *            *           *            *         *        *        *             *)    -
+nw/xinhua/01/chtb_0196   0   64          was   VBD              (VP(VP*           be   -    1   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   65          ill    JJ              (ADJP*))          -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   66          and    CC                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   67       needed   VBD                 (VP*         need  01    1   -          *         *            *            *           *            *         *        *        *           (V*)    -
+nw/xinhua/01/chtb_0196   0   68        money    NN                 (NP*)       money   -    2   -          *         *            *            *           *            *         *        *        *        (ARG1*)    -
+nw/xinhua/01/chtb_0196   0   69     urgently    RB            (ADVP*))))          -    -    -   -          *         *            *            *           *            *         *        *        *    (ARGM-MNR*)    -
+nw/xinhua/01/chtb_0196   0   70            '    ''                   *))          -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   71            ,     ,                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   72          etc    FW   (ADVP*)))))))))))))          -    -    -   -          *         *            *            *           *            *         *        *)       *             *     -
+nw/xinhua/01/chtb_0196   0   73            .     .                    *           -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+nw/xinhua/01/chtb_0196   0   74            "    ''                   *))          -    -    -   -          *         *            *            *           *            *         *        *        *             *     -
+
+nw/xinhua/01/chtb_0196   0    0               His   PRP$  (TOP(S(NP(NP*          -    -   -   -   *             *    (ARG1*        (ARG0*    (5)
+nw/xinhua/01/chtb_0196   0    1            desire     NN              *)     desire   -   1   -   *             *         *             *     -
+nw/xinhua/01/chtb_0196   0    2               for     IN           (PP*          -    -   -   -   *             *         *             *     -
+nw/xinhua/01/chtb_0196   0    3             being    VBG         (S(VP*       being   -   -   -   *             *         *             *     -
+nw/xinhua/01/chtb_0196   0    4         appraised    VBN           (VP*    appraise  01   -   -   *           (V*)        *             *     -
+nw/xinhua/01/chtb_0196   0    5              well     RB    (ADVP*))))))         -    -   -   -   *    (ARGM-MNR*)        *)            *)    -
+nw/xinhua/01/chtb_0196   0    6                is    VBZ        (VP(VP*          be  01   1   -   *             *       (V*)            *     -
+nw/xinhua/01/chtb_0196   0    7    understandable     JJ        (ADJP*))         -    -   -   -   *             *    (ARG2*)            *     -
+nw/xinhua/01/chtb_0196   0    8                 ,      ,              *          -    -   -   -   *             *         *             *     -
+nw/xinhua/01/chtb_0196   0    9               but     CC              *          -    -   -   -   *             *         *             *     -
+nw/xinhua/01/chtb_0196   0   10            should     MD           (VP*          -    -   -   -   *             *         *    (ARGM-MOD*)    -
+nw/xinhua/01/chtb_0196   0   11              have     VB           (VP*        have   -   -   -   *             *         *             *     -
+nw/xinhua/01/chtb_0196   0   12             taken    VBN           (VP*        take  01   2   -   *             *         *           (V*)    -
+nw/xinhua/01/chtb_0196   0   13               the     DT           (NP*          -    -   -   -   *             *         *        (ARG1*     -
+nw/xinhua/01/chtb_0196   0   14             right     JJ              *          -    -   -   -   *             *         *             *     -
+nw/xinhua/01/chtb_0196   0   15              road     NN          *)))))       road   -   1   -   *             *         *             *)    -
+nw/xinhua/01/chtb_0196   0   16                 .      .             *))         -    -   -   -   *             *         *             *     -
+
+nw/xinhua/01/chtb_0196   0    0         Moreover    RB   (TOP(S(ADVP*)             -    -   -   -   *    (ARGM-DIS*)   (ARGM-DIS*)  -
+nw/xinhua/01/chtb_0196   0    1                ,     ,              *              -    -   -   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0    2            press    NN           (NP*           press   -   1   -   *        (ARG0*        (ARG0*   -
+nw/xinhua/01/chtb_0196   0    3    organizations   NNS              *)   organization   -   1   -   *             *)            *)  -
+nw/xinhua/01/chtb_0196   0    4           should    MD        (VP(VP*              -    -   -   -   *    (ARGM-MOD*)            *   -
+nw/xinhua/01/chtb_0196   0    5         strictly    RB         (ADVP*)             -    -   -   -   *    (ARGM-MNR*)            *   -
+nw/xinhua/01/chtb_0196   0    6            check    VB          (VP*))          check  01   1   -   *           (V*)            *   -
+nw/xinhua/01/chtb_0196   0    7                ,     ,              *              -    -   -   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0    8              and    CC              *              -    -   -   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0    9       especially    RB         (ADVP*)             -    -   -   -   *             *    (ARGM-ADV*)  -
+nw/xinhua/01/chtb_0196   0   10             look    VB           (VP*            look  01   4   -   *             *           (V*)  -
+nw/xinhua/01/chtb_0196   0   11              out    RP          (PRT*)             -    -   -   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0   12              for    IN           (PP*              -    -   -   -   *             *        (ARG1*   -
+nw/xinhua/01/chtb_0196   0   13            those    DT           (NP*              -    -   -   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0   14                "    ``          (NML*              -    -   -   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0   15          related    JJ              *              -    -   -   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0   16         articles   NNS              *         article   -   1   -   *             *             *   -
+nw/xinhua/01/chtb_0196   0   17                "    ''          *)))))             -    -   -   -   *             *             *)  -
+nw/xinhua/01/chtb_0196   0   18                .     .             *))             -    -   -   -   *             *             *   -
+
+nw/xinhua/01/chtb_0196   0    0           So    RB   (TOP(S(ADVP*)        -    -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0    1            ,     ,              *         -    -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0    2           to    TO       (S(S(VP*         -    -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0    3       punish    VB           (VP*     punish  01   1   -   *      (V*)            *            *        *     -
+nw/xinhua/01/chtb_0196   0    4        false    JJ           (NP*         -    -   -   -   *   (ARG2*             *            *        *    (3
+nw/xinhua/01/chtb_0196   0    5         news    NN           *))))      news   -   1   -   *        *)            *            *        *     3)
+nw/xinhua/01/chtb_0196   0    6            ,     ,              *         -    -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0    7         some    DT           (NP*         -    -   -   -   *        *        (ARG1*            *        *     -
+nw/xinhua/01/chtb_0196   0    8    practical    JJ              *         -    -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0    9     measures   NNS              *)   measure   -   4   -   *        *             *)           *        *     -
+nw/xinhua/01/chtb_0196   0   10         must    MD           (VP*         -    -   -   -   *        *    (ARGM-MOD*)           *        *     -
+nw/xinhua/01/chtb_0196   0   11           be    VB           (VP*         be   -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0   12        taken   VBN        (VP*))))      take  01   1   -   *        *           (V*)           *        *     -
+nw/xinhua/01/chtb_0196   0   13            ,     ,              *         -    -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0   14     exposing   VBG       (S(S(VP*     expose  01   2   -   *        *             *          (V*)  (ARG1*     -
+nw/xinhua/01/chtb_0196   0   15           it   PRP           (NP*)        -    -   -   -   *        *             *       (ARG1*)       *    (3)
+nw/xinhua/01/chtb_0196   0   16           in    IN           (PP*         -    -   -   -   *        *             *   (ARGM-LOC*        *     -
+nw/xinhua/01/chtb_0196   0   17          the    DT           (NP*         -    -   -   -   *        *             *            *        *     -
+nw/xinhua/01/chtb_0196   0   18       papers   NNS           *))))     paper   -   2   -   *        *             *            *)       *)    -
+nw/xinhua/01/chtb_0196   0   19           is   VBZ           (VP*         be  01   1   -   *        *             *            *      (V*)    -
+nw/xinhua/01/chtb_0196   0   20         very    RB         (ADJP*         -    -   -   -   *        *             *            *   (ARG2*     -
+nw/xinhua/01/chtb_0196   0   21    effective    JJ            *)))        -    -   -   -   *        *             *            *        *)    -
+nw/xinhua/01/chtb_0196   0   22            .     .             *))        -    -   -   -   *        *             *            *        *     -
+
+nw/xinhua/01/chtb_0196   0    0         False    JJ  (TOP(S(S(NP*        -    -   -   -   *        (ARG0*             *     -
+nw/xinhua/01/chtb_0196   0    1          news   NNS             *)     news   -   1   -   *             *)            *     -
+nw/xinhua/01/chtb_0196   0    2           can    MD          (VP*        -    -   -   -   *    (ARGM-MOD*)            *     -
+nw/xinhua/01/chtb_0196   0    3          fool    VB          (VP*      fool  01   1   -   *           (V*)            *     -
+nw/xinhua/01/chtb_0196   0    4       readers   NNS          (NP*)       -    -   -   -   *        (ARG1*)            *     -
+nw/xinhua/01/chtb_0196   0    5           for    IN          (PP*        -    -   -   -   *    (ARGM-TMP*             *     -
+nw/xinhua/01/chtb_0196   0    6             a    DT       (NP(NP*        -    -   -   -   *             *             *     -
+nw/xinhua/01/chtb_0196   0    7        period    NN             *)   period   -   1   -   *             *             *     -
+nw/xinhua/01/chtb_0196   0    8            of    IN          (PP*        -    -   -   -   *             *             *     -
+nw/xinhua/01/chtb_0196   0    9          time    NN    (NP*)))))))     time   -   3   -   *             *)            *     -
+nw/xinhua/01/chtb_0196   0   10             ,     ,             *        -    -   -   -   *             *             *     -
+nw/xinhua/01/chtb_0196   0   11           but    CC             *        -    -   -   -   *             *             *     -
+nw/xinhua/01/chtb_0196   0   12    eventually    RB      (S(ADVP*)       -    -   -   -   *             *    (ARGM-TMP*)    -
+nw/xinhua/01/chtb_0196   0   13           the    DT          (NP*        -    -   -   -   *             *        (ARG0*    (1
+nw/xinhua/01/chtb_0196   0   14       writers   NNS             *)       -    -   -   -   *             *             *)    1)
+nw/xinhua/01/chtb_0196   0   15          fool   VBP          (VP*      fool  01   1   -   *             *           (V*)    -
+nw/xinhua/01/chtb_0196   0   16    themselves   PRP        (NP*)))       -    -   -   -   *             *        (ARG1*)   (1)
+nw/xinhua/01/chtb_0196   0   17             .     .            *))       -    -   -   -   *             *             *     -
+
+#end document

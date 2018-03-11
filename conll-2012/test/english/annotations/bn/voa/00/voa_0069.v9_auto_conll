@@ -1,0 +1,289 @@
+#begin document (bn/voa/00/voa_0069); part 000
+bn/voa/00/voa_0069   0    0           The     DT  (TOP(S(NP(NP(NP*         -    -   -   -       *        (ARG1*       (ARG0*   -
+bn/voa/00/voa_0069   0    1            US    NNP             (NML*         -    -   -   -   (ORG*             *            *   -
+bn/voa/00/voa_0069   0    2          Navy    NNP                 *)        -    -   -   -       *)            *            *   -
+bn/voa/00/voa_0069   0    3     destroyer     NN                 *)        -    -   -   -       *             *)           *   -
+bn/voa/00/voa_0069   0    4       damaged    VBN              (VP*     damage  01   1   -       *           (V*)           *   -
+bn/voa/00/voa_0069   0    5    apparently     RB         (PP(ADVP*)        -    -   -   -       *    (ARGM-ADV*)           *   -
+bn/voa/00/voa_0069   0    6            by     IN                 *         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0    7             a     DT              (NP*         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0    8     terrorist     JJ                 *         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0    9          bomb     NN                *))      bomb   -   1   -       *             *            *   -
+bn/voa/00/voa_0069   0   10         while     IN            (SBAR*         -    -   -   -       *    (ARGM-ADV*            *   -
+bn/voa/00/voa_0069   0   11     refueling    VBG            (S(VP*     refuel   -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   12            at     IN              (PP*         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   13           the     DT              (NP*         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   14           Red    NNP             (NML*         -    -   -   -   (LOC*             *            *   -
+bn/voa/00/voa_0069   0   15           Sea    NNP                 *)        -    -   -   -       *)            *            *   -
+bn/voa/00/voa_0069   0   16          port     NN           *)))))))      port   -   1   -       *             *)           *   -
+bn/voa/00/voa_0069   0   17             ,      ,                 *         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   18          Aden    NNP             (NP*))        -    -   -   -    (GPE)            *            *)  -
+bn/voa/00/voa_0069   0   19           has    VBZ              (VP*       have   -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   20         begun    VBN              (VP*      begin  01   2   -       *             *          (V*)  -
+bn/voa/00/voa_0069   0   21           its   PRP$              (NP*         -    -   -   -       *             *       (ARG1*   -
+bn/voa/00/voa_0069   0   22       journey     NN                 *)   journey   -   -   -       *             *            *)  -
+bn/voa/00/voa_0069   0   23          back     RB            (ADVP*         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   24            to     IN              (PP*         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   25           the     DT              (NP*         -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   26        States    NNP               *)))        -    -   -   -       *             *            *   -
+bn/voa/00/voa_0069   0   27           for     IN              (PP*         -    -   -   -       *             *   (ARGM-PRP*   -
+bn/voa/00/voa_0069   0   28        repair     NN           (NP*))))    repair   -   1   -       *             *            *)  -
+bn/voa/00/voa_0069   0   29             .      .                *))        -    -   -   -       *             *            *   -
+
+bn/voa/00/voa_0069   0    0           As    IN        (TOP(S(SBAR*           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0    1         Dave   NNP              (S(NP*           -    -   -   -    (PERSON*   (ARG0*           *             *         *   -
+bn/voa/00/voa_0069   0    2       Gavlak   NNP                   *)          -    -   -   -           *)       *)          *             *         *   -
+bn/voa/00/voa_0069   0    3      reports   VBZ              (VP*)))      report  01   1   -           *      (V*)          *             *         *   -
+bn/voa/00/voa_0069   0    4            ,     ,                   *           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0    5          the    DT                (NP*           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0    6           US   NNP                   *           -    -   -   -        (GPE)       *           *             *         *   -
+bn/voa/00/voa_0069   0    7         Cole   NNP                   *)          -    -   -   -    (PRODUCT)       *           *             *         *   -
+bn/voa/00/voa_0069   0    8          was   VBD                (VP*           be   -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0    9        towed   VBN                (VP*          tow   -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0   10          out    IN                (PP*           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0   11           of    IN                (PP*           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0   12          the    DT             (NP(NP*           -    -   -   -       (FAC*        *           *             *         *   -
+bn/voa/00/voa_0069   0   13         Aden   NNP                   *           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0   14       Harbor   NNP                   *)          -    -   -   -           *)       *           *             *         *   -
+bn/voa/00/voa_0069   0   15           to    IN                (PP*           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0   16            a    DT             (NP(NP*           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0   17      waiting   VBG                   *         wait  01   1   -           *        *         (V*)            *         *   -
+bn/voa/00/voa_0069   0   18    Norwegian   NNP                   *           -    -   -   -       (NORP)       *      (ARG1*)            *         *   -
+bn/voa/00/voa_0069   0   19    transport    NN                   *    transport   -   2   -           *        *    (C-ARG1*)            *         *   -
+bn/voa/00/voa_0069   0   20         ship    NN                   *)        ship   -   1   -           *        *    (C-ARG1*)            *         *   -
+bn/voa/00/voa_0069   0   21            ,     ,                   *           -    -   -   -           *        *           *             *         *   -
+bn/voa/00/voa_0069   0   22         that   WDT         (SBAR(WHNP*)          -    -   -   -           *        *           *      (R-ARG0*)        *   -
+bn/voa/00/voa_0069   0   23         will    MD              (S(VP*           -    -   -   -           *        *           *    (ARGM-MOD*)        *   -
+bn/voa/00/voa_0069   0   24     actually    RB              (ADVP*)          -    -   -   -           *        *           *    (ARGM-ADV*)        *   -
+bn/voa/00/voa_0069   0   25        carry    VB                (VP*        carry  01   1   -           *        *           *           (V*)        *   -
+bn/voa/00/voa_0069   0   26          the    DT                (NP*           -    -   -   -           *        *           *        (ARG1*         *   -
+bn/voa/00/voa_0069   0   27      damaged   VBN                   *       damage  01   1   -           *        *           *             *       (V*)  -
+bn/voa/00/voa_0069   0   28    destroyer    NN                   *)          -    -   -   -           *        *           *             *)   (ARG1*)  -
+bn/voa/00/voa_0069   0   29         home    RB   (ADVP*))))))))))))          -    -   -   -           *        *           *    (ARGM-LOC*)        *   -
+bn/voa/00/voa_0069   0   30            .     .                  *))          -    -   -   -           *        *           *             *         *   -
+
+bn/voa/00/voa_0069   0    0         The    DT     (TOP(S(NP*      -    -   -   -            *       (ARG1*             *   -
+bn/voa/00/voa_0069   0    1    American    JJ              *      -    -   -   -        (NORP)           *             *   -
+bn/voa/00/voa_0069   0    2    national    JJ              *      -    -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0    3      anthem    NN              *)     -    -   -   -            *            *)            *   -
+bn/voa/00/voa_0069   0    4      played   VBD           (VP*    play  01   3   -            *          (V*)            *   -
+bn/voa/00/voa_0069   0    5          as    IN         (SBAR*      -    -   -   -            *   (ARGM-TMP*             *   -
+bn/voa/00/voa_0069   0    6        four    CD         (S(NP*      -    -   -   -    (CARDINAL)           *        (ARG0*   -
+bn/voa/00/voa_0069   0    7         tug    NN              *     tug   -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0    8       boats   NNS              *)   boat   -   -   -            *            *             *)  -
+bn/voa/00/voa_0069   0    9      pulled   VBD           (VP*    pull  01   1   -            *            *           (V*)  -
+bn/voa/00/voa_0069   0   10         the    DT           (NP*      -    -   -   -    (PRODUCT*            *        (ARG1*   -
+bn/voa/00/voa_0069   0   11         USS   NNP              *      -    -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0   12        Cole   NNP              *)     -    -   -   -            *)           *             *)  -
+bn/voa/00/voa_0069   0   13      slowly    RB         (ADVP*)     -    -   -   -            *            *    (ARGM-MNR*)  -
+bn/voa/00/voa_0069   0   14         out    IN           (PP*      -    -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0   15          of    IN           (PP*      -    -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0   16       Yemen   NNP     (NP(NP(NP*      -    -   -   -         (GPE)           *             *   -
+bn/voa/00/voa_0069   0   17          's   POS              *)     -    -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0   18    southern    JJ              *      -    -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0   19        port    NN              *)   port   -   1   -        (LOC*            *             *   -
+bn/voa/00/voa_0069   0   20          of    IN           (PP*      -    -   -   -            *            *             *   -
+bn/voa/00/voa_0069   0   21        Aden   NNP   (NP*)))))))))     -    -   -   -            *)           *)            *   -
+bn/voa/00/voa_0069   0   22           .     .             *))     -    -   -   -            *            *             *   -
+
+bn/voa/00/voa_0069   0    0         The    DT    (TOP(S(NP*      -    -   -   -            *           *   -
+bn/voa/00/voa_0069   0    1        Cole   NNP             *)     -    -   -   -     (PRODUCT)          *   -
+bn/voa/00/voa_0069   0    2         was   VBD          (VP*      be   -   1   -            *           *   -
+bn/voa/00/voa_0069   0    3       badly    RB        (ADJP*      -    -   -   -            *           *   -
+bn/voa/00/voa_0069   0    4     damaged    JJ             *)     -    -   -   -            *           *   -
+bn/voa/00/voa_0069   0    5         two    CD     (ADVP(NP*      -    -   -   -       (DATE*           *   -
+bn/voa/00/voa_0069   0    6       weeks   NNS             *)   week   -   1   -            *           *   -
+bn/voa/00/voa_0069   0    7         ago    RB             *)     -    -   -   -            *)          *   -
+bn/voa/00/voa_0069   0    8          in    IN          (PP*      -    -   -   -            *           *   -
+bn/voa/00/voa_0069   0    9          an    DT       (NP(NP*      -    -   -   -            *      (ARG0*   -
+bn/voa/00/voa_0069   0   10    apparent    JJ             *      -    -   -   -            *           *   -
+bn/voa/00/voa_0069   0   11     suicide    NN             *      -    -   -   -            *           *   -
+bn/voa/00/voa_0069   0   12     bombing    NN             *)   bomb   -   -   -            *           *)  -
+bn/voa/00/voa_0069   0   13        that   WDT   (SBAR(WHNP*)     -    -   -   -            *    (R-ARG0*)  -
+bn/voa/00/voa_0069   0   14      killed   VBD        (S(VP*    kill  01   1   -            *         (V*)  -
+bn/voa/00/voa_0069   0   15         17     CD          (NP*      -    -   -   -    (CARDINAL)     (ARG1*   -
+bn/voa/00/voa_0069   0   16          US   NNP             *      -    -   -   -         (GPE)          *   -
+bn/voa/00/voa_0069   0   17     sailors   NNS       *)))))))     -    -   -   -            *           *)  -
+bn/voa/00/voa_0069   0   18           .     .            *))     -    -   -   -            *           *   -
+
+bn/voa/00/voa_0069   0   0    Security    NN   (TOP(S(NP*)   security  -   5   -   *   -
+bn/voa/00/voa_0069   0   1         was   VBD         (VP*          be  -   1   -   *   -
+bn/voa/00/voa_0069   0   2       tight    JJ       (ADJP*)         -   -   -   -   *   -
+bn/voa/00/voa_0069   0   3          as    IN       (SBAR*          -   -   -   -   *   -
+bn/voa/00/voa_0069   0   4         the    DT       (S(NP*          -   -   -   -   *   -
+bn/voa/00/voa_0069   0   5        ship    NN            *)       ship  -   1   -   *   -
+bn/voa/00/voa_0069   0   6         was   VBD         (VP*          be  -   -   -   *   -
+bn/voa/00/voa_0069   0   7       towed   VBN         (VP*         tow  -   -   -   *   -
+bn/voa/00/voa_0069   0   8         out    RP   (PRT*))))))         -   -   -   -   *   -
+bn/voa/00/voa_0069   0   9           .     .           *))         -   -   -   -   *   -
+
+bn/voa/00/voa_0069   0    0       American    JJ  (TOP(S(NP(ADJP*            -    -   -   -       (NORP)  (ARG1*             *   -
+bn/voa/00/voa_0069   0    1            and    CC                *            -    -   -   -           *        *             *   -
+bn/voa/00/voa_0069   0    2         Yemeni    JJ                *)           -    -   -   -       (NORP)       *             *   -
+bn/voa/00/voa_0069   0    3         patrol    NN                *        patrol   -   -   -           *        *             *   -
+bn/voa/00/voa_0069   0    4          boats   NNS                *)         boat   -   -   -           *        *)            *   -
+bn/voa/00/voa_0069   0    5        mounted   VBD             (VP*         mount  02   3   -           *      (V*)            *   -
+bn/voa/00/voa_0069   0    6           with    IN             (PP*            -    -   -   -           *   (ARG2*             *   -
+bn/voa/00/voa_0069   0    7        machine    NN             (NP*       machine   -   1   -           *        *             *   -
+bn/voa/00/voa_0069   0    8           guns   NNS               *))          gun   -   1   -           *        *)            *   -
+bn/voa/00/voa_0069   0    9       escorted   VBN             (VP*        escort   -   1   -           *        *             *   -
+bn/voa/00/voa_0069   0   10            the    DT             (NP*            -    -   -   -           *        *             *   -
+bn/voa/00/voa_0069   0   11           Cole   NNP                *)           -    -   -   -    (PRODUCT)       *             *   -
+bn/voa/00/voa_0069   0   12            out    IN             (PP*            -    -   -   -           *        *             *   -
+bn/voa/00/voa_0069   0   13             to    IN             (PP*            -    -   -   -           *        *             *   -
+bn/voa/00/voa_0069   0   14           open    JJ             (NP*            -    -   -   -           *        *             *   -
+bn/voa/00/voa_0069   0   15         waters   NNS              *)))        water   -   3   -           *        *             *   -
+bn/voa/00/voa_0069   0   16          while    IN           (SBAR*            -    -   -   -           *        *             *   -
+bn/voa/00/voa_0069   0   17       American    JJ           (S(NP*            -    -   -   -       (NORP)       *        (ARG1*   -
+bn/voa/00/voa_0069   0   18    helicopters   NNS                *)   helicopter   -   1   -           *        *             *)  -
+bn/voa/00/voa_0069   0   19           flew   VBD             (VP*           fly  01   1   -           *        *           (V*)  -
+bn/voa/00/voa_0069   0   20       overhead    RB      (ADVP*))))))           -    -   -   -           *        *    (ARGM-LOC*)  -
+bn/voa/00/voa_0069   0   21              .     .               *))           -    -   -   -           *        *             *   -
+
+bn/voa/00/voa_0069   0   0         Some     DT   (TOP(S(NP*         -    -   -   -        *   (ARG0*        *        *   -
+bn/voa/00/voa_0069   0   1      Yemenis   NNPS            *)        -    -   -   -    (NORP)       *)       *        *   -
+bn/voa/00/voa_0069   0   2    expressed    VBD         (VP*    express  01   1   -        *      (V*)       *        *   -
+bn/voa/00/voa_0069   0   3       relief     NN         (NP*     relief   -   1   -        *        *        *        *   -
+bn/voa/00/voa_0069   0   4           to     TO       (S(VP*         -    -   -   -        *        *        *        *   -
+bn/voa/00/voa_0069   0   5          see     VB         (VP*        see  01   3   -        *        *      (V*)       *   -
+bn/voa/00/voa_0069   0   6          the     DT       (S(NP*         -    -   -   -        *        *   (ARG1*   (ARG0*   -
+bn/voa/00/voa_0069   0   7         ship     NN            *)      ship   -   1   -        *        *        *        *)  -
+bn/voa/00/voa_0069   0   8        leave     VB   (VP*)))))))     leave  01   1   -        *        *        *)     (V*)  -
+bn/voa/00/voa_0069   0   9            .      .           *))        -    -   -   -        *        *        *        *   -
+
+bn/voa/00/voa_0069   0    0         Many    JJ       (TOP(S(NP*         -    -   -   -        *   (ARG0*         *             *   -
+bn/voa/00/voa_0069   0    1       locals   NNS                *)        -    -   -   -        *        *)        *             *   -
+bn/voa/00/voa_0069   0    2         said   VBD             (VP*        say  01   1   -        *      (V*)        *             *   -
+bn/voa/00/voa_0069   0    3         they   PRP      (SBAR(S(NP*)        -    -   -   -        *   (ARG1*    (ARG0*)            *   -
+bn/voa/00/voa_0069   0    4       feared   VBD             (VP*       fear  01   2   -        *        *       (V*)            *   -
+bn/voa/00/voa_0069   0    5          the    DT   (SBAR(S(NP(NP*         -    -   -   -        *        *         *        (ARG0*   -
+bn/voa/00/voa_0069   0    6      bombing    NN                *)      bomb   -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0    7           of    IN             (PP*         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0    8          the    DT             (NP*         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0    9         ship    NN              *)))      ship   -   1   -        *        *         *             *)  -
+bn/voa/00/voa_0069   0   10        would    MD             (VP*         -    -   -   -        *        *         *    (ARGM-MOD*)  -
+bn/voa/00/voa_0069   0   11        serve    VB             (VP*      serve  01   3   -        *        *         *           (V*)  -
+bn/voa/00/voa_0069   0   12           as    IN             (PP*         -    -   -   -        *        *         *        (ARG1*   -
+bn/voa/00/voa_0069   0   13           an    DT          (NP(NP*         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   14       excuse    NN                *)    excuse   -   1   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   15          for    IN             (PP*         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   16    continued    JJ          (NP(NP*         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   17           US   NNP                *         -    -   -   -    (NORP)       *         *             *   -
+bn/voa/00/voa_0069   0   18     military    JJ                *         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   19     presence    NN                *)        -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   20           in    IN             (PP*         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   21          the    DT             (NP*         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   22         Gulf   NNP                *         -    -   -   -     (LOC)       *         *             *   -
+bn/voa/00/voa_0069   0   23      country    NN   *))))))))))))))   country   -   3   -        *        *)        *             *)  -
+bn/voa/00/voa_0069   0   24            .     .               *))        -    -   -   -        *        *         *             *   -
+
+bn/voa/00/voa_0069   0    0        Diplomats   NNS  (TOP(S(NP*         diplomat   -   1   -   *   (ARG0*             *   -
+bn/voa/00/voa_0069   0    1              and    CC           *               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0    2         analysts   NNS           *)         analyst   -   1   -   *        *)            *   -
+bn/voa/00/voa_0069   0    3             have   VBP        (VP*             have   -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0    4        commented   VBN        (VP*          comment  01   1   -   *      (V*)            *   -
+bn/voa/00/voa_0069   0    5             that    IN      (SBAR*               -    -   -   -   *   (ARG1*             *   -
+bn/voa/00/voa_0069   0    6                a    DT   (S(NP(NP*               -    -   -   -   *        *        (ARG0*   -
+bn/voa/00/voa_0069   0    7            joint    JJ           *               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0    8    investigation    NN           *)   investigation   -   1   -   *        *             *   -
+bn/voa/00/voa_0069   0    9             into    IN        (PP*               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   10              the    DT        (NP*               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   11           attack    NN         *)))          attack   -   1   -   *        *             *)  -
+bn/voa/00/voa_0069   0   12              may    MD        (VP*               -    -   -   -   *        *    (ARGM-MOD*)  -
+bn/voa/00/voa_0069   0   13               in    IN        (PP*               -    -   -   -   *        *    (ARGM-ADV*   -
+bn/voa/00/voa_0069   0   14             fact    NN       (NP*))            fact   -   5   -   *        *             *)  -
+bn/voa/00/voa_0069   0   15       strengthen    VB        (VP*       strengthen  01   1   -   *        *           (V*)  -
+bn/voa/00/voa_0069   0   16             ties   NNS     (NP(NP*)             tie   -   2   -   *        *             *   -
+bn/voa/00/voa_0069   0   17          between    IN        (PP*               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   18              the    DT        (NP*               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   19            world    NN         *)))           world   -   1   -   *        *             *   -
+bn/voa/00/voa_0069   0   20            super    JJ     (NP(NP*               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   21            power    NN           *)           power   -   1   -   *        *             *   -
+bn/voa/00/voa_0069   0   22              and    CC           *               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   23              the    DT        (NP*               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   24             poor    JJ      (ADJP*               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   25                ,     ,           *               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   26              but    CC           *               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   27        strategic    JJ           *)              -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   28             Arab   NNP           *               -    -   -   -   *        *             *   -
+bn/voa/00/voa_0069   0   29            state    NN    *))))))))           state   -   2   -   *        *)            *   -
+bn/voa/00/voa_0069   0   30                .     .          *))              -    -   -   -   *        *             *   -
+
+bn/voa/00/voa_0069   0    0           US   NNP  (TOP(S(NP(UCP*          -    -   -   -     (GPE)  (ARG0*         *             *   -
+bn/voa/00/voa_0069   0    1          and    CC               *          -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0    2       Yemeni    JJ               *)         -    -   -   -    (NORP)       *         *             *   -
+bn/voa/00/voa_0069   0    3    officials   NNS               *)   official   -   1   -        *        *)        *             *   -
+bn/voa/00/voa_0069   0    4          say   VBP            (VP*         say  01   1   -        *      (V*)        *             *   -
+bn/voa/00/voa_0069   0    5         they   PRP     (SBAR(S(NP*)         -    -   -   -        *   (ARG1*    (ARG0*)            *   -
+bn/voa/00/voa_0069   0    6      believe   VBP            (VP*     believe  01   1   -        *        *       (V*)            *   -
+bn/voa/00/voa_0069   0    7      Islamic    JJ     (SBAR(S(NP*          -    -   -   -    (NORP)       *    (ARG1*        (ARG0*   -
+bn/voa/00/voa_0069   0    8    militants   NNS               *)         -    -   -   -        *        *         *             *)  -
+bn/voa/00/voa_0069   0    9          may    MD            (VP*          -    -   -   -        *        *         *    (ARGM-MOD*)  -
+bn/voa/00/voa_0069   0   10         have    VB            (VP*        have   -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   11      carried   VBN            (VP*       carry  03   8   -        *        *         *           (V*)  -
+bn/voa/00/voa_0069   0   12          out    RP           (PRT*)         -    -   -   -        *        *         *             *   -
+bn/voa/00/voa_0069   0   13          the    DT            (NP*          -    -   -   -        *        *         *        (ARG1*   -
+bn/voa/00/voa_0069   0   14      bombing    NN      *))))))))))       bomb   -   -   -        *        *)        *)            *)  -
+bn/voa/00/voa_0069   0   15            .     .              *))         -    -   -   -        *        *         *             *   -
+
+bn/voa/00/voa_0069   0    0                So    RB  (TOP(S(ADVP*                -    -   -   -            *             *   (ARGM-TMP*   -
+bn/voa/00/voa_0069   0    1               far    RB             *)               -    -   -   -            *             *            *)  -
+bn/voa/00/voa_0069   0    2               two    CD          (NP*                -    -   -   -    (CARDINAL)            *       (ARG0*   -
+bn/voa/00/voa_0069   0    3            little    RB        (ADJP*                -    -   -   -            *    (ARGM-EXT*)           *   -
+bn/voa/00/voa_0069   0    4             known   VBN             *)             know  01   2   -            *           (V*)           *   -
+bn/voa/00/voa_0069   0    5           Islamic    JJ             *                -    -   -   -        (NORP)       (ARG1*)           *   -
+bn/voa/00/voa_0069   0    6            groups   NNS             *)            group   -   1   -            *      (C-ARG1*)           *)  -
+bn/voa/00/voa_0069   0    7              have   VBP          (VP*              have   -   -   -            *             *            *   -
+bn/voa/00/voa_0069   0    8           claimed   VBN          (VP*             claim  01   2   -            *             *          (V*)  -
+bn/voa/00/voa_0069   0    9    responsibility    NN       (NP(NP*)   responsibility   -   3   -            *             *       (ARG1*   -
+bn/voa/00/voa_0069   0   10               for    IN          (PP*                -    -   -   -            *             *            *   -
+bn/voa/00/voa_0069   0   11               the    DT          (NP*                -    -   -   -            *             *            *   -
+bn/voa/00/voa_0069   0   12            attack    NN         *)))))           attack   -   1   -            *             *            *)  -
+bn/voa/00/voa_0069   0   13                 .     .            *))               -    -   -   -            *             *            *   -
+
+bn/voa/00/voa_0069   0    0         Yemeni    JJ    (TOP(S(NP*           -    -   -   -        (NORP)  (ARG0*            *   -
+bn/voa/00/voa_0069   0    1    authorities   NNS             *)   authority   -   3   -            *        *)           *   -
+bn/voa/00/voa_0069   0    2        claimed   VBD          (VP*        claim  01   1   -            *      (V*)           *   -
+bn/voa/00/voa_0069   0    3           they   PRP   (SBAR(S(NP*)          -    -   -   -            *   (ARG1*       (ARG0*)  -
+bn/voa/00/voa_0069   0    4           have   VBP          (VP*         have   -   -   -            *        *            *   -
+bn/voa/00/voa_0069   0    5       detained   VBN          (VP*       detain  01   1   -            *        *          (V*)  -
+bn/voa/00/voa_0069   0    6           over    RP         (PRT*)          -    -   -   -   (CARDINAL*        *            *   -
+bn/voa/00/voa_0069   0    7            70     CD          (NP*           -    -   -   -            *)       *       (ARG1*   -
+bn/voa/00/voa_0069   0    8         people   NNS             *)      people   -   1   -            *        *            *)  -
+bn/voa/00/voa_0069   0    9            for    IN          (PP*           -    -   -   -            *        *   (ARGM-PRP*   -
+bn/voa/00/voa_0069   0   10    questioning    NN    (NP*)))))))    question   -   -   -            *        *)           *)  -
+bn/voa/00/voa_0069   0   11              .     .            *))          -    -   -   -            *        *            *   -
+
+bn/voa/00/voa_0069   0    0          These     DT    (TOP(S(NP*)          -    -   -   -        *    (ARG2*)           *            *   -
+bn/voa/00/voa_0069   0    1        include    VBP          (VP*      include  01   1   -        *       (V*)           *            *   -
+bn/voa/00/voa_0069   0    2           some     DT       (NP(NP*           -    -   -   -        *    (ARG1*       (ARG1*            *   -
+bn/voa/00/voa_0069   0    3         Afghan    NNP         (NML*           -    -   -   -    (NORP)        *            *            *   -
+bn/voa/00/voa_0069   0    4             -    HYPH             *           -    -   -   -        *         *            *            *   -
+bn/voa/00/voa_0069   0    5           Arab    NNP             *)          -    -   -   -        *         *            *            *   -
+bn/voa/00/voa_0069   0    6     volunteers    NNS             *)   volunteer   -   -   -        *         *            *)           *   -
+bn/voa/00/voa_0069   0    7            who     WP   (SBAR(WHNP*)          -    -   -   -        *         *     (R-ARG1*)      (ARG0*)  -
+bn/voa/00/voa_0069   0    8           came    VBD        (S(VP*         come  01   1   -        *         *          (V*)           *   -
+bn/voa/00/voa_0069   0    9             to     IN          (PP*           -    -   -   -        *         *       (ARG4*            *   -
+bn/voa/00/voa_0069   0   10          Yemen    NNP         (NP*))          -    -   -   -     (GPE)        *            *)           *   -
+bn/voa/00/voa_0069   0   11          after     IN          (PP*           -    -   -   -        *         *   (ARGM-TMP*            *   -
+bn/voa/00/voa_0069   0   12       fighting    VBG        (S(VP*        fight  01   1   -        *         *            *          (V*)  -
+bn/voa/00/voa_0069   0   13        against     IN          (PP*           -    -   -   -        *         *            *       (ARG1*   -
+bn/voa/00/voa_0069   0   14         Soviet    NNP       (NP(NP*           -    -   -   -    (NORP)        *            *            *   -
+bn/voa/00/voa_0069   0   15         forces    NNS             *)       force   -   2   -        *         *            *            *   -
+bn/voa/00/voa_0069   0   16             in     IN          (PP*           -    -   -   -        *         *            *            *   -
+bn/voa/00/voa_0069   0   17    Afghanistan    NNP       (NP*))))          -    -   -   -     (GPE)        *            *            *)  -
+bn/voa/00/voa_0069   0   18             in     IN          (PP*           -    -   -   -        *         *            *   (ARGM-TMP*   -
+bn/voa/00/voa_0069   0   19            the     DT          (NP*           -    -   -   -   (DATE*         *            *            *   -
+bn/voa/00/voa_0069   0   20          1980s    NNS    *))))))))))          -    -   -   -        *)        *)           *)           *)  -
+bn/voa/00/voa_0069   0   21              .      .            *))          -    -   -   -        *         *            *            *   -
+
+bn/voa/00/voa_0069   0   0      Dave   NNP  (TOP(FRAG(NP*   -   -   -   -   (PERSON*   -
+bn/voa/00/voa_0069   0   1    Gavlak   NNP              *)  -   -   -   -          *)  -
+bn/voa/00/voa_0069   0   2       for    IN           (PP*   -   -   -   -          *   -
+bn/voa/00/voa_0069   0   3       VOA   NNP        (NP(NP*   -   -   -   -      (ORG*   -
+bn/voa/00/voa_0069   0   4      News   NNP              *)  -   -   -   -          *)  -
+bn/voa/00/voa_0069   0   5         ,     ,              *   -   -   -   -          *   -
+bn/voa/00/voa_0069   0   6     Cairo   NNP         (NP*)))  -   -   -   -       (GPE)  -
+bn/voa/00/voa_0069   0   7         .     .             *))  -   -   -   -          *   -
+
+#end document

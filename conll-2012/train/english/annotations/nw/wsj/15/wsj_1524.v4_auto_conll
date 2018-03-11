@@ -1,0 +1,141 @@
+#begin document (nw/wsj/15/wsj_1524); part 000
+nw/wsj/15/wsj_1524   0    0             Lotus    NNP    (TOP(S(S(NP*             -    -   -   -   (ORG*   (ARG1*   (ARG0*         *       (5
+nw/wsj/15/wsj_1524   0    1       Development    NNP               *             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0    2             Corp.    NNP               *)            -    -   -   -       *)       *)       *)        *        5)
+nw/wsj/15/wsj_1524   0    3                is    VBZ            (VP*             be  01   2   -       *      (V*)       *         *        -
+nw/wsj/15/wsj_1524   0    4                in     IN            (PP*             -    -   -   -       *   (ARG2*        *         *        -
+nw/wsj/15/wsj_1524   0    5             talks    NNS         (NP(NP*)          talk   -   3   -       *        *        *         *       (0)
+nw/wsj/15/wsj_1524   0    6                to     TO          (S(VP*             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0    7              sell     VB            (VP*           sell  01   1   -       *        *      (V*)        *       (4)
+nw/wsj/15/wsj_1524   0    8               its   PRP$         (NP(NP*             -    -   -   -       *        *   (ARG1*         *    (1|(5)
+nw/wsj/15/wsj_1524   0    9            Signal    NNP               *             -    -   -   -    (ORG)       *        *         *        -
+nw/wsj/15/wsj_1524   0   10             stock     NN           (NML*          stock   -   1   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   11                -    HYPH               *             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   12             quote     NN               *)         quote   -   2   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   13           service     NN               *)       service   -   2   -       *        *        *         *        1)
+nw/wsj/15/wsj_1524   0   14                to     IN            (PP*             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   15    Infotechnology    NNP         (NP(NP*             -    -   -   -   (ORG*        *        *         *        -
+nw/wsj/15/wsj_1524   0   16              Inc.    NNP               *)            -    -   -   -       *)       *        *         *        -
+nw/wsj/15/wsj_1524   0   17                 ,      ,               *             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   18               the     DT         (NP(NP*             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   19               New    NNP           (NML*             -    -   -   -   (GPE*        *        *         *        -
+nw/wsj/15/wsj_1524   0   20              York    NNP               *)            -    -   -   -       *)       *        *         *        -
+nw/wsj/15/wsj_1524   0   21            parent     NN               *)        parent   -   1   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   22                of     IN            (PP*             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   23         Financial    NNP        (NP(NML*             -    -   -   -   (ORG*        *        *         *        -
+nw/wsj/15/wsj_1524   0   24              News    NNP               *)            -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   25           Network    NNP   *)))))))))))))            -    -   -   -       *)       *)       *)        *        -
+nw/wsj/15/wsj_1524   0   26                 ,      ,               *             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   27            people    NNS         (NP(NP*)        people   -   1   -       *        *        *    (ARG0*       (3
+nw/wsj/15/wsj_1524   0   28          familiar     JJ          (ADJP*             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   29              with     IN            (PP*             -    -   -   -       *        *        *         *        -
+nw/wsj/15/wsj_1524   0   30               the     DT            (NP*             -    -   -   -       *        *        *         *       (0
+nw/wsj/15/wsj_1524   0   31      negotiations    NNS            *))))   negotiation   -   1   -       *        *        *         *)    3)|0)
+nw/wsj/15/wsj_1524   0   32              said    VBD            (VP*)           say  01   1   -       *        *        *       (V*)       -
+nw/wsj/15/wsj_1524   0   33                 .      .              *))            -    -   -   -       *        *        *    (ARG1*)       -
+
+nw/wsj/15/wsj_1524   0    0       They   PRP   (TOP(S(NP*)      -    -   -   -         *    (ARG0*)            *    (3)
+nw/wsj/15/wsj_1524   0    1       said   VBD         (VP*      say  01   1   -         *       (V*)            *     -
+nw/wsj/15/wsj_1524   0    2        the    DT  (SBAR(S(NP*       -    -   -   -         *    (ARG1*        (ARG1*     -
+nw/wsj/15/wsj_1524   0    3      price    NN            *)   price   -   1   -         *         *             *)    -
+nw/wsj/15/wsj_1524   0    4      would    MD         (VP*       -    -   -   -         *         *    (ARGM-MOD*)    -
+nw/wsj/15/wsj_1524   0    5         be    VB         (VP*       be  01   2   -         *         *           (V*)    -
+nw/wsj/15/wsj_1524   0    6     around    RB      (NP(QP*       -    -   -   -         *         *        (ARG2*     -
+nw/wsj/15/wsj_1524   0    7          $     $            *       -    -   -   -   (MONEY*         *             *     -
+nw/wsj/15/wsj_1524   0    8        10     CD            *       -    -   -   -         *         *             *     -
+nw/wsj/15/wsj_1524   0    9    million    CD      *)))))))      -    -   -   -         *)        *)            *)    -
+nw/wsj/15/wsj_1524   0   10          .     .           *))      -    -   -   -         *         *             *     -
+
+nw/wsj/15/wsj_1524   0    0         Signal   NNP   (TOP(S(NP(NP*)         -    -   -   -         (ORG)     (ARG0*)     (ARG1*)  (ARG0*             *             *   (1
+nw/wsj/15/wsj_1524   0    1              ,     ,               *          -    -   -   -            *           *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0    2          which   WDT     (SBAR(WHNP*)         -    -   -   -            *    (R-ARG0*)   (R-ARG1*)       *             *             *    -
+nw/wsj/15/wsj_1524   0    3            has   VBZ       (S(VP(VP*        have  03   2   -            *         (V*)          *        *             *             *    -
+nw/wsj/15/wsj_1524   0    4             an    DT         (NP(QP*          -    -   -   -   (CARDINAL*      (ARG1*           *        *             *             *    -
+nw/wsj/15/wsj_1524   0    5      estimated    JJ               *          -    -   -   -            *           *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0    6        10,000     CD               *)         -    -   -   -            *)          *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0    7    subscribers   NNS              *))         -    -   -   -            *           *)          *        *             *             *    -
+nw/wsj/15/wsj_1524   0    8            and    CC               *          -    -   -   -            *           *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0    9             is   VBZ            (VP*          be  01   1   -            *           *         (V*)       *             *             *    -
+nw/wsj/15/wsj_1524   0   10     profitable    JJ      (ADJP*)))))         -    -   -   -            *           *      (ARG2*)       *             *             *    -
+nw/wsj/15/wsj_1524   0   11              ,     ,               *)         -    -   -   -            *           *           *        *)            *             *    1)
+nw/wsj/15/wsj_1524   0   12       provides   VBZ            (VP*     provide  01   1   -            *           *           *      (V*)            *             *    -
+nw/wsj/15/wsj_1524   0   13          stock    NN            (NP*       stock   -   1   -            *           *           *   (ARG1*             *             *    -
+nw/wsj/15/wsj_1524   0   14         quotes   NNS               *)      quote   -   2   -            *           *           *        *)            *             *    -
+nw/wsj/15/wsj_1524   0   15           over    IN            (PP*          -    -   -   -            *           *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0   16             an    DT         (NP(NP*          -    -   -   -            *           *           *        *        (ARG1*             *    -
+nw/wsj/15/wsj_1524   0   17             FM   NNP               *          -    -   -   -            *           *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0   18          radio    NN               *       radio   -   -   -            *           *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0   19           band    NN               *)       band   -   -   -            *           *           *        *             *)            *    -
+nw/wsj/15/wsj_1524   0   20           that   WDT     (SBAR(WHNP*)         -    -   -   -            *           *           *        *      (R-ARG1*)            *    -
+nw/wsj/15/wsj_1524   0   21            can    MD          (S(VP*          -    -   -   -            *           *           *        *    (ARGM-MOD*)            *    -
+nw/wsj/15/wsj_1524   0   22             be    VB            (VP*          be   -   -   -            *           *           *        *             *             *    -
+nw/wsj/15/wsj_1524   0   23       received   VBN            (VP*     receive  01   1   -            *           *           *        *           (V*)            *    -
+nw/wsj/15/wsj_1524   0   24             by    IN            (PP*          -    -   -   -            *           *           *        *        (ARG0*             *    -
+nw/wsj/15/wsj_1524   0   25      specially    RB       (NP(ADJP*          -    -   -   -            *           *           *        *             *    (ARGM-MNR*)  (2
+nw/wsj/15/wsj_1524   0   26       equipped   VBN               *)      equip  01   1   -            *           *           *        *             *           (V*)   -
+nw/wsj/15/wsj_1524   0   27       personal    JJ               *          -    -   -   -            *           *           *        *             *        (ARG1*)   -
+nw/wsj/15/wsj_1524   0   28      computers   NNS      *))))))))))   computer   -   1   -            *           *           *        *             *)     (C-ARG1*)   2)
+nw/wsj/15/wsj_1524   0   29              .     .              *))         -    -   -   -            *           *           *        *             *             *    -
+
+nw/wsj/15/wsj_1524   0   0          The    DT  (TOP(S(NP*          -    -   -   -   *        (ARG2*        *   (2
+nw/wsj/15/wsj_1524   0   1    computers   NNS           *)   computer   -   1   -   *             *)       *    2)
+nw/wsj/15/wsj_1524   0   2         will    MD        (VP*          -    -   -   -   *    (ARGM-MOD*)       *    -
+nw/wsj/15/wsj_1524   0   3      display    VB        (VP*     display  01   1   -   *           (V*)       *    -
+nw/wsj/15/wsj_1524   0   4        stock    NN     (NP(NP*       stock   -   1   -   *        (ARG1*   (ARG1*    -
+nw/wsj/15/wsj_1524   0   5       prices   NNS           *)      price   -   1   -   *             *        *)   -
+nw/wsj/15/wsj_1524   0   6     selected   VBN        (VP*      select  01   1   -   *             *      (V*)   -
+nw/wsj/15/wsj_1524   0   7           by    IN        (PP*          -    -   -   -   *             *   (ARG0*    -
+nw/wsj/15/wsj_1524   0   8        users   NNS   (NP*))))))         -    -   -   -   *             *)       *)   -
+nw/wsj/15/wsj_1524   0   9            .     .          *))         -    -   -   -   *             *        *    -
+
+nw/wsj/15/wsj_1524   0    0            Lotus    NNP   (TOP(S(NP(NP*)              -    -   -   -     (ORG)  (ARG0*      (5
+nw/wsj/15/wsj_1524   0    1                ,      ,               *               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0    2        Cambridge    NNP         (NP(NP*)              -    -   -   -     (GPE)       *       -
+nw/wsj/15/wsj_1524   0    3                ,      ,               *               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0    4            Mass.    NNP           (NP*))              -    -   -   -     (GPE)       *       -
+nw/wsj/15/wsj_1524   0    5                ,      ,               *)              -    -   -   -        *        *)      5)
+nw/wsj/15/wsj_1524   0    6              has    VBZ            (VP*             have   -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0    7             been    VBN            (VP*               be   -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0    8          rumored    VBN            (VP*            rumor   -   1   -        *        *       -
+nw/wsj/15/wsj_1524   0    9               to     TO          (S(VP*               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0   10             have     VB            (VP*             have  03   2   -        *      (V*)      -
+nw/wsj/15/wsj_1524   0   11              the     DT         (NP(NP*               -    -   -   -        *        *      (4
+nw/wsj/15/wsj_1524   0   12             sale     NN               *)            sale   -   1   -        *        *       -
+nw/wsj/15/wsj_1524   0   13               of     IN            (PP*               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0   14              the     DT            (NP*               -    -   -   -        *        *      (1
+nw/wsj/15/wsj_1524   0   15             four     CD      (ADJP(NML*               -    -   -   -   (DATE*        *       -
+nw/wsj/15/wsj_1524   0   16               -    HYPH               *               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0   17             year     NN               *)            year   -   1   -        *        *       -
+nw/wsj/15/wsj_1524   0   18               -    HYPH               *               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0   19              old     JJ               *)              -    -   -   -        *)       *       -
+nw/wsj/15/wsj_1524   0   20             unit     NN             *)))            unit   -   2   -        *        *    4)|1)
+nw/wsj/15/wsj_1524   0   21            under     IN            (PP*               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0   22    consideration     NN         (NP(NP*)   consideration   -   1   -        *        *       -
+nw/wsj/15/wsj_1524   0   23              for     IN            (PP*               -    -   -   -        *        *       -
+nw/wsj/15/wsj_1524   0   24                a     DT            (NP*               -    -   -   -   (DATE*        *       -
+nw/wsj/15/wsj_1524   0   25             year     NN      *))))))))))            year   -   1   -        *)       *       -
+nw/wsj/15/wsj_1524   0   26                .      .              *))              -    -   -   -        *        *       -
+
+nw/wsj/15/wsj_1524   0    0            The    DT    (TOP(S(NP*             -    -   -   -       *        (ARG1*   (1
+nw/wsj/15/wsj_1524   0    1       business    NN             *)      business   -   1   -       *             *)   1)
+nw/wsj/15/wsj_1524   0    2             is   VBZ          (VP*             be   -   -   -       *             *    -
+nw/wsj/15/wsj_1524   0    3            n't    RB             *             -    -   -   -       *    (ARGM-NEG*)   -
+nw/wsj/15/wsj_1524   0    4        related   VBN          (VP*         relate  01   2   -       *           (V*)   -
+nw/wsj/15/wsj_1524   0    5             to    IN          (PP*             -    -   -   -       *        (ARG2*    -
+nw/wsj/15/wsj_1524   0    6          Lotus   NNP    (NP(NP(NP*             -    -   -   -    (ORG)            *   (5
+nw/wsj/15/wsj_1524   0    7             's   POS             *)            -    -   -   -       *             *    5)
+nw/wsj/15/wsj_1524   0    8           main    JJ             *             -    -   -   -       *             *    -
+nw/wsj/15/wsj_1524   0    9     businesses   NNS             *)      business   -   1   -       *             *    -
+nw/wsj/15/wsj_1524   0   10             of    IN          (PP*             -    -   -   -       *             *    -
+nw/wsj/15/wsj_1524   0   11         making   VBG        (S(VP*           make   -   2   -       *             *    -
+nw/wsj/15/wsj_1524   0   12       computer    NN       (NP(NP*       computer   -   1   -       *             *    -
+nw/wsj/15/wsj_1524   0   13       software    NN             *)            -    -   -   -       *             *    -
+nw/wsj/15/wsj_1524   0   14            and    CC             *             -    -   -   -       *             *    -
+nw/wsj/15/wsj_1524   0   15     publishing    NN       (NP(NP*     publishing   -   1   -       *             *    -
+nw/wsj/15/wsj_1524   0   16    information    NN             *)   information   -   1   -       *             *    -
+nw/wsj/15/wsj_1524   0   17             on    IN          (PP*             -    -   -   -       *             *    -
+nw/wsj/15/wsj_1524   0   18        compact    JJ          (NP*             -    -   -   -       *             *    -
+nw/wsj/15/wsj_1524   0   19          disks   NNS   *)))))))))))            -    -   -   -       *             *)   -
+nw/wsj/15/wsj_1524   0   20              .     .            *))            -    -   -   -       *             *    -
+
+#end document

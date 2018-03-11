@@ -1,0 +1,126 @@
+#begin document (bn/cnn/01/cnn_0159); part 000
+bn/cnn/01/cnn_0159   0    0    Checking   VBG  (TOP(S(S(VP*      check   -   1   -        *   (ARGM-ADV*   -
+bn/cnn/01/cnn_0159   0    1         the    DT          (NP*         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0    2         top    JJ             *         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0    3     stories   NNS           *)))     story   -   1   -        *            *)  -
+bn/cnn/01/cnn_0159   0    4         --      :             *         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0    5        this    DT          (NP*)        -    -   -   -        *       (ARG1*)  -
+bn/cnn/01/cnn_0159   0    6          is   VBZ          (VP*         be  01   1   -        *          (V*)  -
+bn/cnn/01/cnn_0159   0    7         one    CD       (NP(NP*)        -    -   -   -        *       (ARG2*   -
+bn/cnn/01/cnn_0159   0    8          of    IN          (PP*         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0    9         the    DT       (NP(NP*         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0   10     busiest   JJS             *         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0   11      travel    NN             *     travel   -   1   -        *            *   -
+bn/cnn/01/cnn_0159   0   12    weekends   NNS             *)   weekend   -   -   -   (DATE*            *   -
+bn/cnn/01/cnn_0159   0   13          of    IN          (PP*         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0   14         the    DT          (NP*         -    -   -   -        *            *   -
+bn/cnn/01/cnn_0159   0   15        year    NN        *))))))      year   -   1   -        *)           *)  -
+bn/cnn/01/cnn_0159   0   16           .     .            *))        -    -   -   -        *            *   -
+
+bn/cnn/01/cnn_0159   0    0          AAA    NNP      (TOP(S(NP*)         -    -   -   -         (ORG)   (ARG0*)            *   -
+bn/cnn/01/cnn_0159   0    1    estimates    VBZ            (VP*    estimate  01   1   -            *       (V*)            *   -
+bn/cnn/01/cnn_0159   0    2          61      CD  (SBAR(S(NP(QP*          -    -   -   -   (CARDINAL*         *        (ARG0*   -
+bn/cnn/01/cnn_0159   0    3      million     CD               *)         -    -   -   -            *)        *             *   -
+bn/cnn/01/cnn_0159   0    4    Americans   NNPS               *)         -    -   -   -        (NORP)        *             *)  -
+bn/cnn/01/cnn_0159   0    5         will     MD            (VP*          -    -   -   -            *         *    (ARGM-MOD*)  -
+bn/cnn/01/cnn_0159   0    6           be     VB            (VP*          be   -   -   -            *         *             *   -
+bn/cnn/01/cnn_0159   0    7      heading    VBG            (VP*        head  02   1   -            *         *           (V*)  -
+bn/cnn/01/cnn_0159   0    8    somewhere     RB          (ADVP*          -    -   -   -            *         *             *   -
+bn/cnn/01/cnn_0159   0    9      between     IN            (PP*          -    -   -   -            *         *             *   -
+bn/cnn/01/cnn_0159   0   10         this     DT            (NP*          -    -   -   -            *         *             *   -
+bn/cnn/01/cnn_0159   0   11      weekend     NN               *     weekend   -   -   -        (DATE)        *             *   -
+bn/cnn/01/cnn_0159   0   12          and     CC               *          -    -   -   -            *         *             *   -
+bn/cnn/01/cnn_0159   0   13          New    NNP            (NP*          -    -   -   -      (EVENT*         *             *   -
+bn/cnn/01/cnn_0159   0   14         Year    NNP               *          -    -   -   -            *         *             *   -
+bn/cnn/01/cnn_0159   0   15           's    POS      *))))))))))         -    -   -   -            *)        *             *   -
+bn/cnn/01/cnn_0159   0   16            .      .              *))         -    -   -   -            *         *             *   -
+
+bn/cnn/01/cnn_0159   0   0       That    DT   (TOP(S(NP*)     -    -   -   -            *    (ARG1*)  -
+bn/cnn/01/cnn_0159   0   1         's   VBZ         (VP*      be  01   1   -            *       (V*)  -
+bn/cnn/01/cnn_0159   0   2        two    CD   (NP(NP(QP*      -    -   -   -   (CARDINAL*    (ARG2*   -
+bn/cnn/01/cnn_0159   0   3    million    CD            *)     -    -   -   -            *)        *   -
+bn/cnn/01/cnn_0159   0   4       more   JJR            *)     -    -   -   -            *         *   -
+bn/cnn/01/cnn_0159   0   5       than    IN         (PP*      -    -   -   -            *         *   -
+bn/cnn/01/cnn_0159   0   6       last    JJ         (NP*      -    -   -   -       (DATE*         *   -
+bn/cnn/01/cnn_0159   0   7       year    NN         *))))   year   -   1   -            *)        *)  -
+bn/cnn/01/cnn_0159   0   8          .     .           *))     -    -   -   -            *         *   -
+
+bn/cnn/01/cnn_0159   0    0     Holiday     NN  (TOP(S(NP(NP*     holiday   -   -   -     (ORG)      (ARG0*        *        *   -
+bn/cnn/01/cnn_0159   0    1    shoppers    NNS              *)         -    -   -   -        *            *        *        *   -
+bn/cnn/01/cnn_0159   0    2      across     IN           (PP*          -    -   -   -        *            *        *        *   -
+bn/cnn/01/cnn_0159   0    3         the     DT           (NP*          -    -   -   -        *            *        *        *   -
+bn/cnn/01/cnn_0159   0    4        U.S.    NNP            *)))         -    -   -   -     (GPE)           *)       *        *   -
+bn/cnn/01/cnn_0159   0    5         are    VBP           (VP*         are   -   -   -        *            *        *        *   -
+bn/cnn/01/cnn_0159   0    6    flocking    VBG           (VP*       flock  02   1   -        *          (V*)       *        *   -
+bn/cnn/01/cnn_0159   0    7          to     IN           (PP*          -    -   -   -        *       (ARG1*        *        *   -
+bn/cnn/01/cnn_0159   0    8       malls    NNS          (NP*))         -    -   -   -        *            *)       *        *   -
+bn/cnn/01/cnn_0159   0    9        this     DT           (NP*          -    -   -   -        *   (ARGM-TMP*        *        *   -
+bn/cnn/01/cnn_0159   0   10     weekend     NN              *     weekend   -   -   -    (DATE)           *        *        *   -
+bn/cnn/01/cnn_0159   0   11          to     TO         (S(VP*          -    -   -   -        *            *        *        *   -
+bn/cnn/01/cnn_0159   0   12    complete     VB        (VP(VP*    complete  01   1   -        *            *      (V*)       *   -
+bn/cnn/01/cnn_0159   0   13       their   PRP$           (NP*          -    -   -   -        *            *   (ARG1*        *   -
+bn/cnn/01/cnn_0159   0   14       lists    NNS             *))       list   -   1   -        *            *        *)       *   -
+bn/cnn/01/cnn_0159   0   15         and     CC              *          -    -   -   -        *            *        *        *   -
+bn/cnn/01/cnn_0159   0   16        find     VB           (VP*        find  01   1   -        *            *        *      (V*)  -
+bn/cnn/01/cnn_0159   0   17        last     JJ       (NP(NML*          -    -   -   -   (TIME*            *        *   (ARG1*   -
+bn/cnn/01/cnn_0159   0   18          -    HYPH              *          -    -   -   -        *            *        *        *   -
+bn/cnn/01/cnn_0159   0   19      minute     NN              *)     minute   -   1   -        *)           *        *        *   -
+bn/cnn/01/cnn_0159   0   20       items    NNS       *))))))))       item   -   1   -        *            *)       *        *)  -
+bn/cnn/01/cnn_0159   0   21           .      .             *))         -    -   -   -        *            *        *        *   -
+
+bn/cnn/01/cnn_0159   0    0             In    IN    (TOP(S(PP*          -    -   -   -               *           *   (ARGM-ADV*             *   -
+bn/cnn/01/cnn_0159   0    1          spite    NN       (NP(NP*)      spite   -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0    2             of    IN          (PP*          -    -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0    3       warnings   NNS       (NP(NP*)    warning   -   1   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0    4           that   WDT   (SBAR(WHNP*)         -    -   -   -               *    (R-ARG1*)           *             *   -
+bn/cnn/01/cnn_0159   0    5      consumers   NNS        (S(NP*)   consumer   -   1   -               *      (ARG0*)           *             *   -
+bn/cnn/01/cnn_0159   0    6            are   VBP          (VP*         are   -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0    7       spending   VBG          (VP*       spend  01   2   -               *         (V*)           *             *   -
+bn/cnn/01/cnn_0159   0    8           less   JJR          (NP*)         -    -   -   -               *      (ARG3*)           *             *   -
+bn/cnn/01/cnn_0159   0    9           this    DT          (NP*          -    -   -   -               *      (ARG1*            *             *   -
+bn/cnn/01/cnn_0159   0   10         season    NN     *)))))))))     season   -   1   -               *           *)           *)            *   -
+bn/cnn/01/cnn_0159   0   11              ,     ,             *          -    -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0   12      officials   NNS       (NP(NP*)   official   -   1   -               *           *       (ARG0*             *   -
+bn/cnn/01/cnn_0159   0   13           from    IN          (PP*          -    -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0   14            the    DT          (NP*          -    -   -   -   (WORK_OF_ART*           *            *             *   -
+bn/cnn/01/cnn_0159   0   15       National   NNP             *          -    -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0   16         Retail    JJ             *          -    -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0   17     Federation   NNP           *)))         -    -   -   -               *)          *            *)            *   -
+bn/cnn/01/cnn_0159   0   18            say   VBP          (VP*         say  01   1   -               *           *          (V*)            *   -
+bn/cnn/01/cnn_0159   0   19           most   JJS   (SBAR(S(NP*          -    -   -   -               *           *       (ARG1*        (ARG1*   -
+bn/cnn/01/cnn_0159   0   20      merchants   NNS             *)   merchant   -   1   -               *           *            *             *)  -
+bn/cnn/01/cnn_0159   0   21           will    MD          (VP*          -    -   -   -               *           *            *    (ARGM-MOD*)  -
+bn/cnn/01/cnn_0159   0   22           turn    VB          (VP*        turn  02   1   -               *           *            *           (V*)  -
+bn/cnn/01/cnn_0159   0   23             in    IN          (PP*          -    -   -   -               *           *            *    (ARGM-LOC*   -
+bn/cnn/01/cnn_0159   0   24              a    DT          (NP*          -    -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0   25    respectable    JJ             *          -    -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0   26        holiday    NN             *     holiday   -   -   -               *           *            *             *   -
+bn/cnn/01/cnn_0159   0   27        showing    NN       *)))))))       show   -   -   -               *           *            *)            *)  -
+bn/cnn/01/cnn_0159   0   28              .     .            *))         -    -   -   -               *           *            *             *   -
+
+bn/cnn/01/cnn_0159   0    0            And     CC     (TOP(S*            -    -   -   -          *    (ARGM-DIS*)           *        *   -
+bn/cnn/01/cnn_0159   0    1      President    NNP        (NP*            -    -   -   -          *        (ARG0*       (ARG0*        *   -
+bn/cnn/01/cnn_0159   0    2        Clinton    NNP           *)           -    -   -   -    (PERSON)            *)           *)       *   -
+bn/cnn/01/cnn_0159   0    3            met    VBD        (VP*          meet  03   2   -          *           (V*)           *        *   -
+bn/cnn/01/cnn_0159   0    4           with     IN        (PP*            -    -   -   -          *        (ARG1*            *        *   -
+bn/cnn/01/cnn_0159   0    5        Israeli     JJ   (NP(ADJP*            -    -   -   -      (NORP)            *            *        *   -
+bn/cnn/01/cnn_0159   0    6            and     CC           *            -    -   -   -          *             *            *        *   -
+bn/cnn/01/cnn_0159   0    7    Palestinian     JJ           *)           -    -   -   -          *             *            *        *   -
+bn/cnn/01/cnn_0159   0    8          peace     NN           *         peace   -   1   -          *             *            *        *   -
+bn/cnn/01/cnn_0159   0    9    negotiators    NNS          *))   negotiator   -   1   -          *             *)           *        *   -
+bn/cnn/01/cnn_0159   0   10          today     NN        (NP*)        today   -   2   -      (DATE)   (ARGM-TMP*)           *        *   -
+bn/cnn/01/cnn_0159   0   11             to     TO      (S(VP*            -    -   -   -          *    (ARGM-PRP*            *        *   -
+bn/cnn/01/cnn_0159   0   12         decide     VB        (VP*        decide  01   1   -          *             *          (V*)       *   -
+bn/cnn/01/cnn_0159   0   13            his   PRP$        (NP*            -    -   -   -          *             *       (ARG1*        *   -
+bn/cnn/01/cnn_0159   0   14           next     JJ           *            -    -   -   -          *             *            *        *   -
+bn/cnn/01/cnn_0159   0   15           move     NN           *)         move   -   2   -          *             *            *)       *   -
+bn/cnn/01/cnn_0159   0   16             in     IN        (PP*            -    -   -   -          *             *   (ARGM-MNR*        *   -
+bn/cnn/01/cnn_0159   0   17        pushing    VBG      (S(VP*          push  02   2   -          *             *            *      (V*)  -
+bn/cnn/01/cnn_0159   0   18            for     IN        (PP*            -    -   -   -          *             *            *   (ARG2*   -
+bn/cnn/01/cnn_0159   0   19              a     DT        (NP*            -    -   -   -          *             *            *        *   -
+bn/cnn/01/cnn_0159   0   20        Mideast    NNP           *            -    -   -   -       (LOC)            *            *        *   -
+bn/cnn/01/cnn_0159   0   21          peace     NN           *         peace   -   1   -          *             *            *        *   -
+bn/cnn/01/cnn_0159   0   22      agreement     NN   *)))))))))    agreement   -   1   -          *             *)           *)       *)  -
+bn/cnn/01/cnn_0159   0   23              .      .          *))           -    -   -   -          *             *            *        *   -
+
+#end document

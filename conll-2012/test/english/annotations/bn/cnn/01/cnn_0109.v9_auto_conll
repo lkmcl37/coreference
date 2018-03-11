@@ -1,0 +1,102 @@
+#begin document (bn/cnn/01/cnn_0109); part 000
+bn/cnn/01/cnn_0109   0    0           The    DT  (TOP(S(NP(NP*         -    -   -   -            *        (ARG1*   -
+bn/cnn/01/cnn_0109   0    1           two    CD              *         -    -   -   -    (CARDINAL)            *   -
+bn/cnn/01/cnn_0109   0    2          main    JJ              *         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0    3      suspects   NNS              *)   suspect   -   1   -            *             *   -
+bn/cnn/01/cnn_0109   0    4            in    IN           (PP*         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0    5           the    DT        (NP(NP*         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0    6       bombing    NN              *)      bomb   -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0    7            of    IN           (PP*         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0    8           the    DT           (NP*         -    -   -   -    (PRODUCT*             *   -
+bn/cnn/01/cnn_0109   0    9            ``    ``              *         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   10           USS   NNP              *         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   11          Cole   NNP              *         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   12            ''    ''          *)))))        -    -   -   -            *)            *)  -
+bn/cnn/01/cnn_0109   0   13         could    MD           (VP*         -    -   -   -            *    (ARGM-MOD*)  -
+bn/cnn/01/cnn_0109   0   14            be    VB           (VP*         be   -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   15       charged   VBN           (VP*     charge  05   3   -            *           (V*)  -
+bn/cnn/01/cnn_0109   0   16            as    RB    (ADVP(ADVP*         -    -   -   -       (DATE*             *   -
+bn/cnn/01/cnn_0109   0   17          soon    RB              *)        -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   18            as    IN           (PP*         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   19       Tuesday   NNP         (NP*)))        -    -   -   -            *)            *   -
+bn/cnn/01/cnn_0109   0   20             ,     ,              *         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   21     according   VBG           (PP*     accord   -   2   -            *             *   -
+bn/cnn/01/cnn_0109   0   22            to    IN           (PP*         -    -   -   -            *             *   -
+bn/cnn/01/cnn_0109   0   23    Associated   NNP           (NP*         -    -   -   -        (ORG*             *   -
+bn/cnn/01/cnn_0109   0   24         Press   NNP         *))))))        -    -   -   -            *)            *   -
+bn/cnn/01/cnn_0109   0   25             .     .             *))        -    -   -   -            *             *   -
+
+bn/cnn/01/cnn_0109   0    0              The     DT         (TOP(S(NP*          -    -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0    1             news     NN                  *        news   -   1   -        *           *             *   -
+bn/cnn/01/cnn_0109   0    2           agency     NN                  *)     agency   -   1   -        *           *             *   -
+bn/cnn/01/cnn_0109   0    3               is    VBZ               (VP*          be   -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0    4          quoting    VBG               (VP*       quote   -   1   -        *           *             *   -
+bn/cnn/01/cnn_0109   0    5                a     DT            (NP(NP*          -    -   -   -        *      (ARG0*             *   -
+bn/cnn/01/cnn_0109   0    6           Yemeni     JJ                  *          -    -   -   -    (NORP)          *             *   -
+bn/cnn/01/cnn_0109   0    7           source     NN                  *)     source   -   3   -        *           *)            *   -
+bn/cnn/01/cnn_0109   0    8              who     WP        (SBAR(WHNP*)         -    -   -   -        *    (R-ARG0*)            *   -
+bn/cnn/01/cnn_0109   0    9             says    VBZ             (S(VP*         say  01   1   -        *         (V*)            *   -
+bn/cnn/01/cnn_0109   0   10              the     DT        (SBAR(S(NP*          -    -   -   -        *      (ARG1*        (ARG0*   -
+bn/cnn/01/cnn_0109   0   11    investigators    NNS                  *)         -    -   -   -        *           *             *)  -
+bn/cnn/01/cnn_0109   0   12             have    VBP            (VP(VP*        have   -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0   13          wrapped    VBN               (VP*        wrap   -   3   -        *           *             *   -
+bn/cnn/01/cnn_0109   0   14               up     RP              (PRT*)         -    -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0   15            their   PRP$               (NP*          -    -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0   16      questioning     NN                *)))   question   -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0   17              and     CC                  *          -    -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0   18             will     MD               (VP*          -    -   -   -        *           *    (ARGM-MOD*)  -
+bn/cnn/01/cnn_0109   0   19             hand     VB               (VP*        hand  02   1   -        *           *           (V*)  -
+bn/cnn/01/cnn_0109   0   20              the     DT               (NP*          -    -   -   -        *           *        (ARG1*   -
+bn/cnn/01/cnn_0109   0   21             case     NN                  *)       case   -   2   -        *           *             *)  -
+bn/cnn/01/cnn_0109   0   22             over     RP              (PRT*)         -    -   -   -        *           *             *   -
+bn/cnn/01/cnn_0109   0   23               to     IN               (PP*          -    -   -   -        *           *        (ARG2*   -
+bn/cnn/01/cnn_0109   0   24      prosecutors    NNS   (NP*)))))))))))))         -    -   -   -        *           *)            *)  -
+bn/cnn/01/cnn_0109   0   25                .      .                 *))         -    -   -   -        *           *             *   -
+
+bn/cnn/01/cnn_0109   0    0          The    DT  (TOP(S(NP*         -    -   -   -   *        (ARG1*         *   -
+bn/cnn/01/cnn_0109   0    1     suspects   NNS           *)   suspect   -   1   -   *             *)        *   -
+bn/cnn/01/cnn_0109   0    2        could    MD        (VP*         -    -   -   -   *    (ARGM-MOD*)        *   -
+bn/cnn/01/cnn_0109   0    3           be    VB        (VP*         be   -   -   -   *             *         *   -
+bn/cnn/01/cnn_0109   0    4     executed   VBN        (VP*    execute  01   1   -   *           (V*)        *   -
+bn/cnn/01/cnn_0109   0    5           if    IN      (SBAR*         -    -   -   -   *    (ARGM-ADV*         *   -
+bn/cnn/01/cnn_0109   0    6         they   PRP      (S(NP*)        -    -   -   -   *             *    (ARG1*)  -
+bn/cnn/01/cnn_0109   0    7          are   VBP        (VP*        are   -   -   -   *             *         *   -
+bn/cnn/01/cnn_0109   0    8    convicted   VBN        (VP*    convict  01   1   -   *             *       (V*)  -
+bn/cnn/01/cnn_0109   0    9           of    IN        (PP*         -    -   -   -   *             *    (ARG2*   -
+bn/cnn/01/cnn_0109   0   10          the    DT        (NP*         -    -   -   -   *             *         *   -
+bn/cnn/01/cnn_0109   0   11       attack    NN   *)))))))))    attack   -   1   -   *             *)        *)  -
+bn/cnn/01/cnn_0109   0   12            .     .          *))        -    -   -   -   *             *         *   -
+
+bn/cnn/01/cnn_0109   0    0          The    DT  (TOP(S(NP(NP*           -    -   -   -            *   (ARG0*       (ARG0*   -
+bn/cnn/01/cnn_0109   0    1    explosion    NN              *)   explosion   -   1   -            *        *            *   -
+bn/cnn/01/cnn_0109   0    2           in    IN           (PP*           -    -   -   -            *        *            *   -
+bn/cnn/01/cnn_0109   0    3         Aden   NNP           (NP*           -    -   -   -        (FAC*        *            *   -
+bn/cnn/01/cnn_0109   0    4       Harbor   NNP            *)))          -    -   -   -            *)       *)           *)  -
+bn/cnn/01/cnn_0109   0    5       killed   VBD        (VP(VP*         kill  01   1   -            *      (V*)           *   -
+bn/cnn/01/cnn_0109   0    6          17     CD           (NP*           -    -   -   -    (CARDINAL)  (ARG1*            *   -
+bn/cnn/01/cnn_0109   0    7         U.S.   NNP              *           -    -   -   -         (GPE)       *            *   -
+bn/cnn/01/cnn_0109   0    8      sailors   NNS             *))          -    -   -   -            *        *)           *   -
+bn/cnn/01/cnn_0109   0    9          and    CC              *           -    -   -   -            *        *            *   -
+bn/cnn/01/cnn_0109   0   10      injured   VBD           (VP*       injure  01   1   -            *        *          (V*)  -
+bn/cnn/01/cnn_0109   0   11      another    DT           (NP*           -    -   -   -       (DATE*        *       (ARG1*   -
+bn/cnn/01/cnn_0109   0   12          39     CD              *)          -    -   -   -            *        *            *)  -
+bn/cnn/01/cnn_0109   0   13         last    JJ           (NP*           -    -   -   -            *        *   (ARGM-TMP*   -
+bn/cnn/01/cnn_0109   0   14        month    NN            *)))       month   -   2   -            *)       *            *)  -
+bn/cnn/01/cnn_0109   0   15            .     .             *))          -    -   -   -            *        *            *   -
+
+bn/cnn/01/cnn_0109   0    0             U.S.   NNP   (TOP(S(NP*            -    -   -   -    (GPE)  (ARG0*        *   -
+bn/cnn/01/cnn_0109   0    1    investigators   NNS            *)           -    -   -   -       *        *)       *   -
+bn/cnn/01/cnn_0109   0    2          suspect   VBP         (VP*       suspect  01   1   -       *      (V*)       *   -
+bn/cnn/01/cnn_0109   0    3              the    DT  (SBAR(S(NP*            -    -   -   -       *   (ARG1*   (ARG1*   -
+bn/cnn/01/cnn_0109   0    4        terrorist    JJ            *            -    -   -   -       *        *        *   -
+bn/cnn/01/cnn_0109   0    5          bombing    NN            *)         bomb   -   -   -       *        *        *)  -
+bn/cnn/01/cnn_0109   0    6               is   VBZ         (VP*            be  01   1   -       *        *      (V*)  -
+bn/cnn/01/cnn_0109   0    7              the    DT      (NP(NP*            -    -   -   -       *        *   (ARG2*   -
+bn/cnn/01/cnn_0109   0    8           result    NN            *)       result   -   1   -       *        *        *   -
+bn/cnn/01/cnn_0109   0    9               of    IN         (PP*            -    -   -   -       *        *        *   -
+bn/cnn/01/cnn_0109   0   10               an    DT         (NP*            -    -   -   -       *        *        *   -
+bn/cnn/01/cnn_0109   0   11    international    JJ            *            -    -   -   -       *        *        *   -
+bn/cnn/01/cnn_0109   0   12       conspiracy    NN      *)))))))   conspiracy   -   1   -       *        *)       *)  -
+bn/cnn/01/cnn_0109   0   13                .     .           *))           -    -   -   -       *        *        *   -
+
+#end document

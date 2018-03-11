@@ -60,7 +60,7 @@ def main():
 
         print("Predicting...")
         pred = model.predict(X)
-        print("Pairwise classification F1:", f1_score(y, pred, average='macro'))
+        print("sk-learn Pairwise classification F1:", f1_score(y, pred, average='macro'))
         pred = iter(pred.tolist())
         generate_files(corpus_data, corpus_pairs, pred, gold, output)
 

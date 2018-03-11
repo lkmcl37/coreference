@@ -1,0 +1,324 @@
+#begin document (bn/cnn/04/cnn_0430); part 000
+bn/cnn/04/cnn_0430   0   0       Going   VBG  (TOP(VP*     go   -   7   -   *            *   -
+bn/cnn/04/cnn_0430   0   1          to    TO    (S(VP*     -    -   -   -   *            *   -
+bn/cnn/04/cnn_0430   0   2         use    VB      (VP*    use  01   1   -   *          (V*)  -
+bn/cnn/04/cnn_0430   0   3          it   PRP      (NP*)    -    -   -   -   *       (ARG1*)  -
+bn/cnn/04/cnn_0430   0   4          in    IN      (PP*     -    -   -   -   *   (ARGM-LOC*   -
+bn/cnn/04/cnn_0430   0   5       those    DT      (NP*     -    -   -   -   *            *   -
+bn/cnn/04/cnn_0430   0   6    patients   NNS     *)))))    -    -   -   -   *            *)  -
+bn/cnn/04/cnn_0430   0   7           .     .        *))    -    -   -   -   *            *   -
+
+bn/cnn/04/cnn_0430   0    0         His   PRP$  (TOP(S(S(NP*          -    -   -   -           *         *    (7)
+bn/cnn/04/cnn_0430   0    1    dandruff     NN             *          -    -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0    2     shampoo     NN             *)    shampoo   -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0    3         was    VBD          (VP*          be   -   1   -           *         *     -
+bn/cnn/04/cnn_0430   0    4         n't     RB             *          -    -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0    5       tough     JJ        (ADJP*          -    -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0    6      enough     RB             *          -    -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0    7         for     IN          (PP*          -    -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0    8       Black    NNP      (NP*)))))         -    -   -   -           *         *    (7)
+bn/cnn/04/cnn_0430   0    9           ,      ,             *          -    -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0   10          so     CC             *          -    -   -   -           *         *     -
+bn/cnn/04/cnn_0430   0   11           I    PRP        (S(NP*)         -    -   -   -           *    (ARG0*)    -
+bn/cnn/04/cnn_0430   0   12      bought    VBD          (VP*         buy  01   1   -           *       (V*)    -
+bn/cnn/04/cnn_0430   0   13         him    PRP          (NP*)         -    -   -   -           *    (ARG1*)   (7)
+bn/cnn/04/cnn_0430   0   14     maximum     JJ          (NP*          -    -   -   -           *         *    (0
+bn/cnn/04/cnn_0430   0   15    strength     NN             *)   strength   -   1   -           *         *     -
+bn/cnn/04/cnn_0430   0   16      Selsun    NNP        (S(NP*          -    -   -   -   (PRODUCT*         *     -
+bn/cnn/04/cnn_0430   0   17        Blue    NNP          *))))         -    -   -   -           *)        *     0)
+bn/cnn/04/cnn_0430   0   18           .      .            *))         -    -   -   -           *         *     -
+
+bn/cnn/04/cnn_0430   0   0             It   PRP   (TOP(S(NP*)          -    -   -   -   *    (ARG1*)   (ARG1*)       (ARG0*)   (0)
+bn/cnn/04/cnn_0430   0   1             's   VBZ      (VP(VP*           be  01   1   -   *       (V*)        *             *     -
+bn/cnn/04/cnn_0430   0   2         doctor    NN       (ADJP*       doctor   -   -   -   *    (ARG2*    (ARG0*)            *     -
+bn/cnn/04/cnn_0430   0   3    recommended   VBN           *))   recommend  01   1   -   *         *)      (V*)            *     -
+bn/cnn/04/cnn_0430   0   4            and    CC            *           -    -   -   -   *         *         *             *     -
+bn/cnn/04/cnn_0430   0   5          works   VBZ         (VP*         work  01   1   -   *         *         *           (V*)    -
+bn/cnn/04/cnn_0430   0   6           fast    RB     (ADVP*)))          -    -   -   -   *         *         *    (ARGM-MNR*)    -
+bn/cnn/04/cnn_0430   0   7              .     .           *))          -    -   -   -   *         *         *             *     -
+
+bn/cnn/04/cnn_0430   0   0    Selsun   NNP  (TOP(NP*   -   -   -   -   (PRODUCT*   (0
+bn/cnn/04/cnn_0430   0   1      Blue   NNP         *   -   -   -   -           *    -
+bn/cnn/04/cnn_0430   0   2         .     .        *))  -   -   -   -           *)   0)
+
+bn/cnn/04/cnn_0430   0   0       That    DT   (TOP(S(NP*)       -    -   -   -   *    (ARG0*)  -
+bn/cnn/04/cnn_0430   0   1       have   VBP         (VP*      have   -   -   -   *         *   -
+bn/cnn/04/cnn_0430   0   2    riveted   VBN         (VP*     rivet  01   1   -   *       (V*)  -
+bn/cnn/04/cnn_0430   0   3        the    DT         (NP*        -    -   -   -   *    (ARG1*   -
+bn/cnn/04/cnn_0430   0   4     nation    NN          *)))   nation   -   1   -   *         *)  -
+bn/cnn/04/cnn_0430   0   5          .     .           *))       -    -   -   -   *         *   -
+
+bn/cnn/04/cnn_0430   0    0       First    RB   (TOP(FRAG(ADVP*)        -   -   -   -          *   -
+bn/cnn/04/cnn_0430   0    1           ,     ,                 *         -   -   -   -          *   -
+bn/cnn/04/cnn_0430   0    2           a    DT           (NP(NP*         -   -   -   -          *   -
+bn/cnn/04/cnn_0430   0    3         big    JJ                 *         -   -   -   -          *   -
+bn/cnn/04/cnn_0430   0    4     hearing    NN                 *)   hearing  -   1   -          *   -
+bn/cnn/04/cnn_0430   0    5    tomorrow    NN              (NP*)        -   -   -   -      (DATE)  -
+bn/cnn/04/cnn_0430   0    6          in    IN              (PP*         -   -   -   -          *   -
+bn/cnn/04/cnn_0430   0    7         the    DT              (NP*         -   -   -   -          *   -
+bn/cnn/04/cnn_0430   0    8       Scott   NNP             (NML*         -   -   -   -   (PERSON*   -
+bn/cnn/04/cnn_0430   0    9    Peterson   NNP                 *)        -   -   -   -          *)  -
+bn/cnn/04/cnn_0430   0   10        case    NN               *)))      case  -   2   -          *   -
+bn/cnn/04/cnn_0430   0   11           .     .                *))        -   -   -   -          *   -
+
+bn/cnn/04/cnn_0430   0   0      Punishing   VBG  (TOP(S(VP*    punish  -   1   -   *   -
+bn/cnn/04/cnn_0430   0   1    prosecutors   NNS       (NP*))       -   -   -   -   *   -
+bn/cnn/04/cnn_0430   0   2              .     .          *))       -   -   -   -   *   -
+
+bn/cnn/04/cnn_0430   0   0       It   PRP   (TOP(S(NP*)     -    -   -   -   *        (ARG1*)  -
+bn/cnn/04/cnn_0430   0   1    could    MD         (VP*      -    -   -   -   *    (ARGM-MOD*)  -
+bn/cnn/04/cnn_0430   0   2      all    DT            *      -    -   -   -   *             *   -
+bn/cnn/04/cnn_0430   0   3       be    VB         (VP*      be  01   1   -   *           (V*)  -
+bn/cnn/04/cnn_0430   0   4       up    RP        (PRT*)     -    -   -   -   *             *   -
+bn/cnn/04/cnn_0430   0   5      for    IN         (PP*      -    -   -   -   *        (ARG2*   -
+bn/cnn/04/cnn_0430   0   6    grabs   NNS      (NP*))))   grab   -   5   -   *             *)  -
+bn/cnn/04/cnn_0430   0   7        .     .           *))     -    -   -   -   *             *   -
+
+bn/cnn/04/cnn_0430   0    0          Then     RB    (TOP(S(ADVP*)       -    -   -   -       *    (ARGM-TMP*)           *             *         *            *         *     -
+bn/cnn/04/cnn_0430   0    1           the     DT            (NP*        -    -   -   -       *        (ARG0*       (ARG0*        (ARG0*         *            *         *    (1
+bn/cnn/04/cnn_0430   0    2         Texas    NNP               *        -    -   -   -    (GPE)            *            *             *         *            *         *     -
+bn/cnn/04/cnn_0430   0    3         woman     NN               *)    woman   -   1   -       *             *)           *)            *)        *            *         *     -
+bn/cnn/04/cnn_0430   0    4       accused    VBD            (VP*    accuse  01   1   -       *           (V*)           *             *         *            *         *     -
+bn/cnn/04/cnn_0430   0    5            of     IN            (PP*        -    -   -   -       *        (ARG1*            *             *         *            *         *     -
+bn/cnn/04/cnn_0430   0    6       hitting    VBG          (S(VP*       hit  01   3   -       *             *          (V*)            *         *            *         *     -
+bn/cnn/04/cnn_0430   0    7             a     DT            (NP*        -    -   -   -       *             *       (ARG1*             *         *            *         *    (6
+bn/cnn/04/cnn_0430   0    8           man     NN               *)      man   -   2   -       *             *            *)            *         *            *         *     6)
+bn/cnn/04/cnn_0430   0    9          with     IN            (PP*        -    -   -   -       *             *   (ARGM-MNR*             *         *            *         *     -
+bn/cnn/04/cnn_0430   0   10           her   PRP$            (NP*        -    -   -   -       *             *            *             *         *            *         *    (1)
+bn/cnn/04/cnn_0430   0   11           car     NN           *)))))      car   -   2   -       *             *)           *)            *         *            *         *     -
+bn/cnn/04/cnn_0430   0   12             ,      ,               *        -    -   -   -       *             *            *             *         *            *         *     -
+bn/cnn/04/cnn_0430   0   13       driving    VBG          (S(VP*     drive  01   1   -       *             *            *           (V*)        *            *         *     -
+bn/cnn/04/cnn_0430   0   14          home     RB          (ADVP*)       -    -   -   -       *             *            *    (ARGM-DIR*)        *            *         *     -
+bn/cnn/04/cnn_0430   0   15          with     IN            (PP*        -    -   -   -       *             *            *             *         *            *         *     -
+bn/cnn/04/cnn_0430   0   16           him    PRP         (NP(NP*)       -    -   -   -       *             *            *             *    (ARG1*)      (ARG0*)        *    (6)
+bn/cnn/04/cnn_0430   0   17         stuck    VBN         (VP(VP*     stick  01   1   -       *             *            *             *       (V*)           *         *     -
+bn/cnn/04/cnn_0430   0   18            to     IN            (PP*        -    -   -   -       *             *            *             *    (ARG2*            *         *     -
+bn/cnn/04/cnn_0430   0   19           her   PRP$            (NP*        -    -   -   -       *             *            *             *         *            *         *    (1)
+bn/cnn/04/cnn_0430   0   20    windshield     NN             *)))       -    -   -   -       *             *            *             *         *)           *         *     -
+bn/cnn/04/cnn_0430   0   21           and     CC               *        -    -   -   -       *             *            *             *         *            *         *     -
+bn/cnn/04/cnn_0430   0   22       leaving    VBG            (VP*     leave  01   2   -       *             *            *             *         *          (V*)        *     -
+bn/cnn/04/cnn_0430   0   23           him    PRP            (NP*)       -    -   -   -       *             *            *             *         *       (ARG1*)   (ARG1*)   (6)
+bn/cnn/04/cnn_0430   0   24         there     RB          (ADVP*)       -    -   -   -       *             *            *             *         *       (ARG2*)        *     -
+bn/cnn/04/cnn_0430   0   25            to     TO          (S(VP*        -    -   -   -       *             *            *             *         *   (ARGM-PRP*         *     -
+bn/cnn/04/cnn_0430   0   26           die     VB   (VP*))))))))))      die  01   1   -       *             *            *             *         *            *)      (V*)    1)
+bn/cnn/04/cnn_0430   0   27             .      .              *))       -    -   -   -       *             *            *             *         *            *         *     -
+
+bn/cnn/04/cnn_0430   0    0         And    CC           (TOP(S*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0    1      Andrew   NNP           (NP(NP*         -    -   -   -   (PERSON*         *         *            *    (2
+bn/cnn/04/cnn_0430   0    2      Luster    NN                 *)    lustre   -   -   -          *)        *         *            *     -
+bn/cnn/04/cnn_0430   0    3           ,     ,                 *         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0    4    grandson    NN           (NP(NP*)        -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0    5          of    IN              (PP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0    6    cosmetic    JJ       (NP(NP(NML*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0    7      legend    NN                 *)        -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0    8         Max   NNP                 *         -    -   -   -   (PERSON*         *         *            *     -
+bn/cnn/04/cnn_0430   0    9      Factor    NN                 *)    factor   -   1   -          *)        *         *            *     2)
+bn/cnn/04/cnn_0430   0   10           ,     ,                 *         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   11        what    WP       (SBAR(WHNP*)        -    -   -   -          *    (ARG0*)        *            *     -
+bn/cnn/04/cnn_0430   0   12       drove   VBD            (S(VP*      drive  02   2   -          *       (V*)        *            *     -
+bn/cnn/04/cnn_0430   0   13         him   PRP              (NP*)        -    -   -   -          *    (ARG1*)        *            *    (2)
+bn/cnn/04/cnn_0430   0   14          to    TO         (S(VP(VP*         -    -   -   -          *    (ARG2*         *            *     -
+bn/cnn/04/cnn_0430   0   15      become    VB              (VP*     become   -   1   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   16           a    DT              (NP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   17      serial    JJ                 *         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   18      rapist    NN               *)))        -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   19         and    CC                 *         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   20          to    TO              (VP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   21        jump    VB              (VP*       jump  03   1   -          *         *       (V*)           *     -
+bn/cnn/04/cnn_0430   0   22        bail    NN           (NP(NP*)      bail   -   -   -          *         *    (ARG1*)           *     -
+bn/cnn/04/cnn_0430   0   23          in    IN              (PP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   24         the    DT           (NP(NP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   25      middle    NN                 *)    middle   -   2   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   26          of    IN              (PP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   27         the    DT              (NP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   28       trial    NN   *)))))))))))))))     trial   -   3   -          *         *)        *            *     -
+bn/cnn/04/cnn_0430   0   29           ,     ,                 *)        -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   30        only    RB            (ADVP*)        -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   31          to    TO              (VP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   32          be    VB              (VP*         be   -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   33    captured   VBN              (VP*    capture  01   3   -          *         *         *          (V*)    -
+bn/cnn/04/cnn_0430   0   34          in    IN              (PP*         -    -   -   -          *         *         *   (ARGM-LOC*     -
+bn/cnn/04/cnn_0430   0   35      Mexico   NNP             (NP*))        -    -   -   -       (GPE)        *         *            *)    -
+bn/cnn/04/cnn_0430   0   36          by    IN              (PP*         -    -   -   -          *         *         *       (ARG0*     -
+bn/cnn/04/cnn_0430   0   37           a    DT           (NP(NP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   38     bounter   JJR                 *         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   39      hunter    NN                 *)    hunter   -   1   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   40       after    IN              (PP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   41        five    CD           (NP(NP*         -    -   -   -     (DATE*         *         *            *     -
+bn/cnn/04/cnn_0430   0   42      months   NNS                 *)     month   -   1   -          *)        *         *            *     -
+bn/cnn/04/cnn_0430   0   43          on    IN              (PP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   44         the    DT              (NP*         -    -   -   -          *         *         *            *     -
+bn/cnn/04/cnn_0430   0   45        Roun   NNP         *)))))))))        -    -   -   -          *         *         *            *)    -
+bn/cnn/04/cnn_0430   0   46           .     .                *))        -    -   -   -          *         *         *            *     -
+
+bn/cnn/04/cnn_0430   0    0     That    DT   (TOP(S(NP*)   -    -   -   -               *    (ARG1*)  -
+bn/cnn/04/cnn_0430   0    1       's   VBZ         (VP*    be  01   1   -               *       (V*)  -
+bn/cnn/04/cnn_0430   0    2      all    DT            *    -    -   -   -               *         *   -
+bn/cnn/04/cnn_0430   0    3     next    JJ       (ADJP*)   -    -   -   -               *    (ARG2*)  -
+bn/cnn/04/cnn_0430   0    4       on    IN         (PP*    -    -   -   -               *         *   -
+bn/cnn/04/cnn_0430   0    5       ``    ``         (NP*    -    -   -   -   (WORK_OF_ART*         *   -
+bn/cnn/04/cnn_0430   0    6    Larry   NNP         (NP*    -    -   -   -               *         *   -
+bn/cnn/04/cnn_0430   0    7     King   NNP            *    -    -   -   -               *         *   -
+bn/cnn/04/cnn_0430   0    8     Live   NNP         *))))   -    -   -   -               *)        *   -
+bn/cnn/04/cnn_0430   0    9        .     .            *    -    -   -   -               *         *   -
+bn/cnn/04/cnn_0430   0   10       ''    ''           *))   -    -   -   -               *         *   -
+
+bn/cnn/04/cnn_0430   0    0               We   PRP   (TOP(S(S(S(NP*)         -    -   -   -          *    (ARG0*)           *         *             *     -
+bn/cnn/04/cnn_0430   0    1            begin   VBP             (VP*       begin  01   1   -          *       (V*)           *         *             *     -
+bn/cnn/04/cnn_0430   0    2            first    RB        (PP(ADVP*)         -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0    3             with    IN                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0    4              the    DT          (NP(NP*          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0    5    extraordinary    JJ                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0    6             case    NN                *)       case   -   1   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0    7               of    IN             (PP*          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0    8           Andrew   NNP             (NP*          -    -   -   -   (PERSON*         *            *         *             *    (2
+bn/cnn/04/cnn_0430   0    9           Luster    NN           *))))))     lustre   -   -   -          *)        *            *         *             *     2)
+bn/cnn/04/cnn_0430   0   10                ,     ,                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   11              and    CC                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   12              the    DT           (S(NP*          -    -   -   -          *         *       (ARG1*         *             *     -
+bn/cnn/04/cnn_0430   0   13           guests   NNS                *)      guest   -   -   -          *         *            *)        *             *     -
+bn/cnn/04/cnn_0430   0   14              are   VBP             (VP*          be  01   1   -          *         *          (V*)        *             *     -
+bn/cnn/04/cnn_0430   0   15             here    RB           (ADVP*)         -    -   -   -          *         *       (ARG2*)        *             *     -
+bn/cnn/04/cnn_0430   0   16               in    IN             (PP*          -    -   -   -          *         *   (ARGM-LOC*         *             *     -
+bn/cnn/04/cnn_0430   0   17              Los   NNP          (NP(NP*          -    -   -   -      (GPE*         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   18          Angeles   NNP                *)         -    -   -   -          *)        *            *         *             *     -
+bn/cnn/04/cnn_0430   0   19                ,     ,                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   20            Roger   NNP             (NP*          -    -   -   -   (PERSON*         *            *         *             *    (4
+bn/cnn/04/cnn_0430   0   21             John   NNP                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   22          Diamond   NNP           *))))))         -    -   -   -          *)        *            *)        *             *     -
+bn/cnn/04/cnn_0430   0   23                ,     ,                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   24               he   PRP             (NP*)         -    -   -   -          *         *            *    (ARG1*)            *    (4)
+bn/cnn/04/cnn_0430   0   25               is   VBZ             (VP*          be  01   1   -          *         *            *       (V*)            *     -
+bn/cnn/04/cnn_0430   0   26           Andrew   NNP       (NP(NP(NP*          -    -   -   -   (PERSON*         *            *    (ARG2*             *    (2
+bn/cnn/04/cnn_0430   0   27           Luster    NN                *      lustre   -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   28               's   POS                *)         -    -   -   -          *)        *            *         *             *     2)
+bn/cnn/04/cnn_0430   0   29         attorney    NN                *)   attorney   -   1   -          *         *            *         *             *     4)
+bn/cnn/04/cnn_0430   0   30                ,     ,                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   31               in    IN             (PP*          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   32          Chicago   NNP            (NP*))         -    -   -   -       (GPE)        *            *         *             *     -
+bn/cnn/04/cnn_0430   0   33                ,     ,                *          -    -   -   -          *         *            *         *             *     -
+bn/cnn/04/cnn_0430   0   34              the    DT             (NP*          -    -   -   -          *         *            *         *             *    (9
+bn/cnn/04/cnn_0430   0   35             well    RB           (ADJP*          -    -   -   -          *         *            *         *    (ARGM-MNR*)    -
+bn/cnn/04/cnn_0430   0   36            known   VBN                *)       know  01   2   -          *         *            *         *           (V*)    -
+bn/cnn/04/cnn_0430   0   37             Bill   NNP                *          -    -   -   -   (PERSON*         *            *         *        (ARG1*)    -
+bn/cnn/04/cnn_0430   0   38           Curtis   NNP              *)))         -    -   -   -          *)        *            *         *)     (C-ARG1*)    9)
+bn/cnn/04/cnn_0430   0   39                .     .               *))         -    -   -   -          *         *            *         *             *     -
+
+bn/cnn/04/cnn_0430   0    0            The    DT    (TOP(S(S(NP*          -    -   -   -               *        (ARG0*        *        *     -
+bn/cnn/04/cnn_0430   0    1        special    JJ               *          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0    2         report    NN               *)     report   -   1   -               *             *)       *        *     -
+bn/cnn/04/cnn_0430   0    3           will    MD            (VP*          -    -   -   -               *    (ARGM-MOD*)       *        *     -
+bn/cnn/04/cnn_0430   0    4            air    VB            (VP*         air  01   2   -               *           (V*)       *        *     -
+bn/cnn/04/cnn_0430   0    5        tonight    NN            (NP*)    tonight   -   1   -          (TIME*    (ARGM-TMP*)       *        *     -
+bn/cnn/04/cnn_0430   0    6             at    IN            (PP*          -    -   -   -               *    (ARGM-TMP*        *        *     -
+bn/cnn/04/cnn_0430   0    7         10:00     CD           (NP*))         -    -   -   -               *             *)       *        *     -
+bn/cnn/04/cnn_0430   0    8        Eastern   NNP         (NP*))))         -    -   -   -               *)            *        *        *     -
+bn/cnn/04/cnn_0430   0    9              ,     ,               *          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   10              A    DT    (S(NP(NP(NP*          -    -   -   -   (WORK_OF_ART*             *        *   (ARG1*     -
+bn/cnn/04/cnn_0430   0   11        Twisted    JJ               *          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   12           Mind    NN               *)       mind   -   3   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   13              ,     ,               *          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   14            The    DT         (NP(NP*          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   15         Andrew   NNP               *          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   16         Luster    NN               *      lustre   -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   17          Story   NNP               *)         -    -   -   -               *)            *        *        *     -
+bn/cnn/04/cnn_0430   0   18             on    IN            (PP*          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   19            A&E   NNP         (NP*))))         -    -   -   -            (FAC)            *        *        *    (5)
+bn/cnn/04/cnn_0430   0   20       produced   VBN            (VP*     produce  01   1   -               *             *      (V*)       *     -
+bn/cnn/04/cnn_0430   0   21             by    IN            (PP*          -    -   -   -               *             *   (ARG0*        *     -
+bn/cnn/04/cnn_0430   0   22            CBS   NNP  (NP(NP(NP(NML*          -    -   -   -           (ORG*             *        *        *     -
+bn/cnn/04/cnn_0430   0   23           News   NNP               *)         -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   24    Productions   NNP               *)         -    -   -   -               *)            *        *        *     -
+bn/cnn/04/cnn_0430   0   25            for    IN            (PP*          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   26            A&E   NNP          (NP*)))         -    -   -   -            (ORG)            *        *        *    (5)
+bn/cnn/04/cnn_0430   0   27            and    CC               *          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   28           Bill   NNP            (NP*          -    -   -   -        (PERSON*             *        *        *    (9
+bn/cnn/04/cnn_0430   0   29         Curtis   NNP           *)))))         -    -   -   -               *)            *        *)       *)    9)
+bn/cnn/04/cnn_0430   0   30             is   VBZ            (VP*          be  01   2   -               *             *        *      (V*)    -
+bn/cnn/04/cnn_0430   0   31            the    DT            (NP*          -    -   -   -               *             *        *   (ARG2*     -
+bn/cnn/04/cnn_0430   0   32       producer    NN               *    producer   -   2   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   33            and    CC               *          -    -   -   -               *             *        *        *     -
+bn/cnn/04/cnn_0430   0   34       director    NN             *)))   director   -   1   -               *             *        *        *)    -
+bn/cnn/04/cnn_0430   0   35              .     .              *))         -    -   -   -               *             *        *        *     -
+
+bn/cnn/04/cnn_0430   0    0             In    IN    (TOP(S(PP*            -    -   -   -          *   (ARGM-LOC*           *           *    -
+bn/cnn/04/cnn_0430   0    1            New   NNP          (NP*            -    -   -   -      (GPE*            *           *           *   (8
+bn/cnn/04/cnn_0430   0    2           York   NNP            *))           -    -   -   -          *)           *)          *           *    8)
+bn/cnn/04/cnn_0430   0    3             is   VBZ          (VP*            be  01   2   -          *          (V*)          *           *    -
+bn/cnn/04/cnn_0430   0    4          Nancy   NNP    (NP(NP(NP*            -    -   -   -   (PERSON*       (ARG2*           *           *    -
+bn/cnn/04/cnn_0430   0    5          Grace   NNP             *)           -    -   -   -          *)           *           *           *    -
+bn/cnn/04/cnn_0430   0    6              ,     ,             *            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0    7              a    DT       (NP(NP*            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0    8         former    JJ             *            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0    9     prosecutor    NN             *)           -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   10              ,     ,             *            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   11             in    IN       (PP(PP*            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   12        Atlanta   NNP       (NP(NP*            -    -   -   -       (GPE)           *           *           *    -
+bn/cnn/04/cnn_0430   0   13          Chris   NNP             *            -    -   -   -   (PERSON*            *           *           *    -
+bn/cnn/04/cnn_0430   0   14        Picksly   NNP             *)           -    -   -   -          *)           *           *           *    -
+bn/cnn/04/cnn_0430   0   15              ,     ,             *            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   16        defense    NN          (NP*       defense   -   4   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   17       attorney    NN           *)))     attorney   -   1   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   18              ,     ,             *            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   19            and    CC             *            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   20             in    IN          (PP*            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   21            New   NNP          (NP*            -    -   -   -      (GPE*            *           *           *   (8
+bn/cnn/04/cnn_0430   0   22           York   NNP          *))))           -    -   -   -          *)           *           *           *    8)
+bn/cnn/04/cnn_0430   0   23              ,     ,             *            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   24            Dr.   NNP          (NP*            -    -   -   -          *            *           *           *   (3
+bn/cnn/04/cnn_0430   0   25        Michael   NNP             *            -    -   -   -   (PERSON*            *           *           *    -
+bn/cnn/04/cnn_0430   0   26        Wellner   NNP            *))           -    -   -   -          *)           *           *           *    -
+bn/cnn/04/cnn_0430   0   27            who    WP   (SBAR(WHNP*)           -    -   -   -          *            *    (R-ARG0*)          *    -
+bn/cnn/04/cnn_0430   0   28      published   VBD        (S(VP*       publish  01   1   -          *            *         (V*)          *    -
+bn/cnn/04/cnn_0430   0   29            the    DT       (NP(NP*            -    -   -   -          *            *      (ARG1*           *    -
+bn/cnn/04/cnn_0430   0   30       research    NN             *      research   -   1   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   31          study    NN             *)        study   -   3   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   32             on    IN          (PP*            -    -   -   -          *            *           *           *    -
+bn/cnn/04/cnn_0430   0   33           drug    NN          (NP*          drug   -   2   -          *            *           *      (ARG1*)   -
+bn/cnn/04/cnn_0430   0   34    facilitated   VBD             *    facilitate  01   1   -          *            *           *         (V*)   -
+bn/cnn/04/cnn_0430   0   35        rapists   NNS      *))))))))           -    -   -   -          *            *)          *)   (C-ARG1*)   3)
+bn/cnn/04/cnn_0430   0   36              .     .            *))           -    -   -   -          *            *           *           *    -
+
+bn/cnn/04/cnn_0430   0    0             He   PRP         (TOP(S(NP*)         -    -   -   -       *    (ARG1*)          *    (3)
+bn/cnn/04/cnn_0430   0    1             's   VBZ               (VP*          be  01   1   -       *       (V*)          *     -
+bn/cnn/04/cnn_0430   0    2              a    DT            (NP(NP*          -    -   -   -       *    (ARG2*           *     -
+bn/cnn/04/cnn_0430   0    3      professor    NN                  *)         -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0    4             of    IN               (PP*          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0    5     psychiatry    NN              (NP*))         -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0    6             at    IN               (PP*          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0    7            NYU   NNP            (NP(NP*)         -    -   -   -    (ORG)        *           *     -
+bn/cnn/04/cnn_0430   0    8              ,     ,                  *          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0    9       chairman    NN      (NP(NP(NP(NP*)   chairman   -   1   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   10             of    IN               (PP*          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   11            the    DT               (NP*          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   12       forensic    JJ                  *          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   13          panel    NN                *)))      panel   -   2   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   14            and    CC                  *          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   15         fellow    NN              (NP*))     fellow   -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   16             of    IN               (PP*          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   17            the    DT            (NP(NP*          -    -   -   -       *         *      (ARG0*     -
+bn/cnn/04/cnn_0430   0   18      depravity    NN                  *          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   19          scale    NN                  *)      scale   -   2   -       *         *           *)    -
+bn/cnn/04/cnn_0430   0   20           that   WDT        (SBAR(WHNP*)         -    -   -   -       *         *    (R-ARG0*)    -
+bn/cnn/04/cnn_0430   0   21      considers   VBZ             (S(VP*    consider  01   2   -       *         *         (V*)    -
+bn/cnn/04/cnn_0430   0   22    sensational    JJ            (NP(NP*          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   23         crimes   NNS                  *)      crime   -   1   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   24            for    IN               (PP*          -    -   -   -       *         *           *     -
+bn/cnn/04/cnn_0430   0   25     sentencing    NN   (NP*)))))))))))))   sentence   -   -   -       *         *)          *     -
+bn/cnn/04/cnn_0430   0   26              .     .                 *))         -    -   -   -       *         *           *     -
+
+bn/cnn/04/cnn_0430   0    0          He   PRP   (TOP(S(NP*)       -    -   -   -        *       (ARG1*)           *    (2)
+bn/cnn/04/cnn_0430   0    1         was   VBD         (VP*        be   -   -   -        *            *            *     -
+bn/cnn/04/cnn_0430   0    2    arrested   VBN         (VP*    arrest  01   1   -        *          (V*)           *     -
+bn/cnn/04/cnn_0430   0    3          in    IN         (PP*        -    -   -   -        *   (ARGM-TMP*            *     -
+bn/cnn/04/cnn_0430   0    4        June   NNP        (NP*))       -    -   -   -    (DATE)           *)           *     -
+bn/cnn/04/cnn_0430   0    5       after    IN       (SBAR*        -    -   -   -        *   (ARGM-TMP*            *     -
+bn/cnn/04/cnn_0430   0    6          he   PRP       (S(NP*)       -    -   -   -        *            *       (ARG0*)    -
+bn/cnn/04/cnn_0430   0    7         --      :            *        -    -   -   -        *            *            *     -
+bn/cnn/04/cnn_0430   0    8      jumped   VBD         (VP*      jump  01   1   -        *            *          (V*)    -
+bn/cnn/04/cnn_0430   0    9       trial    NN         (NP*)    trial   -   3   -        *            *       (ARG1*)    -
+bn/cnn/04/cnn_0430   0   10          on    IN         (PP*        -    -   -   -        *            *   (ARGM-LOC*     -
+bn/cnn/04/cnn_0430   0   11        bail    NN   (NP*)))))))     bail   -   -   -        *            *)           *)    -
+bn/cnn/04/cnn_0430   0   12           .     .           *))       -    -   -   -        *            *            *     -
+
+#end document

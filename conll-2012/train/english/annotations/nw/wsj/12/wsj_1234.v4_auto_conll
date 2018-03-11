@@ -1,0 +1,183 @@
+#begin document (nw/wsj/12/wsj_1234); part 000
+nw/wsj/12/wsj_1234   0    0        Ronald    NNP  (TOP(S(NP(NP*            -    -   -   -   (PERSON*   (ARG1*         *   (0
+nw/wsj/12/wsj_1234   0    1            B.    NNP              *            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0    2        Koenig    NNP              *)           -    -   -   -          *)       *         *    -
+nw/wsj/12/wsj_1234   0    3             ,      ,              *            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0    4           55      CD     (ADJP(NML*            -    -   -   -     (DATE*        *         *    -
+nw/wsj/12/wsj_1234   0    5         years    NNS              *)         year   -   1   -          *        *         *    -
+nw/wsj/12/wsj_1234   0    6           old     JJ              *)           -    -   -   -          *)       *         *    -
+nw/wsj/12/wsj_1234   0    7             ,      ,              *)           -    -   -   -          *        *)        *    0)
+nw/wsj/12/wsj_1234   0    8           was    VBD           (VP*            be   -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0    9         named    VBN           (VP*          name  01   3   -          *      (V*)        *    -
+nw/wsj/12/wsj_1234   0   10             a     DT   (S(NP(NP(NP*            -    -   -   -          *   (ARG2*         *    -
+nw/wsj/12/wsj_1234   0   11        senior     JJ              *            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   12      managing    VBG              *        manage  01   2   -          *        *       (V*)   -
+nw/wsj/12/wsj_1234   0   13      director     NN              *)     director   -   1   -          *        *    (ARG0*)   -
+nw/wsj/12/wsj_1234   0   14            of     IN           (PP*            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   15           the     DT        (NP(NP*            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   16       Gruntal    NNP          (NML*            -    -   -   -      (ORG*        *         *   (3
+nw/wsj/12/wsj_1234   0   17             &     CC              *            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   18           Co.    NNP              *)           -    -   -   -          *)       *         *    3)
+nw/wsj/12/wsj_1234   0   19     brokerage     NN              *     brokerage   -   1   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   20    subsidiary     NN              *)   subsidiary   -   2   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   21            of     IN           (PP*            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   22          this     DT           (NP*            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   23     insurance     NN          *)))))    insurance   -   3   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   24           and     CC              *            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   25     financial     JJ       (NP(NML*            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   26            -    HYPH              *            -    -   -   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   27      services    NNS              *)      service   -   1   -          *        *         *    -
+nw/wsj/12/wsj_1234   0   28          firm     NN          *)))))         firm   -   1   -          *        *)        *    -
+nw/wsj/12/wsj_1234   0   29             .      .             *))           -    -   -   -          *        *         *    -
+
+nw/wsj/12/wsj_1234   0    0           Mr.    NNP    (TOP(S(NP*            -    -   -   -          *        (ARG0*             *         *   (0
+nw/wsj/12/wsj_1234   0    1        Koenig    NNP             *)           -    -   -   -    (PERSON)            *)            *         *    0)
+nw/wsj/12/wsj_1234   0    2          will     MD          (VP*            -    -   -   -          *    (ARGM-MOD*)            *         *    -
+nw/wsj/12/wsj_1234   0    3         build     VB          (VP*         build  01   3   -          *           (V*)            *         *    -
+nw/wsj/12/wsj_1234   0    4           the     DT       (NP(NP*            -    -   -   -          *        (ARG1*             *         *    -
+nw/wsj/12/wsj_1234   0    5     corporate     JJ     (NML(NML*            -    -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0    6            -    HYPH             *            -    -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0    7       finance     NN             *)      finance   -   3   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0    8           and     CC             *            -    -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0    9    investment     NN         (NML*    investment   -   3   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   10            -    HYPH             *            -    -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   11       banking     NN            *))      banking   -   1   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   12      business     NN             *)     business   -   1   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   13            of     IN          (PP*            -    -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   14       Gruntal    NNP       (NP(NP*)           -    -   -   -       (ORG)            *             *         *   (3
+nw/wsj/12/wsj_1234   0   15             ,      ,             *            -    -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   16         which    WDT   (SBAR(WHNP*)           -    -   -   -          *             *      (R-ARG1*)        *    -
+nw/wsj/12/wsj_1234   0   17           has    VBZ        (S(VP*          have   -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   18     primarily     RB        (ADVP*)           -    -   -   -          *             *    (ARGM-ADV*)        *    -
+nw/wsj/12/wsj_1234   0   19          been    VBN          (VP*            be  01   1   -          *             *           (V*)        *    -
+nw/wsj/12/wsj_1234   0   20             a     DT          (NP*            -    -   -   -          *             *        (ARG2*         *    -
+nw/wsj/12/wsj_1234   0   21        retail     NN        (ADJP*        retail   -   -   -          *             *             *    (ARG2*)   -
+nw/wsj/12/wsj_1234   0   22            -    HYPH             *            -    -   -   -          *             *             *         *    -
+nw/wsj/12/wsj_1234   0   23         based    VBN             *)         base  02   3   -          *             *             *       (V*)   -
+nw/wsj/12/wsj_1234   0   24          firm     NN    *))))))))))         firm   -   1   -          *             *)            *)   (ARG1*)   3)
+nw/wsj/12/wsj_1234   0   25             .      .            *))           -    -   -   -          *             *             *         *    -
+
+nw/wsj/12/wsj_1234   0    0             He    PRP          (TOP(S(NP*)           -    -   -   -          *             *    (0)
+nw/wsj/12/wsj_1234   0    1            was    VBD                (VP*            be   -   1   -          *             *     -
+nw/wsj/12/wsj_1234   0    2       chairman     NN          (NP(NP(NP*)     chairman   -   1   -          *             *     -
+nw/wsj/12/wsj_1234   0    3            and     CC                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0    4       co-chief     JJ                (NP*            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0    5      executive     JJ                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0    6        officer     NN                  *))      officer   -   2   -          *             *     -
+nw/wsj/12/wsj_1234   0    7             of     IN                (PP*            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0    8      Ladenburg    NNP                (NP*            -    -   -   -      (ORG*             *    (2
+nw/wsj/12/wsj_1234   0    9              ,      ,                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   10       Thalmann    NNP                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   11              &     CC                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   12            Co.    NNP                 *)))           -    -   -   -          *)            *     2)
+nw/wsj/12/wsj_1234   0   13          until     IN                (PP*            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   14           July    NNP             (NP(NP*)           -    -   -   -      (DATE)            *     -
+nw/wsj/12/wsj_1234   0   15              ,      ,                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   16           when    WRB       (SBAR(WHADVP*)           -    -   -   -          *    (ARGM-TMP*)    -
+nw/wsj/12/wsj_1234   0   17             he    PRP              (S(NP*)           -    -   -   -          *        (ARG1*)   (0)
+nw/wsj/12/wsj_1234   0   18            was    VBD                (VP*            be   -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   19          named    VBN                (VP*          name  01   3   -          *           (V*)    -
+nw/wsj/12/wsj_1234   0   20    co-chairman     NN             (NP(NP*)           -    -   -   -          *        (ARG2*     -
+nw/wsj/12/wsj_1234   0   21             of     IN                (PP*            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   22            the     DT             (NP(NP*            -    -   -   -          *             *    (2
+nw/wsj/12/wsj_1234   0   23     investment     NN               (NML*    investment   -   3   -          *             *     -
+nw/wsj/12/wsj_1234   0   24             -    HYPH                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   25        banking     NN                   *)      banking   -   1   -          *             *     -
+nw/wsj/12/wsj_1234   0   26           firm     NN                   *)         firm   -   1   -          *             *     2)
+nw/wsj/12/wsj_1234   0   27          along     IN                (PP*            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   28           with     IN                (PP*            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   29         Howard    NNP             (NP(NP*            -    -   -   -   (PERSON*             *    (1
+nw/wsj/12/wsj_1234   0   30             L.    NNP                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   31           Blum    NNP                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   32            Jr.    NNP                   *)           -    -   -   -          *)            *     -
+nw/wsj/12/wsj_1234   0   33              ,      ,                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   34            who     WP         (SBAR(WHNP*)           -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   35           then     RB            (S(ADVP*)           -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   36         became    VBD                (VP*        become   -   1   -          *             *     -
+nw/wsj/12/wsj_1234   0   37            the     DT                (NP*            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   38           sole     JJ                   *            -    -   -   -          *             *     -
+nw/wsj/12/wsj_1234   0   39          chief     NN                   *         chief   -   1   -          *             *     -
+nw/wsj/12/wsj_1234   0   40      executive     NN   *)))))))))))))))))    executive   -   1   -          *             *)    1)
+nw/wsj/12/wsj_1234   0   41              .      .                  *))           -    -   -   -          *             *     -
+
+nw/wsj/12/wsj_1234   0    0       Yesterday    NN              (TOP(S(NP*)     yesterday   -   1   -      (DATE)   (ARGM-TMP*)       *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0    1               ,     ,                       *             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0    2             Mr.   NNP                 (NP(NP*             -    -   -   -          *        (ARG0*        *        *        *             *        *    (1
+nw/wsj/12/wsj_1234   0    3            Blum   NNP                       *)            -    -   -   -    (PERSON)            *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0    4               ,     ,                       *             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0    5             41     CD                    (NP*)            -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0    6               ,     ,                       *)            -    -   -   -          *             *)       *        *        *             *        *     1)
+nw/wsj/12/wsj_1234   0    7            said   VBD                    (VP*            say  01   1   -          *           (V*)       *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0    8              he   PRP             (SBAR(S(NP*)            -    -   -   -          *        (ARG1*        *        *        *             *        *    (1)
+nw/wsj/12/wsj_1234   0    9             was   VBD                    (VP*             be   -   1   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   10             n't    RB                       *             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   11           aware    JJ                  (ADJP*             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   12              of    IN                    (PP*             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   13           plans   NNS                 (NP(NP*)          plan   -   1   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   14              at    IN                    (PP*             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   15       Ladenburg   NNP                   (NP*))            -    -   -   -       (ORG)            *        *        *        *             *        *    (2)
+nw/wsj/12/wsj_1234   0   16              to    TO                  (S(VP*             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   17            name    VB                    (VP*           name  01   3   -          *             *      (V*)       *        *             *        *     -
+nw/wsj/12/wsj_1234   0   18               a    DT                    (NP*             -    -   -   -          *             *   (ARG2*   (ARG2*        *             *        *     -
+nw/wsj/12/wsj_1234   0   19     co-chairman    NN                       *)            -    -   -   -          *             *        *)       *)       *             *        *     -
+nw/wsj/12/wsj_1234   0   20              to    TO               (S(VP(VP*             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   21         succeed    VB                    (VP*        succeed  02   2   -          *             *        *      (V*)       *             *        *     -
+nw/wsj/12/wsj_1234   0   22             Mr.   NNP                    (NP*             -    -   -   -          *             *        *   (ARG1*        *             *        *    (0
+nw/wsj/12/wsj_1234   0   23          Koenig   NNP                     *)))            -    -   -   -    (PERSON)            *        *        *)       *             *        *     0)
+nw/wsj/12/wsj_1234   0   24             and    CC                       *             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   25            said   VBD                    (VP*            say  01   1   -          *             *        *        *      (V*)            *        *     -
+nw/wsj/12/wsj_1234   0   26             the    DT             (SBAR(S(NP*             -    -   -   -          *             *        *        *   (ARG1*        (ARG0*   (ARG0*     -
+nw/wsj/12/wsj_1234   0   27           board    NN                       *)         board   -   4   -          *             *        *        *        *             *)       *)    -
+nw/wsj/12/wsj_1234   0   28           would    MD                    (VP*             -    -   -   -          *             *        *        *        *    (ARGM-MOD*)       *     -
+nw/wsj/12/wsj_1234   0   29            need    VB                    (VP*           need  01   2   -          *             *        *        *        *           (V*)       *     -
+nw/wsj/12/wsj_1234   0   30              to    TO                  (S(VP*             -    -   -   -          *             *        *        *        *        (ARG1*        *     -
+nw/wsj/12/wsj_1234   0   31         approve    VB                    (VP*        approve  01   1   -          *             *        *        *        *             *      (V*)    -
+nw/wsj/12/wsj_1234   0   32             any    DT                    (NP*             -    -   -   -          *             *        *        *        *             *   (ARG1*     -
+nw/wsj/12/wsj_1234   0   33    appointments   NNS                   (NML*    appointment   -   1   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   34              or    CC                       *             -    -   -   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   35           title    NN                       *)         title   -   5   -          *             *        *        *        *             *        *     -
+nw/wsj/12/wsj_1234   0   36         changes   NNS   *)))))))))))))))))))))        change   -   1   -          *             *)       *        *        *)            *)       *)    -
+nw/wsj/12/wsj_1234   0   37               .     .                      *))            -    -   -   -          *             *        *        *        *             *        *     -
+
+nw/wsj/12/wsj_1234   0    0          Mr.    NNP   (TOP(S(S(NP*           -    -   -   -          *   (ARG0*           *           *    (1
+nw/wsj/12/wsj_1234   0    1         Blum    NNP              *)          -    -   -   -    (PERSON)       *)          *           *     1)
+nw/wsj/12/wsj_1234   0    2        added    VBD           (VP*          add  01   1   -          *      (V*)          *           *     -
+nw/wsj/12/wsj_1234   0    3           he    PRP    (SBAR(S(NP*)          -    -   -   -          *   (ARG1*           *           *    (1)
+nw/wsj/12/wsj_1234   0    4          was    VBD           (VP*           be   -   1   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0    5          n't     RB              *           -    -   -   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0    6    surprised     JJ         (ADJP*           -    -   -   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0    7          Mr.    NNP    (SBAR(S(NP*           -    -   -   -          *        *           *           *    (0
+nw/wsj/12/wsj_1234   0    8       Koenig    NNP              *)          -    -   -   -    (PERSON)       *           *           *     0)
+nw/wsj/12/wsj_1234   0    9     resigned    VBD   (VP*)))))))))      resign   -   1   -          *        *)          *           *     -
+nw/wsj/12/wsj_1234   0   10            ,      ,              *           -    -   -   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0   11          but     CC              *           -    -   -   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0   12          his   PRP$         (S(NP*           -    -   -   -          *        *           *           *    (0)
+nw/wsj/12/wsj_1234   0   13    departure     NN              *)   departure   -   1   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0   14          was    VBD           (VP*           be   -   1   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0   15           ``     ``              *           -    -   -   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0   16      nothing     NN        (NP(NP*)     nothing   -   2   -          *        *      (ARG1*)          *     -
+nw/wsj/12/wsj_1234   0   17         that    WDT    (SBAR(WHNP*)          -    -   -   -          *        *    (R-ARG1*)   (R-ARG0*)    -
+nw/wsj/12/wsj_1234   0   18           we    PRP         (S(NP*)          -    -   -   -          *        *      (ARG0*)     (ARG0*)   (2)
+nw/wsj/12/wsj_1234   0   19      desired    VBD           (VP*       desire  01   1   -          *        *         (V*)          *     -
+nw/wsj/12/wsj_1234   0   20           or     CC              *           -    -   -   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0   21       worked    VBD              *         work  01   1   -          *        *           *         (V*)    -
+nw/wsj/12/wsj_1234   0   22          for     IN     (PP*)))))))          -    -   -   -          *        *           *      (ARG2*)    -
+nw/wsj/12/wsj_1234   0   23            .      .              *           -    -   -   -          *        *           *           *     -
+nw/wsj/12/wsj_1234   0   24           ''     ''             *))          -    -   -   -          *        *           *           *     -
+
+nw/wsj/12/wsj_1234   0    0           Mr.   NNP  (TOP(S(NP*       -    -   -   -          *   (ARG0*    (0
+nw/wsj/12/wsj_1234   0    1        Koenig   NNP           *)      -    -   -   -    (PERSON)       *)    0)
+nw/wsj/12/wsj_1234   0    2          said   VBD        (VP*      say  01   1   -          *      (V*)    -
+nw/wsj/12/wsj_1234   0    3             :     :           *       -    -   -   -          *        *     -
+nw/wsj/12/wsj_1234   0    4            ``    ``           *       -    -   -   -          *        *     -
+nw/wsj/12/wsj_1234   0    5             I   PRP      (S(NP*)      -    -   -   -          *        *    (0)
+nw/wsj/12/wsj_1234   0    6          just    RB      (ADVP*)      -    -   -   -          *        *     -
+nw/wsj/12/wsj_1234   0    7           got   VBP        (VP*      get   -   1   -          *        *     -
+nw/wsj/12/wsj_1234   0    8             a    DT     (NP(NP*       -    -   -   -          *        *     -
+nw/wsj/12/wsj_1234   0    9    tremendous    JJ           *       -    -   -   -          *        *     -
+nw/wsj/12/wsj_1234   0   10         offer    NN           *)   offer   -   1   -          *        *     -
+nw/wsj/12/wsj_1234   0   11          from    IN        (PP*       -    -   -   -          *        *     -
+nw/wsj/12/wsj_1234   0   12       Gruntal   NNP   (NP*))))))      -    -   -   -       (ORG)       *    (3)
+nw/wsj/12/wsj_1234   0   13             .     .          *))      -    -   -   -          *        *     -
+
+#end document

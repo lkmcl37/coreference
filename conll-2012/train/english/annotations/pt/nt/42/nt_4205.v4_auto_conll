@@ -1,0 +1,1294 @@
+#begin document (pt/nt/42/nt_4205); part 000
+pt/nt/42/nt_4205   0    0           As    IN  (TOP(S(SBAR*          -    -   -    Luke         *         *   (ARGM-ADV*        *        *     -
+pt/nt/42/nt_4205   0    1        Jesus   NNP        (S(NP*)         -    -   -    Luke   (PERSON)   (ARG1*)           *        *        *    (4)
+pt/nt/42/nt_4205   0    2        stood   VBD          (VP*       stand  01   2    Luke         *       (V*)           *        *        *     -
+pt/nt/42/nt_4205   0    3       beside    IN          (PP*          -    -   -    Luke         *    (ARG2*            *        *        *     -
+pt/nt/42/nt_4205   0    4         Lake   NNP          (NP*          -    -   -    Luke     (GPE*         *            *        *        *    (7
+pt/nt/42/nt_4205   0    5      Galilee   NNP         *)))))         -    -   -    Luke         *)        *)           *)       *        *     7)
+pt/nt/42/nt_4205   0    6            ,     ,             *          -    -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0    7            a    DT       (NP(NP*          -    -   -    Luke         *         *       (ARG0*   (ARG1*   (ARG0*   (21
+pt/nt/42/nt_4205   0    8        crowd    NN             *)      crowd   -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0    9           of    IN          (PP*          -    -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0   10       people   NNS        (NP*)))     people   -   1    Luke         *         *            *)       *)       *)   21)
+pt/nt/42/nt_4205   0   11       pushed   VBD          (VP*        push  01   1    Luke         *         *          (V*)       *        *     -
+pt/nt/42/nt_4205   0   12           to    TO     (S(VP(VP*          -    -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0   13          get    VB          (VP*         get  05   3    Luke         *         *            *      (V*)       *     -
+pt/nt/42/nt_4205   0   14       closer   JJR        (ADJP*          -    -   -    Luke         *         *            *   (ARG2*        *     -
+pt/nt/42/nt_4205   0   15           to    IN          (PP*          -    -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0   16          him   PRP      (NP*)))))         -    -   -    Luke         *         *            *        *)       *    (4)
+pt/nt/42/nt_4205   0   17          and    CC             *          -    -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0   18           to    TO          (VP*          -    -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0   19         hear    VB          (VP*        hear  01   1    Luke         *         *            *        *      (V*)    -
+pt/nt/42/nt_4205   0   20          the    DT       (NP(NP*          -    -   -    Luke         *         *            *        *   (ARG1*     -
+pt/nt/42/nt_4205   0   21    teachings   NNS             *)   teaching   -   1    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0   22           of    IN          (PP*          -    -   -    Luke         *         *            *        *        *     -
+pt/nt/42/nt_4205   0   23          God   NNP   (NP*))))))))         -    -   -    Luke         *         *            *        *        *)   (9)
+pt/nt/42/nt_4205   0   24            .     .            *))         -    -   -    Luke         *         *            *        *        *     -
+
+pt/nt/42/nt_4205   0    0    Jesus   NNP   (TOP(S(NP*)      -    -   -    Luke     (PERSON)      (ARG0*)      (4)
+pt/nt/42/nt_4205   0    1      saw   VBD         (VP*      see  01   1    Luke           *          (V*)       -
+pt/nt/42/nt_4205   0    2      two    CD         (NP*       -    -   -    Luke   (CARDINAL)      (ARG1*      (26
+pt/nt/42/nt_4205   0    3    boats   NNS            *)    boat   -   -    Luke           *            *)      26)
+pt/nt/42/nt_4205   0    4       at    IN         (PP*       -    -   -    Luke           *   (ARGM-LOC*        -
+pt/nt/42/nt_4205   0    5      the    DT      (NP(NP*       -    -   -    Luke           *            *      (11
+pt/nt/42/nt_4205   0    6    shore    NN            *)   shore   -   1    Luke           *            *        -
+pt/nt/42/nt_4205   0    7       of    IN         (PP*       -    -   -    Luke           *            *        -
+pt/nt/42/nt_4205   0    8      the    DT         (NP*       -    -   -    Luke           *            *       (7
+pt/nt/42/nt_4205   0    9     lake    NN        *)))))      -    -   -    Luke           *            *)   11)|7)
+pt/nt/42/nt_4205   0   10        .     .           *))      -    -   -    Luke           *            *        -
+
+pt/nt/42/nt_4205   0   0          The     DT  (TOP(S(NP*      -    -   -    Luke  *   (ARG0*    (20
+pt/nt/42/nt_4205   0   1    fishermen    NNS           *)     -    -   -    Luke  *        *)    20)
+pt/nt/42/nt_4205   0   2         were    VBD        (VP*      be   -   -    Luke  *        *      -
+pt/nt/42/nt_4205   0   3      washing    VBG        (VP*    wash  01   1    Luke  *      (V*)     -
+pt/nt/42/nt_4205   0   4        their   PRP$        (NP*      -    -   -    Luke  *   (ARG1*    (20)
+pt/nt/42/nt_4205   0   5         nets    NNS         *)))    net   -   2    Luke  *        *)     -
+pt/nt/42/nt_4205   0   6            .      .          *))     -    -   -    Luke  *        *      -
+
+pt/nt/42/nt_4205   0   0       Jesus   NNP    (TOP(S(NP*)       -    -      -    Luke   (PERSON)          *         (4)
+pt/nt/42/nt_4205   0   1         got   VBD          (VP*       get   -   11.2    Luke         *           *          -
+pt/nt/42/nt_4205   0   2        into    IN          (PP*        -    -      -    Luke         *           *          -
+pt/nt/42/nt_4205   0   3         the    DT       (NP(NP*        -    -      -    Luke         *      (ARG0*        (10
+pt/nt/42/nt_4205   0   4        boat    NN             *)     boat   -      -    Luke         *           *)         -
+pt/nt/42/nt_4205   0   5        that   WDT   (SBAR(WHNP*)       -    -      -    Luke         *    (R-ARG0*)         -
+pt/nt/42/nt_4205   0   6    belonged   VBD        (S(VP*    belong  01      1    Luke         *         (V*)         -
+pt/nt/42/nt_4205   0   7          to    IN          (PP*        -    -      -    Luke         *      (ARG1*          -
+pt/nt/42/nt_4205   0   8       Simon   NNP   (NP*))))))))       -    -      -    Luke   (PERSON)          *)   (25)|10)
+pt/nt/42/nt_4205   0   9           .     .            *))       -    -      -    Luke         *           *          -
+
+pt/nt/42/nt_4205   0    0        He   PRP   (TOP(S(NP*)      -    -   -    Luke         *    (ARG0*)        *     (4)
+pt/nt/42/nt_4205   0    1     asked   VBD         (VP*      ask  02   2    Luke         *       (V*)        *      -
+pt/nt/42/nt_4205   0    2     Simon   NNP         (NP*)      -    -   -    Luke   (PERSON)   (ARG2*)   (ARG0*)   (25)
+pt/nt/42/nt_4205   0    3        to    TO       (S(VP*       -    -   -    Luke         *    (ARG1*         *      -
+pt/nt/42/nt_4205   0    4      push    VB         (VP*     push  01   1    Luke         *         *       (V*)     -
+pt/nt/42/nt_4205   0    5       off    RP        (PRT*)      -    -   -    Luke         *         *         *      -
+pt/nt/42/nt_4205   0    6         a    DT         (NP*       -    -   -    Luke         *         *    (ARG1*      -
+pt/nt/42/nt_4205   0    7    little    JJ            *)      -    -   -    Luke         *         *         *)     -
+pt/nt/42/nt_4205   0    8      from    IN         (PP*       -    -   -    Luke         *         *    (ARG2*      -
+pt/nt/42/nt_4205   0    9       the    DT         (NP*       -    -   -    Luke         *         *         *    (11
+pt/nt/42/nt_4205   0   10     shore    NN       *))))))   shore   -   1    Luke         *         *)        *)    11)
+pt/nt/42/nt_4205   0   11         .     .           *))      -    -   -    Luke         *         *         *      -
+
+pt/nt/42/nt_4205   0    0      Then    RB   (TOP(S(ADVP*)       -    -   -    Luke  *    (ARGM-TMP*)   (ARGM-TMP*)        -
+pt/nt/42/nt_4205   0    1        he   PRP           (NP*)       -    -   -    Luke  *        (ARG1*)       (ARG0*)       (4)
+pt/nt/42/nt_4205   0    2       sat   VBD        (VP(VP*       sit  02   1    Luke  *           (V*)            *         -
+pt/nt/42/nt_4205   0    3      down    RP          (PRT*)       -    -   -    Luke  *             *             *         -
+pt/nt/42/nt_4205   0    4        in    IN           (PP*        -    -   -    Luke  *    (ARGM-LOC*             *         -
+pt/nt/42/nt_4205   0    5       the    DT           (NP*        -    -   -    Luke  *             *             *       (10
+pt/nt/42/nt_4205   0    6      boat    NN            *)))     boat   -   -    Luke  *             *)            *        10)
+pt/nt/42/nt_4205   0    7       and    CC              *        -    -   -    Luke  *             *             *         -
+pt/nt/42/nt_4205   0    8    taught   VBD           (VP*     teach  01   1    Luke  *             *           (V*)        -
+pt/nt/42/nt_4205   0    9       the    DT           (NP*        -    -   -    Luke  *             *        (ARG2*       (21
+pt/nt/42/nt_4205   0   10    people   NNS              *)   people   -   1    Luke  *             *             *)        -
+pt/nt/42/nt_4205   0   11        on    IN           (PP*        -    -   -    Luke  *             *        (ARG1*         -
+pt/nt/42/nt_4205   0   12       the    DT           (NP*        -    -   -    Luke  *             *             *       (11
+pt/nt/42/nt_4205   0   13     shore    NN           *))))    shore   -   1    Luke  *             *             *)   21)|11)
+pt/nt/42/nt_4205   0   14         .     .             *))       -    -   -    Luke  *             *             *         -
+
+pt/nt/42/nt_4205   0    0        When   WRB   (TOP(S(SBAR(WHADVP*)       -    -   -    Luke         *    (ARGM-TMP*)        *   (ARGM-TMP*      -
+pt/nt/42/nt_4205   0    1       Jesus   NNP                (S(NP*)       -    -   -    Luke   (PERSON)       (ARG0*)   (ARG0*)           *     (4)
+pt/nt/42/nt_4205   0    2    finished   VBD                  (VP*    finish  01   1    Luke         *           (V*)        *            *      -
+pt/nt/42/nt_4205   0    3    speaking   VBG            (S(VP*)))))    speak  01   1    Luke         *        (ARG1*)      (V*)           *)     -
+pt/nt/42/nt_4205   0    4           ,     ,                     *        -    -   -    Luke         *             *         *            *      -
+pt/nt/42/nt_4205   0    5          he   PRP                  (NP*)       -    -   -    Luke         *             *         *       (ARG0*)    (4)
+pt/nt/42/nt_4205   0    6        said   VBD                  (VP*       say  01   1    Luke         *             *         *          (V*)     -
+pt/nt/42/nt_4205   0    7          to    IN                  (PP*        -    -   -    Luke         *             *         *       (ARG2*      -
+pt/nt/42/nt_4205   0    8       Simon   NNP                (NP*)))       -    -   -    Luke   (PERSON)            *         *            *)   (25)
+pt/nt/42/nt_4205   0    9           ,     .                     *        -    -   -    Luke         *             *         *            *      -
+pt/nt/42/nt_4205   0   10          ``    ``                    *))       -    -   -    Luke         *             *         *            *      -
+
+pt/nt/42/nt_4205   0   0     Take   VB  (TOP(S(VP*     take  -   5    Luke  *     -
+pt/nt/42/nt_4205   0   1      the   DT        (NP*       -   -   -    Luke  *   (10
+pt/nt/42/nt_4205   0   2     boat   NN           *)    boat  -   -    Luke  *    10)
+pt/nt/42/nt_4205   0   3     into   IN        (PP*       -   -   -    Luke  *     -
+pt/nt/42/nt_4205   0   4      the   DT        (NP*       -   -   -    Luke  *    (5
+pt/nt/42/nt_4205   0   5     deep   JJ           *       -   -   -    Luke  *     -
+pt/nt/42/nt_4205   0   6    water   NN         *)))   water  -   1    Luke  *     5)
+pt/nt/42/nt_4205   0   7        .    .          *))      -   -   -    Luke  *     -
+
+pt/nt/42/nt_4205   0    0       If     IN  (TOP(S(SBAR*       -    -   -    Luke  *             *    (ARGM-ADV*          -
+pt/nt/42/nt_4205   0    1      all     DT     (S(NP(NP*)      -    -   -    Luke  *        (ARG0*             *        (19
+pt/nt/42/nt_4205   0    2       of     IN          (PP*       -    -   -    Luke  *             *             *          -
+pt/nt/42/nt_4205   0    3      you    PRP        (NP*)))      -    -   -    Luke  *             *)            *    (19)|19)
+pt/nt/42/nt_4205   0    4     will     MD          (VP*       -    -   -    Luke  *    (ARGM-MOD*)            *          -
+pt/nt/42/nt_4205   0    5      put     VB          (VP*      put  01   1    Luke  *           (V*)            *          -
+pt/nt/42/nt_4205   0    6     your   PRP$          (NP*       -    -   -    Luke  *        (ARG1*             *     (1|(19)
+pt/nt/42/nt_4205   0    7     nets    NNS             *)     net   -   2    Luke  *             *)            *          1)
+pt/nt/42/nt_4205   0    8     into     IN          (PP*       -    -   -    Luke  *        (ARG2*             *          -
+pt/nt/42/nt_4205   0    9      the     DT          (NP*       -    -   -    Luke  *             *             *         (5
+pt/nt/42/nt_4205   0   10    water     NN        *))))))   water   -   3    Luke  *             *)            *)         5)
+pt/nt/42/nt_4205   0   11        ,      ,             *       -    -   -    Luke  *             *             *          -
+pt/nt/42/nt_4205   0   12      you    PRP          (NP*)      -    -   -    Luke  *             *        (ARG0*)       (19)
+pt/nt/42/nt_4205   0   13     will     MD          (VP*       -    -   -    Luke  *             *    (ARGM-MOD*)         -
+pt/nt/42/nt_4205   0   14    catch     VB          (VP*    catch  01   2    Luke  *             *           (V*)         -
+pt/nt/42/nt_4205   0   15     some     DT          (NP*       -    -   -    Luke  *             *        (ARG1*          -
+pt/nt/42/nt_4205   0   16     fish     NN           *)))    fish   -   -    Luke  *             *             *)         -
+pt/nt/42/nt_4205   0   17        .      .             *       -    -   -    Luke  *             *             *          -
+pt/nt/42/nt_4205   0   18       ''     ''            *))      -    -   -    Luke  *             *             *          -
+
+pt/nt/42/nt_4205   0    0       Simon   NNP   (TOP(S(S(NP*)        -    -   -    Luke        (PERSON)   (ARG0*)            *            *         *         *    (25)
+pt/nt/42/nt_4205   0    1    answered   VBD          (VP*))    answer  01   1    Luke              *       (V*)            *            *         *         *      -
+pt/nt/42/nt_4205   0    2           ,     ,              *         -    -   -    Luke              *         *             *            *         *         *      -
+pt/nt/42/nt_4205   0    3          ``    ``            (S*         -    -   -    Luke              *         *             *            *         *         *      -
+pt/nt/42/nt_4205   0    4      Master   NNP          (NP*))        -    -   -    Luke   (WORK_OF_ART)        *             *            *         *         *     (4)
+pt/nt/42/nt_4205   0    5           ,     ,              *         -    -   -    Luke              *         *             *            *         *         *      -
+pt/nt/42/nt_4205   0    6          we   PRP         (S(NP*)        -    -   -    Luke              *         *        (ARG0*)           *         *    (ARG0*)   (19)
+pt/nt/42/nt_4205   0    7      worked   VBD        (VP(VP*       work  01   1    Luke              *         *           (V*)           *         *         *      -
+pt/nt/42/nt_4205   0    8        hard    RB         (ADVP*)        -    -   -    Luke              *         *    (ARGM-MNR*)           *         *         *      -
+pt/nt/42/nt_4205   0    9         all    DT        (NP(NP*         -    -   -    Luke              *         *    (ARGM-TMP*   (ARGM-TMP*         *         *      -
+pt/nt/42/nt_4205   0   10       night    NN              *)     night   -   1    Luke              *         *             *            *)        *         *      -
+pt/nt/42/nt_4205   0   11      trying   VBG           (VP*        try  01   1    Luke              *         *             *          (V*)        *         *      -
+pt/nt/42/nt_4205   0   12          to    TO         (S(VP*         -    -   -    Luke              *         *             *       (ARG1*         *         *      -
+pt/nt/42/nt_4205   0   13       catch    VB           (VP*      catch  03   2    Luke              *         *             *            *       (V*)        *      -
+pt/nt/42/nt_4205   0   14        fish    NN     (NP*)))))))      fish   -   -    Luke              *         *             *)           *)   (ARG1*)        *      -
+pt/nt/42/nt_4205   0   15         and    CC              *         -    -   -    Luke              *         *             *            *         *         *      -
+pt/nt/42/nt_4205   0   16      caught   VBD           (VP*      catch  01   2    Luke              *         *             *            *         *       (V*)     -
+pt/nt/42/nt_4205   0   17     nothing    NN        (NP*))))   nothing   -   2    Luke              *         *             *            *         *    (ARG1*)     -
+pt/nt/42/nt_4205   0   18           .     .             *))        -    -   -    Luke              *         *             *            *         *         *      -
+
+pt/nt/42/nt_4205   0    0       But    CC         (TOP(S*       -    -   -    Luke  *    (ARGM-DIS*)            *      -
+pt/nt/42/nt_4205   0    1       you   PRP            (NP*)      -    -   -    Luke  *        (ARG0*)            *     (4)
+pt/nt/42/nt_4205   0    2       say   VBP            (VP*      say  01   1    Luke  *           (V*)            *      -
+pt/nt/42/nt_4205   0    3         I   PRP   (SBAR(S(S(NP*)      -    -   -    Luke  *        (ARG1*        (ARG0*)   (25)
+pt/nt/42/nt_4205   0    4    should    MD            (VP*       -    -   -    Luke  *             *    (ARGM-MOD*)     -
+pt/nt/42/nt_4205   0    5       put    VB            (VP*      put  01   1    Luke  *             *           (V*)     -
+pt/nt/42/nt_4205   0    6       the    DT            (NP*       -    -   -    Luke  *             *        (ARG1*     (1
+pt/nt/42/nt_4205   0    7      nets   NNS               *)     net   -   2    Luke  *             *             *)     1)
+pt/nt/42/nt_4205   0    8      into    IN            (PP*       -    -   -    Luke  *             *        (ARG2*      -
+pt/nt/42/nt_4205   0    9       the    DT            (NP*       -    -   -    Luke  *             *             *     (5
+pt/nt/42/nt_4205   0   10     water    NN           *)))))   water   -   3    Luke  *             *             *)     5)
+pt/nt/42/nt_4205   0   11         ,     ,               *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   12        so    CC               *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   13         I   PRP          (S(NP*)      -    -   -    Luke  *             *             *    (25)
+pt/nt/42/nt_4205   0   14      will    MD        (VP*)))))      -    -   -    Luke  *             *)            *      -
+pt/nt/42/nt_4205   0   15         .     .               *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   16        ''    ''              *))      -    -   -    Luke  *             *             *      -
+
+pt/nt/42/nt_4205   0   0          The     DT  (TOP(S(NP*       -    -   -    Luke  *   (ARG0*       (19
+pt/nt/42/nt_4205   0   1    fishermen     NN           *)      -    -   -    Luke  *        *)       19)
+pt/nt/42/nt_4205   0   2          put    VBD        (VP*      put  01   1    Luke  *      (V*)        -
+pt/nt/42/nt_4205   0   3        their   PRP$        (NP*       -    -   -    Luke  *   (ARG1*    (1|(19)
+pt/nt/42/nt_4205   0   4         nets    NNS           *)     net   -   2    Luke  *        *)        1)
+pt/nt/42/nt_4205   0   5         into     IN        (PP*       -    -   -    Luke  *   (ARG2*         -
+pt/nt/42/nt_4205   0   6          the     DT        (NP*       -    -   -    Luke  *        *        (5
+pt/nt/42/nt_4205   0   7        water     NN         *)))   water   -   3    Luke  *        *)        5)
+pt/nt/42/nt_4205   0   8            .      .          *))      -    -   -    Luke  *        *         -
+
+pt/nt/42/nt_4205   0    0     Their   PRP$      (TOP(S(NP*       -    -   -    Luke  *   (ARG1*         *         *    (1|(19)
+pt/nt/42/nt_4205   0    1      nets    NNS               *)     net   -   2    Luke  *        *)        *         *         1)
+pt/nt/42/nt_4205   0    2      were    VBD            (VP*       be   -   -    Luke  *        *         *         *         -
+pt/nt/42/nt_4205   0    3    filled    VBN            (VP*     fill  01   1    Luke  *      (V*)        *         *         -
+pt/nt/42/nt_4205   0    4      with     IN            (PP*       -    -   -    Luke  *   (ARG2*         *         *         -
+pt/nt/42/nt_4205   0    5        so     RB    (NP(NP(ADJP*       -    -   -    Luke  *        *         *         *         -
+pt/nt/42/nt_4205   0    6      many     JJ               *)      -    -   -    Luke  *        *         *         *         -
+pt/nt/42/nt_4205   0    7      fish    NNS               *)    fish   -   -    Luke  *        *         *         *         -
+pt/nt/42/nt_4205   0    8      that    WDT     (SBAR(WHNP*)      -    -   -    Luke  *        *         *         *         -
+pt/nt/42/nt_4205   0    9      they    PRP          (S(NP*)      -    -   -    Luke  *        *    (ARG0*)   (ARG0*)       (1)
+pt/nt/42/nt_4205   0   10     began    VBD            (VP*    begin  01   2    Luke  *        *       (V*)        *         -
+pt/nt/42/nt_4205   0   11        to     TO          (S(VP*       -    -   -    Luke  *        *    (ARG1*         *         -
+pt/nt/42/nt_4205   0   12     break     VB   (VP*))))))))))   break  01   1    Luke  *        *)        *)      (V*)        -
+pt/nt/42/nt_4205   0   13         .      .              *))      -    -   -    Luke  *        *         *         *         -
+
+pt/nt/42/nt_4205   0    0       They    PRP   (TOP(S(NP*)       -    -   -    Luke  *    (ARG0*)        *        (19)
+pt/nt/42/nt_4205   0    1     called    VBD         (VP*      call  03   6    Luke  *       (V*)        *          -
+pt/nt/42/nt_4205   0    2         to     IN         (PP*        -    -   -    Luke  *    (ARG2*         *          -
+pt/nt/42/nt_4205   0    3      their   PRP$      (NP(NP*        -    -   -    Luke  *         *         *    (36|(19)
+pt/nt/42/nt_4205   0    4    friends    NNS            *)   friend   -   -    Luke  *         *         *          -
+pt/nt/42/nt_4205   0    5         in     IN         (PP*        -    -   -    Luke  *         *         *          -
+pt/nt/42/nt_4205   0    6        the     DT         (NP*        -    -   -    Luke  *         *         *          -
+pt/nt/42/nt_4205   0    7      other     JJ            *        -    -   -    Luke  *         *         *          -
+pt/nt/42/nt_4205   0    8       boat     NN         *))))     boat   -   -    Luke  *         *)        *         36)
+pt/nt/42/nt_4205   0    9         to     TO       (S(VP*        -    -   -    Luke  *    (ARG1*         *          -
+pt/nt/42/nt_4205   0   10       come     VB      (VP(VP*)     come   -   1    Luke  *         *         *          -
+pt/nt/42/nt_4205   0   11        and     CC            *        -    -   -    Luke  *         *         *          -
+pt/nt/42/nt_4205   0   12       help     VB         (VP*      help  01   1    Luke  *         *       (V*)         -
+pt/nt/42/nt_4205   0   13       them    PRP    (NP*))))))       -    -   -    Luke  *         *)   (ARG2*)       (19)
+pt/nt/42/nt_4205   0   14          .      .           *))       -    -   -    Luke  *         *         *          -
+
+pt/nt/42/nt_4205   0    0        The    DT  (TOP(S(S(NP*        -    -   -    Luke  *   (ARG1*        *           *    (36
+pt/nt/42/nt_4205   0    1    friends   NNS             *)   friend   -   -    Luke  *        *)       *           *     36)
+pt/nt/42/nt_4205   0    2       came   VBD         (VP*))     come  01   1    Luke  *      (V*)       *           *      -
+pt/nt/42/nt_4205   0    3          ,     ,             *        -    -   -    Luke  *        *        *           *      -
+pt/nt/42/nt_4205   0    4        and    CC             *        -    -   -    Luke  *        *        *           *      -
+pt/nt/42/nt_4205   0    5       both    DT        (S(NP*        -    -   -    Luke  *        *   (ARG1*           *    (26
+pt/nt/42/nt_4205   0    6      boats   NNS             *)     boat   -   -    Luke  *        *        *)          *     26)
+pt/nt/42/nt_4205   0    7       were   VBD          (VP*        be   -   -    Luke  *        *        *           *      -
+pt/nt/42/nt_4205   0    8     filled   VBN          (VP*      fill  01   1    Luke  *        *      (V*)          *      -
+pt/nt/42/nt_4205   0    9         so    RB      (S(ADJP*        -    -   -    Luke  *        *   (ARG2*           *      -
+pt/nt/42/nt_4205   0   10       full    JJ             *        -    -   -    Luke  *        *        *           *      -
+pt/nt/42/nt_4205   0   11         of    IN          (PP*        -    -   -    Luke  *        *        *           *      -
+pt/nt/42/nt_4205   0   12       fish    NN       (NP(NP*)     fish   -   -    Luke  *        *        *           *      -
+pt/nt/42/nt_4205   0   13       that   WDT   (SBAR(WHNP*)       -    -   -    Luke  *        *        *    (R-ARG1*)     -
+pt/nt/42/nt_4205   0   14       they   PRP        (S(NP*)       -    -   -    Luke  *        *        *      (ARG1*)   (26)
+pt/nt/42/nt_4205   0   15       were   VBD          (VP*        be  01   1    Luke  *        *        *         (V*)     -
+pt/nt/42/nt_4205   0   16     almost    RB        (ADJP*        -    -   -    Luke  *        *        *      (ARG2*      -
+pt/nt/42/nt_4205   0   17    sinking    JJ   *)))))))))))       -    -   -    Luke  *        *        *)          *)     -
+pt/nt/42/nt_4205   0   18          .     .            *))       -    -   -    Luke  *        *        *           *      -
+
+pt/nt/42/nt_4205   0    0          The    DT    (TOP(S(NP*       -    -   -    Luke  *   (ARG1*         *    (20
+pt/nt/42/nt_4205   0    1    fishermen   NNS             *)      -    -   -    Luke  *        *)        *     20)
+pt/nt/42/nt_4205   0    2         were   VBD          (VP*       be  01   1    Luke  *      (V*)        *      -
+pt/nt/42/nt_4205   0    3          all    DT             *       -    -   -    Luke  *        *         *      -
+pt/nt/42/nt_4205   0    4       amazed    JJ        (ADJP*       -    -   -    Luke  *        *         *      -
+pt/nt/42/nt_4205   0    5           at    IN          (PP*       -    -   -    Luke  *        *         *      -
+pt/nt/42/nt_4205   0    6          the    DT       (NP(NP*       -    -   -    Luke  *        *    (ARG1*      -
+pt/nt/42/nt_4205   0    7         many    JJ             *       -    -   -    Luke  *        *         *      -
+pt/nt/42/nt_4205   0    8         fish    NN             *)    fish   -   -    Luke  *        *         *)     -
+pt/nt/42/nt_4205   0    9         they   PRP   (SBAR(S(NP*)      -    -   -    Luke  *        *    (ARG0*)   (20)
+pt/nt/42/nt_4205   0   10       caught   VBD    (VP*)))))))   catch  03   2    Luke  *        *       (V*)     -
+pt/nt/42/nt_4205   0   11            .     .            *))      -    -   -    Luke  *        *         *      -
+
+pt/nt/42/nt_4205   0    0      When   WRB   (TOP(S(SBAR(WHADVP*)    -    -   -    Luke         *    (ARGM-TMP*)  (ARGM-TMP*   (ARGM-TMP*      -
+pt/nt/42/nt_4205   0    1     Simon   NNP                (S(NP*     -    -   -    Luke  (PERSON*        (ARG0*            *            *    (25
+pt/nt/42/nt_4205   0    2     Peter   NNP                     *)    -    -   -    Luke         *)            *)           *            *     25)
+pt/nt/42/nt_4205   0    3       saw   VBD                  (VP*    see  01   1    Luke         *           (V*)           *            *      -
+pt/nt/42/nt_4205   0    4      this    DT               (NP*))))    -    -   -    Luke         *        (ARG1*)           *)           *)     -
+pt/nt/42/nt_4205   0    5         ,     ,                     *     -    -   -    Luke         *             *            *            *      -
+pt/nt/42/nt_4205   0    6        he   PRP                  (NP*)    -    -   -    Luke         *             *       (ARG1*)      (ARG0*)   (25)
+pt/nt/42/nt_4205   0    7     bowed   VBD               (VP(VP*    bow  01   2    Luke         *             *          (V*)           *      -
+pt/nt/42/nt_4205   0    8      down    RP                 (PRT*)    -    -   -    Luke         *             *            *            *      -
+pt/nt/42/nt_4205   0    9    before    IN                  (PP*     -    -   -    Luke         *             *   (ARGM-TMP*            *      -
+pt/nt/42/nt_4205   0   10     Jesus   NNP                (NP*)))    -    -   -    Luke   (PERSON)            *            *)           *     (4)
+pt/nt/42/nt_4205   0   11       and    CC                     *     -    -   -    Luke         *             *            *            *      -
+pt/nt/42/nt_4205   0   12      said   VBD                 (VP*))   say  01   1    Luke         *             *            *          (V*)     -
+pt/nt/42/nt_4205   0   13         ,     .                     *     -    -   -    Luke         *             *            *            *      -
+pt/nt/42/nt_4205   0   14        ``    ``                    *))    -    -   -    Luke         *             *            *            *      -
+
+pt/nt/42/nt_4205   0   0      Go    VB  (TOP(S(VP*    go  -   1    Luke         *      -
+pt/nt/42/nt_4205   0   1    away    RB      (ADVP*    -   -   -    Luke         *      -
+pt/nt/42/nt_4205   0   2    from    IN        (PP*    -   -   -    Luke         *      -
+pt/nt/42/nt_4205   0   3      me   PRP      (NP*)))   -   -   -    Luke         *    (25)
+pt/nt/42/nt_4205   0   4       ,     ,           *    -   -   -    Luke         *      -
+pt/nt/42/nt_4205   0   5    Lord   NNP       (NP*))   -   -   -    Luke   (PERSON)    (4)
+pt/nt/42/nt_4205   0   6       .     .          *))   -   -   -    Luke         *      -
+
+pt/nt/42/nt_4205   0   0         I   PRP   (TOP(S(NP*)    -    -   -    Luke  *    (ARG1*)   (25)
+pt/nt/42/nt_4205   0   1        am   VBP         (VP*     be  01   1    Luke  *       (V*)     -
+pt/nt/42/nt_4205   0   2         a    DT         (NP*     -    -   -    Luke  *    (ARG2*      -
+pt/nt/42/nt_4205   0   3    sinful    JJ            *     -    -   -    Luke  *         *      -
+pt/nt/42/nt_4205   0   4       man    NN           *))   man   -   2    Luke  *         *)     -
+pt/nt/42/nt_4205   0   5         !     .            *     -    -   -    Luke  *         *      -
+pt/nt/42/nt_4205   0   6        ''    ''           *))    -    -   -    Luke  *         *      -
+
+pt/nt/42/nt_4205   0    0      James   NNP  (TOP(S(NP(NP*       -   -   -    Luke   (PERSON)  (14
+pt/nt/42/nt_4205   0    1        and    CC              *       -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0    2       John   NNP              *)      -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0    3          ,     ,              *       -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0    4        the    DT        (NP(NP*       -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0    5       sons   NNS              *)      -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0    6         of    IN           (PP*       -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0    7    Zebedee   NNP         (NP*)))      -   -   -    Luke      (GPE)   14)
+pt/nt/42/nt_4205   0    8          ,     ,              *)      -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0    9       were   VBD           (VP*       be  -   -    Luke         *     -
+pt/nt/42/nt_4205   0   10     amazed   VBN           (VP*    amaze  -   1    Luke         *     -
+pt/nt/42/nt_4205   0   11        too    RB       (ADVP*)))      -   -   -    Luke         *     -
+pt/nt/42/nt_4205   0   12          .     .             *))      -   -   -    Luke         *     -
+
+pt/nt/42/nt_4205   0   0      -LRB-   -LRB-   (TOP(PRN*      -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   0   1       James     NNP     (S(NP*      -    -   -    Luke   (PERSON)       (ARG0*    (14
+pt/nt/42/nt_4205   0   2         and      CC          *      -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   0   3        John     NNP          *)     -    -   -    Luke   (PERSON)            *)    14)
+pt/nt/42/nt_4205   0   4      worked     VBD       (VP*    work  01   1    Luke         *           (V*)     -
+pt/nt/42/nt_4205   0   5    together      RB     (ADVP*)     -    -   -    Luke         *    (ARGM-REC*)     -
+pt/nt/42/nt_4205   0   6        with      IN       (PP*      -    -   -    Luke         *        (ARG1*      -
+pt/nt/42/nt_4205   0   7       Simon     NNP    (NP*))))     -    -   -    Luke   (PERSON)            *)   (25)
+pt/nt/42/nt_4205   0   8           .       .          *      -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   0   9      -RRB-   -RRB-          *))     -    -   -    Luke         *             *      -
+
+pt/nt/42/nt_4205   0    0     Jesus   NNP   (TOP(S(NP*)    -    -   -    Luke   (PERSON)   (ARG0*)            *     (4)
+pt/nt/42/nt_4205   0    1      said   VBD         (VP*    say  01   1    Luke         *       (V*)            *      -
+pt/nt/42/nt_4205   0    2        to    IN         (PP*     -    -   -    Luke         *    (ARG2*             *      -
+pt/nt/42/nt_4205   0    3     Simon   NNP        (NP*))    -    -   -    Luke   (PERSON)        *)            *    (25)
+pt/nt/42/nt_4205   0    4         ,     ,            *     -    -   -    Luke         *         *             *      -
+pt/nt/42/nt_4205   0    5        ``    ``            *     -    -   -    Luke         *         *             *      -
+pt/nt/42/nt_4205   0    6        Do    VB       (S(VP*     do   -   7    Luke         *         *             *      -
+pt/nt/42/nt_4205   0    7       n't    RB            *     -    -   -    Luke         *         *    (ARGM-NEG*)     -
+pt/nt/42/nt_4205   0    8        be    VB         (VP*     be  01   1    Luke         *         *           (V*)     -
+pt/nt/42/nt_4205   0    9    afraid    JJ   (ADJP*)))))    -    -   -    Luke         *         *        (ARG2*)     -
+pt/nt/42/nt_4205   0   10         .     .           *))    -    -   -    Luke         *         *             *      -
+
+pt/nt/42/nt_4205   0    0      From     IN  (TOP(S(PP*        -    -   -    Luke  *    (ARGM-TMP*         *      -
+pt/nt/42/nt_4205   0    1       now     RB      (ADVP*        -    -   -    Luke  *             *         *      -
+pt/nt/42/nt_4205   0    2        on     RB          *))       -    -   -    Luke  *             *)        *      -
+pt/nt/42/nt_4205   0    3      your   PRP$        (NP*        -    -   -    Luke  *             *    (ARG0*    (25)
+pt/nt/42/nt_4205   0    4      work     NN           *)     work   -   4    Luke  *             *         *)     -
+pt/nt/42/nt_4205   0    5      will     MD        (VP*        -    -   -    Luke  *    (ARGM-MOD*)        *      -
+pt/nt/42/nt_4205   0    6        be     VB        (VP*        be  01   2    Luke  *           (V*)        *      -
+pt/nt/42/nt_4205   0    7        to     TO      (S(VP*        -    -   -    Luke  *             *         *      -
+pt/nt/42/nt_4205   0    8     bring     VB        (VP*     bring  01   1    Luke  *             *       (V*)     -
+pt/nt/42/nt_4205   0    9        in     RP       (PRT*)       -    -   -    Luke  *             *    (ARG3*)     -
+pt/nt/42/nt_4205   0   10    people    NNS        (NP*    people   -   1    Luke  *             *    (ARG1*      -
+pt/nt/42/nt_4205   0   11         ,      ,           *        -    -   -    Luke  *             *         *      -
+pt/nt/42/nt_4205   0   12       not     RB           *        -    -   -    Luke  *             *         *      -
+pt/nt/42/nt_4205   0   13      fish     NN      *))))))     fish   -   -    Luke  *             *         *)     -
+pt/nt/42/nt_4205   0   14         !      .           *        -    -   -    Luke  *             *         *      -
+pt/nt/42/nt_4205   0   15        ''     ''          *))       -    -   -    Luke  *             *         *      -
+
+pt/nt/42/nt_4205   0   0        The     DT  (TOP(S(NP*       -    -   -    Luke  *   (ARG0*        (20
+pt/nt/42/nt_4205   0   1        men    NNS           *)     man   -   2    Luke  *        *)        20)
+pt/nt/42/nt_4205   0   2    brought    VBD        (VP*    bring  01   1    Luke  *      (V*)         -
+pt/nt/42/nt_4205   0   3      their   PRP$        (NP*       -    -   -    Luke  *   (ARG1*    (26|(20)
+pt/nt/42/nt_4205   0   4      boats    NNS           *)    boat   -   -    Luke  *        *)        26)
+pt/nt/42/nt_4205   0   5         to     IN        (PP*       -    -   -    Luke  *   (ARG2*          -
+pt/nt/42/nt_4205   0   6        the     DT        (NP*       -    -   -    Luke  *        *        (11
+pt/nt/42/nt_4205   0   7      shore     NN         *)))   shore   -   1    Luke  *        *)        11)
+pt/nt/42/nt_4205   0   8          .      .          *))      -    -   -    Luke  *        *          -
+
+pt/nt/42/nt_4205   0   0          They   PRP   (TOP(S(NP*)       -    -   -    Luke         *    (ARG0*)   (ARG0*)   (20)
+pt/nt/42/nt_4205   0   1          left   VBD      (VP(VP*     leave  01   1    Luke         *       (V*)        *      -
+pt/nt/42/nt_4205   0   2    everything    NN        (NP*))       -    -   -    Luke         *    (ARG1*)        *      -
+pt/nt/42/nt_4205   0   3           and    CC            *        -    -   -    Luke         *         *         *      -
+pt/nt/42/nt_4205   0   4      followed   VBD         (VP*    follow  01   2    Luke         *         *       (V*)     -
+pt/nt/42/nt_4205   0   5         Jesus   NNP       (NP*)))       -    -   -    Luke   (PERSON)        *    (ARG1*)    (4)
+pt/nt/42/nt_4205   0   6             .     .           *))       -    -   -    Luke         *         *         *      -
+
+pt/nt/42/nt_4205   0    0      One    CD      (TOP(S(NP*      -    -   -    Luke   (CARDINAL)            *     -
+pt/nt/42/nt_4205   0    1     time    NN               *)   time   -   1    Luke           *             *     -
+pt/nt/42/nt_4205   0    2    Jesus   NNP            (NP*)     -    -   -    Luke     (PERSON)            *    (4)
+pt/nt/42/nt_4205   0    3      was   VBD            (VP*      be   -   4    Luke           *             *     -
+pt/nt/42/nt_4205   0    4       in    IN            (PP*      -    -   -    Luke           *             *     -
+pt/nt/42/nt_4205   0    5        a    DT         (NP(NP*      -    -   -    Luke           *             *     -
+pt/nt/42/nt_4205   0    6     town    NN               *)   town   -   1    Luke           *             *     -
+pt/nt/42/nt_4205   0    7    where   WRB   (SBAR(WHADVP*)     -    -   -    Luke           *    (ARGM-LOC*)    -
+pt/nt/42/nt_4205   0    8        a    DT          (S(NP*      -    -   -    Luke           *        (ARG0*   (15
+pt/nt/42/nt_4205   0    9     very    RB          (ADJP*      -    -   -    Luke           *             *     -
+pt/nt/42/nt_4205   0   10     sick    JJ               *)     -    -   -    Luke           *             *     -
+pt/nt/42/nt_4205   0   11      man    NN               *)    man   -   2    Luke           *             *)   15)
+pt/nt/42/nt_4205   0   12    lived   VBD       (VP*))))))   live  01   2    Luke           *           (V*)    -
+pt/nt/42/nt_4205   0   13        .     .              *))     -    -   -    Luke           *             *     -
+
+pt/nt/42/nt_4205   0   0       This    DT  (TOP(S(NP*       -    -   -    Luke  *   (ARG1*    (15
+pt/nt/42/nt_4205   0   1        man    NN           *)     man   -   2    Luke  *        *)    15)
+pt/nt/42/nt_4205   0   2        was   VBD        (VP*       be   -   -    Luke  *        *      -
+pt/nt/42/nt_4205   0   3    covered   VBN        (VP*    cover  02   1    Luke  *      (V*)     -
+pt/nt/42/nt_4205   0   4       with    IN        (PP*       -    -   -    Luke  *   (ARG2*      -
+pt/nt/42/nt_4205   0   5    leprosy    NN     (NP*))))      -    -   -    Luke  *        *)   (32)
+pt/nt/42/nt_4205   0   6          .     .          *))      -    -   -    Luke  *        *      -
+
+pt/nt/42/nt_4205   0    0      When   WRB   (TOP(S(SBAR(WHADVP*)    -    -   -    Luke         *    (ARGM-TMP*)  (ARGM-TMP*      -
+pt/nt/42/nt_4205   0    1       the    DT                (S(NP*     -    -   -    Luke         *        (ARG0*            *    (15
+pt/nt/42/nt_4205   0    2       man    NN                     *)   man   -   2    Luke         *             *)           *     15)
+pt/nt/42/nt_4205   0    3       saw   VBD                  (VP*    see  01   1    Luke         *           (V*)           *      -
+pt/nt/42/nt_4205   0    4     Jesus   NNP               (NP*))))    -    -   -    Luke   (PERSON)       (ARG1*)           *)    (4)
+pt/nt/42/nt_4205   0    5         ,     ,                     *     -    -   -    Luke         *             *            *      -
+pt/nt/42/nt_4205   0    6        he   PRP                  (NP*)    -    -   -    Luke         *             *       (ARG0*)   (15)
+pt/nt/42/nt_4205   0    7     bowed   VBD               (VP(VP*    bow  01   3    Luke         *             *          (V*)     -
+pt/nt/42/nt_4205   0    8    before    IN                  (PP*     -    -   -    Luke         *             *   (ARGM-TMP*      -
+pt/nt/42/nt_4205   0    9     Jesus   NNP                (NP*)))    -    -   -    Luke   (PERSON)            *            *)    (4)
+pt/nt/42/nt_4205   0   10       and    CC                     *     -    -   -    Luke         *             *            *      -
+pt/nt/42/nt_4205   0   11    begged   VBN                  (VP*    beg   -   1    Luke         *             *            *      -
+pt/nt/42/nt_4205   0   12       him   PRP                (NP*)))    -    -   -    Luke         *             *            *     (4)
+pt/nt/42/nt_4205   0   13         ,     .                     *     -    -   -    Luke         *             *            *      -
+pt/nt/42/nt_4205   0   14        ``    ``                    *))    -    -   -    Luke         *             *            *      -
+
+pt/nt/42/nt_4205   0    0     Lord   NNP   (TOP(S(ADVP*)      -    -   -    Luke   (PERSON)   (ARGM-DIS*)           *         *     (4)
+pt/nt/42/nt_4205   0    1        ,     ,              *       -    -   -    Luke         *             *            *         *      -
+pt/nt/42/nt_4205   0    2      you   PRP           (NP*)      -    -   -    Luke         *        (ARG0*)           *         *     (4)
+pt/nt/42/nt_4205   0    3     have   VBP           (VP*     have  03   2    Luke         *           (V*)           *         *      -
+pt/nt/42/nt_4205   0    4      the    DT           (NP*       -    -   -    Luke         *             *            *         *      -
+pt/nt/42/nt_4205   0    5    power    NN              *    power   -   1    Luke         *             *            *         *      -
+pt/nt/42/nt_4205   0    6       to    TO         (S(VP*       -    -   -    Luke         *             *            *         *      -
+pt/nt/42/nt_4205   0    7     heal    VB           (VP*     heal  01   1    Luke         *             *          (V*)        *      -
+pt/nt/42/nt_4205   0    8       me   PRP           (NP*)      -    -   -    Luke         *             *       (ARG1*)        *    (15)
+pt/nt/42/nt_4205   0    9       if    IN         (SBAR*       -    -   -    Luke         *             *   (ARGM-ADV*         *      -
+pt/nt/42/nt_4205   0   10      you   PRP         (S(NP*)      -    -   -    Luke         *             *            *    (ARG0*)    (4)
+pt/nt/42/nt_4205   0   11     want   VBP    (VP*))))))))    want  01   1    Luke         *             *            *)      (V*)     -
+pt/nt/42/nt_4205   0   12        .     .              *       -    -   -    Luke         *             *            *         *      -
+pt/nt/42/nt_4205   0   13       ''    ''             *))      -    -   -    Luke         *             *            *         *      -
+
+pt/nt/42/nt_4205   0   0    Jesus   NNP   (TOP(S(NP*)     -    -   -    Luke   (PERSON)   (ARG0*)        *         *     (4)
+pt/nt/42/nt_4205   0   1     said   VBD         (VP*     say  01   1    Luke         *       (V*)        *         *      -
+pt/nt/42/nt_4205   0   2        ,     ,            *      -    -   -    Luke         *         *         *         *      -
+pt/nt/42/nt_4205   0   3       ``    ``            *      -    -   -    Luke         *         *         *         *      -
+pt/nt/42/nt_4205   0   4        I   PRP       (S(NP*)     -    -   -    Luke         *    (ARG1*    (ARG0*)   (ARG0*)    (4)
+pt/nt/42/nt_4205   0   5     want   VBP         (VP*    want  01   1    Luke         *         *       (V*)        *      -
+pt/nt/42/nt_4205   0   6       to    TO       (S(VP*      -    -   -    Luke         *         *    (ARG1*         *      -
+pt/nt/42/nt_4205   0   7     heal    VB         (VP*    heal  01   1    Luke         *         *         *       (V*)     -
+pt/nt/42/nt_4205   0   8      you   PRP   (NP*)))))))     -    -   -    Luke         *         *)        *)   (ARG1*)   (15)
+pt/nt/42/nt_4205   0   9        .     .           *))     -    -   -    Luke         *         *         *         *      -
+
+pt/nt/42/nt_4205   0   0        Be    VB  (TOP(S(VP*      be  -   1    Luke  *   -
+pt/nt/42/nt_4205   0   1    healed   VBN       (VP*))   heal  -   1    Luke  *   -
+pt/nt/42/nt_4205   0   2         !     .           *      -   -   -    Luke  *   -
+pt/nt/42/nt_4205   0   3        ''    ''          *))     -   -   -    Luke  *   -
+
+pt/nt/42/nt_4205   0    0           Then    RB   (TOP(S(S(ADVP*)          -    -   -    Luke  *    (ARGM-TMP*)            *     -
+pt/nt/42/nt_4205   0    1             he   PRP             (NP*)          -    -   -    Luke  *        (ARG0*)            *    (4)
+pt/nt/42/nt_4205   0    2        touched   VBD             (VP*        touch  01   1    Luke  *           (V*)            *     -
+pt/nt/42/nt_4205   0    3            the    DT             (NP*           -    -   -    Luke  *        (ARG1*             *   (15
+pt/nt/42/nt_4205   0    4            man    NN              *)))         man   -   2    Luke  *             *)            *    15)
+pt/nt/42/nt_4205   0    5              ,     ,                *           -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   0    6            and    CC                *           -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   0    7    immediately    RB         (S(ADVP*)          -    -   -    Luke  *             *    (ARGM-TMP*)    -
+pt/nt/42/nt_4205   0    8            the    DT             (NP*           -    -   -    Luke  *             *        (ARG1*   (32
+pt/nt/42/nt_4205   0    9        leprosy    NN                *)          -    -   -    Luke  *             *             *)   32)
+pt/nt/42/nt_4205   0   10    disappeared   VBD            (VP*))   disappear  01   1    Luke  *             *           (V*)    -
+pt/nt/42/nt_4205   0   11              .     .               *))          -    -   -    Luke  *             *             *     -
+
+pt/nt/42/nt_4205   0    0        Then    RB    (TOP(S(ADVP*)       -    -   -    Luke         *    (ARGM-TMP*)            *         *     -
+pt/nt/42/nt_4205   0    1       Jesus   NNP            (NP*)       -    -   -    Luke   (PERSON)       (ARG0*)            *         *    (4)
+pt/nt/42/nt_4205   0    2        said   VBD            (VP*       say  01   1    Luke         *           (V*)            *         *     -
+pt/nt/42/nt_4205   0    3           ,     ,               *        -    -   -    Luke         *             *             *         *     -
+pt/nt/42/nt_4205   0    4          ``    ``               *        -    -   -    Luke         *             *             *         *     -
+pt/nt/42/nt_4205   0    5          Do    VB          (S(VP*        do   -   7    Luke         *             *             *         *     -
+pt/nt/42/nt_4205   0    6         n't    RB               *        -    -   -    Luke         *             *    (ARGM-NEG*)        *     -
+pt/nt/42/nt_4205   0    7        tell    VB            (VP*      tell  01   1    Luke         *             *           (V*)        *     -
+pt/nt/42/nt_4205   0    8      anyone    NN            (NP*)       -    -   -    Luke         *             *        (ARG2*)        *     -
+pt/nt/42/nt_4205   0    9       about    IN            (PP*        -    -   -    Luke         *             *        (ARG1*         *     -
+pt/nt/42/nt_4205   0   10        what    WP     (SBAR(WHNP*)       -    -   -    Luke         *             *             *    (ARG1*)    -
+pt/nt/42/nt_4205   0   11    happened   VBD   (S(VP*))))))))   happen  01   1    Luke         *             *             *)      (V*)    -
+pt/nt/42/nt_4205   0   12           .     .              *))       -    -   -    Luke         *             *             *         *     -
+
+pt/nt/42/nt_4205   0   0       But    CC     (TOP(S*      -    -   -    Luke  *    (ARGM-DIS*)   (ARGM-DIS*)       *      -
+pt/nt/42/nt_4205   0   1        go    VB     (VP(VP*)     go  02   2    Luke  *           (V*)            *        *      -
+pt/nt/42/nt_4205   0   2       and    CC           *      -    -   -    Luke  *             *             *        *      -
+pt/nt/42/nt_4205   0   3       let    VB        (VP*     let  01   1    Luke  *             *           (V*)       *      -
+pt/nt/42/nt_4205   0   4       the    DT      (S(NP*      -    -   -    Luke  *             *        (ARG1*   (ARG0*      -
+pt/nt/42/nt_4205   0   5    priest    NN           *)     -    -   -    Luke  *             *             *        *)     -
+pt/nt/42/nt_4205   0   6      look    VB        (VP*    look  01   1    Luke  *             *             *      (V*)     -
+pt/nt/42/nt_4205   0   7        at    IN        (PP*      -    -   -    Luke  *             *             *   (ARG1*      -
+pt/nt/42/nt_4205   0   8       you   PRP   (NP*))))))     -    -   -    Luke  *             *             *)       *)   (15)
+pt/nt/42/nt_4205   0   9         .     .          *))     -    -   -    Luke  *             *             *        *      -
+
+pt/nt/42/nt_4205   0    0          And     CC   (TOP(S*         -    -   -    Luke         *    (ARGM-DIS*)        *      -
+pt/nt/42/nt_4205   0    1        offer     VB      (VP*      offer  01   1    Luke         *           (V*)        *      -
+pt/nt/42/nt_4205   0    2            a     DT   (NP(NP*         -    -   -    Luke         *             *         *      -
+pt/nt/42/nt_4205   0    3         gift     NN         *)      gift   -   1    Luke         *             *         *      -
+pt/nt/42/nt_4205   0    4           to     IN      (PP*         -    -   -    Luke         *             *         *      -
+pt/nt/42/nt_4205   0    5          God    NNP    (NP*)))        -    -   -    Luke         *             *         *     (9)
+pt/nt/42/nt_4205   0    6          for     IN      (PP*         -    -   -    Luke         *        (ARG1*         *      -
+pt/nt/42/nt_4205   0    7         your   PRP$      (NP*         -    -   -    Luke         *             *         *    (15)
+pt/nt/42/nt_4205   0    8      healing     NN        *))      heal   -   -    Luke         *             *)        *      -
+pt/nt/42/nt_4205   0    9           as     IN    (SBAR*         -    -   -    Luke         *    (ARGM-ADV*         *      -
+pt/nt/42/nt_4205   0   10        Moses   NNPS    (S(NP*)        -    -   -    Luke   (PERSON)            *    (ARG0*)     -
+pt/nt/42/nt_4205   0   11    commanded    VBD   (VP*))))   command  01   1    Luke         *             *)      (V*)     -
+pt/nt/42/nt_4205   0   12            .      .        *))        -    -   -    Luke         *             *         *      -
+
+pt/nt/42/nt_4205   0   0      This    DT   (TOP(S(NP*)       -    -   -    Luke  *        (ARG0*)        *      -
+pt/nt/42/nt_4205   0   1      will    MD         (VP*        -    -   -    Luke  *    (ARGM-MOD*)        *      -
+pt/nt/42/nt_4205   0   2      show    VB         (VP*      show  01   1    Luke  *           (V*)        *      -
+pt/nt/42/nt_4205   0   3    people   NNS         (NP*)   people   -   1    Luke  *        (ARG2*)        *      -
+pt/nt/42/nt_4205   0   4      that    IN       (SBAR*        -    -   -    Luke  *        (ARG1*         *      -
+pt/nt/42/nt_4205   0   5       you   PRP       (S(NP*)       -    -   -    Luke  *             *    (ARG1*)   (15)
+pt/nt/42/nt_4205   0   6       are   VBP         (VP*       are   -   -    Luke  *             *         *      -
+pt/nt/42/nt_4205   0   7    healed   VBN    (VP*))))))     heal  01   1    Luke  *             *)      (V*)     -
+pt/nt/42/nt_4205   0   8         .     .            *        -    -   -    Luke  *             *         *      -
+pt/nt/42/nt_4205   0   9        ''    ''           *))       -    -   -    Luke  *             *         *      -
+
+pt/nt/42/nt_4205   0   0       But    CC  (TOP(S*        -    -   -    Luke         *    (ARGM-DIS*)    -
+pt/nt/42/nt_4205   0   1       the    DT  (NP(NP*        -    -   -    Luke         *        (ARG1*     -
+pt/nt/42/nt_4205   0   2      news    NN        *)     news   -   1    Luke         *             *     -
+pt/nt/42/nt_4205   0   3     about    IN     (PP*        -    -   -    Luke         *             *     -
+pt/nt/42/nt_4205   0   4     Jesus   NNP   (NP*)))       -    -   -    Luke   (PERSON)            *)   (4)
+pt/nt/42/nt_4205   0   5    spread   VBD     (VP*    spread  02   2    Luke         *           (V*)    -
+pt/nt/42/nt_4205   0   6      more   RBR   (ADVP*        -    -   -    Luke         *    (ARGM-ADV*     -
+pt/nt/42/nt_4205   0   7       and    CC        *        -    -   -    Luke         *             *     -
+pt/nt/42/nt_4205   0   8      more   RBR       *))       -    -   -    Luke         *             *)    -
+pt/nt/42/nt_4205   0   9         .     .       *))       -    -   -    Luke         *             *     -
+
+pt/nt/42/nt_4205   0    0          Many     JJ  (TOP(S(NP*          -    -   -    Luke  *       (ARG1*    (ARG0*        *    (30
+pt/nt/42/nt_4205   0    1        people    NNS           *)     people   -   1    Luke  *            *)        *)       *     30)
+pt/nt/42/nt_4205   0    2          came    VBD        (VP*        come  01   1    Luke  *          (V*)        *        *      -
+pt/nt/42/nt_4205   0    3            to     TO   (S(VP(VP*          -    -   -    Luke  *   (ARGM-PRP*         *        *      -
+pt/nt/42/nt_4205   0    4          hear     VB        (VP*        hear  01   1    Luke  *            *       (V*)       *      -
+pt/nt/42/nt_4205   0    5           him    PRP      (NP*)))         -    -   -    Luke  *            *    (ARG1*)       *     (4)
+pt/nt/42/nt_4205   0    6           and     CC           *          -    -   -    Luke  *            *         *        *      -
+pt/nt/42/nt_4205   0    7            to     TO        (VP*          -    -   -    Luke  *            *         *        *      -
+pt/nt/42/nt_4205   0    8            be     VB        (VP*          be   -   -    Luke  *            *         *        *      -
+pt/nt/42/nt_4205   0    9        healed    VBN        (VP*        heal  01   1    Luke  *            *         *      (V*)     -
+pt/nt/42/nt_4205   0   10            of     IN        (PP*          -    -   -    Luke  *            *         *   (ARG1*      -
+pt/nt/42/nt_4205   0   11         their   PRP$        (NP*          -    -   -    Luke  *            *         *        *    (30)
+pt/nt/42/nt_4205   0   12    sicknesses    NNS    *))))))))   sickness   -   1    Luke  *            *)        *        *)     -
+pt/nt/42/nt_4205   0   13             .      .          *))         -    -   -    Luke  *            *         *        *      -
+
+pt/nt/42/nt_4205   0    0     Jesus   NNP    (TOP(S(NP*)      -    -   -    Luke   (PERSON)       (ARG1*)        *    (4)
+pt/nt/42/nt_4205   0    1     often    RB        (ADVP*)      -    -   -    Luke         *    (ARGM-TMP*)        *     -
+pt/nt/42/nt_4205   0    2      went   VBD          (VP*       go  02   1    Luke         *           (V*)        *     -
+pt/nt/42/nt_4205   0    3      away    RB        (ADVP*       -    -   -    Luke         *        (ARG4*         *     -
+pt/nt/42/nt_4205   0    4        to    IN          (PP*       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0    5     other    JJ          (NP*       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0    6    places   NNS           *)))   place   -   1    Luke         *             *)        *     -
+pt/nt/42/nt_4205   0    7        to    TO        (S(VP*       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0    8        be    VB          (VP*       be  01   1    Luke         *             *       (V*)    -
+pt/nt/42/nt_4205   0    9     alone    JJ        (ADJP*)      -    -   -    Luke         *             *    (ARG2*)    -
+pt/nt/42/nt_4205   0   10        so    IN        (SBAR*       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0   11      that    IN             *       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0   12        he   PRP        (S(NP*)      -    -   -    Luke         *             *         *    (4)
+pt/nt/42/nt_4205   0   13     could    MD          (VP*       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0   14      pray    VB   (VP*))))))))    pray   -   1    Luke         *             *         *     -
+pt/nt/42/nt_4205   0   15         .     .            *))      -    -   -    Luke         *             *         *     -
+
+pt/nt/42/nt_4205   0   0         One    CD  (TOP(S(NP*        -    -   -    Luke    (DATE*   (ARGM-TMP*     -
+pt/nt/42/nt_4205   0   1         day    NN           *)      day   -   2    Luke         *)           *)    -
+pt/nt/42/nt_4205   0   2       Jesus   NNP        (NP*)       -    -   -    Luke   (PERSON)      (ARG0*)   (4)
+pt/nt/42/nt_4205   0   3         was   VBD        (VP*        be   -   -    Luke         *            *     -
+pt/nt/42/nt_4205   0   4    teaching   VBG        (VP*     teach  01   1    Luke         *          (V*)    -
+pt/nt/42/nt_4205   0   5         the    DT        (NP*        -    -   -    Luke         *       (ARG1*     -
+pt/nt/42/nt_4205   0   6      people   NNS         *)))   people   -   2    Luke         *            *)    -
+pt/nt/42/nt_4205   0   7           .     .          *))       -    -   -    Luke         *            *     -
+
+pt/nt/42/nt_4205   0    0          The    DT  (TOP(S(NP(NP*         -    -   -    Luke      *        (ARG1*   (28
+pt/nt/42/nt_4205   0    1    Pharisees   NNS              *         -    -   -    Luke   (ORG)            *     -
+pt/nt/42/nt_4205   0    2          and    CC              *         -    -   -    Luke      *             *     -
+pt/nt/42/nt_4205   0    3     teachers   NNS              *)   teacher   -   1    Luke      *             *     -
+pt/nt/42/nt_4205   0    4           of    IN           (PP*         -    -   -    Luke      *             *     -
+pt/nt/42/nt_4205   0    5          the    DT           (NP*         -    -   -    Luke      *             *     -
+pt/nt/42/nt_4205   0    6          law    NN            *)))       law   -   2    Luke      *             *)   28)
+pt/nt/42/nt_4205   0    7         were   VBD           (VP*         be   -   -    Luke      *             *     -
+pt/nt/42/nt_4205   0    8      sitting   VBG           (VP*        sit  01   1    Luke      *           (V*)    -
+pt/nt/42/nt_4205   0    9        there    RB         (ADVP*)        -    -   -    Luke      *        (ARG2*)    -
+pt/nt/42/nt_4205   0   10          too    RB       (ADVP*)))        -    -   -    Luke      *    (ARGM-ADV*)    -
+pt/nt/42/nt_4205   0   11            .     .             *))        -    -   -    Luke      *             *     -
+
+pt/nt/42/nt_4205   0    0         They   PRP   (TOP(S(NP*)     -    -   -    Luke         *    (ARG1*)   (28)
+pt/nt/42/nt_4205   0    1          had   VBD         (VP*    have   -   -    Luke         *         *      -
+pt/nt/42/nt_4205   0    2         come   VBN         (VP*    come  03   5    Luke         *       (V*)     -
+pt/nt/42/nt_4205   0    3         from    IN      (PP(PP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   0    4        every    DT      (NP(NP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   0    5         town    NN            *)   town   -   1    Luke         *         *      -
+pt/nt/42/nt_4205   0    6           in    IN         (PP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   0    7      Galilee   NNP         (NP*      -    -   -    Luke      (GPE)        *      -
+pt/nt/42/nt_4205   0    8          and    CC            *      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   0    9        Judea   NNP         *))))     -    -   -    Luke   (PERSON)        *      -
+pt/nt/42/nt_4205   0   10          and    CC            *      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   0   11         from    IN         (PP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   0   12    Jerusalem   NNP     (NP*)))))     -    -   -    Luke      (GPE)        *      -
+pt/nt/42/nt_4205   0   13            .     .           *))     -    -   -    Luke         *         *      -
+
+pt/nt/42/nt_4205   0    0       The    DT   (TOP(S(NP*        -    -   -    Luke         *    (ARG0*         *    (9
+pt/nt/42/nt_4205   0    1      Lord   NNP            *)       -    -   -    Luke      (ORG)        *)        *     9)
+pt/nt/42/nt_4205   0    2       was   VBD         (VP*        be   -   -    Luke         *         *         *     -
+pt/nt/42/nt_4205   0    3    giving   VBG         (VP*      give  01   1    Luke         *       (V*)        *     -
+pt/nt/42/nt_4205   0    4     Jesus   NNP         (NP*)       -    -   -    Luke   (PERSON)   (ARG2*)        *    (4)
+pt/nt/42/nt_4205   0    5       the    DT         (NP*        -    -   -    Luke         *    (ARG1*         *     -
+pt/nt/42/nt_4205   0    6     power    NN            *     power   -   1    Luke         *         *         *     -
+pt/nt/42/nt_4205   0    7        to    TO       (S(VP*        -    -   -    Luke         *         *         *     -
+pt/nt/42/nt_4205   0    8      heal    VB         (VP*      heal  01   1    Luke         *         *       (V*)    -
+pt/nt/42/nt_4205   0    9    people   NNS   (NP*)))))))   people   -   1    Luke         *         *)   (ARG1*)    -
+pt/nt/42/nt_4205   0   10         .     .           *))       -    -   -    Luke         *         *         *     -
+
+pt/nt/42/nt_4205   0    0        There    EX   (TOP(S(S(NP*)         -    -   -    Luke  *            *     -
+pt/nt/42/nt_4205   0    1          was   VBD           (VP*          be   -   3    Luke  *            *     -
+pt/nt/42/nt_4205   0    2            a    DT        (NP(NP*          -    -   -    Luke  *            *    (8
+pt/nt/42/nt_4205   0    3          man    NN              *)        man   -   2    Luke  *            *     -
+pt/nt/42/nt_4205   0    4          who    WP    (SBAR(WHNP*)         -    -   -    Luke  *            *     -
+pt/nt/42/nt_4205   0    5          was   VBD         (S(VP*          be   -   -    Luke  *            *     -
+pt/nt/42/nt_4205   0    6    paralyzed   VBN     (VP*)))))))   paralyse   -   -    Luke  *            *     8)
+pt/nt/42/nt_4205   0    7            ,     ,              *          -    -   -    Luke  *            *     -
+pt/nt/42/nt_4205   0    8          and    CC              *          -    -   -    Luke  *            *     -
+pt/nt/42/nt_4205   0    9         some    DT         (S(NP*          -    -   -    Luke  *       (ARG0*   (17
+pt/nt/42/nt_4205   0   10        other    JJ              *          -    -   -    Luke  *            *     -
+pt/nt/42/nt_4205   0   11          men   NNS              *)        man   -   2    Luke  *            *)   17)
+pt/nt/42/nt_4205   0   12         were   VBD           (VP*          be   -   -    Luke  *            *     -
+pt/nt/42/nt_4205   0   13     carrying   VBG           (VP*       carry  01   1    Luke  *          (V*)    -
+pt/nt/42/nt_4205   0   14          him   PRP           (NP*)         -    -   -    Luke  *       (ARG1*)   (8)
+pt/nt/42/nt_4205   0   15           on    IN           (PP*          -    -   -    Luke  *   (ARGM-MNR*     -
+pt/nt/42/nt_4205   0   16            a    DT           (NP*          -    -   -    Luke  *            *   (31
+pt/nt/42/nt_4205   0   17          mat    NN          *)))))        mat   -   -    Luke  *            *)   31)
+pt/nt/42/nt_4205   0   18            .     .             *))         -    -   -    Luke  *            *     -
+
+pt/nt/42/nt_4205   0    0      They   PRP   (TOP(S(NP*)      -    -   -    Luke         *    (ARG0*)   (ARG0*)      (ARG0*)   (17)
+pt/nt/42/nt_4205   0    1     tried   VBD      (VP(VP*      try  01   1    Luke         *       (V*)        *            *      -
+pt/nt/42/nt_4205   0    2        to    TO       (S(VP*       -    -   -    Luke         *    (ARG1*         *            *      -
+pt/nt/42/nt_4205   0    3     bring    VB         (VP*    bring  01   1    Luke         *         *       (V*)           *      -
+pt/nt/42/nt_4205   0    4       him   PRP     (NP*)))))      -    -   -    Luke         *         *)   (ARG1*)           *     (8)
+pt/nt/42/nt_4205   0    5       and    CC            *       -    -   -    Luke         *         *         *            *      -
+pt/nt/42/nt_4205   0    6       put   VBD         (VP*      put  01   1    Luke         *         *         *          (V*)     -
+pt/nt/42/nt_4205   0    7       him   PRP         (NP*)      -    -   -    Luke         *         *         *       (ARG1*)    (8)
+pt/nt/42/nt_4205   0    8      down    RP        (PRT*)      -    -   -    Luke         *         *         *            *      -
+pt/nt/42/nt_4205   0    9    before    IN         (PP*       -    -   -    Luke         *         *         *   (ARGM-TMP*      -
+pt/nt/42/nt_4205   0   10     Jesus   NNP      (NP*))))      -    -   -    Luke   (PERSON)        *         *            *)    (4)
+pt/nt/42/nt_4205   0   11         .     .           *))      -    -   -    Luke         *         *         *            *      -
+
+pt/nt/42/nt_4205   0    0       But    CC        (TOP(S*        -    -   -    Luke      *    (ARGM-DIS*)            *      -
+pt/nt/42/nt_4205   0    1     there    EX           (NP*)       -    -   -    Luke      *             *             *      -
+pt/nt/42/nt_4205   0    2      were   VBD           (VP*        be  02   3    Luke      *           (V*)            *      -
+pt/nt/42/nt_4205   0    3        so    RB   (NP(NP(ADJP*        -    -   -    Luke      *        (ARG1*        (ARG1*      -
+pt/nt/42/nt_4205   0    4      many    JJ              *)       -    -   -    Luke      *             *             *      -
+pt/nt/42/nt_4205   0    5    people   NNS              *)   people   -   1    Luke      *             *             *)     -
+pt/nt/42/nt_4205   0    6      that   WDT    (SBAR(WHNP*)       -    -   -    Luke      *             *      (R-ARG1*)     -
+pt/nt/42/nt_4205   0    7      they   PRP         (S(NP*)       -    -   -    Luke      *             *        (ARG0*)   (17)
+pt/nt/42/nt_4205   0    8     could    MD           (VP*        -    -   -    Luke      *             *    (ARGM-MOD*)     -
+pt/nt/42/nt_4205   0    9       not    RB              *        -    -   -    Luke      *             *    (ARGM-NEG*)     -
+pt/nt/42/nt_4205   0   10      find    VB           (VP*      find  01   1    Luke      *             *           (V*)     -
+pt/nt/42/nt_4205   0   11         a    DT        (NP(NP*        -    -   -    Luke      *             *        (ARG1*      -
+pt/nt/42/nt_4205   0   12       way    NN              *)      way   -   4    Luke      *             *             *      -
+pt/nt/42/nt_4205   0   13        to    IN           (PP*        -    -   -    Luke      *             *             *      -
+pt/nt/42/nt_4205   0   14     Jesus   NNP   (NP*)))))))))       -    -   -    Luke   (GPE)            *)            *)    (4)
+pt/nt/42/nt_4205   0   15         .     .             *))       -    -   -    Luke      *             *             *      -
+
+pt/nt/42/nt_4205   0    0          So    RB   (TOP(S(ADVP*)      -    -   -    Luke  *    (ARGM-DIS*)   (ARGM-DIS*)     -
+pt/nt/42/nt_4205   0    1        they   PRP           (NP*)      -    -   -    Luke  *        (ARG0*)       (ARG0*)   (17)
+pt/nt/42/nt_4205   0    2        went   VBD        (VP(VP*       go  02   1    Luke  *           (V*)            *      -
+pt/nt/42/nt_4205   0    3          up    RB         (ADVP*)      -    -   -    Luke  *    (ARGM-DIR*)            *      -
+pt/nt/42/nt_4205   0    4          on    IN           (PP*       -    -   -    Luke  *    (ARGM-LOC*             *      -
+pt/nt/42/nt_4205   0    5         the    DT           (NP*       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0    6        roof    NN            *)))    roof   -   -    Luke  *             *)            *      -
+pt/nt/42/nt_4205   0    7         and    CC              *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0    8     lowered   VBD           (VP*    lower  01   2    Luke  *             *           (V*)     -
+pt/nt/42/nt_4205   0    9         the    DT           (NP*       -    -   -    Luke  *             *        (ARG1*     (8
+pt/nt/42/nt_4205   0   10    crippled    JJ              *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   11         man    NN              *)     man   -   2    Luke  *             *             *)     8)
+pt/nt/42/nt_4205   0   12        down    RP          (PRT*)      -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   13     through    IN           (PP*       -    -   -    Luke  *             *    (ARGM-MNR*      -
+pt/nt/42/nt_4205   0   14           a    DT        (NP(NP*       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   15        hole    NN              *)    hole   -   1    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   16          in    IN           (PP*       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   17         the    DT           (NP*       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   0   18     ceiling    NN         *))))))    ceil   -   -    Luke  *             *             *)     -
+pt/nt/42/nt_4205   0   19           .     .             *))      -    -   -    Luke  *             *             *      -
+
+pt/nt/42/nt_4205   0    0        They   PRP    (TOP(S(NP*)      -    -   -    Luke         *       (ARG0*)       *    (17)
+pt/nt/42/nt_4205   0    1     lowered   VBD          (VP*    lower  01   2    Luke         *          (V*)       *      -
+pt/nt/42/nt_4205   0    2         the    DT          (NP*       -    -   -    Luke         *       (ARG1*        *    (31
+pt/nt/42/nt_4205   0    3         mat    NN             *)     mat   -   -    Luke         *            *)       *     31)
+pt/nt/42/nt_4205   0    4        into    IN          (PP*       -    -   -    Luke         *       (ARG2*        *      -
+pt/nt/42/nt_4205   0    5         the    DT          (NP*       -    -   -    Luke         *            *        *      -
+pt/nt/42/nt_4205   0    6        room    NN            *))    room   -   1    Luke         *            *)       *      -
+pt/nt/42/nt_4205   0    7          so    IN        (SBAR*       -    -   -    Luke         *   (ARGM-PRP*        *      -
+pt/nt/42/nt_4205   0    8        that    IN             *       -    -   -    Luke         *            *        *      -
+pt/nt/42/nt_4205   0    9         the    DT        (S(NP*       -    -   -    Luke         *            *   (ARG1*     (8
+pt/nt/42/nt_4205   0   10    crippled    JJ             *       -    -   -    Luke         *            *        *      -
+pt/nt/42/nt_4205   0   11         man    NN             *)     man   -   2    Luke         *            *        *)     8)
+pt/nt/42/nt_4205   0   12         was   VBD          (VP*       be   -   -    Luke         *            *        *      -
+pt/nt/42/nt_4205   0   13       lying   VBG        (S(VP*      lie  01   2    Luke         *            *      (V*)     -
+pt/nt/42/nt_4205   0   14      before    IN          (PP*       -    -   -    Luke         *            *   (ARG2*      -
+pt/nt/42/nt_4205   0   15       Jesus   NNP   (NP*))))))))      -    -   -    Luke   (PERSON)           *)       *)    (4)
+pt/nt/42/nt_4205   0   16           .     .            *))      -    -   -    Luke         *            *        *      -
+
+pt/nt/42/nt_4205   0    0       Jesus    NNP          (TOP(S(NP*)        -    -   -    Luke   (PERSON)   (ARG0*)        *    (ARG0*)            *     (4)
+pt/nt/42/nt_4205   0    1         saw    VBD             (VP(VP*        see  01   1    Luke         *       (V*)        *         *             *      -
+pt/nt/42/nt_4205   0    2         how    WRB  (SBAR(WHNP(WHADJP*         -    -   -    Luke         *    (ARG1*    (ARG1*         *             *      -
+pt/nt/42/nt_4205   0    3        much     JJ                   *)        -    -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0    4       faith     NN                   *)        -    -   -    Luke         *         *         *)        *             *      -
+pt/nt/42/nt_4205   0    5        they    PRP              (S(NP*)        -    -   -    Luke         *         *    (ARG0*)        *             *    (17)
+pt/nt/42/nt_4205   0    6         had    VBD             (VP*))))      have  03   4    Luke         *         *)      (V*)        *             *      -
+pt/nt/42/nt_4205   0    7         and     CC                   *         -    -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0    8        said    VBD                (VP*        say  01   1    Luke         *         *         *       (V*)            *      -
+pt/nt/42/nt_4205   0    9          to     IN                (PP*         -    -   -    Luke         *         *         *    (ARG2*             *      -
+pt/nt/42/nt_4205   0   10         the     DT                (NP*         -    -   -    Luke         *         *         *         *             *     (8
+pt/nt/42/nt_4205   0   11        sick     JJ                   *         -    -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0   12         man     NN                  *))       man   -   2    Luke         *         *         *         *)            *      8)
+pt/nt/42/nt_4205   0   13           ,      ,                   *         -    -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0   14          ``     ``                   *         -    -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0   15      Friend    NNP              (S(NP*)        -    -   -    Luke   (PERSON)        *         *         *    (ARGM-DIS*)    (8)
+pt/nt/42/nt_4205   0   16           ,      ,                   *         -    -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0   17        your   PRP$                (NP*         -    -   -    Luke         *         *         *         *        (ARG1*     (8)
+pt/nt/42/nt_4205   0   18        sins    NNS                   *)       sin   -   -    Luke         *         *         *         *             *)     -
+pt/nt/42/nt_4205   0   19         are    VBP                (VP*        are   -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0   20    forgiven    VBN            (VP*)))))   forgive  01   1    Luke         *         *         *         *           (V*)     -
+pt/nt/42/nt_4205   0   21           .      .                   *         -    -   -    Luke         *         *         *         *             *      -
+pt/nt/42/nt_4205   0   22          ''     ''                  *))        -    -   -    Luke         *         *         *         *             *      -
+
+pt/nt/42/nt_4205   0    0           The     DT  (TOP(S(NP(NP*         -    -   -    Luke       *   (ARG0*         *         *    (28
+pt/nt/42/nt_4205   0    1        Jewish     JJ              *         -    -   -    Luke   (NORP)       *         *         *      -
+pt/nt/42/nt_4205   0    2      teachers    NNS              *)   teacher   -   1    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0    3            of     IN           (PP*         -    -   -    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0    4           the     DT           (NP*         -    -   -    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0    5           law     NN              *        law   -   2    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0    6           and     CC              *         -    -   -    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0    7           the     DT              *         -    -   -    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0    8     Pharisees   NNPS            *)))        -    -   -    Luke   (NORP)       *)        *         *     28)
+pt/nt/42/nt_4205   0    9       thought    VBD           (VP*      think  01   2    Luke       *      (V*)        *         *      -
+pt/nt/42/nt_4205   0   10            to     IN           (PP*         -    -   -    Luke       *   (ARG2*         *         *      -
+pt/nt/42/nt_4205   0   11    themselves    PRP          (NP*))        -    -   -    Luke       *        *)        *         *    (28)
+pt/nt/42/nt_4205   0   12             ,      ,              *         -    -   -    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0   13            ``     ``              *         -    -   -    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0   14           Who     WP   (SBARQ(WHNP*)        -    -   -    Luke       *        *    (ARG2*)        *      -
+pt/nt/42/nt_4205   0   15            is    VBZ           (SQ*         be  01   1    Luke       *        *       (V*)        *      -
+pt/nt/42/nt_4205   0   16          this     DT        (NP(NP*         -    -   -    Luke       *        *    (ARG1*         *     (4
+pt/nt/42/nt_4205   0   17           man     NN              *)       man   -   2    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0   18           who     WP    (SBAR(WHNP*)        -    -   -    Luke       *        *         *    (ARG0*)     -
+pt/nt/42/nt_4205   0   19         dares    VBZ         (S(VP*       dare   -   1    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0   20            to     TO         (S(VP*         -    -   -    Luke       *        *         *         *      -
+pt/nt/42/nt_4205   0   21           say     VB           (VP*        say  01   1    Luke       *        *         *       (V*)     -
+pt/nt/42/nt_4205   0   22          such     JJ           (NP*         -    -   -    Luke       *        *         *    (ARG1*      -
+pt/nt/42/nt_4205   0   23        things    NNS    *)))))))))))     thing   -   1    Luke       *        *         *)        *)     4)
+pt/nt/42/nt_4205   0   24             ?      .             *))        -    -   -    Luke       *        *         *         *      -
+
+pt/nt/42/nt_4205   0   0      What    WP  (TOP(FRAG(WHNP*        -   -   -    Luke  *     -
+pt/nt/42/nt_4205   0   1        an    DT             (NP*        -   -   -    Luke  *     -
+pt/nt/42/nt_4205   0   2    insult    NN               *))   insult  -   5    Luke  *     -
+pt/nt/42/nt_4205   0   3        to    IN             (PP*        -   -   -    Luke  *     -
+pt/nt/42/nt_4205   0   4       God   NNP            (NP*))       -   -   -    Luke  *    (9)
+pt/nt/42/nt_4205   0   5         !     .               *))       -   -   -    Luke  *     -
+
+pt/nt/42/nt_4205   0   0         No    DT  (TOP(S(NP(NP*         -    -   -    Luke         *        (ARG0*     -
+pt/nt/42/nt_4205   0   1        one    NN              *)       one   -   2    Luke         *             *     -
+pt/nt/42/nt_4205   0   2        but    IN           (PP*         -    -   -    Luke         *             *     -
+pt/nt/42/nt_4205   0   3        God   NNP         (NP*)))        -    -   -    Luke   (PERSON)            *)   (9)
+pt/nt/42/nt_4205   0   4        can    MD           (VP*         -    -   -    Luke         *    (ARGM-MOD*)    -
+pt/nt/42/nt_4205   0   5    forgive    VB           (VP*    forgive  01   1    Luke         *           (V*)    -
+pt/nt/42/nt_4205   0   6       sins   NNS         (NP*)))       sin   -   -    Luke         *        (ARG1*)    -
+pt/nt/42/nt_4205   0   7          .     .              *         -    -   -    Luke         *             *     -
+pt/nt/42/nt_4205   0   8         ''    ''             *))        -    -   -    Luke         *             *     -
+
+pt/nt/42/nt_4205   0    0          But     CC          (TOP(S*          -    -   -    Luke         *    (ARGM-DIS*)        *    (ARGM-DIS*)            *      -
+pt/nt/42/nt_4205   0    1        Jesus    NNP             (NP*)         -    -   -    Luke   (PERSON)       (ARG0*)        *        (ARG0*)            *     (4)
+pt/nt/42/nt_4205   0    2         knew    VBD          (VP(VP*        know  01   1    Luke         *           (V*)        *             *             *      -
+pt/nt/42/nt_4205   0    3         what     WP      (SBAR(WHNP*)         -    -   -    Luke         *        (ARG1*    (ARG1*)            *             *      -
+pt/nt/42/nt_4205   0    4         they    PRP           (S(NP*)         -    -   -    Luke         *             *    (ARG0*)            *             *    (28)
+pt/nt/42/nt_4205   0    5         were    VBD             (VP*          be   -   -    Luke         *             *         *             *             *      -
+pt/nt/42/nt_4205   0    6     thinking    VBG         (VP*)))))      think  01   2    Luke         *             *)      (V*)            *             *      -
+pt/nt/42/nt_4205   0    7          and     CC                *          -    -   -    Luke         *             *         *             *             *      -
+pt/nt/42/nt_4205   0    8         said    VBD             (VP*         say  01   1    Luke         *             *         *           (V*)            *      -
+pt/nt/42/nt_4205   0    9            ,      ,                *          -    -   -    Luke         *             *         *             *             *      -
+pt/nt/42/nt_4205   0   10           ``     ``                *          -    -   -    Luke         *             *         *             *             *      -
+pt/nt/42/nt_4205   0   11          Why    WRB   (SBARQ(WHADVP*)         -    -   -    Luke         *             *         *             *    (ARGM-CAU*)     -
+pt/nt/42/nt_4205   0   12           do    VBP             (SQ*          do   -   7    Luke         *             *         *             *             *      -
+pt/nt/42/nt_4205   0   13          you    PRP             (NP*)         -    -   -    Luke         *             *         *             *        (ARG0*)   (28)
+pt/nt/42/nt_4205   0   14         have    VBP             (VP*        have  03   2    Luke         *             *         *             *           (V*)     -
+pt/nt/42/nt_4205   0   15        these     DT             (NP*          -    -   -    Luke         *             *         *             *        (ARG1*      -
+pt/nt/42/nt_4205   0   16    questions    NNS                *)   question   -   1    Luke         *             *         *             *             *)     -
+pt/nt/42/nt_4205   0   17           in     IN             (PP*          -    -   -    Luke         *             *         *             *             *      -
+pt/nt/42/nt_4205   0   18         your   PRP$             (NP*          -    -   -    Luke         *             *         *             *             *    (28)
+pt/nt/42/nt_4205   0   19        minds    NNS          *)))))))       mind   -   3    Luke         *             *         *             *             *      -
+pt/nt/42/nt_4205   0   20            ?      .               *))         -    -   -    Luke         *             *         *             *             *      -
+
+pt/nt/42/nt_4205   0    0        The    DT  (TOP(S(NP(NP*         -    -   -    Luke      *    (ARG0*    (ARG0*     (4
+pt/nt/42/nt_4205   0    1        Son    NN              *)        -    -   -    Luke      *         *         *      -
+pt/nt/42/nt_4205   0    2         of    IN           (PP*         -    -   -    Luke      *         *         *      -
+pt/nt/42/nt_4205   0    3        Man   NNP         (NP*)))        -    -   -    Luke   (GPE)        *)        *)     4)
+pt/nt/42/nt_4205   0    4        has   VBZ           (VP*       have  03   2    Luke      *       (V*)        *     (0)
+pt/nt/42/nt_4205   0    5      power    NN           (NP*)     power   -   1    Luke      *    (ARG1*)        *    (12)
+pt/nt/42/nt_4205   0    6         on    IN           (PP*         -    -   -    Luke      *         *         *      -
+pt/nt/42/nt_4205   0    7      earth    NN           (NP*      earth   -   -    Luke      *         *         *      -
+pt/nt/42/nt_4205   0    8         to    TO         (S(VP*         -    -   -    Luke      *         *         *      -
+pt/nt/42/nt_4205   0    9    forgive    VB           (VP*    forgive  01   1    Luke      *         *       (V*)     -
+pt/nt/42/nt_4205   0   10       sins   NNS     (NP*)))))))       sin   -   -    Luke      *         *    (ARG1*)     -
+pt/nt/42/nt_4205   0   11          .     .             *))        -    -   -    Luke      *         *         *      -
+
+pt/nt/42/nt_4205   0   0      But    CC  (TOP(SBARQ*       -    -   -    Luke  *             *      -
+pt/nt/42/nt_4205   0   1      how   WRB     (WHADVP*)      -    -   -    Luke  *    (ARGM-MNR*)     -
+pt/nt/42/nt_4205   0   2      can    MD         (SQ*       -    -   -    Luke  *    (ARGM-MOD*)     -
+pt/nt/42/nt_4205   0   3        I   PRP         (NP*)      -    -   -    Luke  *        (ARG0*)    (4)
+pt/nt/42/nt_4205   0   4    prove    VB         (VP*    prove  01   1    Luke  *           (V*)     -
+pt/nt/42/nt_4205   0   5     this    DT         (NP*)      -    -   -    Luke  *        (ARG1*)    (0)
+pt/nt/42/nt_4205   0   6       to    IN         (PP*       -    -   -    Luke  *        (ARG2*      -
+pt/nt/42/nt_4205   0   7      you   PRP      (NP*))))      -    -   -    Luke  *             *)   (28)
+pt/nt/42/nt_4205   0   8        ?     .           *))      -    -   -    Luke  *             *      -
+
+pt/nt/42/nt_4205   0    0       Maybe     RB       (TOP(S(ADVP*)        -    -   -    Luke  *    (ARGM-ADV*)        *        *      -
+pt/nt/42/nt_4205   0    1         you    PRP               (NP*)        -    -   -    Luke  *        (ARG0*)        *        *    (28)
+pt/nt/42/nt_4205   0    2         are    VBP               (VP*        are   -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0    3    thinking    VBG               (VP*      think  01   1    Luke  *           (V*)        *        *      -
+pt/nt/42/nt_4205   0    4          it    PRP        (SBAR(S(NP*)        -    -   -    Luke  *        (ARG1*         *        *      -
+pt/nt/42/nt_4205   0    5         was    VBD               (VP*         be   -   1    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0    6        easy     JJ             (ADJP*         -    -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0    7         for     IN             (SBAR*         -    -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0    8          me    PRP             (S(NP*)        -    -   -    Luke  *             *    (ARG0*)       *     (4)
+pt/nt/42/nt_4205   0    9          to     TO               (VP*         -    -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0   10         say     VB               (VP*        say  01   1    Luke  *             *       (V*)       *      -
+pt/nt/42/nt_4205   0   11           ,      ,                  *         -    -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0   12           '     ``                  *         -    -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0   13        Your   PRP$             (S(NP*         -    -   -    Luke  *             *         *   (ARG1*      -
+pt/nt/42/nt_4205   0   14        sins    NNS                  *)       sin   -   -    Luke  *             *         *        *)     -
+pt/nt/42/nt_4205   0   15         are    VBP               (VP*        are   -   -    Luke  *             *         *        *    (29)
+pt/nt/42/nt_4205   0   16    forgiven    VBN   (VP*)))))))))))))   forgive  01   1    Luke  *             *)        *      (V*)     -
+pt/nt/42/nt_4205   0   17           .      .                  *         -    -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   0   18           '     ''                 *))        -    -   -    Luke  *             *         *        *      -
+
+pt/nt/42/nt_4205   0   0       There    EX   (TOP(S(NP*)       -    -   -    Luke  *        *             *      -
+pt/nt/42/nt_4205   0   1          's   VBZ         (VP*        be  02   3    Luke  *      (V*)            *      -
+pt/nt/42/nt_4205   0   2          no    DT         (NP*        -    -   -    Luke  *   (ARG1*             *      -
+pt/nt/42/nt_4205   0   3       proof    NN            *     proof   -   1    Luke  *        *             *      -
+pt/nt/42/nt_4205   0   4        that    IN       (SBAR*        -    -   -    Luke  *        *             *      -
+pt/nt/42/nt_4205   0   5          it   PRP       (S(NP*)       -    -   -    Luke  *        *        (ARG1*)   (29)
+pt/nt/42/nt_4205   0   6      really    RB       (ADVP*)       -    -   -    Luke  *        *    (ARGM-ADV*)     -
+pt/nt/42/nt_4205   0   7    happened   VBD     (VP*)))))   happen  01   1    Luke  *        *)          (V*)     -
+pt/nt/42/nt_4205   0   8           .     .           *))       -    -   -    Luke  *        *             *      -
+
+pt/nt/42/nt_4205   0    0      But    CC  (TOP(SBARQ*       -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0    1     what    WP       (WHNP*)      -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0    2       if    IN  (FRAG(SBAR*       -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0    3        I   PRP       (S(NP*)      -    -     -    Luke  *    (ARG0*)   (4)
+pt/nt/42/nt_4205   0    4      say   VBP         (VP*      say  01     1    Luke  *       (V*)    -
+pt/nt/42/nt_4205   0    5       to    IN         (PP*       -    -     -    Luke  *    (ARG2*     -
+pt/nt/42/nt_4205   0    6      the    DT         (NP*       -    -     -    Luke  *         *    (8
+pt/nt/42/nt_4205   0    7      man    NN           *))     man   -     2    Luke  *         *)    8)
+pt/nt/42/nt_4205   0    8        ,     ,            *       -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0    9        '    ``            *       -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0   10    Stand    VB    (S(VP(VP*    stand   -   7.8    Luke  *         *     -
+pt/nt/42/nt_4205   0   11       up    RP       (PRT*))      -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0   12      and    CC            *       -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0   13     walk    VB       (VP*)))    walk   -     1    Luke  *         *     -
+pt/nt/42/nt_4205   0   14        '    ''         *))))      -    -     -    Luke  *         *     -
+pt/nt/42/nt_4205   0   15        ?     .           *))      -    -     -    Luke  *         *     -
+
+pt/nt/42/nt_4205   0    0      Then    RB   (TOP(S(ADVP*)      -    -   -    Luke  *    (ARGM-TMP*)        *             *      -
+pt/nt/42/nt_4205   0    1       you   PRP           (NP*)      -    -   -    Luke  *        (ARG1*)   (ARG0*)            *    (28)
+pt/nt/42/nt_4205   0    2      will    MD           (VP*       -    -   -    Luke  *    (ARGM-MOD*)        *             *      -
+pt/nt/42/nt_4205   0    3        be    VB           (VP*       be  01   1    Luke  *           (V*)        *             *      -
+pt/nt/42/nt_4205   0    4      able    JJ         (ADJP*       -    -   -    Luke  *        (ARG2*         *             *      -
+pt/nt/42/nt_4205   0    5        to    TO         (S(VP*       -    -   -    Luke  *             *         *             *      -
+pt/nt/42/nt_4205   0    6       see    VB           (VP*      see  01   1    Luke  *             *       (V*)            *      -
+pt/nt/42/nt_4205   0    7      that    IN         (SBAR*       -    -   -    Luke  *             *    (ARG1*             *      -
+pt/nt/42/nt_4205   0    8         I   PRP         (S(NP*)      -    -   -    Luke  *             *         *        (ARG0*)    (4)
+pt/nt/42/nt_4205   0    9    really    RB         (ADVP*)      -    -   -    Luke  *             *         *    (ARGM-ADV*)     -
+pt/nt/42/nt_4205   0   10      have   VBP           (VP*     have  03   2    Luke  *             *         *           (V*)     -
+pt/nt/42/nt_4205   0   11      this    DT           (NP*       -    -   -    Luke  *             *         *        (ARG1*    (12
+pt/nt/42/nt_4205   0   12     power    NN     *))))))))))   power   -   1    Luke  *             *)        *)            *)    12)
+pt/nt/42/nt_4205   0   13         .     .              *       -    -   -    Luke  *             *         *             *      -
+pt/nt/42/nt_4205   0   14        ''    ''             *))      -    -   -    Luke  *             *         *             *      -
+
+pt/nt/42/nt_4205   0    0           So    CC      (TOP(S*       -    -   -    Luke         *    (ARGM-DIS*)        *     -
+pt/nt/42/nt_4205   0    1        Jesus   NNP         (NP*)      -    -   -    Luke   (PERSON)       (ARG0*)        *    (4)
+pt/nt/42/nt_4205   0    2         said   VBD         (VP*      say  01   1    Luke         *           (V*)        *     -
+pt/nt/42/nt_4205   0    3           to    IN         (PP*       -    -   -    Luke         *        (ARG2*         *     -
+pt/nt/42/nt_4205   0    4          the    DT         (NP*       -    -   -    Luke         *             *         *    (8
+pt/nt/42/nt_4205   0    5    paralyzed    JJ            *       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0    6          man    NN           *))     man   -   2    Luke         *             *)        *     8)
+pt/nt/42/nt_4205   0    7            ,     ,            *       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0    8           ``    ``            *       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0    9            I   PRP       (S(NP*)      -    -   -    Luke         *             *    (ARG0*)   (4)
+pt/nt/42/nt_4205   0   10         tell   VBP         (VP*     tell  01   1    Luke         *             *       (V*)    -
+pt/nt/42/nt_4205   0   11          you   PRP         (NP*)      -    -   -    Luke         *             *    (ARG2*)   (8)
+pt/nt/42/nt_4205   0   12            ,     ,            *       -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0   13        stand   VBP       (S(VP*    stand   -   3    Luke         *             *         *     -
+pt/nt/42/nt_4205   0   14           up    RP   (PRT*))))))      -    -   -    Luke         *             *         *     -
+pt/nt/42/nt_4205   0   15            !     .           *))      -    -   -    Luke         *             *         *     -
+
+pt/nt/42/nt_4205   0   0    Take     VB  (TOP(S(VP(VP*    take   -   5    Luke  *         *         -
+pt/nt/42/nt_4205   0   1    your   PRP$           (NP*      -    -   -    Luke  *         *    (31|(8)
+pt/nt/42/nt_4205   0   2     mat     NN             *))    mat   -   -    Luke  *         *        31)
+pt/nt/42/nt_4205   0   3     and     CC              *      -    -   -    Luke  *         *         -
+pt/nt/42/nt_4205   0   4      go     VB           (VP*      go  02   1    Luke  *       (V*)        -
+pt/nt/42/nt_4205   0   5    home     RB       (ADVP*)))     -    -   -    Luke  *    (ARG4*)        -
+pt/nt/42/nt_4205   0   6       !      .              *      -    -   -    Luke  *         *         -
+pt/nt/42/nt_4205   0   7      ''     ''             *))     -    -   -    Luke  *         *         -
+
+pt/nt/42/nt_4205   0   0            The    DT  (TOP(S(NP*       -    -   -    Luke  *        (ARG1*   (8
+pt/nt/42/nt_4205   0   1            man    NN           *)     man   -   2    Luke  *             *)   8)
+pt/nt/42/nt_4205   0   2    immediately    RB      (ADVP*)      -    -   -    Luke  *    (ARGM-TMP*)   -
+pt/nt/42/nt_4205   0   3          stood   VBD        (VP*    stand  01   1    Luke  *           (V*)   -
+pt/nt/42/nt_4205   0   4             up    RP       (PRT*)      -    -   -    Luke  *             *    -
+pt/nt/42/nt_4205   0   5             in    IN        (PP*       -    -   -    Luke  *    (ARGM-LOC*    -
+pt/nt/42/nt_4205   0   6          front    NN     (NP(NP*)   front   -   1    Luke  *             *    -
+pt/nt/42/nt_4205   0   7             of    IN        (PP*       -    -   -    Luke  *             *    -
+pt/nt/42/nt_4205   0   8       everyone    NN    (NP*)))))      -    -   -    Luke  *             *)   -
+pt/nt/42/nt_4205   0   9              .     .          *))      -    -   -    Luke  *             *    -
+
+pt/nt/42/nt_4205   0    0          He    PRP   (TOP(S(NP*)       -    -     -    Luke         *    (ARG0*)       (ARG0*)   (ARG0*)       (8)
+pt/nt/42/nt_4205   0    1      picked    VBD      (VP(VP*      pick  04   7.2    Luke         *       (V*)            *         *         -
+pt/nt/42/nt_4205   0    2          up     RP        (PRT*)       -    -     -    Luke         *         *             *         *         -
+pt/nt/42/nt_4205   0    3         his   PRP$         (NP*        -    -     -    Luke         *    (ARG1*             *         *    (31|(8)
+pt/nt/42/nt_4205   0    4         mat     NN           *))      mat   -     -    Luke         *         *)            *         *        31)
+pt/nt/42/nt_4205   0    5         and     CC            *        -    -     -    Luke         *         *             *         *         -
+pt/nt/42/nt_4205   0    6      walked    VBD         (VP*      walk  01     1    Luke         *         *           (V*)        *         -
+pt/nt/42/nt_4205   0    7        home     RB      (ADVP*))       -    -     -    Luke         *         *    (ARGM-DIR*)        *         -
+pt/nt/42/nt_4205   0    8           ,      ,            *        -    -     -    Luke         *         *             *         *         -
+pt/nt/42/nt_4205   0    9    praising    VBG       (S(VP*    praise  01     1    Luke         *         *             *       (V*)        -
+pt/nt/42/nt_4205   0   10         God    NNP      (NP*))))       -    -     -    Luke   (PERSON)        *             *    (ARG1*)       (9)
+pt/nt/42/nt_4205   0   11           .      .           *))       -    -     -    Luke         *         *             *         *         -
+
+#end document
+#begin document (pt/nt/42/nt_4205); part 001
+pt/nt/42/nt_4205   1   0      Everyone    NN   (TOP(S(NP*)       -    -   -    Luke  *    (ARG0*)   (ARG0*)   (4)
+pt/nt/42/nt_4205   1   1           was   VBD      (VP(VP*        be   -   1    Luke  *         *         *     -
+pt/nt/42/nt_4205   1   2    completely    RB       (ADJP*        -    -   -    Luke  *         *         *     -
+pt/nt/42/nt_4205   1   3        amazed    JJ           *))       -    -   -    Luke  *         *         *     -
+pt/nt/42/nt_4205   1   4           and    CC            *        -    -   -    Luke  *         *         *     -
+pt/nt/42/nt_4205   1   5         began   VBD         (VP*     begin  01   2    Luke  *       (V*)        *     -
+pt/nt/42/nt_4205   1   6            to    TO       (S(VP*        -    -   -    Luke  *    (ARG1*         *     -
+pt/nt/42/nt_4205   1   7        praise    VB         (VP*    praise  01   1    Luke  *         *       (V*)    -
+pt/nt/42/nt_4205   1   8           God   NNP    (NP*))))))       -    -   -    Luke  *         *)   (ARG1*)   (7)
+pt/nt/42/nt_4205   1   9             .     .           *))       -    -   -    Luke  *         *         *     -
+
+pt/nt/42/nt_4205   1    0       They   PRP   (TOP(S(NP*)        -    -   -    Luke  *    (ARG1*)   (4)
+pt/nt/42/nt_4205   1    1       were   VBD         (VP*         be   -   -    Luke  *         *     -
+pt/nt/42/nt_4205   1    2     filled   VBN         (VP*       fill  01   1    Luke  *       (V*)    -
+pt/nt/42/nt_4205   1    3       with    IN         (PP*         -    -   -    Luke  *    (ARG2*     -
+pt/nt/42/nt_4205   1    4      great    JJ      (NP(NP*         -    -   -    Luke  *         *     -
+pt/nt/42/nt_4205   1    5    respect    NN            *)   respect   -   3    Luke  *         *     -
+pt/nt/42/nt_4205   1    6        for    IN         (PP*         -    -   -    Luke  *         *     -
+pt/nt/42/nt_4205   1    7        God   NNP      (NP(NP*         -    -   -    Luke  *         *    (7
+pt/nt/42/nt_4205   1    8         's   POS            *)        -    -   -    Luke  *         *     7)
+pt/nt/42/nt_4205   1    9      power    NN       *))))))     power   -   1    Luke  *         *)    -
+pt/nt/42/nt_4205   1   10          .     .           *))        -    -   -    Luke  *         *     -
+
+pt/nt/42/nt_4205   1    0       They   PRP   (TOP(S(NP*)      -    -   -    Luke  *    (ARG0*)            *    (4)
+pt/nt/42/nt_4205   1    1       said   VBD         (VP*      say  01   1    Luke  *       (V*)            *     -
+pt/nt/42/nt_4205   1    2          ,     ,            *       -    -   -    Luke  *         *             *     -
+pt/nt/42/nt_4205   1    3         ``    ``            *       -    -   -    Luke  *         *             *     -
+pt/nt/42/nt_4205   1    4      Today    NN       (S(NP*)   today   -   2    Luke  *         *    (ARGM-TMP*)    -
+pt/nt/42/nt_4205   1    5         we   PRP         (NP*)      -    -   -    Luke  *         *        (ARG0*)   (4)
+pt/nt/42/nt_4205   1    6        saw   VBD         (VP*      see  01   1    Luke  *         *           (V*)    -
+pt/nt/42/nt_4205   1    7    amazing    JJ         (NP*       -    -   -    Luke  *         *        (ARG1*     -
+pt/nt/42/nt_4205   1    8     things   NNS         *))))   thing   -   1    Luke  *         *             *)    -
+pt/nt/42/nt_4205   1    9          !     .            *       -    -   -    Luke  *         *             *     -
+pt/nt/42/nt_4205   1   10         ''    ''           *))      -    -   -    Luke  *         *             *     -
+
+pt/nt/42/nt_4205   1    0         After     IN      (TOP(S(PP*         -    -   -    Luke         *    (ARGM-TMP*   (ARGM-TMP*        *         *      -
+pt/nt/42/nt_4205   1    1          this     DT           (NP*))        -    -   -    Luke         *             *)           *)       *         *      -
+pt/nt/42/nt_4205   1    2         Jesus    NNP            (NP*)        -    -   -    Luke   (PERSON)       (ARG0*)      (ARG0*)       *         *    (22)
+pt/nt/42/nt_4205   1    3          went    VBD         (VP(VP*         go  17   1    Luke         *           (V*)           *        *         *      -
+pt/nt/42/nt_4205   1    4           out     RB         (ADVP*))        -    -   -    Luke         *    (ARGM-DIR*)           *        *         *      -
+pt/nt/42/nt_4205   1    5           and     CC               *         -    -   -    Luke         *             *            *        *         *      -
+pt/nt/42/nt_4205   1    6           saw    VBD            (VP*        see  01   1    Luke         *             *          (V*)       *         *      -
+pt/nt/42/nt_4205   1    7             a     DT         (NP(NP*         -    -   -    Luke         *             *            *   (ARG1*         *    (33
+pt/nt/42/nt_4205   1    8           tax     NN               *        tax   -   1    Luke         *             *            *        *         *      -
+pt/nt/42/nt_4205   1    9     collector     NN               *)        -    -   -    Luke         *             *            *        *)        *     33)
+pt/nt/42/nt_4205   1   10       sitting    VBG            (VP*        sit  01   1    Luke         *             *            *      (V*)        *      -
+pt/nt/42/nt_4205   1   11            at     IN            (PP*         -    -   -    Luke         *             *            *   (ARG2*         *      -
+pt/nt/42/nt_4205   1   12           his   PRP$         (NP(NP*         -    -   -    Luke         *             *            *        *         *    (33)
+pt/nt/42/nt_4205   1   13         place     NN               *)     place   -   1    Luke         *             *            *        *         *      -
+pt/nt/42/nt_4205   1   14           for     IN            (PP*         -    -   -    Luke         *             *            *        *         *      -
+pt/nt/42/nt_4205   1   15    collecting    VBG          (S(VP*    collect  01   1    Luke         *             *            *        *       (V*)     -
+pt/nt/42/nt_4205   1   16         taxes    NNS   (NP*))))))))))       tax   -   1    Luke         *             *            *        *)   (ARG1*)     -
+pt/nt/42/nt_4205   1   17             .      .              *))        -    -   -    Luke         *             *            *        *         *      -
+
+pt/nt/42/nt_4205   1   0     His   PRP$  (TOP(S(NP*      -   -   -    Luke         *    (33)
+pt/nt/42/nt_4205   1   1    name     NN           *)   name  -   1    Luke         *      -
+pt/nt/42/nt_4205   1   2     was    VBD        (VP*      be  -   2    Luke         *      -
+pt/nt/42/nt_4205   1   3    Levi    NNP       (NP*))     -   -   -    Luke   (PERSON)     -
+pt/nt/42/nt_4205   1   4       .      .          *))     -   -   -    Luke         *      -
+
+pt/nt/42/nt_4205   1   0     Jesus   NNP   (TOP(S(NP*)       -    -   -    Luke   (PERSON)   (ARG0*)        *    (22)
+pt/nt/42/nt_4205   1   1      said   VBD         (VP*       say  01   1    Luke         *       (V*)        *      -
+pt/nt/42/nt_4205   1   2        to    IN         (PP*        -    -   -    Luke         *    (ARG2*         *      -
+pt/nt/42/nt_4205   1   3       him   PRP        (NP*))       -    -   -    Luke         *         *)        *    (33)
+pt/nt/42/nt_4205   1   4         ,     ,            *        -    -   -    Luke         *         *         *      -
+pt/nt/42/nt_4205   1   5        ``    ``            *        -    -   -    Luke         *         *         *      -
+pt/nt/42/nt_4205   1   6    Follow    VB       (S(VP*    follow  02   3    Luke         *         *       (V*)     -
+pt/nt/42/nt_4205   1   7        me   PRP      (NP*))))       -    -   -    Luke         *         *    (ARG1*)   (22)
+pt/nt/42/nt_4205   1   8         !     .            *        -    -   -    Luke         *         *         *      -
+pt/nt/42/nt_4205   1   9        ''    ''           *))       -    -   -    Luke         *         *         *      -
+
+pt/nt/42/nt_4205   1    0          Levi   NNP   (TOP(S(NP*)       -    -      -    Luke   (PERSON)   (ARG0*)   (ARG0*)   (33)
+pt/nt/42/nt_4205   1    1           got   VBD      (VP(VP*       get   -   11.2    Luke         *         *         *      -
+pt/nt/42/nt_4205   1    2            up    RP       (PRT*))       -    -      -    Luke         *         *         *      -
+pt/nt/42/nt_4205   1    3             ,     ,            *        -    -      -    Luke         *         *         *      -
+pt/nt/42/nt_4205   1    4          left   VBD         (VP*     leave  01      1    Luke         *       (V*)        *      -
+pt/nt/42/nt_4205   1    5    everything    NN        (NP*))       -    -      -    Luke         *    (ARG1*)        *      -
+pt/nt/42/nt_4205   1    6             ,     ,            *        -    -      -    Luke         *         *         *      -
+pt/nt/42/nt_4205   1    7           and    CC            *        -    -      -    Luke         *         *         *      -
+pt/nt/42/nt_4205   1    8      followed   VBD         (VP*    follow  01      2    Luke         *         *       (V*)     -
+pt/nt/42/nt_4205   1    9         Jesus   NNP       (NP*)))       -    -      -    Luke   (PERSON)        *    (ARG1*)   (22)
+pt/nt/42/nt_4205   1   10             .     .           *))       -    -      -    Luke         *         *         *      -
+
+pt/nt/42/nt_4205   1    0      Then     RB   (TOP(S(ADVP*)      -    -   -    Luke         *    (ARGM-DIS*)     -
+pt/nt/42/nt_4205   1    1      Levi    NNP           (NP*)      -    -   -    Luke   (PERSON)       (ARG0*)   (33)
+pt/nt/42/nt_4205   1    2      gave    VBD           (VP*     give  01   2    Luke         *           (V*)     -
+pt/nt/42/nt_4205   1    3         a     DT        (NP(NP*       -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   1    4       big     JJ              *       -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   1    5    dinner     NN              *)      -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   1    6        at     IN           (PP*       -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   1    7       his   PRP$           (NP*       -    -   -    Luke         *             *    (33)
+pt/nt/42/nt_4205   1    8     house     NN            *)))   house   -   1    Luke         *             *      -
+pt/nt/42/nt_4205   1    9       for     IN           (PP*       -    -   -    Luke         *             *      -
+pt/nt/42/nt_4205   1   10     Jesus    NNP         (NP*)))      -    -   -    Luke      (GPE)            *    (22)
+pt/nt/42/nt_4205   1   11         .      .             *))      -    -   -    Luke         *             *      -
+
+pt/nt/42/nt_4205   1    0            At    IN  (TOP(S(PP*        -    -   -    Luke  *   (ARGM-LOC*   -
+pt/nt/42/nt_4205   1    1           the    DT        (NP*        -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1    2         table    NN          *))    table   -   2    Luke  *            *)  -
+pt/nt/42/nt_4205   1    3         there    EX        (NP*)       -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1    4          were   VBD        (VP*        be  02   3    Luke  *          (V*)  -
+pt/nt/42/nt_4205   1    5          many    JJ     (NP(NP*        -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1    6           tax    NN           *       tax   -   1    Luke  *            *   -
+pt/nt/42/nt_4205   1    7    collectors   NNS           *)       -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1    8           and    CC           *        -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1    9          some    DT     (NP(NP*        -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1   10         other    JJ           *        -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1   11        people   NNS           *)   people   -   1    Luke  *            *   -
+pt/nt/42/nt_4205   1   12           too    RB   (ADVP*))))       -    -   -    Luke  *            *   -
+pt/nt/42/nt_4205   1   13             .     .          *))       -    -   -    Luke  *            *   -
+
+pt/nt/42/nt_4205   1    0           But     CC      (TOP(S(S*          -    -   -    Luke      *           *    (ARGM-DIS*)       *             *             *          -
+pt/nt/42/nt_4205   1    1           the     DT        (NP(NP*          -    -   -    Luke      *           *        (ARG0*   (ARG0*             *             *    (23|(27
+pt/nt/42/nt_4205   1    2     Pharisees   NNPS              *)         -    -   -    Luke   (ORG)          *             *        *             *             *         27)
+pt/nt/42/nt_4205   1    3           and     CC              *          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1    4         those     DT        (NP(NP*)         -    -   -    Luke      *      (ARG0*)            *        *             *             *          -
+pt/nt/42/nt_4205   1    5           who     WP    (SBAR(WHNP*)         -    -   -    Luke      *    (R-ARG0*)            *        *             *             *          -
+pt/nt/42/nt_4205   1    6        taught    VBD         (S(VP*       teach  01   1    Luke      *         (V*)            *        *             *             *          -
+pt/nt/42/nt_4205   1    7           the     DT           (NP*          -    -   -    Luke      *      (ARG1*             *        *             *             *          -
+pt/nt/42/nt_4205   1    8           law     NN              *)        law   -   2    Luke      *           *)            *        *             *             *          -
+pt/nt/42/nt_4205   1    9           for     IN           (PP*          -    -   -    Luke      *      (ARG2*             *        *             *             *          -
+pt/nt/42/nt_4205   1   10           the     DT           (NP*          -    -   -    Luke      *           *             *        *             *             *        (27
+pt/nt/42/nt_4205   1   11     Pharisees   NNPS        *)))))))         -    -   -    Luke   (ORG)          *)            *)       *)            *             *     27)|23)
+pt/nt/42/nt_4205   1   12         began    VBD           (VP*       begin  01   1    Luke      *           *           (V*)       *             *             *          -
+pt/nt/42/nt_4205   1   13            to     TO         (S(VP*          -    -   -    Luke      *           *        (ARG1*        *             *             *          -
+pt/nt/42/nt_4205   1   14      complain     VB           (VP*    complain  01   1    Luke      *           *             *      (V*)            *             *          -
+pt/nt/42/nt_4205   1   15            to     IN           (PP*          -    -   -    Luke      *           *             *   (ARG1*             *             *          -
+pt/nt/42/nt_4205   1   16           the     DT        (NP(NP*          -    -   -    Luke      *           *             *        *             *             *        (13
+pt/nt/42/nt_4205   1   17     followers    NNS              *)         -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   18            of     IN           (PP*          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   19         Jesus    NNP   (NP*)))))))))         -    -   -    Luke   (GPE)          *             *)       *)            *             *    (22)|13)
+pt/nt/42/nt_4205   1   20             ,      ,              *          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   21            ``     ``        (SBARQ*          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   22           Why    WRB       (WHADVP*)         -    -   -    Luke      *           *             *        *    (ARGM-CAU*)   (ARGM-CAU*)         -
+pt/nt/42/nt_4205   1   23            do    VBP           (SQ*          do   -   7    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   24           you    PRP           (NP*)         -    -   -    Luke      *           *             *        *        (ARG0*)       (ARG0*)       (13)
+pt/nt/42/nt_4205   1   25           eat     VB           (VP*         eat  01   1    Luke      *           *             *        *           (V*)            *          -
+pt/nt/42/nt_4205   1   26           and     CC              *          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   27         drink     VB              *       drink  01   1    Luke      *           *             *        *             *           (V*)         -
+pt/nt/42/nt_4205   1   28          with     IN           (PP*          -    -   -    Luke      *           *             *        *             *    (ARGM-MNR*          -
+pt/nt/42/nt_4205   1   29           tax     NN        (NP(NP*         tax   -   1    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   30    collectors    NNS              *)         -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   31           and     CC              *          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   32         other     JJ           (NP*          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   33       sinners    NNS          *)))))         -    -   -    Luke      *           *             *        *             *             *)         -
+pt/nt/42/nt_4205   1   34             ?      .              *          -    -   -    Luke      *           *             *        *             *             *          -
+pt/nt/42/nt_4205   1   35            ''     ''            *)))         -    -   -    Luke      *           *             *        *             *             *          -
+
+pt/nt/42/nt_4205   1    0       Jesus   NNP       (TOP(S(NP*)       -    -   -    Luke   (PERSON)   (ARG0*)        *           *           *    (22)
+pt/nt/42/nt_4205   1    1    answered   VBD             (VP*    answer  01   1    Luke         *       (V*)        *           *           *      -
+pt/nt/42/nt_4205   1    2        them   PRP             (NP*)       -    -   -    Luke         *    (ARG1*)        *           *           *    (23)
+pt/nt/42/nt_4205   1    3           ,     ,                *        -    -   -    Luke         *         *         *           *           *      -
+pt/nt/42/nt_4205   1    4          ``    ``                *        -    -   -    Luke         *         *         *           *           *      -
+pt/nt/42/nt_4205   1    5          It   PRP           (S(NP*)       -    -   -    Luke         *         *    (ARG1*)          *           *      -
+pt/nt/42/nt_4205   1    6          is   VBZ             (VP*        be  01   1    Luke         *         *       (V*)          *           *      -
+pt/nt/42/nt_4205   1    7         the    DT       (NP(NP(NP*        -    -   -    Luke         *         *         *      (ARG0*           *      -
+pt/nt/42/nt_4205   1    8        sick    JJ                *        -    -   -    Luke         *         *         *           *           *      -
+pt/nt/42/nt_4205   1    9      people   NNS                *)   people   -   1    Luke         *         *         *           *)          *      -
+pt/nt/42/nt_4205   1   10         who    WP      (SBAR(WHNP*)       -    -   -    Luke         *         *         *    (R-ARG0*)          *      -
+pt/nt/42/nt_4205   1   11        need   VBP           (S(VP*      need  01   1    Luke         *         *         *         (V*)          *      -
+pt/nt/42/nt_4205   1   12           a    DT             (NP*        -    -   -    Luke         *         *         *      (ARG1*           *      -
+pt/nt/42/nt_4205   1   13      doctor    NN            *)))))   doctor   -   -    Luke         *         *         *           *)          *      -
+pt/nt/42/nt_4205   1   14           ,     ,                *        -    -   -    Luke         *         *         *           *           *      -
+pt/nt/42/nt_4205   1   15         not    RB                *        -    -   -    Luke         *         *         *           *           *      -
+pt/nt/42/nt_4205   1   16       those    DT          (NP(NP*)       -    -   -    Luke         *         *         *           *      (ARG1*)     -
+pt/nt/42/nt_4205   1   17         who    WP      (SBAR(WHNP*)       -    -   -    Luke         *         *         *           *    (R-ARG1*)     -
+pt/nt/42/nt_4205   1   18         are   VBP           (S(VP*        be  01   1    Luke         *         *         *           *         (V*)     -
+pt/nt/42/nt_4205   1   19     healthy    JJ   (ADJP*)))))))))       -    -   -    Luke         *         *         *           *      (ARG2*)     -
+pt/nt/42/nt_4205   1   20           .     .               *))       -    -   -    Luke         *         *         *           *           *      -
+
+pt/nt/42/nt_4205   1    0         I   PRP    (TOP(S(NP*)       -    -   -    Luke  *        (ARG1*)   (ARG0*)       *    (22)
+pt/nt/42/nt_4205   1    1      have   VBP          (VP*      have   -   -    Luke  *             *         *        *      -
+pt/nt/42/nt_4205   1    2       not    RB             *        -    -   -    Luke  *    (ARGM-NEG*)        *        *      -
+pt/nt/42/nt_4205   1    3      come   VBN          (VP*      come  01   1    Luke  *           (V*)        *        *      -
+pt/nt/42/nt_4205   1    4        to    TO        (S(VP*        -    -   -    Luke  *    (ARGM-PRP*         *        *      -
+pt/nt/42/nt_4205   1    5       ask    VB          (VP*       ask  02   2    Luke  *             *       (V*)       *      -
+pt/nt/42/nt_4205   1    6      good    JJ          (NP*        -    -   -    Luke  *             *    (ARG2*   (ARG0*      -
+pt/nt/42/nt_4205   1    7    people   NNS             *)   people   -   1    Luke  *             *         *)       *)     -
+pt/nt/42/nt_4205   1    8        to    TO        (S(VP*        -    -   -    Luke  *             *    (ARG1*        *      -
+pt/nt/42/nt_4205   1    9    change    VB   (VP*))))))))   change  01   1    Luke  *             *)        *)     (V*)     -
+pt/nt/42/nt_4205   1   10         .     .            *))       -    -   -    Luke  *             *         *        *      -
+
+pt/nt/42/nt_4205   1    0          I   PRP        (TOP(S(NP*)       -    -   -    Luke  *    (ARG1*)   (ARG0*)        *            *    (22)
+pt/nt/42/nt_4205   1    1       have   VBP              (VP*      have   -   -    Luke  *         *         *         *            *      -
+pt/nt/42/nt_4205   1    2       come   VBN              (VP*      come  04   3    Luke  *       (V*)        *         *            *      -
+pt/nt/42/nt_4205   1    3         to    TO            (S(VP*        -    -   -    Luke  *    (ARG2*         *         *            *      -
+pt/nt/42/nt_4205   1    4        ask    VB              (VP*       ask  02   2    Luke  *         *       (V*)        *            *      -
+pt/nt/42/nt_4205   1    5    sinners   NNS              (NP*)       -    -   -    Luke  *         *    (ARG2*)   (ARG0*)           *    (24)
+pt/nt/42/nt_4205   1    6         to    TO            (S(VP*        -    -   -    Luke  *         *    (ARG1*         *            *      -
+pt/nt/42/nt_4205   1    7     change    VB              (VP*    change  01   1    Luke  *         *         *       (V*)           *      -
+pt/nt/42/nt_4205   1    8        the    DT           (NP(NP*        -    -   -    Luke  *         *         *    (ARG1*   (ARGM-MNR*      -
+pt/nt/42/nt_4205   1    9        way    NN                 *)      way   -   1    Luke  *         *         *         *            *)     -
+pt/nt/42/nt_4205   1   10       they   PRP       (SBAR(S(NP*)       -    -   -    Luke  *         *         *         *       (ARG0*)   (24)
+pt/nt/42/nt_4205   1   11       live   VBP   (VP*))))))))))))     live  01   1    Luke  *         *)        *)        *)         (V*)     -
+pt/nt/42/nt_4205   1   12          .     .                 *        -    -   -    Luke  *         *         *         *            *      -
+pt/nt/42/nt_4205   1   13         ''    ''                *))       -    -   -    Luke  *         *         *         *            *      -
+
+pt/nt/42/nt_4205   1    0         They    PRP   (TOP(S(NP*)     -    -   -    Luke         *    (ARG0*)   (23)
+pt/nt/42/nt_4205   1    1         said    VBD         (VP*     say  01   1    Luke         *       (V*)     -
+pt/nt/42/nt_4205   1    2           to     IN         (PP*      -    -   -    Luke         *    (ARG2*      -
+pt/nt/42/nt_4205   1    3        Jesus    NNP        (NP*))     -    -   -    Luke   (PERSON)        *)   (22)
+pt/nt/42/nt_4205   1    4            ,      ,            *      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1    5           ``     ``            *      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1    6         John    NNP    (S(NP(NP*      -    -   -    Luke   (PERSON)        *      -
+pt/nt/42/nt_4205   1    7           's    POS            *)     -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1    8    followers    NNS            *)     -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1    9        often     RB       (ADVP*)     -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   10         fast     VB         (VP*    fast   -   1    Luke         *         *      -
+pt/nt/42/nt_4205   1   11          and     CC            *      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   12         pray     VB            *    pray   -   1    Luke         *         *      -
+pt/nt/42/nt_4205   1   13            ,      ,            *      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   14          the     DT      (NP(NP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   15         same     JJ            *)     -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   16           as     IN         (PP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   17          the     DT      (NP(NP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   18    followers    NNS            *)     -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   19           of     IN         (PP*      -    -   -    Luke         *         *      -
+pt/nt/42/nt_4205   1   20          the     DT         (NP*      -    -   -    Luke         *         *    (27
+pt/nt/42/nt_4205   1   21    Pharisees   NNPS     *))))))))     -    -   -    Luke      (ORG)        *     27)
+pt/nt/42/nt_4205   1   22            .      .           *))     -    -   -    Luke         *         *      -
+
+pt/nt/42/nt_4205   1    0          But     CC  (TOP(S*       -    -   -    Luke  *    (ARGM-DIS*)   (ARGM-DIS*)     -
+pt/nt/42/nt_4205   1    1         your   PRP$     (NP*       -    -   -    Luke  *        (ARG0*        (ARG0*    (22)
+pt/nt/42/nt_4205   1    2    followers    NNS        *)      -    -   -    Luke  *             *)            *)     -
+pt/nt/42/nt_4205   1    3          eat     VB     (VP*      eat  01   1    Luke  *           (V*)            *      -
+pt/nt/42/nt_4205   1    4          and     CC        *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   1    5        drink     VB        *    drink  01   1    Luke  *             *           (V*)     -
+pt/nt/42/nt_4205   1    6          all    PDT     (NP*       -    -   -    Luke  *        (ARG1*        (ARG1*      -
+pt/nt/42/nt_4205   1    7          the     DT        *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   1    8         time     NN       *))    time   -   4    Luke  *             *)            *)     -
+pt/nt/42/nt_4205   1    9            .      .        *       -    -   -    Luke  *             *             *      -
+pt/nt/42/nt_4205   1   10           ''     ''       *))      -    -   -    Luke  *             *             *      -
+
+pt/nt/42/nt_4205   1    0         Jesus   NNP        (TOP(S(NP*)        -    -   -    Luke   (PERSON)   (ARG0*)            *            *             *      (22)
+pt/nt/42/nt_4205   1    1          said   VBD              (VP*        say  01   1    Luke         *       (V*)            *            *             *        -
+pt/nt/42/nt_4205   1    2            to    IN              (PP*         -    -   -    Luke         *    (ARG2*             *            *             *        -
+pt/nt/42/nt_4205   1    3          them   PRP             (NP*))        -    -   -    Luke         *         *)            *            *             *      (23)
+pt/nt/42/nt_4205   1    4             ,     ,                 *         -    -   -    Luke         *         *             *            *             *        -
+pt/nt/42/nt_4205   1    5            ``    ``                 *         -    -   -    Luke         *         *             *            *             *        -
+pt/nt/42/nt_4205   1    6            At    IN            (S(PP*         -    -   -    Luke         *         *    (ARGM-LOC*            *             *        -
+pt/nt/42/nt_4205   1    7             a    DT              (NP*         -    -   -    Luke         *         *             *            *             *        -
+pt/nt/42/nt_4205   1    8       wedding    NN                *))   wedding   -   1    Luke         *         *             *)           *             *        -
+pt/nt/42/nt_4205   1    9           you   PRP              (NP*)        -    -   -    Luke         *         *        (ARG0*)           *             *        -
+pt/nt/42/nt_4205   1   10            ca    MD              (VP*         -    -   -    Luke         *         *    (ARGM-MOD*)           *             *        -
+pt/nt/42/nt_4205   1   11           n't    RB                 *         -    -   -    Luke         *         *    (ARGM-NEG*)           *             *        -
+pt/nt/42/nt_4205   1   12           ask    VB              (VP*        ask  01   1    Luke         *         *           (V*)           *             *        -
+pt/nt/42/nt_4205   1   13           the    DT           (NP(NP*         -    -   -    Luke         *         *        (ARG2*            *             *       (2
+pt/nt/42/nt_4205   1   14       friends   NNS                 *)    friend   -   -    Luke         *         *             *            *             *        -
+pt/nt/42/nt_4205   1   15            of    IN              (PP*         -    -   -    Luke         *         *             *            *             *        -
+pt/nt/42/nt_4205   1   16           the    DT              (NP*         -    -   -    Luke         *         *             *            *             *      (16
+pt/nt/42/nt_4205   1   17    bridegroom    NN               *)))        -    -   -    Luke         *         *             *)           *             *    16)|2)
+pt/nt/42/nt_4205   1   18            to    TO            (S(VP*         -    -   -    Luke         *         *             *            *             *        -
+pt/nt/42/nt_4205   1   19            be    VB              (VP*         be  01   1    Luke         *         *             *          (V*)            *        -
+pt/nt/42/nt_4205   1   20           sad    JJ            (ADJP*         -    -   -    Luke         *         *             *       (ARG2*             *        -
+pt/nt/42/nt_4205   1   21           and    CC                 *         -    -   -    Luke         *         *             *            *             *        -
+pt/nt/42/nt_4205   1   22          fast    JJ                 *)        -    -   -    Luke         *         *             *            *)            *        -
+pt/nt/42/nt_4205   1   23         while    IN            (SBAR*         -    -   -    Luke         *         *             *   (ARGM-TMP*             *        -
+pt/nt/42/nt_4205   1   24            he   PRP            (S(NP*)        -    -   -    Luke         *         *             *            *        (ARG1*)     (16)
+pt/nt/42/nt_4205   1   25            is   VBZ              (VP*         be  01   1    Luke         *         *             *            *           (V*)       -
+pt/nt/42/nt_4205   1   26         still    RB            (ADVP*)        -    -   -    Luke         *         *             *            *    (ARGM-TMP*)       -
+pt/nt/42/nt_4205   1   27          with    IN              (PP*         -    -   -    Luke         *         *             *            *        (ARG2*        -
+pt/nt/42/nt_4205   1   28          them   PRP   (NP*))))))))))))        -    -   -    Luke         *         *             *            *)            *)      (2)
+pt/nt/42/nt_4205   1   29             .     .                *))        -    -   -    Luke         *         *             *            *             *        -
+
+pt/nt/42/nt_4205   1    0      But    CC         (TOP(S*       -    -    -    Luke  *    (ARGM-DIS*)            *     -
+pt/nt/42/nt_4205   1    1      the    DT            (NP*       -    -    -    Luke  *        (ARG1*             *     -
+pt/nt/42/nt_4205   1    2     time    NN               *)    time   -    1    Luke  *             *)            *     -
+pt/nt/42/nt_4205   1    3     will    MD            (VP*       -    -    -    Luke  *    (ARGM-MOD*)            *     -
+pt/nt/42/nt_4205   1    4     come    VB            (VP*     come  01    2    Luke  *           (V*)            *     -
+pt/nt/42/nt_4205   1    5     when   WRB   (SBAR(WHADVP*)      -    -    -    Luke  *    (ARGM-TMP*    (ARGM-TMP*)    -
+pt/nt/42/nt_4205   1    6      the    DT          (S(NP*       -    -    -    Luke  *             *        (ARG1*   (16
+pt/nt/42/nt_4205   1    7    groom    NN               *)   groom   -    -    Luke  *             *             *)   16)
+pt/nt/42/nt_4205   1    8     will    MD            (VP*       -    -    -    Luke  *             *    (ARGM-MOD*)    -
+pt/nt/42/nt_4205   1    9       be    VB            (VP*       be   -    -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   10    taken   VBN            (VP*     take  01   11    Luke  *             *           (V*)    -
+pt/nt/42/nt_4205   1   11     away    RB          (ADVP*       -    -    -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   12     from    IN            (PP*       -    -    -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   13     them   PRP   (NP*))))))))))      -    -    -    Luke  *             *)            *    (2)
+pt/nt/42/nt_4205   1   14        .     .              *))      -    -    -    Luke  *             *             *     -
+
+pt/nt/42/nt_4205   1   0       Then     RB   (TOP(S(ADVP*)       -   -   -    Luke  *         -
+pt/nt/42/nt_4205   1   1        his   PRP$           (NP*        -   -   -    Luke  *    (2|(16)
+pt/nt/42/nt_4205   1   2    friends    NNS              *)   friend  -   -    Luke  *         2)
+pt/nt/42/nt_4205   1   3       will     MD           (VP*        -   -   -    Luke  *         -
+pt/nt/42/nt_4205   1   4       fast     VB          (VP*))     fast  -   1    Luke  *         -
+pt/nt/42/nt_4205   1   5          .      .              *        -   -   -    Luke  *         -
+pt/nt/42/nt_4205   1   6         ''     ''             *))       -   -   -    Luke  *         -
+
+pt/nt/42/nt_4205   1    0    Jesus   NNP     (TOP(S(NP*)      -    -      -    Luke   (PERSON)   (ARG0*)        *        *    (22)
+pt/nt/42/nt_4205   1    1     told   VBD           (VP*     tell  01      1    Luke         *       (V*)        *        *      -
+pt/nt/42/nt_4205   1    2     them   PRP           (NP*)      -    -      -    Luke         *    (ARG2*)        *        *    (23)
+pt/nt/42/nt_4205   1    3     this    DT           (NP*       -    -      -    Luke         *    (ARG1*         *        *      -
+pt/nt/42/nt_4205   1    4    story    NN              *)   story   -      1    Luke         *         *)        *        *      -
+pt/nt/42/nt_4205   1    5        :     :              *       -    -      -    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1    6       ``    ``              *       -    -      -    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1    7       No    DT         (S(NP*       -    -      -    Luke         *         *    (ARG0*        *      -
+pt/nt/42/nt_4205   1    8      one    NN              *)     one   -      2    Luke         *         *         *)       *      -
+pt/nt/42/nt_4205   1    9    takes   VBZ           (VP*     take  01   14.1    Luke         *         *       (V*)       *      -
+pt/nt/42/nt_4205   1   10    cloth    NN           (NP*)      -    -      -    Luke         *         *    (ARG1*)       *      -
+pt/nt/42/nt_4205   1   11      off    IN           (PP*       -    -      -    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1   12        a    DT        (NP(NP*       -    -      -    Luke         *         *         *   (ARG2*    (35
+pt/nt/42/nt_4205   1   13      new    JJ              *       -    -      -    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1   14     coat    NN              *)    coat   -      -    Luke         *         *         *        *)    35)
+pt/nt/42/nt_4205   1   15       to    TO    (SBAR(S(VP*       -    -      -    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1   16    cover    VB           (VP*    cover  01      2    Luke         *         *         *      (V*)     -
+pt/nt/42/nt_4205   1   17        a    DT        (NP(NP*       -    -      -    Luke         *         *         *   (ARG1*      -
+pt/nt/42/nt_4205   1   18     hole    NN              *)    hole   -      1    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1   19       in    IN           (PP*       -    -      -    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1   20       an    DT           (NP*       -    -      -    Luke         *         *         *        *    (34
+pt/nt/42/nt_4205   1   21      old    JJ              *       -    -      -    Luke         *         *         *        *      -
+pt/nt/42/nt_4205   1   22     coat    NN   *))))))))))))    coat   -      -    Luke         *         *         *        *)    34)
+pt/nt/42/nt_4205   1   23        .     .             *))      -    -      -    Luke         *         *         *        *      -
+
+pt/nt/42/nt_4205   1    0     That   DT   (TOP(S(S(NP*)     -    -   -    Luke  *        (ARG0*)            *     -
+pt/nt/42/nt_4205   1    1    would   MD           (VP*      -    -   -    Luke  *    (ARGM-MOD*)            *     -
+pt/nt/42/nt_4205   1    2     ruin   VB           (VP*    ruin  01   1    Luke  *           (V*)            *     -
+pt/nt/42/nt_4205   1    3      the   DT           (NP*      -    -   -    Luke  *        (ARG1*             *   (35
+pt/nt/42/nt_4205   1    4      new   JJ              *      -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1    5     coat   NN           *))))   coat   -   -    Luke  *             *)            *    35)
+pt/nt/42/nt_4205   1    6        ,    ,              *      -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1    7      and   CC              *      -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1    8      the   DT      (S(NP(NP*      -    -   -    Luke  *             *        (ARG1*     -
+pt/nt/42/nt_4205   1    9    cloth   NN              *)     -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   10     from   IN           (PP*      -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   11      the   DT           (NP*      -    -   -    Luke  *             *             *   (35
+pt/nt/42/nt_4205   1   12      new   JJ              *      -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   13     coat   NN            *)))   coat   -   -    Luke  *             *             *)   35)
+pt/nt/42/nt_4205   1   14    would   MD           (VP*      -    -   -    Luke  *             *    (ARGM-MOD*)    -
+pt/nt/42/nt_4205   1   15      not   RB              *      -    -   -    Luke  *             *    (ARGM-NEG*)    -
+pt/nt/42/nt_4205   1   16       be   VB           (VP*      be  01   1    Luke  *             *           (V*)    -
+pt/nt/42/nt_4205   1   17      the   DT        (NP(NP*      -    -   -    Luke  *             *        (ARG2*     -
+pt/nt/42/nt_4205   1   18     same   JJ              *)     -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   19       as   IN           (PP*      -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   20      the   DT           (NP*      -    -   -    Luke  *             *             *   (34
+pt/nt/42/nt_4205   1   21      old   JJ              *      -    -   -    Luke  *             *             *     -
+pt/nt/42/nt_4205   1   22    cloth   NN         *))))))     -    -   -    Luke  *             *             *)   34)
+pt/nt/42/nt_4205   1   23        .    .             *))     -    -   -    Luke  *             *             *     -
+
+pt/nt/42/nt_4205   1    0         Also    RB   (TOP(S(ADVP*)     -    -   -    Luke  *    (ARGM-DIS*)   -
+pt/nt/42/nt_4205   1    1            ,     ,              *      -    -   -    Luke  *             *    -
+pt/nt/42/nt_4205   1    2           no    DT        (NP(NP*      -    -   -    Luke  *        (ARG0*    -
+pt/nt/42/nt_4205   1    3          one    NN              *)    one   -   2    Luke  *             *    -
+pt/nt/42/nt_4205   1    4         ever    RB        (ADVP*))     -    -   -    Luke  *             *)   -
+pt/nt/42/nt_4205   1    5        pours   VBZ           (VP*    pour  01   1    Luke  *           (V*)   -
+pt/nt/42/nt_4205   1    6          new    JJ        (NP(NP*      -    -   -    Luke  *        (ARG1*   (3
+pt/nt/42/nt_4205   1    7         wine    NN              *)   wine   -   -    Luke  *             *    3)
+pt/nt/42/nt_4205   1    8         into    IN           (PP*      -    -   -    Luke  *             *    -
+pt/nt/42/nt_4205   1    9          old    JJ           (NP*      -    -   -    Luke  *             *   (6
+pt/nt/42/nt_4205   1   10    wineskins   NNS           *))))     -    -   -    Luke  *             *)   6)
+pt/nt/42/nt_4205   1   11            .     .             *))     -    -   -    Luke  *             *    -
+
+pt/nt/42/nt_4205   1   0      The    DT  (TOP(S(NP*       -    -      -    Luke  *        (ARG0*    (3
+pt/nt/42/nt_4205   1   1      new    JJ           *       -    -      -    Luke  *             *     -
+pt/nt/42/nt_4205   1   2     wine    NN           *)    wine   -      -    Luke  *             *)    3)
+pt/nt/42/nt_4205   1   3    would    MD        (VP*       -    -      -    Luke  *    (ARGM-MOD*)    -
+pt/nt/42/nt_4205   1   4    break    VB        (VP*    break  01   16.4    Luke  *           (V*)    -
+pt/nt/42/nt_4205   1   5     them   PRP      (NP*)))      -    -      -    Luke  *        (ARG1*)   (6)
+pt/nt/42/nt_4205   1   6        .     .          *))      -    -      -    Luke  *             *     -
+
+pt/nt/42/nt_4205   1    0          The    DT  (TOP(S(S(NP*       -    -   -    Luke  *        (ARG1*             *   (3
+pt/nt/42/nt_4205   1    1         wine    NN             *)    wine   -   -    Luke  *             *)            *    3)
+pt/nt/42/nt_4205   1    2        would    MD          (VP*       -    -   -    Luke  *    (ARGM-MOD*)            *    -
+pt/nt/42/nt_4205   1    3        spill    VB          (VP*    spill  01   1    Luke  *           (V*)            *    -
+pt/nt/42/nt_4205   1    4          out    RP      (PRT*))))      -    -   -    Luke  *             *             *    -
+pt/nt/42/nt_4205   1    5            ,     ,             *       -    -   -    Luke  *             *             *    -
+pt/nt/42/nt_4205   1    6          and    CC             *       -    -   -    Luke  *             *             *    -
+pt/nt/42/nt_4205   1    7          the    DT        (S(NP*       -    -   -    Luke  *             *        (ARG1*   (6
+pt/nt/42/nt_4205   1    8    wineskins   NNS             *)      -    -   -    Luke  *             *             *)   6)
+pt/nt/42/nt_4205   1    9        would    MD          (VP*       -    -   -    Luke  *             *    (ARGM-MOD*)   -
+pt/nt/42/nt_4205   1   10           be    VB          (VP*       be   -   -    Luke  *             *             *    -
+pt/nt/42/nt_4205   1   11       ruined   VBN       (VP*))))    ruin  01   1    Luke  *             *           (V*)   -
+pt/nt/42/nt_4205   1   12            .     .            *))      -    -   -    Luke  *             *             *    -
+
+pt/nt/42/nt_4205   1   0          You   PRP   (TOP(S(NP*)     -    -   -    Luke  *        (ARG0*)  -
+pt/nt/42/nt_4205   1   1       always    RB       (ADVP*)     -    -   -    Luke  *    (ARGM-TMP*)  -
+pt/nt/42/nt_4205   1   2          put   VBP         (VP*     put  01   1    Luke  *           (V*)  -
+pt/nt/42/nt_4205   1   3          new    JJ         (NP*      -    -   -    Luke  *        (ARG1*   -
+pt/nt/42/nt_4205   1   4         wine    NN            *)   wine   -   -    Luke  *             *)  -
+pt/nt/42/nt_4205   1   5         into    IN         (PP*      -    -   -    Luke  *        (ARG2*   -
+pt/nt/42/nt_4205   1   6          new    JJ         (NP*      -    -   -    Luke  *             *   -
+pt/nt/42/nt_4205   1   7    wineskins   NNS          *)))     -    -   -    Luke  *             *)  -
+pt/nt/42/nt_4205   1   8            .     .           *))     -    -   -    Luke  *             *   -
+
+pt/nt/42/nt_4205   1   0        No    DT  (TOP(S(NP(NP*       -    -   -    Luke  *      (ARG0*   (ARG0*     -
+pt/nt/42/nt_4205   1   1       one    NN              *)     one   -   2    Luke  *           *)       *     -
+pt/nt/42/nt_4205   1   2       who    WP    (SBAR(WHNP*)      -    -   -    Luke  *    (R-ARG0*)       *     -
+pt/nt/42/nt_4205   1   3    drinks   VBZ         (S(VP*    drink  01   1    Luke  *         (V*)       *     -
+pt/nt/42/nt_4205   1   4       old    JJ           (NP*       -    -   -    Luke  *      (ARG1*        *   (18
+pt/nt/42/nt_4205   1   5      wine    NN          *)))))    wine   -   -    Luke  *           *)       *)   18)
+pt/nt/42/nt_4205   1   6     wants   VBZ           (VP*     want  01   1    Luke  *           *      (V*)    -
+pt/nt/42/nt_4205   1   7       new    JJ           (NP*       -    -   -    Luke  *           *   (ARG1*     -
+pt/nt/42/nt_4205   1   8      wine    NN             *))    wine   -   -    Luke  *           *        *)    -
+pt/nt/42/nt_4205   1   9         .     .             *))      -    -   -    Luke  *           *        *     -
+
+pt/nt/42/nt_4205   1    0    They   PRP   (TOP(S(NP*)     -    -   -    Luke  *    (ARG0*)       *     -
+pt/nt/42/nt_4205   1    1     say   VBP         (VP*     say  01   1    Luke  *       (V*)       *     -
+pt/nt/42/nt_4205   1    2       ,     ,            *      -    -   -    Luke  *         *        *     -
+pt/nt/42/nt_4205   1    3       '    ``            *      -    -   -    Luke  *         *        *     -
+pt/nt/42/nt_4205   1    4     The    DT       (S(NP*      -    -   -    Luke  *         *   (ARG1*   (18
+pt/nt/42/nt_4205   1    5     old    JJ            *      -    -   -    Luke  *         *        *     -
+pt/nt/42/nt_4205   1    6    wine    NN            *)   wine   -   -    Luke  *         *        *)   18)
+pt/nt/42/nt_4205   1    7      is   VBZ         (VP*      be  01   1    Luke  *         *      (V*)    -
+pt/nt/42/nt_4205   1    8    just    RB       (ADJP*      -    -   -    Luke  *         *   (ARG2*     -
+pt/nt/42/nt_4205   1    9    fine    JJ         *))))     -    -   -    Luke  *         *        *)    -
+pt/nt/42/nt_4205   1   10       .     .            *      -    -   -    Luke  *         *        *     -
+pt/nt/42/nt_4205   1   11       '    ''            *      -    -   -    Luke  *         *        *     -
+pt/nt/42/nt_4205   1   12      ''    ''           *))     -    -   -    Luke  *         *        *     -
+
+#end document

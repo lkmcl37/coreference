@@ -1,0 +1,247 @@
+#begin document (nw/wsj/11/wsj_1141); part 000
+nw/wsj/11/wsj_1141   0    0         From     IN  (TOP(PP*       -   -   -   -        *   -
+nw/wsj/11/wsj_1141   0    1          the     DT   (NP(NP*       -   -   -   -        *   -
+nw/wsj/11/wsj_1141   0    2        Sept.    NNP     (NML*       -   -   -   -   (DATE*   -
+nw/wsj/11/wsj_1141   0    3          30      CD         *       -   -   -   -        *   -
+nw/wsj/11/wsj_1141   0    4           -    HYPH         *       -   -   -   -        *   -
+nw/wsj/11/wsj_1141   0    5          Oct    NNP      (NP*       -   -   -   -        *   -
+nw/wsj/11/wsj_1141   0    6            .      .         *       -   -   -   -        *)  -
+nw/wsj/11/wsj_1141   0    7           4      CD        *))      -   -   -   -        *   -
+nw/wsj/11/wsj_1141   0    8        issue     NN         *)   issue  -   1   -        *   -
+nw/wsj/11/wsj_1141   0    9           of     IN      (PP*       -   -   -   -        *   -
+nw/wsj/11/wsj_1141   0   10          The     DT      (NP*       -   -   -   -    (ORG*   -
+nw/wsj/11/wsj_1141   0   11    Economist    NNP       *)))      -   -   -   -        *)  -
+nw/wsj/11/wsj_1141   0   12            :      :        *))      -   -   -   -        *   -
+
+nw/wsj/11/wsj_1141   0    0        What    WP   (TOP(SBARQ(WHNP*)       -    -   -   -          *    (ARG0*)   -
+nw/wsj/11/wsj_1141   0    1    defeated   VBD               (SQ*    defeat  01   1   -          *       (V*)   -
+nw/wsj/11/wsj_1141   0    2     General   NNP               (NP*        -    -   -   -          *         *   (0
+nw/wsj/11/wsj_1141   0    3        Aoun   NNP                  *)       -    -   -   -    (PERSON)        *    0)
+nw/wsj/11/wsj_1141   0    4         was   VBD               (VP*        be   -   1   -          *         *    -
+nw/wsj/11/wsj_1141   0    5         not    RB            (CONJP*        -    -   -   -          *         *    -
+nw/wsj/11/wsj_1141   0    6        only    RB                  *)       -    -   -   -          *         *    -
+nw/wsj/11/wsj_1141   0    7         the    DT            (NP(NP*        -    -   -   -          *         *    -
+nw/wsj/11/wsj_1141   0    8      weight    NN                  *)   weight   -   1   -          *         *    -
+nw/wsj/11/wsj_1141   0    9          of    IN               (PP*        -    -   -   -          *         *    -
+nw/wsj/11/wsj_1141   0   10         the    DT               (NP*        -    -   -   -          *         *    -
+nw/wsj/11/wsj_1141   0   11      Syrian    JJ                  *        -    -   -   -      (NORP)        *    -
+nw/wsj/11/wsj_1141   0   12        army    NN              *)))))       -    -   -   -          *         *    -
+nw/wsj/11/wsj_1141   0   13           .     .                 *))       -    -   -   -          *         *    -
+
+nw/wsj/11/wsj_1141   0    0          The    DT  (TOP(S(S(NP(NP*         -    -   -   -       *         *           *       -
+nw/wsj/11/wsj_1141   0    1       weight    NN                *)    weight   -   1   -       *         *           *       -
+nw/wsj/11/wsj_1141   0    2           of    IN             (PP*         -    -   -   -       *         *           *       -
+nw/wsj/11/wsj_1141   0    3      Lebanon   NNP          (NP(NP*         -    -   -   -    (GPE)        *           *   (5|(6
+nw/wsj/11/wsj_1141   0    4           's   POS                *)        -    -   -   -       *         *           *       6)
+nw/wsj/11/wsj_1141   0    5      history    NN              *)))   history   -   1   -       *         *           *       5)
+nw/wsj/11/wsj_1141   0    6          was   VBD             (VP*         be   -   1   -       *         *           *       -
+nw/wsj/11/wsj_1141   0    7         also    RB           (ADVP*)        -    -   -   -       *         *           *       -
+nw/wsj/11/wsj_1141   0    8      against    IN             (PP*         -    -   -   -       *         *           *       -
+nw/wsj/11/wsj_1141   0    9          him   PRP          (NP*))))        -    -   -   -       *         *           *      (0)
+nw/wsj/11/wsj_1141   0   10            ;     :                *         -    -   -   -       *         *           *       -
+nw/wsj/11/wsj_1141   0   11          and    CC                *         -    -   -   -       *         *           *       -
+nw/wsj/11/wsj_1141   0   12           it   PRP           (S(NP*)        -    -   -   -       *    (ARG1*)          *      (5)
+nw/wsj/11/wsj_1141   0   13           is   VBZ             (VP*         be  01   1   -       *       (V*)          *       -
+nw/wsj/11/wsj_1141   0   14            a    DT          (NP(NP*         -    -   -   -       *    (ARG2*      (ARG1*       -
+nw/wsj/11/wsj_1141   0   15      history    NN                *)   history   -   1   -       *         *           *)      -
+nw/wsj/11/wsj_1141   0   16       Israel   NNP      (SBAR(S(NP*)        -    -   -   -    (GPE)        *    (R-ARG1*)     (3)
+nw/wsj/11/wsj_1141   0   17           is   VBZ             (VP*         be  01   1   -       *         *         (V*)      -
+nw/wsj/11/wsj_1141   0   18           in    IN             (PP*         -    -   -   -       *         *      (ARG2*       -
+nw/wsj/11/wsj_1141   0   19       danger    NN          (NP(NP*)    danger   -   1   -       *         *           *       -
+nw/wsj/11/wsj_1141   0   20           of    IN             (PP*         -    -   -   -       *         *           *       -
+nw/wsj/11/wsj_1141   0   21    repeating   VBG    (NP*))))))))))    repeat   -   1   -       *         *)          *)      -
+nw/wsj/11/wsj_1141   0   22            .     .               *))        -    -   -   -       *         *           *       -
+
+nw/wsj/11/wsj_1141   0    0          Like    IN  (TOP(S(UCP(PP*        -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0    1       Lebanon   NNP           (NP*))       -    -   -   -     (GPE)        *    (6)
+nw/wsj/11/wsj_1141   0    2             ,     ,               *        -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0    3           and    CC               *        -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0    4       however    RB          (ADVP*)       -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0    5      unfairly    RB         (ADVP*))       -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0    6             ,     ,               *        -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0    7        Israel   NNP            (NP*)       -    -   -   -     (GPE)   (ARG1*)   (3)
+nw/wsj/11/wsj_1141   0    8            is   VBZ            (VP*        be   -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0    9      regarded   VBN            (VP*    regard  01   1   -        *       (V*)    -
+nw/wsj/11/wsj_1141   0   10            by    IN            (PP*        -    -   -   -        *    (ARG0*     -
+nw/wsj/11/wsj_1141   0   11           the    DT            (NP*        -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0   12          Arab    JJ               *        -    -   -   -    (NORP)        *     -
+nw/wsj/11/wsj_1141   0   13         world    NN              *))    world   -   2   -        *         *)    -
+nw/wsj/11/wsj_1141   0   14            as    IN            (PP*        -    -   -   -        *    (ARG2*     -
+nw/wsj/11/wsj_1141   0   15             a    DT            (NP*        -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0   16      colonial    JJ               *        -    -   -   -        *         *     -
+nw/wsj/11/wsj_1141   0   17    aberration    NN            *))))       -    -   -   -        *         *)    -
+nw/wsj/11/wsj_1141   0   18             .     .              *))       -    -   -   -        *         *     -
+
+nw/wsj/11/wsj_1141   0    0             Its   PRP$  (TOP(S(NP(NP*            -    -   -   -        *   (ARG1*        *    (3)
+nw/wsj/11/wsj_1141   0    1            best    JJS              *            -    -   -   -        *        *        *     -
+nw/wsj/11/wsj_1141   0    2            hope     NN              *)         hope   -   1   -        *        *        *     -
+nw/wsj/11/wsj_1141   0    3              of     IN           (PP*            -    -   -   -        *        *        *     -
+nw/wsj/11/wsj_1141   0    4      acceptance     NN        (NP(NP*)   acceptance   -   4   -        *        *        *     -
+nw/wsj/11/wsj_1141   0    5              by     IN           (PP*            -    -   -   -        *        *        *     -
+nw/wsj/11/wsj_1141   0    6             its   PRP$           (NP*            -    -   -   -        *        *        *    (3)
+nw/wsj/11/wsj_1141   0    7      neighbours     NN          *)))))    neighbour   -   -   -        *        *)       *     -
+nw/wsj/11/wsj_1141   0    8            lies    VBZ           (VP*           lie  01   1   -        *      (V*)       *     -
+nw/wsj/11/wsj_1141   0    9              in     IN           (PP*            -    -   -   -        *   (ARG2*        *     -
+nw/wsj/11/wsj_1141   0   10        reaching    VBG         (S(VP*         reach  01   1   -        *        *      (V*)    -
+nw/wsj/11/wsj_1141   0   11               a     DT        (NP(NP*            -    -   -   -        *        *   (ARG1*     -
+nw/wsj/11/wsj_1141   0   12      settlement     NN              *)   settlement   -   3   -        *        *        *     -
+nw/wsj/11/wsj_1141   0   13            with     IN           (PP*            -    -   -   -        *        *        *     -
+nw/wsj/11/wsj_1141   0   14             the     DT           (NP*            -    -   -   -        *        *        *     -
+nw/wsj/11/wsj_1141   0   15    Palestinians   NNPS        *)))))))           -    -   -   -    (NORP)       *)       *)    -
+nw/wsj/11/wsj_1141   0   16               .      .             *))           -    -   -   -        *        *        *     -
+
+nw/wsj/11/wsj_1141   0   0          Like    IN  (TOP(S(PP*    -   -   -   -       *     -
+nw/wsj/11/wsj_1141   0   1       Lebanon   NNP       (NP*))   -   -   -   -    (GPE)   (6)
+nw/wsj/11/wsj_1141   0   2             ,     ,           *    -   -   -   -       *     -
+nw/wsj/11/wsj_1141   0   3        Israel   NNP        (NP*)   -   -   -   -    (GPE)   (3)
+nw/wsj/11/wsj_1141   0   4            is   VBZ        (VP*    be  -   -   -       *     -
+nw/wsj/11/wsj_1141   0   5         being   VBG        (VP*    be  -   1   -       *     -
+nw/wsj/11/wsj_1141   0   6        remade    JJ        (VP*    -   -   -   -       *     -
+nw/wsj/11/wsj_1141   0   7            by    IN        (PP*    -   -   -   -       *     -
+nw/wsj/11/wsj_1141   0   8    demography    NN    (NP*)))))   -   -   -   -       *     -
+nw/wsj/11/wsj_1141   0   9             .     .          *))   -   -   -   -       *     -
+
+nw/wsj/11/wsj_1141   0    0          In     IN  (TOP(S(PP*       -    -   -   -            *   (ARGM-LOC*   -
+nw/wsj/11/wsj_1141   0    1     Greater    NNP        (NP*       -    -   -   -        (GPE*            *   -
+nw/wsj/11/wsj_1141   0    2      Israel    NNP          *))      -    -   -   -            *)           *)  -
+nw/wsj/11/wsj_1141   0    3        more    JJR  (NP(NP(QP*       -    -   -   -   (CARDINAL*       (ARG1*   -
+nw/wsj/11/wsj_1141   0    4        than     IN           *       -    -   -   -            *            *   -
+nw/wsj/11/wsj_1141   0    5        half    PDT           *)      -    -   -   -            *)           *   -
+nw/wsj/11/wsj_1141   0    6         the     DT           *       -    -   -   -            *            *   -
+nw/wsj/11/wsj_1141   0    7    children    NNS           *)   child   -   2   -            *            *   -
+nw/wsj/11/wsj_1141   0    8       under     IN        (PP*       -    -   -   -       (DATE*            *   -
+nw/wsj/11/wsj_1141   0    9         six     CD      (NP*)))      -    -   -   -            *)           *)  -
+nw/wsj/11/wsj_1141   0   10         are    VBP        (VP*       be  01   1   -            *          (V*)  -
+nw/wsj/11/wsj_1141   0   11     Muslims   NNPS       (NP*))      -    -   -   -        (NORP)      (ARG2*)  -
+nw/wsj/11/wsj_1141   0   12           .      .          *))      -    -   -   -            *            *   -
+
+nw/wsj/11/wsj_1141   0   0      Within     IN  (TOP(S(PP*      -    -   -   -        *    (ARGM-TMP*   -
+nw/wsj/11/wsj_1141   0   1         25      CD        (NP*      -    -   -   -   (DATE*             *   -
+nw/wsj/11/wsj_1141   0   2       years    NNS          *))   year   -   1   -        *)            *)  -
+nw/wsj/11/wsj_1141   0   3        Jews   NNPS        (NP*)     -    -   -   -    (NORP)       (ARG1*)  -
+nw/wsj/11/wsj_1141   0   4        will     MD        (VP*      -    -   -   -        *    (ARGM-MOD*)  -
+nw/wsj/11/wsj_1141   0   5    probably     RB      (ADVP*)     -    -   -   -        *    (ARGM-ADV*)  -
+nw/wsj/11/wsj_1141   0   6          be     VB        (VP*      be  01   2   -        *           (V*)  -
+nw/wsj/11/wsj_1141   0   7         the     DT        (NP*      -    -   -   -        *        (ARG2*   -
+nw/wsj/11/wsj_1141   0   8    minority     NN         *)))     -    -   -   -        *             *)  -
+nw/wsj/11/wsj_1141   0   9           .      .          *))     -    -   -   -        *             *   -
+
+nw/wsj/11/wsj_1141   0    0          Yet     CC     (TOP(S*          -    -   -   -           *    (ARGM-DIS*)          *     -
+nw/wsj/11/wsj_1141   0    1       Israel    NNP        (NP*)         -    -   -   -        (GPE)       (ARG0*)   (C-ARG1*)   (3)
+nw/wsj/11/wsj_1141   0    2         will     MD        (VP*          -    -   -   -           *    (ARGM-MOD*)          *     -
+nw/wsj/11/wsj_1141   0    3      neither     CC        (VP*          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0    4        share     VB        (VP*       share  01   2   -           *           (V*)          *     -
+nw/wsj/11/wsj_1141   0    5        power     NN        (NP*)      power   -   1   -           *        (ARG1*)          *     -
+nw/wsj/11/wsj_1141   0    6         with     IN        (PP*          -    -   -   -           *        (ARG2*           *     -
+nw/wsj/11/wsj_1141   0    7          all    PDT        (NP*          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0    8        these     DT           *          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0    9        Arabs   NNPS         *)))         -    -   -   -       (NORP)            *)          *     -
+nw/wsj/11/wsj_1141   0   10          nor     CC           *          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   11            ,      ,       (PRN*          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   12         says    VBZ   (SINV(VP*)        say  01   1   -           *             *         (V*)    -
+nw/wsj/11/wsj_1141   0   13          its   PRP$        (NP*          -    -   -   -           *             *      (ARG0*    (3)
+nw/wsj/11/wsj_1141   0   14      present     JJ           *          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   15        prime     JJ           *          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   16     minister     NN          *))   minister   -   2   -           *             *           *)    -
+nw/wsj/11/wsj_1141   0   17            ,      ,           *)         -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   18       redraw     VB        (VP*      redraw   -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   19          its   PRP$        (NP*          -    -   -   -           *             *           *    (3)
+nw/wsj/11/wsj_1141   0   20      borders    NNS           *)     border   -   1   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   21       closer    RBR      (ADVP*          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   22           to     IN        (PP*          -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   23          its   PRP$        (NP*          -    -   -   -           *             *           *    (3)
+nw/wsj/11/wsj_1141   0   24    pre-1967      JJ           *          -    -   -   -    (ORDINAL)            *           *     -
+nw/wsj/11/wsj_1141   0   25       Jewish     JJ           *          -    -   -   -       (NORP)            *           *     -
+nw/wsj/11/wsj_1141   0   26    heartland    NNP      *))))))         -    -   -   -           *             *           *     -
+nw/wsj/11/wsj_1141   0   27            .      .          *))         -    -   -   -           *             *           *     -
+
+nw/wsj/11/wsj_1141   0    0            By     IN  (TOP(S(PP*         -    -   -   -        *             *    (ARGM-MNR*        *        -
+nw/wsj/11/wsj_1141   0    1           not     RB         (S*         -    -   -   -        *    (ARGM-NEG*)            *        *        -
+nw/wsj/11/wsj_1141   0    2      choosing    VBG        (VP*     choose  01   1   -        *           (V*)            *        *        -
+nw/wsj/11/wsj_1141   0    3           one     CD     (NP(NP*)        -    -   -   -        *        (ARG1*             *        *        -
+nw/wsj/11/wsj_1141   0    4            of     IN        (PP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0    5         these     DT        (NP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0    6       options    NNS      *))))))    option   -   2   -        *             *)            *)       *        -
+nw/wsj/11/wsj_1141   0    7             ,      ,           *         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0    8      Israelis   NNPS        (NP*)        -    -   -   -    (NORP)            *        (ARG0*)       *       (1)
+nw/wsj/11/wsj_1141   0    9          will     MD        (VP*         -    -   -   -        *             *    (ARGM-MOD*)       *        -
+nw/wsj/11/wsj_1141   0   10       condemn     VB        (VP*    condemn  01   1   -        *             *           (V*)       *        -
+nw/wsj/11/wsj_1141   0   11    themselves    PRP        (NP*)        -    -   -   -        *             *        (ARG1*)       *       (1)
+nw/wsj/11/wsj_1141   0   12             ,      ,           *         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   13            as     IN      (SBAR*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   14           the     DT      (S(NP*         -    -   -   -        *             *             *   (ARG0*       (2
+nw/wsj/11/wsj_1141   0   15     Maronites   NNPS           *)        -    -   -   -    (NORP)            *             *        *)       2)
+nw/wsj/11/wsj_1141   0   16           did    VBD      (VP*)))        do  02   1   -        *             *             *      (V*)       -
+nw/wsj/11/wsj_1141   0   17             ,      ,           *         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   18            to     IN     (PP(PP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   19     perpetual     JJ     (NP(NP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   20           war     NN           *)       war   -   1   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   21          with     IN        (PP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   22           the     DT     (NP(NP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   23       Muslims   NNPS           *)        -    -   -   -    (NORP)            *             *        *        -
+nw/wsj/11/wsj_1141   0   24            in     IN        (PP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   25         their   PRP$        (NP*         -    -   -   -        *             *             *        *       (1)
+nw/wsj/11/wsj_1141   0   26         midst     NN      *))))))        -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   27             ,      ,           *         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   28           and     CC           *         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   29            so     RB           *         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   30            to     IN        (PP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   31           the     DT     (NP(NP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   32      internal     JJ           *         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   33       erosion     NN           *)   erosion   -   2   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   34            of     IN        (PP*         -    -   -   -        *             *             *        *        -
+nw/wsj/11/wsj_1141   0   35         their   PRP$        (NP*         -    -   -   -        *             *             *        *    (3|(1)
+nw/wsj/11/wsj_1141   0   36         state     NN     *)))))))     state   -   1   -        *             *             *        *        3)
+nw/wsj/11/wsj_1141   0   37             .      .          *))        -    -   -   -        *             *             *        *        -
+
+nw/wsj/11/wsj_1141   0    0        Unlike     IN  (TOP(S(S(PP*        -    -   -   -        *    (ARGM-ADV*         *       -
+nw/wsj/11/wsj_1141   0    1           the     DT          (NP*        -    -   -   -        *             *         *      (2
+nw/wsj/11/wsj_1141   0    2     Maronites   NNPS            *))       -    -   -   -    (NORP)            *)        *       2)
+nw/wsj/11/wsj_1141   0    3             ,      ,             *        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0    4        Israel    NNP       (NP(NP*        -    -   -   -     (GPE)       (ARG0*         *   (3|(7
+nw/wsj/11/wsj_1141   0    5            's    POS             *)       -    -   -   -        *             *         *       3)
+nw/wsj/11/wsj_1141   0    6          Jews   NNPS             *)       -    -   -   -    (NORP)            *)        *       7)
+nw/wsj/11/wsj_1141   0    7          will     MD          (VP*        -    -   -   -        *    (ARGM-MOD*)        *       -
+nw/wsj/11/wsj_1141   0    8           not     RB             *        -    -   -   -        *    (ARGM-NEG*)        *       -
+nw/wsj/11/wsj_1141   0    9           let     VB          (VP*       let  01   1   -        *           (V*)        *       -
+nw/wsj/11/wsj_1141   0   10    themselves    PRP        (S(NP*)       -    -   -   -        *        (ARG1*         *      (7)
+nw/wsj/11/wsj_1141   0   11        become     VB          (VP*    become   -   1   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   12           the     DT       (NP(NP*        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   13       weakest    JJS             *        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   14         force     NN             *)    force   -   2   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   15            in     IN          (PP*        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   16             a     DT       (NP(NP*        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   17        system     NN             *)   system   -   1   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   18            of     IN          (PP*        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   19       private     JJ          (NP*        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   20        armies    NNS    *))))))))))       -    -   -   -        *             *)        *       -
+nw/wsj/11/wsj_1141   0   21             ;      :             *        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   22     Jerusalem    NNP        (S(NP*)       -    -   -   -     (GPE)            *         *      (4)
+nw/wsj/11/wsj_1141   0   23          will     MD          (VP*        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   24        become     VB          (VP*    become   -   1   -        *             *         *      (8)
+nw/wsj/11/wsj_1141   0   25       Belfast    NNP          (NP*)       -    -   -   -     (GPE)            *         *       -
+nw/wsj/11/wsj_1141   0   26        before     IN        (SBAR*        -    -   -   -        *             *         *       -
+nw/wsj/11/wsj_1141   0   27            it    PRP        (S(NP*)       -    -   -   -        *             *    (ARG1*)     (4)
+nw/wsj/11/wsj_1141   0   28       becomes    VBZ          (VP*    become  01   1   -        *             *       (V*)      -
+nw/wsj/11/wsj_1141   0   29        Beirut    NNP    (NP*)))))))       -    -   -   -     (GPE)            *    (ARG2*)      -
+nw/wsj/11/wsj_1141   0   30             .      .            *))       -    -   -   -        *             *         *       -
+
+nw/wsj/11/wsj_1141   0    0            But    CC       (TOP(S*             -    -   -   -          *    (ARGM-DIS*)       *     -
+nw/wsj/11/wsj_1141   0    1           that    DT          (NP*)            -    -   -   -          *        (ARG1*)       *    (8)
+nw/wsj/11/wsj_1141   0    2             is   VBZ          (VP*             be  01   1   -          *           (V*)       *     -
+nw/wsj/11/wsj_1141   0    3            not    RB       (NP(NP*             -    -   -   -          *        (ARG2*        *     -
+nw/wsj/11/wsj_1141   0    4           much    JJ             *)            -    -   -   -          *             *        *     -
+nw/wsj/11/wsj_1141   0    5             of    IN          (PP*             -    -   -   -          *             *        *     -
+nw/wsj/11/wsj_1141   0    6              a    DT          (NP*             -    -   -   -          *             *        *     -
+nw/wsj/11/wsj_1141   0    7    consolation    NN             *    consolation   -   1   -          *             *        *     -
+nw/wsj/11/wsj_1141   0    8             to    TO        (S(VP*             -    -   -   -          *             *        *     -
+nw/wsj/11/wsj_1141   0    9           draw    VB          (VP*           draw  02   3   -          *             *      (V*)    -
+nw/wsj/11/wsj_1141   0   10           from    IN          (PP*             -    -   -   -          *             *   (ARG2*     -
+nw/wsj/11/wsj_1141   0   11            the    DT       (NP(NP*             -    -   -   -          *             *        *     -
+nw/wsj/11/wsj_1141   0   12        failure    NN             *)       failure   -   1   -          *             *        *     -
+nw/wsj/11/wsj_1141   0   13             of    IN          (PP*             -    -   -   -          *             *        *     -
+nw/wsj/11/wsj_1141   0   14        General   NNP          (NP*             -    -   -   -          *             *        *    (0
+nw/wsj/11/wsj_1141   0   15           Aoun   NNP   *)))))))))))            -    -   -   -    (PERSON)            *)       *)    0)
+nw/wsj/11/wsj_1141   0   16              .     .            *))            -    -   -   -          *             *        *     -
+
+#end document

@@ -1,0 +1,924 @@
+#begin document (pt/nt/44/nt_4401); part 000
+pt/nt/44/nt_4401   0    0          Dear   NNP    (TOP(S(NP(NP*           -    -   -    Acts          *         *   (ARG0*            *      -
+pt/nt/44/nt_4401   0    1    Theophilus   NNP                *)          -    -   -    Acts    (PERSON)        *        *            *      -
+pt/nt/44/nt_4401   0    2             ,     ,                *           -    -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0    3           The    DT          (NP(NP*           -    -   -    Acts          *    (ARG1*        *            *      -
+pt/nt/44/nt_4401   0    4         first    JJ                *           -    -   -    Acts   (ORDINAL)        *        *            *      -
+pt/nt/44/nt_4401   0    5          book    NN                *)        book   -   1    Acts          *         *)       *            *      -
+pt/nt/44/nt_4401   0    6             I   PRP      (SBAR(S(NP*)          -    -   -    Acts          *    (ARG0*)       *            *      -
+pt/nt/44/nt_4401   0    7         wrote   VBD         (VP*)))))       write  01   1    Acts          *       (V*)       *)           *      -
+pt/nt/44/nt_4401   0    8           was   VBD          (VP(VP*           be   -   1    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0    9         about    IN             (PP*           -    -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   10    everything    NN          (NP(NP*)          -    -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   11         Jesus   NNP      (SBAR(S(NP*)          -    -   -    Acts    (PERSON)        *        *            *    (21)
+pt/nt/44/nt_4401   0   12           did   VBD        (VP*))))))          do   -   1    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   13           and    CC                *           -    -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   14        taught   VBD             (VP*        teach  01   1    Acts          *         *      (V*)           *      -
+pt/nt/44/nt_4401   0   15          from    IN             (PP*           -    -   -    Acts          *         *   (ARG2*            *      -
+pt/nt/44/nt_4401   0   16           the    DT             (NP*           -    -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   17     beginning    NN                *)   beginning   -   1    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   18         until    IN             (PP*           -    -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   19           the    DT          (NP(NP*           -    -   -    Acts     (DATE*         *        *   (ARGM-TMP*      -
+pt/nt/44/nt_4401   0   20           day    NN                *)         day   -   3    Acts          *)        *        *            *)     -
+pt/nt/44/nt_4401   0   21            he   PRP      (SBAR(S(NP*)          -    -   -    Acts          *         *        *       (ARG1*)   (21)
+pt/nt/44/nt_4401   0   22           was   VBD             (VP*           be   -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   23       carried   VBN             (VP*        carry  01   8    Acts          *         *        *          (V*)     -
+pt/nt/44/nt_4401   0   24            up    RP            (PRT*)          -    -   -    Acts          *         *        *            *      -
+pt/nt/44/nt_4401   0   25          into    IN             (PP*           -    -   -    Acts          *         *        *   (ARGM-DIR*      -
+pt/nt/44/nt_4401   0   26        heaven    NN   (NP*)))))))))))          -    -   -    Acts          *         *        *)           *)   (17)
+pt/nt/44/nt_4401   0   27             .     .               *))          -    -   -    Acts          *         *        *            *      -
+
+pt/nt/44/nt_4401   0    0      Before    IN  (TOP(S(SBAR*        -    -   -    Acts  *         *   (ARGM-TMP*         *      -
+pt/nt/44/nt_4401   0    1          he   PRP        (S(NP*)       -    -   -    Acts  *    (ARG0*)           *         *    (21)
+pt/nt/44/nt_4401   0    2        went   VBD        (VP*)))       go  02   1    Acts  *       (V*)           *)        *      -
+pt/nt/44/nt_4401   0    3           ,     ,             *        -    -   -    Acts  *         *            *         *      -
+pt/nt/44/nt_4401   0    4          he   PRP          (NP*)       -    -   -    Acts  *         *       (ARG0*)        *    (21)
+pt/nt/44/nt_4401   0    5      talked   VBD          (VP*      talk  01   1    Acts  *         *          (V*)        *      -
+pt/nt/44/nt_4401   0    6          to    IN          (PP*        -    -   -    Acts  *         *       (ARG2*         *      -
+pt/nt/44/nt_4401   0    7         the    DT       (NP(NP*        -    -   -    Acts  *         *            *    (ARG1*    (11
+pt/nt/44/nt_4401   0    8    apostles   NNS             *)       -    -   -    Acts  *         *            *         *)     -
+pt/nt/44/nt_4401   0    9          he   PRP   (SBAR(S(NP*)       -    -   -    Acts  *         *            *    (ARG0*)   (21)
+pt/nt/44/nt_4401   0   10         had   VBD          (VP*      have   -   -    Acts  *         *            *         *      -
+pt/nt/44/nt_4401   0   11      chosen   VBN    (VP*)))))))   choose  01   1    Acts  *         *            *)      (V*)    11)
+pt/nt/44/nt_4401   0   12           .     .            *))       -    -   -    Acts  *         *            *         *      -
+
+pt/nt/44/nt_4401   0    0      With    IN    (TOP(S(PP*      -    -   -    Acts      *   (ARGM-MNR*             *      -
+pt/nt/44/nt_4401   0    1       the    DT       (NP(NP*      -    -   -    Acts      *            *             *      -
+pt/nt/44/nt_4401   0    2      help    NN             *)   help   -   1    Acts      *            *             *      -
+pt/nt/44/nt_4401   0    3        of    IN          (PP*      -    -   -    Acts      *            *             *      -
+pt/nt/44/nt_4401   0    4       the    DT          (NP*      -    -   -    Acts  (ORG*            *             *     (5
+pt/nt/44/nt_4401   0    5      Holy   NNP             *      -    -   -    Acts      *            *             *      -
+pt/nt/44/nt_4401   0    6    Spirit   NNP          *))))     -    -   -    Acts      *)           *)            *      5)
+pt/nt/44/nt_4401   0    7         ,     ,             *      -    -   -    Acts      *            *             *      -
+pt/nt/44/nt_4401   0    8        he   PRP          (NP*)     -    -   -    Acts      *       (ARG0*)            *    (21)
+pt/nt/44/nt_4401   0    9      told   VBD          (VP*    tell  01   1    Acts      *          (V*)            *      -
+pt/nt/44/nt_4401   0   10      them   PRP          (NP*)     -    -   -    Acts      *       (ARG2*)            *    (11)
+pt/nt/44/nt_4401   0   11      what    WP   (SBAR(WHNP*)     -    -   -    Acts      *       (ARG1*        (ARG1*)     -
+pt/nt/44/nt_4401   0   12      they   PRP        (S(NP*)     -    -   -    Acts      *            *        (ARG0*)   (11)
+pt/nt/44/nt_4401   0   13    should    MD          (VP*      -    -   -    Acts      *            *    (ARGM-MOD*)     -
+pt/nt/44/nt_4401   0   14        do    VB      (VP*)))))     do  02   1    Acts      *            *)          (V*)     -
+pt/nt/44/nt_4401   0   15         .     .            *))     -    -   -    Acts      *            *             *      -
+
+pt/nt/44/nt_4401   0    0       This     DT   (TOP(S(S(NP*)      -    -   -    Acts  *         *            *      -
+pt/nt/44/nt_4401   0    1        was    VBD           (VP*       be   -   1    Acts  *         *            *      -
+pt/nt/44/nt_4401   0    2      after     IN           (PP*       -    -   -    Acts  *         *            *      -
+pt/nt/44/nt_4401   0    3        his   PRP$           (NP*       -    -   -    Acts  *         *            *    (21)
+pt/nt/44/nt_4401   0    4      death     NN           *))))   death   -   1    Acts  *         *            *      -
+pt/nt/44/nt_4401   0    5          ,      ,              *       -    -   -    Acts  *         *            *      -
+pt/nt/44/nt_4401   0    6        but     CC              *       -    -   -    Acts  *         *            *      -
+pt/nt/44/nt_4401   0    7         he    PRP         (S(NP*)      -    -   -    Acts  *    (ARG0*)           *    (21)
+pt/nt/44/nt_4401   0    8     showed    VBD           (VP*     show  01   1    Acts  *       (V*)           *      -
+pt/nt/44/nt_4401   0    9       them    PRP           (NP*)      -    -   -    Acts  *    (ARG1*)           *    (11)
+pt/nt/44/nt_4401   0   10       that     IN         (SBAR*       -    -   -    Acts  *    (ARG2*            *      -
+pt/nt/44/nt_4401   0   11         he    PRP         (S(NP*)      -    -   -    Acts  *         *       (ARG0*)   (21)
+pt/nt/44/nt_4401   0   12        was    VBD           (VP*       be   -   1    Acts  *         *            *      -
+pt/nt/44/nt_4401   0   13      alive     JJ         (ADJP*)      -    -   -    Acts  *         *            *      -
+pt/nt/44/nt_4401   0   14          ,      ,              *       -    -   -    Acts  *         *            *      -
+pt/nt/44/nt_4401   0   15    proving    VBG         (S(VP*    prove  01   1    Acts  *         *          (V*)     -
+pt/nt/44/nt_4401   0   16         it    PRP           (NP*)      -    -   -    Acts  *         *       (ARG1*)     -
+pt/nt/44/nt_4401   0   17         to     IN           (PP*       -    -   -    Acts  *         *       (ARG2*      -
+pt/nt/44/nt_4401   0   18       them    PRP          (NP*))      -    -   -    Acts  *         *            *)   (11)
+pt/nt/44/nt_4401   0   19         in     IN           (PP*       -    -   -    Acts  *         *   (ARGM-MNR*      -
+pt/nt/44/nt_4401   0   20       many     JJ           (NP*       -    -   -    Acts  *         *            *      -
+pt/nt/44/nt_4401   0   21       ways    NNS      *)))))))))     way   -   1    Acts  *         *)           *)     -
+pt/nt/44/nt_4401   0   22          .      .             *))      -    -   -    Acts  *         *            *      -
+
+pt/nt/44/nt_4401   0    0         The    DT   (TOP(S(NP*       -    -   -    Acts         *       (ARG0*         *    (11
+pt/nt/44/nt_4401   0    1    apostles   NNS            *)      -    -   -    Acts         *            *)        *     11)
+pt/nt/44/nt_4401   0    2         saw   VBD         (VP*      see  01   1    Acts         *          (V*)        *      -
+pt/nt/44/nt_4401   0    3       Jesus   NNP         (NP*)      -    -   -    Acts   (PERSON)      (ARG1*)        *    (21)
+pt/nt/44/nt_4401   0    4        many    JJ         (NP*       -    -   -    Acts         *   (ARGM-TMP*         *      -
+pt/nt/44/nt_4401   0    5       times   NNS            *)    time   -   1    Acts         *            *)        *      -
+pt/nt/44/nt_4401   0    6      during    IN         (PP*       -    -   -    Acts         *   (ARGM-TMP*         *      -
+pt/nt/44/nt_4401   0    7         the    DT         (NP*       -    -   -    Acts    (DATE*            *         *      -
+pt/nt/44/nt_4401   0    8         40     CD            *       -    -   -    Acts         *            *         *      -
+pt/nt/44/nt_4401   0    9        days   NNS           *))     day   -   2    Acts         *)           *)        *      -
+pt/nt/44/nt_4401   0   10       after    IN       (SBAR*       -    -   -    Acts         *   (ARGM-TMP*         *      -
+pt/nt/44/nt_4401   0   11          he   PRP       (S(NP*)      -    -   -    Acts         *            *    (ARG1*)   (21)
+pt/nt/44/nt_4401   0   12         was   VBD         (VP*       be   -   -    Acts         *            *         *      -
+pt/nt/44/nt_4401   0   13      raised   VBN         (VP*    raise  01   5    Acts         *            *       (V*)     -
+pt/nt/44/nt_4401   0   14        from    IN         (PP*       -    -   -    Acts         *            *    (ARG2*      -
+pt/nt/44/nt_4401   0   15       death    NN   (NP*)))))))   death   -   1    Acts         *            *)        *)     -
+pt/nt/44/nt_4401   0   16           .     .           *))      -    -   -    Acts         *            *         *      -
+
+pt/nt/44/nt_4401   0   0         He   PRP   (TOP(S(NP*)      -    -   -    Acts         *    (ARG0*)   (21)
+pt/nt/44/nt_4401   0   1      spoke   VBD         (VP*    speak  01   1    Acts         *       (V*)     -
+pt/nt/44/nt_4401   0   2         to    IN         (PP*       -    -   -    Acts         *    (ARG2*      -
+pt/nt/44/nt_4401   0   3       them   PRP        (NP*))      -    -   -    Acts         *         *)   (11)
+pt/nt/44/nt_4401   0   4      about    IN         (PP*       -    -   -    Acts         *    (ARG1*      -
+pt/nt/44/nt_4401   0   5        God   NNP      (NP(NP*       -    -   -    Acts   (PERSON)        *    (20
+pt/nt/44/nt_4401   0   6         's   POS            *)      -    -   -    Acts         *         *     20)
+pt/nt/44/nt_4401   0   7    kingdom    NN          *)))      -    -   -    Acts         *         *)     -
+pt/nt/44/nt_4401   0   8          .     .           *))      -    -   -    Acts         *         *      -
+
+pt/nt/44/nt_4401   0    0          One    CD   (TOP(S(NP(NP*       -    -   -    Acts   (CARDINAL)     (ARGM-TMP*   (ARGM-TMP*             *      -
+pt/nt/44/nt_4401   0    1         time    NN               *)    time   -   1    Acts           *               *)           *             *      -
+pt/nt/44/nt_4401   0    2         when   WRB   (SBAR(WHADVP*)      -    -   -    Acts           *    (R-ARGM-TMP*)           *             *      -
+pt/nt/44/nt_4401   0    3        Jesus   NNP          (S(NP*)      -    -   -    Acts     (PERSON)         (ARG0*)           *             *    (21)
+pt/nt/44/nt_4401   0    4          was   VBD            (VP*       be   -   -    Acts           *               *            *             *      -
+pt/nt/44/nt_4401   0    5       eating   VBG            (VP*      eat  01   1    Acts           *             (V*)           *             *      -
+pt/nt/44/nt_4401   0    6         with    IN            (PP*       -    -   -    Acts           *          (ARG1*            *             *      -
+pt/nt/44/nt_4401   0    7         them   PRP      (NP*)))))))      -    -   -    Acts           *               *)           *)            *    (11)
+pt/nt/44/nt_4401   0    8            ,     ,               *       -    -   -    Acts           *               *            *             *      -
+pt/nt/44/nt_4401   0    9           he   PRP            (NP*)      -    -   -    Acts           *               *       (ARG0*)            *    (21)
+pt/nt/44/nt_4401   0   10         told   VBD            (VP*     tell  01   1    Acts           *               *          (V*)            *      -
+pt/nt/44/nt_4401   0   11         them   PRP            (NP*)      -    -   -    Acts           *               *       (ARG2*)       (ARG0*)   (11)
+pt/nt/44/nt_4401   0   12          not    RB             (S*       -    -   -    Acts           *               *       (ARG1*    (ARGM-NEG*)     -
+pt/nt/44/nt_4401   0   13           to    TO            (VP*       -    -   -    Acts           *               *            *             *      -
+pt/nt/44/nt_4401   0   14        leave    VB            (VP*    leave  01   1    Acts           *               *            *           (V*)     -
+pt/nt/44/nt_4401   0   15    Jerusalem   NNP        (NP*)))))      -    -   -    Acts        (GPE)              *            *)       (ARG1*)    (1)
+pt/nt/44/nt_4401   0   16            .     .              *))      -    -   -    Acts           *               *            *             *      -
+
+pt/nt/44/nt_4401   0    0          He   PRP        (TOP(S(NP*)        -    -   -    Acts  *    (ARG0*)            *         *        *         *    (21)
+pt/nt/44/nt_4401   0    1        said   VBD              (VP*        say  01   1    Acts  *       (V*)            *         *        *         *      -
+pt/nt/44/nt_4401   0    2           ,     ,                 *         -    -   -    Acts  *         *             *         *        *         *      -
+pt/nt/44/nt_4401   0    3          ``    ``                 *         -    -   -    Acts  *         *             *         *        *         *      -
+pt/nt/44/nt_4401   0    4        Wait    VB            (S(VP*       wait  01   1    Acts  *         *           (V*)        *        *         *      -
+pt/nt/44/nt_4401   0    5        here    RB            (ADVP*)        -    -   -    Acts  *         *    (ARGM-LOC*)        *        *         *      -
+pt/nt/44/nt_4401   0    6       until    IN            (SBAR*         -    -   -    Acts  *         *             *         *        *         *      -
+pt/nt/44/nt_4401   0    7         you   PRP            (S(NP*)        -    -   -    Acts  *         *             *    (ARG0*)       *         *    (11)
+pt/nt/44/nt_4401   0    8     receive   VBP              (VP*    receive  01   1    Acts  *         *             *       (V*)       *         *      -
+pt/nt/44/nt_4401   0    9        what    WP       (SBAR(WHNP*)        -    -   -    Acts  *         *             *    (ARG1*        *    (ARG1*)     -
+pt/nt/44/nt_4401   0   10         the    DT            (S(NP*         -    -   -    Acts  *         *             *         *   (ARG0*    (ARG0*    (20
+pt/nt/44/nt_4401   0   11      Father    NN                 *)    father   -   -    Acts  *         *             *         *        *)        *)    20)
+pt/nt/44/nt_4401   0   12    promised   VBD              (VP*    promise  01   1    Acts  *         *             *         *      (V*)        *      -
+pt/nt/44/nt_4401   0   13          to    TO            (S(VP*         -    -   -    Acts  *         *             *         *   (ARG2*         *      -
+pt/nt/44/nt_4401   0   14        send    VB   (VP*))))))))))))      send  01   1    Acts  *         *             *         *)       *)      (V*)     -
+pt/nt/44/nt_4401   0   15           .     .                *))        -    -   -    Acts  *         *             *         *        *         *      -
+
+pt/nt/44/nt_4401   0   0    Remember    VB  (TOP(S(VP*    remember   -   1    Acts  *             *      -
+pt/nt/44/nt_4401   0   1           ,     ,           *          -    -   -    Acts  *             *      -
+pt/nt/44/nt_4401   0   2           I   PRP      (S(NP*)         -    -   -    Acts  *        (ARG0*)   (21)
+pt/nt/44/nt_4401   0   3        told   VBD        (VP*        tell  01   1    Acts  *           (V*)     -
+pt/nt/44/nt_4401   0   4         you   PRP        (NP*)         -    -   -    Acts  *        (ARG2*)   (11)
+pt/nt/44/nt_4401   0   5       about    IN        (PP*          -    -   -    Acts  *        (ARG1*      -
+pt/nt/44/nt_4401   0   6          it   PRP       (NP*))         -    -   -    Acts  *             *)     -
+pt/nt/44/nt_4401   0   7      before    RB   (ADVP*))))         -    -   -    Acts  *    (ARGM-TMP*)     -
+pt/nt/44/nt_4401   0   8           .     .          *))         -    -   -    Acts  *             *      -
+
+pt/nt/44/nt_4401   0    0        John   NNP   (TOP(S(S(NP*)        -   -   -    Acts       *    (12)
+pt/nt/44/nt_4401   0    1    baptized   VBD           (VP*    baptize  -   -    Acts       *      -
+pt/nt/44/nt_4401   0    2      people   NNS        (NP(NP*)    people  -   1    Acts       *      -
+pt/nt/44/nt_4401   0    3        with    IN           (PP*         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0    4       water    NN       (NP*)))))     water  -   1    Acts       *      -
+pt/nt/44/nt_4401   0    5           ,     ,              *         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0    6         but    CC              *         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0    7          in    IN         (S(PP*         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0    8           a    DT        (NP(QP*         -   -   -    Acts  (DATE*      -
+pt/nt/44/nt_4401   0    9         few    JJ              *)        -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0   10        days   NNS             *))       day  -   4    Acts       *)     -
+pt/nt/44/nt_4401   0   11         you   PRP           (NP*)        -   -   -    Acts       *    (11)
+pt/nt/44/nt_4401   0   12        will    MD           (VP*         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0   13          be    VB           (VP*         be  -   -    Acts       *      -
+pt/nt/44/nt_4401   0   14    baptized   VBN           (VP*    baptize  -   -    Acts       *      -
+pt/nt/44/nt_4401   0   15        with    IN           (PP*         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0   16         the    DT           (NP*         -   -   -    Acts   (ORG*     (5
+pt/nt/44/nt_4401   0   17        Holy   NNP              *         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0   18      Spirit   NNP         *))))))        -   -   -    Acts       *)     5)
+pt/nt/44/nt_4401   0   19           .     .              *         -   -   -    Acts       *      -
+pt/nt/44/nt_4401   0   20          ''    ''             *))        -   -   -    Acts       *      -
+
+pt/nt/44/nt_4401   0   0         The    DT  (TOP(S(NP*    -    -   -    Acts  *    (ARG1*   (11
+pt/nt/44/nt_4401   0   1    apostles   NNS           *)   -    -   -    Acts  *         *)   11)
+pt/nt/44/nt_4401   0   2        were   VBD        (VP*    be  01   1    Acts  *       (V*)    -
+pt/nt/44/nt_4401   0   3         all    DT           *    -    -   -    Acts  *         *     -
+pt/nt/44/nt_4401   0   4    together    RB     (ADVP*))   -    -   -    Acts  *    (ARG2*)    -
+pt/nt/44/nt_4401   0   5           .     .          *))   -    -   -    Acts  *         *     -
+
+pt/nt/44/nt_4401   0    0       They    PRP   (TOP(S(NP*)       -    -   -    Acts         *    (ARG0*)        *         *    (11)
+pt/nt/44/nt_4401   0    1      asked    VBD         (VP*       ask  01   1    Acts         *       (V*)        *         *      -
+pt/nt/44/nt_4401   0    2      Jesus    NNP         (NP*)       -    -   -    Acts   (PERSON)   (ARG2*)        *         *    (21)
+pt/nt/44/nt_4401   0    3          ,      ,            *        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0    4         ``     ``            *        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0    5       Lord    NNP      (SQ(NP*)       -    -   -    Acts         *         *    (ARG1*)        *    (21)
+pt/nt/44/nt_4401   0    6          ,      ,            *        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0    7         is    VBZ            *        be  01   1    Acts         *         *       (V*)        *      -
+pt/nt/44/nt_4401   0    8       this     DT         (NP*)       -    -   -    Acts         *         *    (ARG2*)        *      -
+pt/nt/44/nt_4401   0    9        the     DT      (NP(NP*        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   10       time     NN            *)     time   -   1    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   11        for     IN       (SBAR*        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   12        you    PRP       (S(NP*)       -    -   -    Acts         *         *         *    (ARG0*)   (21)
+pt/nt/44/nt_4401   0   13         to     TO         (VP*        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   14       give     VB         (VP*      give  01   2    Acts         *         *         *       (V*)     -
+pt/nt/44/nt_4401   0   15        the     DT      (NP(NP*        -    -   -    Acts         *         *         *    (ARG2*    (24
+pt/nt/44/nt_4401   0   16     people    NNS            *)   people   -   1    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   17         of     IN         (PP*        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   18     Israel    NNP       (NP*)))       -    -   -    Acts      (GPE)        *         *         *)    24)
+pt/nt/44/nt_4401   0   19      their   PRP$         (NP*        -    -   -    Acts         *         *         *    (ARG1*    (24)
+pt/nt/44/nt_4401   0   20    kingdom     NN       *))))))       -    -   -    Acts         *         *         *         *)     -
+pt/nt/44/nt_4401   0   21      again     RB     (ADVP*)))       -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   22          ?      .            *        -    -   -    Acts         *         *         *         *      -
+pt/nt/44/nt_4401   0   23         ''     ''           *))       -    -   -    Acts         *         *         *         *      -
+
+pt/nt/44/nt_4401   0    0        Jesus   NNP     (TOP(S(NP*)          -    -   -    Acts   (PERSON)   (ARG0*)       *           *        *    (21)
+pt/nt/44/nt_4401   0    1         said   VBD           (VP*          say  01   1    Acts         *       (V*)       *           *        *      -
+pt/nt/44/nt_4401   0    2           to    IN           (PP*           -    -   -    Acts         *    (ARG2*        *           *        *      -
+pt/nt/44/nt_4401   0    3         them   PRP          (NP*))          -    -   -    Acts         *         *)       *           *        *    (11)
+pt/nt/44/nt_4401   0    4            ,     ,              *           -    -   -    Acts         *         *        *           *        *      -
+pt/nt/44/nt_4401   0    5           ``    ``              *           -    -   -    Acts         *         *        *           *        *      -
+pt/nt/44/nt_4401   0    6          The    DT         (S(NP*           -    -   -    Acts         *         *   (ARG1*           *        *    (20
+pt/nt/44/nt_4401   0    7       Father    NN              *)      father   -   -    Acts         *         *        *)          *        *     20)
+pt/nt/44/nt_4401   0    8           is   VBZ           (VP*           be  01   1    Acts         *         *      (V*)          *        *      -
+pt/nt/44/nt_4401   0    9          the    DT        (NP(NP*           -    -   -    Acts         *         *   (ARG2*      (ARG0*        *      -
+pt/nt/44/nt_4401   0   10         only    JJ              *           -    -   -    Acts         *         *        *           *        *      -
+pt/nt/44/nt_4401   0   11          one    CD              *)          -    -   -    Acts         *         *        *           *)       *      -
+pt/nt/44/nt_4401   0   12          who    WP    (SBAR(WHNP*)          -    -   -    Acts         *         *        *    (R-ARG0*)       *      -
+pt/nt/44/nt_4401   0   13          has   VBZ         (S(VP*         have  03   2    Acts         *         *        *         (V*)       *      -
+pt/nt/44/nt_4401   0   14          the    DT           (NP*           -    -   -    Acts         *         *        *      (ARG1*        *      -
+pt/nt/44/nt_4401   0   15    authority    NN              *    authority   -   1    Acts         *         *        *           *        *      -
+pt/nt/44/nt_4401   0   16           to    TO         (S(VP*           -    -   -    Acts         *         *        *           *        *      -
+pt/nt/44/nt_4401   0   17       decide    VB           (VP*       decide  01   1    Acts         *         *        *           *      (V*)     -
+pt/nt/44/nt_4401   0   18        dates   NNS           (NP*         date   -   1    Acts         *         *        *           *   (ARG1*    (23
+pt/nt/44/nt_4401   0   19          and    CC              *           -    -   -    Acts         *         *        *           *        *      -
+pt/nt/44/nt_4401   0   20        times   NNS   *))))))))))))        time   -   1    Acts         *         *        *)          *)       *)    23)
+pt/nt/44/nt_4401   0   21            .     .             *))          -    -   -    Acts         *         *        *           *        *      -
+
+pt/nt/44/nt_4401   0   0    They   PRP   (TOP(S(NP*)     -    -   -    Acts  *        (ARG1*)        *    (23)
+pt/nt/44/nt_4401   0   1     are   VBP         (VP*      be  01   1    Acts  *           (V*)        *      -
+pt/nt/44/nt_4401   0   2     not    RB            *      -    -   -    Acts  *    (ARGM-NEG*)        *      -
+pt/nt/44/nt_4401   0   3     for    IN       (SBAR*      -    -   -    Acts  *             *         *      -
+pt/nt/44/nt_4401   0   4     you   PRP       (S(NP*)     -    -   -    Acts  *             *    (ARG0*)   (11)
+pt/nt/44/nt_4401   0   5      to    TO         (VP*      -    -   -    Acts  *             *         *      -
+pt/nt/44/nt_4401   0   6    know    VB     (VP*)))))   know  01   1    Acts  *             *       (V*)     -
+pt/nt/44/nt_4401   0   7       .     .           *))     -    -   -    Acts  *             *         *      -
+
+pt/nt/44/nt_4401   0    0       But    CC   (TOP(S*       -    -   -    Acts      *    (ARGM-DIS*)   (ARGM-DIS*)     -
+pt/nt/44/nt_4401   0    1       the    DT      (NP*       -    -   -    Acts  (ORG*        (ARG1*        (ARG0*     (5
+pt/nt/44/nt_4401   0    2      Holy   NNP         *       -    -   -    Acts      *             *             *      -
+pt/nt/44/nt_4401   0    3    Spirit   NNP         *)      -    -   -    Acts      *)            *)            *)     5)
+pt/nt/44/nt_4401   0    4      will    MD      (VP*       -    -   -    Acts      *    (ARGM-MOD*)   (ARGM-MOD*)     -
+pt/nt/44/nt_4401   0    5      come    VB   (VP(VP*     come  01   5    Acts      *           (V*)            *      -
+pt/nt/44/nt_4401   0    6        on    IN      (PP*       -    -   -    Acts      *        (ARG4*             *      -
+pt/nt/44/nt_4401   0    7       you   PRP    (NP*)))      -    -   -    Acts      *             *)            *    (11)
+pt/nt/44/nt_4401   0    8       and    CC         *       -    -   -    Acts      *             *             *      -
+pt/nt/44/nt_4401   0    9      give    VB      (VP*     give  01   2    Acts      *             *           (V*)     -
+pt/nt/44/nt_4401   0   10       you   PRP      (NP*)      -    -   -    Acts      *             *        (ARG2*)   (11)
+pt/nt/44/nt_4401   0   11     power    NN   (NP*))))   power   -   1    Acts      *             *        (ARG1*)     -
+pt/nt/44/nt_4401   0   12         .     .        *))      -    -   -    Acts      *             *             *      -
+
+pt/nt/44/nt_4401   0   0          You    PRP   (TOP(S(NP*)        -    -   -    Acts  *        (ARG1*)   (11)
+pt/nt/44/nt_4401   0   1         will     MD         (VP*         -    -   -    Acts  *    (ARGM-MOD*)     -
+pt/nt/44/nt_4401   0   2           be     VB         (VP*         be  01   1    Acts  *           (V*)     -
+pt/nt/44/nt_4401   0   3           my   PRP$         (NP*         -    -   -    Acts  *        (ARG2*    (21)
+pt/nt/44/nt_4401   0   4    witnesses    NNS          *)))   witness   -   -    Acts  *             *)     -
+pt/nt/44/nt_4401   0   5            .      .           *))        -    -   -    Acts  *             *      -
+
+pt/nt/44/nt_4401   0    0           You   PRP   (TOP(S(NP*)       -    -   -    Acts      *        (ARG0*)   (11)
+pt/nt/44/nt_4401   0    1          will    MD         (VP*        -    -   -    Acts      *    (ARGM-MOD*)     -
+pt/nt/44/nt_4401   0    2          tell    VB         (VP*      tell  01   1    Acts      *           (V*)     -
+pt/nt/44/nt_4401   0    3        people   NNS         (NP*)   people   -   1    Acts      *        (ARG2*)     -
+pt/nt/44/nt_4401   0    4    everywhere    RB    (PP(ADVP*)       -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0    5         about    IN            *        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0    6            me   PRP        (NP*))       -    -   -    Acts      *             *    (21)
+pt/nt/44/nt_4401   0    7           --      :            *        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0    8            in    IN         (PP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0    9     Jerusalem   NNP        (NP*))       -    -   -    Acts   (GPE)            *     (1)
+pt/nt/44/nt_4401   0   10             ,     ,            *        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   11            in    IN      (PP(PP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   12           the    DT      (NP(NP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   13          rest    NN            *)     rest   -   1    Acts      *             *      -
+pt/nt/44/nt_4401   0   14            of    IN         (PP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   15         Judea   NNP      (NP*))))       -    -   -    Acts   (GPE)            *      -
+pt/nt/44/nt_4401   0   16             ,     ,            *        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   17            in    IN         (PP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   18       Samaria   NNP        (NP*))       -    -   -    Acts   (GPE)            *      -
+pt/nt/44/nt_4401   0   19             ,     ,            *        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   20           and    CC            *        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   21            in    IN         (PP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   22         every    DT      (NP(NP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   23          part    NN            *)     part   -   1    Acts      *             *      -
+pt/nt/44/nt_4401   0   24            of    IN         (PP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   25           the    DT         (NP*        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   26         world    NN      *)))))))    world   -   1    Acts      *             *      -
+pt/nt/44/nt_4401   0   27             .     .            *        -    -   -    Acts      *             *      -
+pt/nt/44/nt_4401   0   28            ''    ''           *))       -    -   -    Acts      *             *      -
+
+pt/nt/44/nt_4401   0    0     After    IN  (TOP(S(SBAR*      -    -   -    Acts         *         *   (ARGM-TMP*      -
+pt/nt/44/nt_4401   0    1     Jesus   NNP        (S(NP*)     -    -   -    Acts   (PERSON)   (ARG0*)           *    (21)
+pt/nt/44/nt_4401   0    2      said   VBD          (VP*     say  01   1    Acts         *       (V*)           *      -
+pt/nt/44/nt_4401   0    3      this    DT       (NP*))))     -    -   -    Acts         *    (ARG1*)           *)     -
+pt/nt/44/nt_4401   0    4         ,     ,             *      -    -   -    Acts         *         *            *      -
+pt/nt/44/nt_4401   0    5        he   PRP          (NP*)     -    -   -    Acts         *         *       (ARG1*)   (21)
+pt/nt/44/nt_4401   0    6       was   VBD          (VP*      be   -   -    Acts         *         *            *      -
+pt/nt/44/nt_4401   0    7    lifted   VBN          (VP*    lift  02   1    Acts         *         *          (V*)     -
+pt/nt/44/nt_4401   0    8        up    RP         (PRT*)     -    -   -    Acts         *         *            *      -
+pt/nt/44/nt_4401   0    9      into    IN          (PP*      -    -   -    Acts         *         *       (ARG2*      -
+pt/nt/44/nt_4401   0   10       the    DT          (NP*      -    -   -    Acts         *         *            *     (9
+pt/nt/44/nt_4401   0   11       sky    NN          *))))    sky   -   1    Acts         *         *            *)     9)
+pt/nt/44/nt_4401   0   12         .     .            *))     -    -   -    Acts         *         *            *      -
+
+pt/nt/44/nt_4401   0    0       While    IN  (TOP(S(S(SBAR*       -    -   -    Acts  *         *   (ARGM-TMP*             *      -
+pt/nt/44/nt_4401   0    1        they   PRP          (S(NP*)      -    -   -    Acts  *    (ARG0*)           *             *    (11)
+pt/nt/44/nt_4401   0    2        were   VBD            (VP*       be   -   -    Acts  *         *            *             *      -
+pt/nt/44/nt_4401   0    3    watching   VBG         (VP*))))   watch  01   1    Acts  *       (V*)           *)            *      -
+pt/nt/44/nt_4401   0    4           ,     ,               *       -    -   -    Acts  *         *            *             *      -
+pt/nt/44/nt_4401   0    5          he   PRP            (NP*)      -    -   -    Acts  *         *       (ARG0*)            *    (21)
+pt/nt/44/nt_4401   0    6        went   VBD            (VP*       go  02   1    Acts  *         *          (V*)            *      -
+pt/nt/44/nt_4401   0    7        into    IN            (PP*       -    -   -    Acts  *         *       (ARG4*             *      -
+pt/nt/44/nt_4401   0    8           a    DT            (NP*       -    -   -    Acts  *         *            *             *      -
+pt/nt/44/nt_4401   0    9       cloud    NN            *))))   cloud   -   -    Acts  *         *            *)            *      -
+pt/nt/44/nt_4401   0   10           ,     ,               *       -    -   -    Acts  *         *            *             *      -
+pt/nt/44/nt_4401   0   11         and    CC               *       -    -   -    Acts  *         *            *             *      -
+pt/nt/44/nt_4401   0   12        they   PRP          (S(NP*)      -    -   -    Acts  *         *            *        (ARG0*)   (11)
+pt/nt/44/nt_4401   0   13       could    MD            (VP*       -    -   -    Acts  *         *            *    (ARGM-MOD*)     -
+pt/nt/44/nt_4401   0   14         not    RB               *       -    -   -    Acts  *         *            *    (ARGM-NEG*)     -
+pt/nt/44/nt_4401   0   15         see    VB            (VP*      see  01   1    Acts  *         *            *           (V*)     -
+pt/nt/44/nt_4401   0   16         him   PRP         (NP*))))      -    -   -    Acts  *         *            *        (ARG1*)   (21)
+pt/nt/44/nt_4401   0   17           .     .              *))      -    -   -    Acts  *         *            *             *      -
+
+pt/nt/44/nt_4401   0    0       They   PRP      (TOP(S(NP*)      -    -   -    Acts  *    (ARG0*)              *    (11)
+pt/nt/44/nt_4401   0    1       were   VBD            (VP*       be   -   -    Acts  *         *               *      -
+pt/nt/44/nt_4401   0    2    staring   VBG            (VP*    stare  01   1    Acts  *       (V*)              *      -
+pt/nt/44/nt_4401   0    3       into    IN            (PP*       -    -   -    Acts  *    (ARG1*               *      -
+pt/nt/44/nt_4401   0    4        the    DT         (NP(NP*       -    -   -    Acts  *         *      (ARGM-LOC*      -
+pt/nt/44/nt_4401   0    5        sky    NN               *)     sky   -   1    Acts  *         *               *)     -
+pt/nt/44/nt_4401   0    6      where   WRB   (SBAR(WHADVP*)      -    -   -    Acts  *         *    (R-ARGM-LOC*)     -
+pt/nt/44/nt_4401   0    7         he   PRP          (S(NP*)      -    -   -    Acts  *         *          (ARG0*)   (21)
+pt/nt/44/nt_4401   0    8        had   VBD            (VP*     have   -   -    Acts  *         *               *      -
+pt/nt/44/nt_4401   0    9       gone   VBN     (VP*))))))))      go  13   1    Acts  *         *)            (V*)     -
+pt/nt/44/nt_4401   0   10          .     .              *))      -    -   -    Acts  *         *               *      -
+
+pt/nt/44/nt_4401   0    0    Suddenly    RB   (TOP(S(ADVP*)       -    -   -    Acts           *        *    (ARGM-TMP*)     -
+pt/nt/44/nt_4401   0    1         two    CD        (NP(NP*        -    -   -    Acts   (CARDINAL)  (ARG0*        (ARG1*    (19
+pt/nt/44/nt_4401   0    2         men   NNS              *)      man   -   2    Acts           *        *)            *      -
+pt/nt/44/nt_4401   0    3     wearing   VBG           (VP*      wear  01   1    Acts           *      (V*)            *      -
+pt/nt/44/nt_4401   0    4       white    JJ           (NP*        -    -   -    Acts           *   (ARG1*             *      -
+pt/nt/44/nt_4401   0    5     clothes   NNS            *)))   clothe   -   -    Acts           *        *)            *)    19)
+pt/nt/44/nt_4401   0    6        were   VBD           (VP*        be   -   -    Acts           *        *             *      -
+pt/nt/44/nt_4401   0    7    standing   VBG           (VP*     stand  01   1    Acts           *        *           (V*)     -
+pt/nt/44/nt_4401   0    8      beside    IN           (PP*        -    -   -    Acts           *        *        (ARG2*      -
+pt/nt/44/nt_4401   0    9        them   PRP        (NP*))))       -    -   -    Acts           *        *             *)   (11)
+pt/nt/44/nt_4401   0   10           .     .             *))       -    -   -    Acts           *        *             *      -
+
+pt/nt/44/nt_4401   0    0        They    PRP      (TOP(S(NP*)      -    -   -    Acts      *    (ARG0*)            *             *    (19)
+pt/nt/44/nt_4401   0    1        said    VBD            (VP*      say  01   1    Acts      *       (V*)            *             *      -
+pt/nt/44/nt_4401   0    2           ,      ,               *       -    -   -    Acts      *         *             *             *      -
+pt/nt/44/nt_4401   0    3          ``     ``               *       -    -   -    Acts      *         *             *             *      -
+pt/nt/44/nt_4401   0    4         Men   NNPS   (SBARQ(NP(NP*)      -    -   -    Acts      *         *             *             *    (11
+pt/nt/44/nt_4401   0    5        from     IN            (PP*       -    -   -    Acts      *         *             *             *      -
+pt/nt/44/nt_4401   0    6     Galilee    NNP          (NP*)))      -    -   -    Acts   (GPE)        *             *             *     11)
+pt/nt/44/nt_4401   0    7           ,      ,               *       -    -   -    Acts      *         *             *             *      -
+pt/nt/44/nt_4401   0    8         why    WRB        (WHADVP*)      -    -   -    Acts      *         *    (ARGM-CAU*)            *      -
+pt/nt/44/nt_4401   0    9         are    VBP            (SQ*       be   -   1    Acts      *         *             *             *      -
+pt/nt/44/nt_4401   0   10         you    PRP            (NP*)      -    -   -    Acts      *         *        (ARG1*)       (ARG0*)   (11)
+pt/nt/44/nt_4401   0   11    standing    VBG            (VP*    stand  01   1    Acts      *         *           (V*)            *      -
+pt/nt/44/nt_4401   0   12        here     RB          (ADVP*)      -    -   -    Acts      *         *    (ARGM-LOC*)   (ARGM-LOC*)     -
+pt/nt/44/nt_4401   0   13     looking    VBG            (VP*     look  01   1    Acts      *         *             *           (V*)     -
+pt/nt/44/nt_4401   0   14        into     IN            (PP*       -    -   -    Acts      *         *             *        (ARG1*      -
+pt/nt/44/nt_4401   0   15         the     DT            (NP*       -    -   -    Acts      *         *             *             *     (9
+pt/nt/44/nt_4401   0   16         sky     NN         *)))))))     sky   -   1    Acts      *         *             *             *)     9)
+pt/nt/44/nt_4401   0   17           ?      .              *))      -    -   -    Acts      *         *             *             *      -
+
+pt/nt/44/nt_4401   0   0        You   PRP    (TOP(S(NP*)      -    -   -    Acts         *    (ARG0*)           *    (11)
+pt/nt/44/nt_4401   0   1        saw   VBD          (VP*      see  01   1    Acts         *       (V*)           *      -
+pt/nt/44/nt_4401   0   2      Jesus   NNP   (SBAR(S(NP*)      -    -   -    Acts   (PERSON)        *       (ARG0*)   (21)
+pt/nt/44/nt_4401   0   3    carried   VBD          (VP*    carry  01   1    Acts         *         *          (V*)     -
+pt/nt/44/nt_4401   0   4       away    RB        (ADVP*       -    -   -    Acts         *         *   (ARGM-DIR*      -
+pt/nt/44/nt_4401   0   5       from    IN          (PP*       -    -   -    Acts         *         *            *      -
+pt/nt/44/nt_4401   0   6        you   PRP        (NP*)))      -    -   -    Acts         *         *            *)   (11)
+pt/nt/44/nt_4401   0   7       into    IN          (PP*       -    -   -    Acts         *         *   (ARGM-DIR*      -
+pt/nt/44/nt_4401   0   8     heaven    NN     (NP*))))))      -    -   -    Acts         *         *            *)   (17)
+pt/nt/44/nt_4401   0   9          .     .            *))      -    -   -    Acts         *         *            *      -
+
+pt/nt/44/nt_4401   0    0      He   PRP      (TOP(S(NP*)     -    -   -    Acts  *        (ARG1*)        *         *    (21)
+pt/nt/44/nt_4401   0    1    will    MD            (VP*      -    -   -    Acts  *    (ARGM-MOD*)        *         *      -
+pt/nt/44/nt_4401   0    2    come    VB            (VP*    come  01   1    Acts  *           (V*)        *         *      -
+pt/nt/44/nt_4401   0    3    back    RB          (ADVP*      -    -   -    Acts  *             *         *         *      -
+pt/nt/44/nt_4401   0    4      in    IN            (PP*      -    -   -    Acts  *             *         *         *      -
+pt/nt/44/nt_4401   0    5     the    DT         (NP(NP*      -    -   -    Acts  *             *         *         *      -
+pt/nt/44/nt_4401   0    6    same    JJ               *      -    -   -    Acts  *             *         *         *      -
+pt/nt/44/nt_4401   0    7     way    NN               *)    way   -   2    Acts  *             *         *         *      -
+pt/nt/44/nt_4401   0    8     you   PRP     (SBAR(S(NP*)     -    -   -    Acts  *             *    (ARG0*)        *    (11)
+pt/nt/44/nt_4401   0    9     saw   VBD            (VP*     see  01   1    Acts  *             *       (V*)        *      -
+pt/nt/44/nt_4401   0   10     him   PRP          (S(NP*)     -    -   -    Acts  *             *    (ARG1*    (ARG1*)   (21)
+pt/nt/44/nt_4401   0   11      go    VB   (VP*))))))))))     go  02   2    Acts  *             *         *)      (V*)     -
+pt/nt/44/nt_4401   0   12       .     .               *      -    -   -    Acts  *             *         *         *      -
+pt/nt/44/nt_4401   0   13      ''    ''              *))     -    -   -    Acts  *             *         *         *      -
+
+pt/nt/44/nt_4401   0    0         Then    RB   (TOP(S(ADVP*)   -    -   -    Acts      *    (ARGM-TMP*)    -
+pt/nt/44/nt_4401   0    1          the    DT           (NP*    -    -   -    Acts      *        (ARG1*   (11
+pt/nt/44/nt_4401   0    2     apostles   NNS              *)   -    -   -    Acts      *             *)   11)
+pt/nt/44/nt_4401   0    3         went   VBD           (VP*    go  01   1    Acts      *           (V*)    -
+pt/nt/44/nt_4401   0    4         back    RB         (ADVP*    -    -   -    Acts      *             *     -
+pt/nt/44/nt_4401   0    5           to    IN           (PP*    -    -   -    Acts      *             *     -
+pt/nt/44/nt_4401   0    6    Jerusalem   NNP         (NP*)))   -    -   -    Acts   (GPE)            *    (1)
+pt/nt/44/nt_4401   0    7         from    IN           (PP*    -    -   -    Acts      *    (ARGM-DIR*     -
+pt/nt/44/nt_4401   0    8          the    DT        (NP(NP*    -    -   -    Acts  (LOC*             *    (3
+pt/nt/44/nt_4401   0    9        Mount   NNP              *)   -    -   -    Acts      *             *     -
+pt/nt/44/nt_4401   0   10           of    IN           (PP*    -    -   -    Acts      *             *     -
+pt/nt/44/nt_4401   0   11       Olives   NNP       (NP*)))))   -    -   -    Acts      *)            *)    3)
+pt/nt/44/nt_4401   0   12            .     .             *))   -    -   -    Acts      *             *     -
+
+pt/nt/44/nt_4401   0   0         This    DT  (TOP(S(NP*    -    -   -    Acts           *   (ARG1*    (3
+pt/nt/44/nt_4401   0   1     mountain    NN           *)   -    -   -    Acts           *        *)    3)
+pt/nt/44/nt_4401   0   2           is   VBZ        (VP*    be  01   1    Acts           *      (V*)    -
+pt/nt/44/nt_4401   0   3        about    IN        (PP*    -    -   -    Acts  (QUANTITY*   (ARG2*     -
+pt/nt/44/nt_4401   0   4            a    DT     (NP(NP*    -    -   -    Acts           *        *     -
+pt/nt/44/nt_4401   0   5         half    JJ           *    -    -   -    Acts           *        *     -
+pt/nt/44/nt_4401   0   6         mile    NN           *)   -    -   -    Acts           *)       *     -
+pt/nt/44/nt_4401   0   7         from    IN        (PP*    -    -   -    Acts           *        *     -
+pt/nt/44/nt_4401   0   8    Jerusalem   NNP    (NP*)))))   -    -   -    Acts        (GPE)       *)   (1)
+pt/nt/44/nt_4401   0   9            .     .          *))   -    -   -    Acts           *        *     -
+
+pt/nt/44/nt_4401   0    0        When   WRB   (TOP(S(SBAR(WHADVP*)      -    -   -    Acts  *    (ARGM-TMP*)   (ARGM-TMP*             *      -
+pt/nt/44/nt_4401   0    1        they   PRP                (S(NP*)      -    -   -    Acts  *        (ARG0*)            *             *    (11)
+pt/nt/44/nt_4401   0    2     entered   VBD                  (VP*    enter  01   1    Acts  *           (V*)            *             *      -
+pt/nt/44/nt_4401   0    3         the    DT                  (NP*       -    -   -    Acts  *        (ARG1*             *             *     (1
+pt/nt/44/nt_4401   0    4        city    NN                  *))))    city   -   1    Acts  *             *)            *)            *      1)
+pt/nt/44/nt_4401   0    5           ,     ,                     *       -    -   -    Acts  *             *    (ARGM-MOD*)            *      -
+pt/nt/44/nt_4401   0    6        they   PRP                  (NP*)      -    -   -    Acts  *             *        (ARG0*)            *    (11)
+pt/nt/44/nt_4401   0    7        went   VBD                  (VP*       go  02   1    Acts  *             *           (V*)            *      -
+pt/nt/44/nt_4401   0    8          to    IN                  (PP*       -    -   -    Acts  *             *        (ARG4*             *      -
+pt/nt/44/nt_4401   0    9         the    DT               (NP(NP*       -    -   -    Acts  *             *             *             *      -
+pt/nt/44/nt_4401   0   10    upstairs    NN                     *       -    -   -    Acts  *             *             *             *      -
+pt/nt/44/nt_4401   0   11        room    NN                     *)    room   -   1    Acts  *             *             *             *      -
+pt/nt/44/nt_4401   0   12       where   WRB         (SBAR(WHADVP*)      -    -   -    Acts  *             *             *    (ARGM-LOC*)     -
+pt/nt/44/nt_4401   0   13        they   PRP                (S(NP*)      -    -   -    Acts  *             *             *        (ARG1*)   (11)
+pt/nt/44/nt_4401   0   14        were   VBD                  (VP*       be   -   -    Acts  *             *             *             *      -
+pt/nt/44/nt_4401   0   15     staying   VBG            (VP*)))))))    stay  01   1    Acts  *             *             *)          (V*)     -
+pt/nt/44/nt_4401   0   16           .     .                    *))      -    -   -    Acts  *             *             *             *      -
+
+pt/nt/44/nt_4401   0    0          These      DT     (TOP(S(NP*)    -    -   -    Acts         *    (ARG1*)          *    (11)
+pt/nt/44/nt_4401   0    1            are     VBP           (VP*     be  01   1    Acts         *       (V*)          *      -
+pt/nt/44/nt_4401   0    2            the      DT  (NP(NP(NP(NP*     -    -   -    Acts         *    (ARG2*      (ARG1*      -
+pt/nt/44/nt_4401   0    3           ones     NNS              *)   one   -   2    Acts         *         *           *)     -
+pt/nt/44/nt_4401   0    4            who      WP    (SBAR(WHNP*)    -    -   -    Acts         *         *    (R-ARG1*)     -
+pt/nt/44/nt_4401   0    5           were     VBD         (S(VP*     be  01   4    Acts         *         *         (V*)     -
+pt/nt/44/nt_4401   0    6          there      RB     (ADVP*)))))    -    -   -    Acts         *         *      (ARG2*)     -
+pt/nt/44/nt_4401   0    7              :       :              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0    8          Peter     NNP        (NP(NP*     -    -   -    Acts   (PERSON)        *           *     (0)
+pt/nt/44/nt_4401   0    9              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   10           John     NNP              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   11              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   12          James     NNP              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   13              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   14         Andrew     NNP              *     -    -   -    Acts   (PERSON)        *           *      -
+pt/nt/44/nt_4401   0   15              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   16         Philip     NNP              *     -    -   -    Acts   (PERSON)        *           *      -
+pt/nt/44/nt_4401   0   17              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   18         Thomas     NNP              *)    -    -   -    Acts   (PERSON)        *           *      -
+pt/nt/44/nt_4401   0   19              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   20    Bartholomew     NNP           (NP*)    -    -   -    Acts   (PERSON)        *           *      -
+pt/nt/44/nt_4401   0   21              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   22        Matthew     NNP           (NP*)    -    -   -    Acts   (PERSON)        *           *      -
+pt/nt/44/nt_4401   0   23              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   24          James     NNP           (NP*     -    -   -    Acts   (PERSON)        *           *      -
+pt/nt/44/nt_4401   0   25         -LRB-   -LRB-           (PRN*     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   26            the      DT        (NP(NP*     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   27            son      NN              *)    -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   28             of      IN           (PP*     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   29       Alphaeus     NNP         (NP*)))    -    -   -    Acts      (ORG)        *           *      -
+pt/nt/44/nt_4401   0   30         -RRB-   -RRB-              *))    -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   31              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   32          Simon     NNP           (NP*)    -    -   -    Acts   (PERSON)        *           *      -
+pt/nt/44/nt_4401   0   33              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   34            the      DT           (NP*     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   35         Zealot     NNP              *)    -    -   -    Acts      (ORG)        *           *      -
+pt/nt/44/nt_4401   0   36              ,       ,              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   37            and      CC              *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   38          Judas     NNP         (NP*)))    -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   39         -LRB-   -LRB-               *     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   40            the      DT        (NP(NP*     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   41            son      NN              *)    -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   42             of      IN           (PP*     -    -   -    Acts         *         *           *      -
+pt/nt/44/nt_4401   0   43          James     NNP         (NP*)))    -    -   -    Acts      (ORG)        *           *      -
+pt/nt/44/nt_4401   0   44         -RRB-   -RRB-              *))    -    -   -    Acts         *         *)          *      -
+pt/nt/44/nt_4401   0   45              .       .             *))    -    -   -    Acts         *         *           *      -
+
+pt/nt/44/nt_4401   0   0         The    DT  (TOP(S(NP*    -    -   -    Acts  *    (ARG1*   (11
+pt/nt/44/nt_4401   0   1    apostles   NNS           *)   -    -   -    Acts  *         *)   11)
+pt/nt/44/nt_4401   0   2        were   VBD        (VP*    be  01   1    Acts  *       (V*)    -
+pt/nt/44/nt_4401   0   3         all    DT           *    -    -   -    Acts  *         *     -
+pt/nt/44/nt_4401   0   4    together    RB     (ADVP*))   -    -   -    Acts  *    (ARG2*)    -
+pt/nt/44/nt_4401   0   5           .     .          *))   -    -   -    Acts  *         *     -
+
+pt/nt/44/nt_4401   0   0          They   PRP   (TOP(S(NP*)        -   -   -    Acts  *    (11)
+pt/nt/44/nt_4401   0   1          were   VBD         (VP*         be  -   -    Acts  *      -
+pt/nt/44/nt_4401   0   2    constantly    RB       (ADVP*)        -   -   -    Acts  *      -
+pt/nt/44/nt_4401   0   3       praying   VBG         (VP*       pray  -   1    Acts  *      -
+pt/nt/44/nt_4401   0   4          with    IN         (PP*         -   -   -    Acts  *      -
+pt/nt/44/nt_4401   0   5           the    DT         (NP*         -   -   -    Acts  *      -
+pt/nt/44/nt_4401   0   6          same    JJ            *         -   -   -    Acts  *      -
+pt/nt/44/nt_4401   0   7       purpose    NN         *))))   purpose  -   2    Acts  *      -
+pt/nt/44/nt_4401   0   8             .     .           *))        -   -   -    Acts  *      -
+
+pt/nt/44/nt_4401   0    0        Some     DT  (TOP(S(NP*        -    -   -    Acts         *            *      -
+pt/nt/44/nt_4401   0    1       women    NNS           *)    woman   -   1    Acts         *            *      -
+pt/nt/44/nt_4401   0    2           ,      ,           *        -    -   -    Acts         *            *      -
+pt/nt/44/nt_4401   0    3        Mary    NNP     (NP(NP*)       -    -   -    Acts   (PERSON)      (ARG1*      -
+pt/nt/44/nt_4401   0    4         the     DT  (NP(NP(NP*        -    -   -    Acts         *            *      -
+pt/nt/44/nt_4401   0    5      mother     NN           *)   mother   -   -    Acts         *            *      -
+pt/nt/44/nt_4401   0    6          of     IN        (PP*        -    -   -    Acts         *            *      -
+pt/nt/44/nt_4401   0    7       Jesus    NNP      (NP*)))       -    -   -    Acts      (GPE)           *    (21)
+pt/nt/44/nt_4401   0    8           ,      ,           *        -    -   -    Acts         *            *      -
+pt/nt/44/nt_4401   0    9         and     CC           *        -    -   -    Acts         *            *      -
+pt/nt/44/nt_4401   0   10         his   PRP$        (NP*        -    -   -    Acts         *            *    (21)
+pt/nt/44/nt_4401   0   11    brothers    NNS         *)))       -    -   -    Acts         *            *)     -
+pt/nt/44/nt_4401   0   12        were    VBD        (VP*        be  01   4    Acts         *          (V*)     -
+pt/nt/44/nt_4401   0   13       there     RB      (ADVP*)       -    -   -    Acts         *       (ARG2*)     -
+pt/nt/44/nt_4401   0   14        with     IN        (PP*        -    -   -    Acts         *   (ARGM-ADV*      -
+pt/nt/44/nt_4401   0   15         the     DT        (NP*        -    -   -    Acts         *            *    (11
+pt/nt/44/nt_4401   0   16    apostles    NNS         *)))       -    -   -    Acts         *            *)    11)
+pt/nt/44/nt_4401   0   17           .      .          *))       -    -   -    Acts         *            *      -
+
+pt/nt/44/nt_4401   0    0        After    IN  (TOP(S(PP*         -   -   -    Acts       *     -
+pt/nt/44/nt_4401   0    1            a    DT     (NP(QP*         -   -   -    Acts  (DATE*     -
+pt/nt/44/nt_4401   0    2          few    JJ           *)        -   -   -    Acts       *     -
+pt/nt/44/nt_4401   0    3         days   NNS          *))       day  -   4    Acts       *)    -
+pt/nt/44/nt_4401   0    4        there    EX        (NP*)        -   -   -    Acts       *     -
+pt/nt/44/nt_4401   0    5          was   VBD        (VP*         be  -   3    Acts       *     -
+pt/nt/44/nt_4401   0    6            a    DT     (NP(NP*         -   -   -    Acts       *     -
+pt/nt/44/nt_4401   0    7      meeting    NN           *)   meeting  -   1    Acts       *     -
+pt/nt/44/nt_4401   0    8           of    IN        (PP*         -   -   -    Acts       *     -
+pt/nt/44/nt_4401   0    9          the    DT        (NP*         -   -   -    Acts       *   (25
+pt/nt/44/nt_4401   0   10    believers    NN        *))))        -   -   -    Acts       *    25)
+pt/nt/44/nt_4401   0   11            .     .          *))        -   -   -    Acts       *     -
+
+pt/nt/44/nt_4401   0   0    There    EX   (TOP(S(NP*)   -    -   -    Acts           *        *          -
+pt/nt/44/nt_4401   0   1     were   VBD         (VP*    be  02   3    Acts           *      (V*)         -
+pt/nt/44/nt_4401   0   2    about    RB   (NP(NP(QP*    -    -   -    Acts  (CARDINAL*   (ARG1*        (25
+pt/nt/44/nt_4401   0   3     120     CD           *))   -    -   -    Acts           *)       *          -
+pt/nt/44/nt_4401   0   4       of    IN         (PP*    -    -   -    Acts           *        *          -
+pt/nt/44/nt_4401   0   5     them   PRP      (NP*))))   -    -   -    Acts           *        *)   (25)|25)
+pt/nt/44/nt_4401   0   6        .     .           *))   -    -   -    Acts           *        *          -
+
+pt/nt/44/nt_4401   0    0         Peter    NNP   (TOP(S(S(NP*)          -    -   -    Acts   (PERSON)   (ARG1*)   (ARG0*)           *             *    (0)
+pt/nt/44/nt_4401   0    1         stood    VBD        (VP(VP*        stand  07   1    Acts         *       (V*)        *            *             *     -
+pt/nt/44/nt_4401   0    2            up     RP         (PRT*))          -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0    3           and     CC              *           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0    4          said    VBD           (VP*          say  01   1    Acts         *         *       (V*)           *             *     -
+pt/nt/44/nt_4401   0    5             ,      ,              *           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0    6            ``     ``              *           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0    7      Brothers   NNPS         (S(NP*           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0    8           and     CC              *           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0    9       sisters    NNS          *)))))          -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0   10             ,      ,              *           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0   11            in     IN         (S(PP*           -    -   -    Acts         *         *         *   (ARGM-LOC*             *     -
+pt/nt/44/nt_4401   0   12           the     DT           (NP*           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0   13    Scriptures    NNS             *))          -    -   -    Acts      (ORG)        *         *            *)            *     -
+pt/nt/44/nt_4401   0   14           the     DT           (NP*           -    -   -    Acts     (ORG*         *         *       (ARG0*             *    (5
+pt/nt/44/nt_4401   0   15          Holy    NNP              *           -    -   -    Acts         *         *         *            *             *     -
+pt/nt/44/nt_4401   0   16        Spirit    NNP              *)          -    -   -    Acts         *)        *         *            *)            *     5)
+pt/nt/44/nt_4401   0   17          said    VBD           (VP*          say  01   1    Acts         *         *         *          (V*)            *     -
+pt/nt/44/nt_4401   0   18       through     IN           (PP*           -    -   -    Acts         *         *         *   (ARGM-MNR*             *     -
+pt/nt/44/nt_4401   0   19         David    NNP          (NP*))          -    -   -    Acts         *         *         *            *)            *    (6)
+pt/nt/44/nt_4401   0   20          that     IN         (SBAR*           -    -   -    Acts         *         *         *       (ARG1*             *     -
+pt/nt/44/nt_4401   0   21     something     NN         (S(NP*)   something   -   4    Acts         *         *         *            *        (ARG1*)    -
+pt/nt/44/nt_4401   0   22          must     MD           (VP*           -    -   -    Acts         *         *         *            *    (ARGM-MOD*)    -
+pt/nt/44/nt_4401   0   23        happen     VB      (VP*))))))      happen  01   1    Acts         *         *         *            *)          (V*)    -
+pt/nt/44/nt_4401   0   24             .      .             *))          -    -   -    Acts         *         *         *            *             *     -
+
+pt/nt/44/nt_4401   0    0         He    PRP   (TOP(S(NP*)      -    -   -    Acts  *    (ARG0*)       (6)
+pt/nt/44/nt_4401   0    1        was    VBD         (VP*       be   -   -    Acts  *         *         -
+pt/nt/44/nt_4401   0    2    talking    VBG         (VP*     talk  01   1    Acts  *       (V*)        -
+pt/nt/44/nt_4401   0    3      about     IN         (PP*       -    -   -    Acts  *    (ARG1*         -
+pt/nt/44/nt_4401   0    4      Judas    NNP      (NP(NP*)      -    -   -    Acts  *         *       (14
+pt/nt/44/nt_4401   0    5          ,      ,            *       -    -   -    Acts  *         *         -
+pt/nt/44/nt_4401   0    6        one     CD      (NP(NP*)      -    -   -    Acts  *         *         -
+pt/nt/44/nt_4401   0    7         of     IN         (PP*       -    -   -    Acts  *         *         -
+pt/nt/44/nt_4401   0    8        our   PRP$         (NP*       -    -   -    Acts  *         *    (4|(25)
+pt/nt/44/nt_4401   0    9        own     JJ            *       -    -   -    Acts  *         *         -
+pt/nt/44/nt_4401   0   10      group     NN      *)))))))   group   -   1    Acts  *         *)    14)|4)
+pt/nt/44/nt_4401   0   11          .      .           *))      -    -   -    Acts  *         *         -
+
+pt/nt/44/nt_4401   0   0       Judas   NNP   (TOP(S(NP*)      -    -   -    Acts   (PERSON)       (ARG0*)   (14)
+pt/nt/44/nt_4401   0   1      served   VBD         (VP*    serve  01   1    Acts         *           (V*)     -
+pt/nt/44/nt_4401   0   2    together    RB       (ADVP*)      -    -   -    Acts         *    (ARGM-MNR*)     -
+pt/nt/44/nt_4401   0   3        with    IN         (PP*       -    -   -    Acts         *    (ARGM-MNR*      -
+pt/nt/44/nt_4401   0   4          us   PRP       (NP*)))      -    -   -    Acts         *             *)   (25)
+pt/nt/44/nt_4401   0   5           .     .           *))      -    -   -    Acts         *             *      -
+
+pt/nt/44/nt_4401   0    0       The    DT     (TOP(S(NP*        -    -   -    Acts         *   (ARG0*             *         *     (5
+pt/nt/44/nt_4401   0    1    Spirit   NNP              *)       -    -   -    Acts      (ORG)       *)            *         *      5)
+pt/nt/44/nt_4401   0    2      said   VBD           (VP*       say  01   1    Acts         *      (V*)            *         *      -
+pt/nt/44/nt_4401   0    3      that    IN         (SBAR*        -    -   -    Acts         *   (ARG1*             *         *      -
+pt/nt/44/nt_4401   0    4     Judas   NNP         (S(NP*)       -    -   -    Acts         *        *        (ARG0*)        *    (14)
+pt/nt/44/nt_4401   0    5     would    MD           (VP*        -    -   -    Acts         *        *    (ARGM-MOD*)        *      -
+pt/nt/44/nt_4401   0    6      lead    VB           (VP*      lead  03   1    Acts         *        *           (V*)        *    (26)
+pt/nt/44/nt_4401   0    7       men   NNS           (NP*)      man   -   2    Acts         *        *        (ARG1*)   (ARG0*)     -
+pt/nt/44/nt_4401   0    8        to    TO         (S(VP*        -    -   -    Acts         *        *        (ARG2*         *      -
+pt/nt/44/nt_4401   0    9    arrest    VB           (VP*    arrest  01   1    Acts         *        *             *       (V*)     -
+pt/nt/44/nt_4401   0   10     Jesus   NNP   (NP*)))))))))       -    -   -    Acts   (PERSON)       *)            *)   (ARG1*)   (21)
+pt/nt/44/nt_4401   0   11         .     .              *        -    -   -    Acts         *        *             *         *      -
+pt/nt/44/nt_4401   0   12        ''    ''             *))       -    -   -    Acts         *        *             *         *      -
+
+pt/nt/44/nt_4401   0   0   -LRB-   -LRB-       (TOP(S*       -    -   -    Acts  *         *         *      -
+pt/nt/44/nt_4401   0   1    Judas     NNP         (NP*)      -    -   -    Acts  *    (ARG0*)        *    (14)
+pt/nt/44/nt_4401   0   2      was     VBD         (VP*       be   -   -    Acts  *         *         *      -
+pt/nt/44/nt_4401   0   3     paid     VBN         (VP*      pay  01   1    Acts  *       (V*)        *      -
+pt/nt/44/nt_4401   0   4    money      NN      (NP(NP*)   money   -   2    Acts  *         *         *    (22)
+pt/nt/44/nt_4401   0   5      for      IN         (PP*       -    -   -    Acts  *         *         *      -
+pt/nt/44/nt_4401   0   6    doing     VBG       (S(VP*       do  02   1    Acts  *         *       (V*)     -
+pt/nt/44/nt_4401   0   7     this      DT   (NP*)))))))      -    -   -    Acts  *         *    (ARG1*)   (26)
+pt/nt/44/nt_4401   0   8        .       .           *))      -    -   -    Acts  *         *         *      -
+
+pt/nt/44/nt_4401   0   0      His   PRP$  (TOP(S(NP*       -    -   -    Acts  *    (ARG0*    (22|(14)
+pt/nt/44/nt_4401   0   1    money     NN           *)   money   -   2    Acts  *         *)        22)
+pt/nt/44/nt_4401   0   2      was    VBD        (VP*       be   -   -    Acts  *         *          -
+pt/nt/44/nt_4401   0   3     used    VBN        (VP*      use   -   1    Acts  *         *          -
+pt/nt/44/nt_4401   0   4       to     TO      (S(VP*       -    -   -    Acts  *         *          -
+pt/nt/44/nt_4401   0   5      buy     VB        (VP*      buy  01   1    Acts  *       (V*)         -
+pt/nt/44/nt_4401   0   6      him    PRP        (NP*)      -    -   -    Acts  *    (ARG4*)       (14)
+pt/nt/44/nt_4401   0   7        a     DT        (NP*       -    -   -    Acts  *    (ARG1*         (2
+pt/nt/44/nt_4401   0   8    field     NN      *))))))   field   -   3    Acts  *         *)         2)
+pt/nt/44/nt_4401   0   9        .      .          *))      -    -   -    Acts  *         *          -
+
+pt/nt/44/nt_4401   0    0           But     CC   (TOP(S*       -    -   -    Acts  *    (ARGM-DIS*)       *        *      -
+pt/nt/44/nt_4401   0    1            he    PRP    (S(NP*)      -    -   -    Acts  *        (ARG1*)       *        *    (14)
+pt/nt/44/nt_4401   0    2          fell    VBD      (VP*     fall  01   2    Acts  *           (V*)       *        *      -
+pt/nt/44/nt_4401   0    3            on     IN      (PP*       -    -   -    Acts  *        (ARG2*        *        *      -
+pt/nt/44/nt_4401   0    4           his   PRP$      (NP*       -    -   -    Acts  *             *        *        *    (14)
+pt/nt/44/nt_4401   0    5          head     NN      *))))    head   -   1    Acts  *             *)       *        *      -
+pt/nt/44/nt_4401   0    6             ,      ,         *       -    -   -    Acts  *             *        *        *      -
+pt/nt/44/nt_4401   0    7           his   PRP$    (S(NP*       -    -   -    Acts  *             *   (ARG1*        *    (14)
+pt/nt/44/nt_4401   0    8          body     NN         *)    body   -   2    Acts  *             *        *)       *      -
+pt/nt/44/nt_4401   0    9         broke    VBD      (VP*    break  01   1    Acts  *             *      (V*)       *      -
+pt/nt/44/nt_4401   0   10          open     RP   (PRT*)))      -    -   -    Acts  *             *        *        *      -
+pt/nt/44/nt_4401   0   11             ,      ,         *       -    -   -    Acts  *             *        *        *      -
+pt/nt/44/nt_4401   0   12           and     CC         *       -    -   -    Acts  *             *        *        *      -
+pt/nt/44/nt_4401   0   13           all    PDT    (S(NP*       -    -   -    Acts  *             *        *   (ARG1*      -
+pt/nt/44/nt_4401   0   14           his   PRP$         *       -    -   -    Acts  *             *        *        *    (14)
+pt/nt/44/nt_4401   0   15    intestines    NNS         *)      -    -   -    Acts  *             *        *        *)     -
+pt/nt/44/nt_4401   0   16        poured    VBD      (VP*     pour  01   2    Acts  *             *        *      (V*)     -
+pt/nt/44/nt_4401   0   17           out     RP   (PRT*)))      -    -   -    Acts  *             *        *        *      -
+pt/nt/44/nt_4401   0   18             .      .        *))      -    -   -    Acts  *             *        *        *      -
+
+pt/nt/44/nt_4401   0   0          And    CC  (TOP(S*        -    -   -    Acts      *    (ARGM-DIS*)        -
+pt/nt/44/nt_4401   0   1          all   PDT  (NP(NP*        -    -   -    Acts      *        (ARG0*       (18
+pt/nt/44/nt_4401   0   2          the    DT        *        -    -   -    Acts      *             *         -
+pt/nt/44/nt_4401   0   3       people   NNS        *)   people   -   1    Acts      *             *         -
+pt/nt/44/nt_4401   0   4           of    IN     (PP*        -    -   -    Acts      *             *         -
+pt/nt/44/nt_4401   0   5    Jerusalem   NNP   (NP*)))       -    -   -    Acts   (GPE)            *)   (1)|18)
+pt/nt/44/nt_4401   0   6      learned   VBD     (VP*     learn  01   2    Acts      *           (V*)        -
+pt/nt/44/nt_4401   0   7        about    IN     (PP*        -    -   -    Acts      *        (ARG1*         -
+pt/nt/44/nt_4401   0   8         this    DT   (NP*)))       -    -   -    Acts      *             *)        -
+pt/nt/44/nt_4401   0   9            .     .       *))       -    -   -    Acts      *             *         -
+
+pt/nt/44/nt_4401   0    0        That      DT      (TOP(S(NP*)      -    -   -    Acts  *    (ARG1*)            *            *      -
+pt/nt/44/nt_4401   0    1          is     VBZ            (VP*       be  01   2    Acts  *       (V*)            *            *      -
+pt/nt/44/nt_4401   0    2         why     WRB   (SBAR(WHADVP*)      -    -   -    Acts  *    (ARG2*    (ARGM-CAU*)           *      -
+pt/nt/44/nt_4401   0    3        they     PRP          (S(NP*)      -    -   -    Acts  *         *        (ARG0*)           *    (18)
+pt/nt/44/nt_4401   0    4       named     VBD            (VP*     name  01   3    Acts  *         *           (V*)           *      -
+pt/nt/44/nt_4401   0    5        that      DT            (NP*       -    -   -    Acts  *         *        (ARG1*            *     (2
+pt/nt/44/nt_4401   0    6       field      NN               *)   field   -   1    Acts  *         *             *)           *      2)
+pt/nt/44/nt_4401   0    7    Akeldama     NNP            (NP*)      -    -   -    Acts  *         *             *            *      -
+pt/nt/44/nt_4401   0    8           ,       ,               *       -    -   -    Acts  *         *             *            *      -
+pt/nt/44/nt_4401   0    9       which     WDT     (SBAR(WHNP*)      -    -   -    Acts  *         *             *       (ARG0*)     -
+pt/nt/44/nt_4401   0   10          in      IN          (S(PP*       -    -   -    Acts  *         *             *   (ARGM-MNR*      -
+pt/nt/44/nt_4401   0   11       their    PRP$            (NP*       -    -   -    Acts  *         *             *            *    (18)
+pt/nt/44/nt_4401   0   12    language      NN              *))      -    -   -    Acts  *         *             *            *)     -
+pt/nt/44/nt_4401   0   13       means     VBZ            (VP*     mean  01   4    Acts  *         *             *          (V*)     -
+pt/nt/44/nt_4401   0   14          ``      ``               *       -    -   -    Acts  *         *             *            *      -
+pt/nt/44/nt_4401   0   15       field      NN         (NP(NP*)   field   -   3    Acts  *         *             *       (ARG1*      -
+pt/nt/44/nt_4401   0   16          of      IN            (PP*       -    -   -    Acts  *         *             *            *      -
+pt/nt/44/nt_4401   0   17       blood      NN   (NP*))))))))))   blood   -   -    Acts  *         *)            *            *)     -
+pt/nt/44/nt_4401   0   18           .       .               *       -    -   -    Acts  *         *             *            *      -
+pt/nt/44/nt_4401   0   19          ''      ''               *       -    -   -    Acts  *         *             *            *      -
+pt/nt/44/nt_4401   0   20      -RRB-   -RRB-               *))      -    -   -    Acts  *         *             *            *      -
+
+pt/nt/44/nt_4401   0    0      Peter    NNP    (TOP(S(NP*)       -    -    -    Acts        (PERSON)   (ARG0*)           *             *             *        (0)
+pt/nt/44/nt_4401   0    1       said    VBD          (VP*       say  01    1    Acts              *       (V*)           *             *             *         -
+pt/nt/44/nt_4401   0    2          ,      ,             *        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0    3         ``     ``             *        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0    4         In     IN      (S(S(PP*        -    -    -    Acts  (WORK_OF_ART*         *   (ARGM-LOC*             *             *         -
+pt/nt/44/nt_4401   0    5        the     DT       (NP(NP*        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0    6       book     NN             *)     book   -    1    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0    7         of     IN          (PP*        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0    8     Psalms    NNP       (NP*))))       -    -    -    Acts              *)        *            *)            *             *         -
+pt/nt/44/nt_4401   0    9          ,      ,             *        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0   10       this     DT          (NP*)       -    -    -    Acts              *         *       (ARG1*)            *             *         -
+pt/nt/44/nt_4401   0   11         is    VBZ          (VP*        be   -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0   12    written    VBN          (VP*     write  01    1    Acts              *         *          (V*)            *             *         -
+pt/nt/44/nt_4401   0   13      about     IN          (PP*        -    -    -    Acts              *         *   (ARGM-ADV*             *             *         -
+pt/nt/44/nt_4401   0   14      Judas    NNP      (NP*)))))       -    -    -    Acts              *         *            *)            *             *       (14)
+pt/nt/44/nt_4401   0   15          :      :             *        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0   16          '     ``             *        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0   17     People    NNS        (S(NP*)   people   -    1    Acts              *         *            *        (ARG0*)            *         -
+pt/nt/44/nt_4401   0   18     should     MD          (VP*        -    -    -    Acts              *         *            *    (ARGM-MOD*)            *         -
+pt/nt/44/nt_4401   0   19        not     RB             *        -    -    -    Acts              *         *            *    (ARGM-NEG*)            *         -
+pt/nt/44/nt_4401   0   20         go     VB          (VP*        go  02   14    Acts              *         *            *           (V*)            *         -
+pt/nt/44/nt_4401   0   21       near     IN          (PP*        -    -    -    Acts              *         *            *    (ARGM-LOC*             *         -
+pt/nt/44/nt_4401   0   22        his   PRP$          (NP*        -    -    -    Acts              *         *            *             *             *    (2|(14)
+pt/nt/44/nt_4401   0   23       land     NN         *)))))     land   -    1    Acts              *         *            *             *)            *         2)
+pt/nt/44/nt_4401   0   24          ;      :             *        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0   25         no     DT        (S(NP*        -    -    -    Acts              *         *            *             *        (ARG0*         -
+pt/nt/44/nt_4401   0   26        one     NN             *)      one   -    2    Acts              *         *            *             *             *)        -
+pt/nt/44/nt_4401   0   27     should     MD          (VP*        -    -    -    Acts              *         *            *             *    (ARGM-MOD*)        -
+pt/nt/44/nt_4401   0   28       live     VB          (VP*      live  01    2    Acts              *         *            *             *           (V*)        -
+pt/nt/44/nt_4401   0   29      there     RB   (ADVP*))))))       -    -    -    Acts              *         *            *             *    (ARGM-LOC*)        -
+pt/nt/44/nt_4401   0   30          .      .             *        -    -    -    Acts              *         *            *             *             *         -
+pt/nt/44/nt_4401   0   31          '     ''            *))       -    -    -    Acts              *         *            *             *             *         -
+
+pt/nt/44/nt_4401   0    0        And     CC   (TOP(S*       -    -   -    Acts  *    (ARGM-DIS*)   (ARGM-DIS*)       *         -
+pt/nt/44/nt_4401   0    1         it    PRP      (NP*)      -    -   -    Acts  *             *        (ARG0*)       *         -
+pt/nt/44/nt_4401   0    2         is    VBZ      (VP*       be  01   -    Acts  *           (V*)            *        *         -
+pt/nt/44/nt_4401   0    3       also     RB    (ADVP*)      -    -   -    Acts  *             *    (ARGM-DIS*)       *         -
+pt/nt/44/nt_4401   0    4    written    VBN      (VP*    write  01   1    Acts  *             *           (V*)       *         -
+pt/nt/44/nt_4401   0    5          :      :         *       -    -   -    Acts  *             *             *        *         -
+pt/nt/44/nt_4401   0    6          '     ``         *       -    -   -    Acts  *             *             *        *         -
+pt/nt/44/nt_4401   0    7        Let     VB    (S(VP*      let   -   1    Acts  *             *             *        *         -
+pt/nt/44/nt_4401   0    8    another     DT    (S(NP*       -    -   -    Acts  *             *             *   (ARG0*         -
+pt/nt/44/nt_4401   0    9        man     NN         *)     man   -   2    Acts  *             *             *        *)        -
+pt/nt/44/nt_4401   0   10       have     VB      (VP*     have  03   2    Acts  *             *             *      (V*)        -
+pt/nt/44/nt_4401   0   11        his   PRP$      (NP*       -    -   -    Acts  *             *             *   (ARG1*    (8|(14)
+pt/nt/44/nt_4401   0   12       work     NN   *)))))))    work   -   2    Acts  *             *             *        *)        8)
+pt/nt/44/nt_4401   0   13          .      .         *       -    -   -    Acts  *             *             *        *         -
+pt/nt/44/nt_4401   0   14          '     ''        *))      -    -   -    Acts  *             *             *        *         -
+
+pt/nt/44/nt_4401   0    0              ``    ``  (TOP(S*         -    -   -    Acts      *             *             *      -
+pt/nt/44/nt_4401   0    1              So    RB   (ADVP*         -    -   -    Acts      *    (ARGM-TMP*    (ARGM-TMP*      -
+pt/nt/44/nt_4401   0    2             now    RB        *)        -    -   -    Acts      *             *)            *)     -
+pt/nt/44/nt_4401   0    3         another    DT     (NP*         -    -   -    Acts      *        (ARG0*        (ARG1*    (15
+pt/nt/44/nt_4401   0    4             man    NN        *)       man   -   2    Acts      *             *)            *)    15)
+pt/nt/44/nt_4401   0    5            must    MD     (VP*         -    -   -    Acts      *    (ARGM-MOD*)   (ARGM-MOD*)     -
+pt/nt/44/nt_4401   0    6            join    VB  (VP(VP*       join  01   4    Acts      *           (V*)            *      -
+pt/nt/44/nt_4401   0    7              us   PRP    (NP*))        -    -   -    Acts      *        (ARG1*)            *    (25)
+pt/nt/44/nt_4401   0    8             and    CC        *         -    -   -    Acts      *             *             *      -
+pt/nt/44/nt_4401   0    9              be    VB     (VP*         be  01   1    Acts      *             *           (V*)     -
+pt/nt/44/nt_4401   0   10               a    DT  (NP(NP*         -    -   -    Acts      *             *        (ARG2*      -
+pt/nt/44/nt_4401   0   11         witness    NN        *)   witness   -   -    Acts      *             *             *      -
+pt/nt/44/nt_4401   0   12              of    IN     (PP*         -    -   -    Acts      *             *             *      -
+pt/nt/44/nt_4401   0   13           Jesus   NNP  (NP(NP*         -    -   -    Acts   (ORG)            *             *    (21
+pt/nt/44/nt_4401   0   14               '   POS        *)        -    -   -    Acts      *             *             *     21)
+pt/nt/44/nt_4401   0   15    resurrection    NN   *))))))        -    -   -    Acts      *             *             *)     -
+pt/nt/44/nt_4401   0   16               .     .       *))        -    -   -    Acts      *             *             *      -
+
+pt/nt/44/nt_4401   0    0        He    PRP           (TOP(S(NP*)      -    -   -    Acts         *        (ARG1*)           *       (15)
+pt/nt/44/nt_4401   0    1      must     MD                 (VP*       -    -   -    Acts         *    (ARGM-MOD*)           *         -
+pt/nt/44/nt_4401   0    2        be     VB                 (VP*       be  01   1    Acts         *           (V*)           *         -
+pt/nt/44/nt_4401   0    3       one     CD              (NP(NP*)      -    -   -    Acts         *             *            *         -
+pt/nt/44/nt_4401   0    4        of     IN                 (PP*       -    -   -    Acts         *             *            *         -
+pt/nt/44/nt_4401   0    5     those     DT              (NP(NP*       -    -   -    Acts         *             *       (ARG1*         -
+pt/nt/44/nt_4401   0    6       men    NNS                    *)     man   -   2    Acts         *             *            *)        -
+pt/nt/44/nt_4401   0    7       who     WP          (SBAR(WHNP*)      -    -   -    Acts         *             *     (R-ARG1*)        -
+pt/nt/44/nt_4401   0    8      were    VBD               (S(VP*       be  01   1    Acts         *             *          (V*)        -
+pt/nt/44/nt_4401   0    9      part     NN              (NP(NP*)    part   -   1    Acts         *             *       (ARG2*         -
+pt/nt/44/nt_4401   0   10        of     IN                 (PP*       -    -   -    Acts         *             *            *         -
+pt/nt/44/nt_4401   0   11       our   PRP$                 (NP*       -    -   -    Acts         *             *            *    (4|(25)
+pt/nt/44/nt_4401   0   12     group     NN                  *)))   group   -   1    Acts         *             *            *)        4)
+pt/nt/44/nt_4401   0   13    during     IN                 (PP*       -    -   -    Acts         *             *   (ARGM-TMP*         -
+pt/nt/44/nt_4401   0   14       all    PDT              (NP(NP*       -    -   -    Acts         *             *            *         -
+pt/nt/44/nt_4401   0   15       the     DT                    *       -    -   -    Acts         *             *            *         -
+pt/nt/44/nt_4401   0   16      time     NN                    *)    time   -   4    Acts         *             *            *         -
+pt/nt/44/nt_4401   0   17       the     DT          (SBAR(S(NP*       -    -   -    Acts         *             *            *       (21
+pt/nt/44/nt_4401   0   18      Lord    NNP                    *       -    -   -    Acts         *             *            *         -
+pt/nt/44/nt_4401   0   19     Jesus    NNP                    *)      -    -   -    Acts   (PERSON)            *            *        21)
+pt/nt/44/nt_4401   0   20       was    VBD                 (VP*       be   -   1    Acts         *             *            *         -
+pt/nt/44/nt_4401   0   21      with     IN                 (PP*       -    -   -    Acts         *             *            *         -
+pt/nt/44/nt_4401   0   22        us    PRP   (NP*)))))))))))))))      -    -   -    Acts         *             *            *)      (25)
+pt/nt/44/nt_4401   0   23         .      .                   *))      -    -   -    Acts         *             *            *         -
+
+pt/nt/44/nt_4401   0    0           He   PRP             (TOP(S(NP*)        -    -   -    Acts         *        (ARG1*)              *    (15)
+pt/nt/44/nt_4401   0    1         must    MD                   (VP*         -    -   -    Acts         *    (ARGM-MOD*)              *      -
+pt/nt/44/nt_4401   0    2         have    VB                   (VP*       have   -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0    3         been   VBN                   (VP*         be  01   1    Acts         *           (V*)              *      -
+pt/nt/44/nt_4401   0    4         with    IN                   (PP*         -    -   -    Acts         *        (ARG2*               *      -
+pt/nt/44/nt_4401   0    5           us   PRP                  (NP*))        -    -   -    Acts         *             *)              *    (25)
+pt/nt/44/nt_4401   0    6         from    IN                   (PP*         -    -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0    7          the    DT                (NP(NP*         -    -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0    8         time    NN                      *)      time   -   1    Acts         *             *               *      -
+pt/nt/44/nt_4401   0    9         John   NNP            (SBAR(S(NP*)        -    -   -    Acts   (PERSON)            *               *    (12)
+pt/nt/44/nt_4401   0   10          was   VBD                   (VP*         be   -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0   11    baptizing   VBG                   (VP*    baptize   -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0   12       people   NNS                   (NP*)    people   -   1    Acts         *             *               *      -
+pt/nt/44/nt_4401   0   13        until    IN                   (PP*         -    -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0   14          the    DT                (NP(NP*         -    -   -    Acts    (DATE*             *      (ARGM-TMP*      -
+pt/nt/44/nt_4401   0   15          day    NN                      *)       day   -   3    Acts         *)            *               *)     -
+pt/nt/44/nt_4401   0   16         when   WRB          (SBAR(WHADVP*)        -    -   -    Acts         *             *    (R-ARGM-TMP*)     -
+pt/nt/44/nt_4401   0   17        Jesus   NNP                 (S(NP*)        -    -   -    Acts   (PERSON)            *          (ARG1*)   (21)
+pt/nt/44/nt_4401   0   18          was   VBD                   (VP*         be   -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0   19      carried   VBN                   (VP*      carry  01   8    Acts         *             *             (V*)     -
+pt/nt/44/nt_4401   0   20           up    RP                  (PRT*)        -    -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0   21         from    IN                   (PP*         -    -   -    Acts         *             *      (ARGM-DIR*      -
+pt/nt/44/nt_4401   0   22           us   PRP                  (NP*))        -    -   -    Acts         *             *               *)   (25)
+pt/nt/44/nt_4401   0   23         into    IN                   (PP*         -    -   -    Acts         *             *      (ARGM-DIR*      -
+pt/nt/44/nt_4401   0   24       heaven    NN   (NP*)))))))))))))))))        -    -   -    Acts         *             *               *)   (17)
+pt/nt/44/nt_4401   0   25            .     .                      *         -    -   -    Acts         *             *               *      -
+pt/nt/44/nt_4401   0   26           ''    ''                     *))        -    -   -    Acts         *             *               *      -
+
+pt/nt/44/nt_4401   0   0      They   PRP   (TOP(S(NP*)      -    -   -    Acts           *    (ARG0*)   (25)
+pt/nt/44/nt_4401   0   1       put   VBD         (VP*      put  01   1    Acts           *       (V*)     -
+pt/nt/44/nt_4401   0   2       two    CD         (NP*       -    -   -    Acts   (CARDINAL)   (ARG1*    (10
+pt/nt/44/nt_4401   0   3       men   NNS            *)     man   -   2    Acts           *         *)    10)
+pt/nt/44/nt_4401   0   4    before    IN         (PP*       -    -   -    Acts           *    (ARG2*      -
+pt/nt/44/nt_4401   0   5       the    DT         (NP*       -    -   -    Acts           *         *    (25
+pt/nt/44/nt_4401   0   6     group    NN          *)))   group   -   1    Acts           *         *)    25)
+pt/nt/44/nt_4401   0   7         .     .           *))      -    -   -    Acts           *         *      -
+
+pt/nt/44/nt_4401   0   0          One    CD   (TOP(S(NP*)   -   -   -    Acts         *     -
+pt/nt/44/nt_4401   0   1          was   VBD         (VP*    be  -   2    Acts         *     -
+pt/nt/44/nt_4401   0   2       Joseph   NNP         (NP*    -   -   -    Acts  (PERSON*   (13
+pt/nt/44/nt_4401   0   3    Barsabbas   NNP           *))   -   -   -    Acts         *)   13)
+pt/nt/44/nt_4401   0   4            .     .           *))   -   -   -    Acts         *     -
+
+pt/nt/44/nt_4401   0   0        He   PRP   (TOP(S(NP*)     -    -   -    Acts  *        (ARG1*)   (13)
+pt/nt/44/nt_4401   0   1       was   VBD         (VP*      be   -   -    Acts  *             *      -
+pt/nt/44/nt_4401   0   2      also    RB       (ADVP*)     -    -   -    Acts  *    (ARGM-ADV*)     -
+pt/nt/44/nt_4401   0   3    called   VBN         (VP*    call  01   5    Acts  *           (V*)     -
+pt/nt/44/nt_4401   0   4    Justus   NNP    (S(NP*))))     -    -   -    Acts  *        (ARG2*)     -
+pt/nt/44/nt_4401   0   5         .     .           *))     -    -   -    Acts  *             *      -
+
+pt/nt/44/nt_4401   0   0         The    DT  (TOP(S(NP*     -   -   -    Acts         *     -
+pt/nt/44/nt_4401   0   1       other    JJ           *     -   -   -    Acts         *     -
+pt/nt/44/nt_4401   0   2         man    NN           *)   man  -   2    Acts         *     -
+pt/nt/44/nt_4401   0   3         was   VBD        (VP*     be  -   1    Acts         *     -
+pt/nt/44/nt_4401   0   4    Matthias   NNP       (NP*))    -   -   -    Acts   (PERSON)   (7)
+pt/nt/44/nt_4401   0   5           .     .          *))    -   -   -    Acts         *     -
+
+pt/nt/44/nt_4401   0    0      They   PRP   (TOP(S(S(NP*)       -    -   -    Acts  *         *    (25)
+pt/nt/44/nt_4401   0    1    prayed   VBN           (VP*      pray   -   1    Acts  *         *      -
+pt/nt/44/nt_4401   0    2         ,     ,              *        -    -   -    Acts  *         *      -
+pt/nt/44/nt_4401   0    3        ``    ``              *        -    -   -    Acts  *         *      -
+pt/nt/44/nt_4401   0    4      Lord   NNP      (S(NP*))))       -    -   -    Acts  *         *    (20)
+pt/nt/44/nt_4401   0    5         ,     ,              *        -    -   -    Acts  *         *      -
+pt/nt/44/nt_4401   0    6       you   PRP         (S(NP*)       -    -   -    Acts  *    (ARG0*)   (20)
+pt/nt/44/nt_4401   0    7      know   VBP           (VP*      know  01   1    Acts  *       (V*)     -
+pt/nt/44/nt_4401   0    8       the    DT        (NP(NP*        -    -   -    Acts  *         *      -
+pt/nt/44/nt_4401   0    9     minds   NNS              *)     mind   -   3    Acts  *         *      -
+pt/nt/44/nt_4401   0   10        of    IN           (PP*        -    -   -    Acts  *         *      -
+pt/nt/44/nt_4401   0   11       all    DT           (NP*        -    -   -    Acts  *         *      -
+pt/nt/44/nt_4401   0   12    people   NNS          *)))))   people   -   1    Acts  *         *      -
+pt/nt/44/nt_4401   0   13         .     .             *))       -    -   -    Acts  *         *      -
+
+pt/nt/44/nt_4401   0    0      Show    VB        (TOP(S(VP*      show   -   1    Acts  *         *         *      -
+pt/nt/44/nt_4401   0    1        us   PRP              (NP*)       -    -   -    Acts  *         *         *    (25)
+pt/nt/44/nt_4401   0    2     which   WDT  (SBAR(WHNP(WHNP*        -    -   -    Acts  *         *    (ARG0*      -
+pt/nt/44/nt_4401   0    3       one    CD                 *)       -    -   -    Acts  *         *         *      -
+pt/nt/44/nt_4401   0    4        of    IN              (PP*        -    -   -    Acts  *         *         *      -
+pt/nt/44/nt_4401   0    5     these    DT              (NP*        -    -   -    Acts  *         *         *    (10
+pt/nt/44/nt_4401   0    6       two    CD                 *        -    -   -    Acts  *         *         *      -
+pt/nt/44/nt_4401   0    7       men   NNS               *)))      man   -   2    Acts  *         *         *)    10)
+pt/nt/44/nt_4401   0    8       you   PRP            (S(NP*)       -    -   -    Acts  *    (ARG0*)   (ARG0*)   (20)
+pt/nt/44/nt_4401   0    9    choose   VBP              (VP*    choose  01   2    Acts  *       (V*)        *      -
+pt/nt/44/nt_4401   0   10        to    TO            (S(VP*        -    -   -    Acts  *    (ARG1*         *      -
+pt/nt/44/nt_4401   0   11        do    VB              (VP*        do  02   1    Acts  *         *       (V*)     -
+pt/nt/44/nt_4401   0   12      this    DT              (NP*        -    -   -    Acts  *         *    (ARG1*     (8
+pt/nt/44/nt_4401   0   13      work    NN          *))))))))     work   -   1    Acts  *         *)        *)     8)
+pt/nt/44/nt_4401   0   14         .     .                *))       -    -   -    Acts  *         *         *      -
+
+pt/nt/44/nt_4401   0    0      Judas   NNP      (TOP(S(NP*)       -    -   -    Acts   (PERSON)      (ARG0*)   (ARG0*)        *    (14)
+pt/nt/44/nt_4401   0    1     turned   VBD         (VP(VP*      turn  01   1    Acts         *          (V*)        *         *      -
+pt/nt/44/nt_4401   0    2       away    RB          (ADVP*        -    -   -    Acts         *   (ARGM-DIR*         *         *      -
+pt/nt/44/nt_4401   0    3       from    IN            (PP*        -    -   -    Acts         *            *         *         *      -
+pt/nt/44/nt_4401   0    4         it   PRP         (NP*))))       -    -   -    Acts         *            *)        *         *     (8)
+pt/nt/44/nt_4401   0    5        and    CC               *        -    -   -    Acts         *            *         *         *      -
+pt/nt/44/nt_4401   0    6       went   VBD            (VP*        go  02   1    Acts         *            *       (V*)        *      -
+pt/nt/44/nt_4401   0    7      where   WRB   (SBAR(WHADVP*)       -    -   -    Acts         *            *    (ARG1*    (ARG1*)     -
+pt/nt/44/nt_4401   0    8         he   PRP          (S(NP*)       -    -   -    Acts         *            *         *    (ARG0*)   (14)
+pt/nt/44/nt_4401   0    9    belongs   VBZ        (VP*)))))   belong  01   2    Acts         *            *         *)      (V*)     -
+pt/nt/44/nt_4401   0   10          .     .              *))       -    -   -    Acts         *            *         *         *      -
+
+pt/nt/44/nt_4401   0    0       Lord    NNP    (TOP(S(NP*)      -    -   -    Acts   (PERSON)   (ARGM-DIS*)            *    (20)
+pt/nt/44/nt_4401   0    1          ,      ,             *       -    -   -    Acts         *             *             *      -
+pt/nt/44/nt_4401   0    2       show     VB          (VP*     show  01   1    Acts         *           (V*)            *      -
+pt/nt/44/nt_4401   0    3         us    PRP          (NP*)      -    -   -    Acts         *        (ARG2*)            *    (25)
+pt/nt/44/nt_4401   0    4      which    WDT   (SBAR(WHNP*)      -    -   -    Acts         *             *      (R-ARG0*)     -
+pt/nt/44/nt_4401   0    5        man     NN        (S(NP*)     man   -   2    Acts         *             *        (ARG0*)     -
+pt/nt/44/nt_4401   0    6     should     MD          (VP*       -    -   -    Acts         *             *    (ARGM-MOD*)     -
+pt/nt/44/nt_4401   0    7       take     VB          (VP*     take  01   4    Acts         *             *           (V*)     -
+pt/nt/44/nt_4401   0    8        his   PRP$          (NP*       -    -   -    Acts         *             *        (ARG1*    (14)
+pt/nt/44/nt_4401   0    9      place     NN             *)   place   -   3    Acts         *             *             *)     -
+pt/nt/44/nt_4401   0   10         as     IN          (PP*       -    -   -    Acts         *             *        (ARG2*      -
+pt/nt/44/nt_4401   0   11         an     DT          (NP*       -    -   -    Acts         *             *             *      -
+pt/nt/44/nt_4401   0   12    apostle     NN       *)))))))      -    -   -    Acts         *             *             *)     -
+pt/nt/44/nt_4401   0   13          !      .             *       -    -   -    Acts         *             *             *      -
+pt/nt/44/nt_4401   0   14         ''     ''            *))      -    -   -    Acts         *             *             *      -
+
+pt/nt/44/nt_4401   0    0      Then    RB   (TOP(S(ADVP*)       -    -   -    Acts           *        *      -
+pt/nt/44/nt_4401   0    1      they   PRP           (NP*)       -    -   -    Acts           *        *    (25)
+pt/nt/44/nt_4401   0    2      used   VBD           (VP*       use   -   1    Acts           *        *      -
+pt/nt/44/nt_4401   0    3      lots   NNS           (NP*)      lot   -   1    Acts           *        *    (16)
+pt/nt/44/nt_4401   0    4        to    TO         (S(VP*        -    -   -    Acts           *        *      -
+pt/nt/44/nt_4401   0    5    choose    VB           (VP*    choose  01   1    Acts           *      (V*)     -
+pt/nt/44/nt_4401   0    6       one    CD        (NP(NP*)       -    -   -    Acts   (CARDINAL)  (ARG1*      -
+pt/nt/44/nt_4401   0    7        of    IN           (PP*        -    -   -    Acts           *        *      -
+pt/nt/44/nt_4401   0    8       the    DT           (NP*        -    -   -    Acts           *        *    (10
+pt/nt/44/nt_4401   0    9       two    CD              *        -    -   -    Acts   (CARDINAL)       *      -
+pt/nt/44/nt_4401   0   10       men   NNS        *)))))))      man   -   2    Acts           *        *)    10)
+pt/nt/44/nt_4401   0   11         .     .             *))       -    -   -    Acts           *        *      -
+
+pt/nt/44/nt_4401   0    0         The    DT    (TOP(S(NP*      -    -   -    Acts           *   (ARG0*        *   (16
+pt/nt/44/nt_4401   0    1        lots   NNS             *)    lot   -   1    Acts           *        *)       *    16)
+pt/nt/44/nt_4401   0    2      showed   VBD          (VP*    show  01   1    Acts           *      (V*)       *     -
+pt/nt/44/nt_4401   0    3        that    IN        (SBAR*      -    -   -    Acts           *   (ARG1*        *     -
+pt/nt/44/nt_4401   0    4    Matthias   NNP        (S(NP*)     -    -   -    Acts     (PERSON)       *        *    (7)
+pt/nt/44/nt_4401   0    5         was   VBD          (VP*      be   -   2    Acts           *        *        *     -
+pt/nt/44/nt_4401   0    6         the    DT       (NP(NP*      -    -   -    Acts           *        *   (ARG1*     -
+pt/nt/44/nt_4401   0    7         one    NN             *)    one   -   2    Acts   (CARDINAL)       *        *)    -
+pt/nt/44/nt_4401   0    8         the    DT   (SBAR(S(NP*      -    -   -    Acts           *        *   (ARG0*   (20
+pt/nt/44/nt_4401   0    9        Lord   NNP             *)     -    -   -    Acts     (PERSON)       *        *)   20)
+pt/nt/44/nt_4401   0   10      wanted   VBD   (VP*))))))))   want  01   1    Acts           *        *)     (V*)    -
+pt/nt/44/nt_4401   0   11           .     .            *))     -    -   -    Acts           *        *        *     -
+
+pt/nt/44/nt_4401   0   0         So    RB   (TOP(S(ADVP*)       -   -   -    Acts           *     -
+pt/nt/44/nt_4401   0   1         he   PRP           (NP*)       -   -   -    Acts           *    (7)
+pt/nt/44/nt_4401   0   2     became   VBD           (VP*    become  -   1    Acts           *     -
+pt/nt/44/nt_4401   0   3         an    DT        (NP(NP*        -   -   -    Acts           *     -
+pt/nt/44/nt_4401   0   4    apostle    NN              *)       -   -   -    Acts           *     -
+pt/nt/44/nt_4401   0   5       with    IN           (PP*        -   -   -    Acts           *     -
+pt/nt/44/nt_4401   0   6        the    DT           (NP*        -   -   -    Acts           *     -
+pt/nt/44/nt_4401   0   7      other    JJ              *        -   -   -    Acts           *     -
+pt/nt/44/nt_4401   0   8     eleven   NNS           *))))       -   -   -    Acts   (CARDINAL)    -
+pt/nt/44/nt_4401   0   9          .     .             *))       -   -   -    Acts           *     -
+
+#end document

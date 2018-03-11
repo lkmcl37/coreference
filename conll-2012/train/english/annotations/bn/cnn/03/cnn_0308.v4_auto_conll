@@ -1,0 +1,64 @@
+#begin document (bn/cnn/03/cnn_0308); part 000
+bn/cnn/03/cnn_0308   0    0              A    DT     (TOP(S(NP*          -    -   -   -        *       (ARG1*        *            *    (1
+bn/cnn/03/cnn_0308   0    1         cruise    NN              *      cruise   -   -   -        *            *        *            *     -
+bn/cnn/03/cnn_0308   0    2           ship    NN              *)       ship   -   1   -        *            *)       *            *     1)
+bn/cnn/03/cnn_0308   0    3             is   VBZ           (VP*          be   -   -   -        *            *        *            *     -
+bn/cnn/03/cnn_0308   0    4          being   VBG           (VP*       being   -   -   -        *            *        *            *     -
+bn/cnn/03/cnn_0308   0    5       searched   VBN           (VP*      search  01   1   -        *          (V*)       *            *     -
+bn/cnn/03/cnn_0308   0    6            off    IN           (PP*          -    -   -   -        *   (ARGM-LOC*        *            *     -
+bn/cnn/03/cnn_0308   0    7            the    DT           (NP*          -    -   -   -    (LOC*            *        *            *     -
+bn/cnn/03/cnn_0308   0    8         Hawaii   NNP              *          -    -   -   -        *            *        *            *     -
+bn/cnn/03/cnn_0308   0    9          Coast   NNP             *))         -    -   -   -        *)           *)       *            *     -
+bn/cnn/03/cnn_0308   0   10          after    IN         (SBAR*          -    -   -   -   (DATE*   (ARGM-TMP*        *            *     -
+bn/cnn/03/cnn_0308   0   11            two    CD      (S(NP(NP*          -    -   -   -        *)           *   (ARG0*       (ARG1*    (2
+bn/cnn/03/cnn_0308   0   12          notes   NNS              *)       note   -   3   -        *            *        *)           *     -
+bn/cnn/03/cnn_0308   0   13    threatening   VBG           (VP*    threaten  01   2   -        *            *      (V*)           *     -
+bn/cnn/03/cnn_0308   0   14      terrorist    JJ           (NP*          -    -   -   -        *            *   (ARG1*            *     -
+bn/cnn/03/cnn_0308   0   15         attack    NN            *)))     attack   -   1   -        *            *        *)           *)    2)
+bn/cnn/03/cnn_0308   0   16           were   VBD           (VP*          be   -   -   -        *            *        *            *     -
+bn/cnn/03/cnn_0308   0   17          found   VBN           (VP*        find  01   1   -        *            *        *          (V*)    -
+bn/cnn/03/cnn_0308   0   18             on    IN           (PP*          -    -   -   -        *            *        *   (ARGM-LOC*     -
+bn/cnn/03/cnn_0308   0   19          board    NN   (NP*)))))))))      board   -   7   -        *            *)       *            *)   (0)
+bn/cnn/03/cnn_0308   0   20              .     .             *))         -    -   -   -        *            *        *            *     -
+
+bn/cnn/03/cnn_0308   0    0        Royal   NNP  (TOP(NP(NP(NP(NML*           -    -   -   -       (ORG*        *             *    (1
+bn/cnn/03/cnn_0308   0    1    Caribbean   NNP                   *)          -    -   -   -           *)       *             *     -
+bn/cnn/03/cnn_0308   0    2       cruise    NN                   *       cruise   -   -   -           *        *             *     -
+bn/cnn/03/cnn_0308   0    3         ship    NN                   *)        ship   -   1   -           *        *             *     -
+bn/cnn/03/cnn_0308   0    4       Legend   NNP               (NP*))          -    -   -   -   (PRODUCT*        *             *     -
+bn/cnn/03/cnn_0308   0    5           of    IN                (PP*           -    -   -   -           *        *             *     -
+bn/cnn/03/cnn_0308   0    6          the    DT             (NP(NP*           -    -   -   -           *   (ARG1*             *     -
+bn/cnn/03/cnn_0308   0    7          Sea   NNP                   *)          -    -   -   -           *)       *)            *     1)
+bn/cnn/03/cnn_0308   0    8     diverted   VBN                (VP*       divert  01   1   -           *      (V*)            *     -
+bn/cnn/03/cnn_0308   0    9           to    IN                (PP*           -    -   -   -           *   (ARG3*             *     -
+bn/cnn/03/cnn_0308   0   10     Honolulu   NNP               (NP*))          -    -   -   -        (GPE)       *)            *     -
+bn/cnn/03/cnn_0308   0   11         when   WRB       (SBAR(WHADVP*)          -    -   -   -           *        *    (ARGM-TMP*)    -
+bn/cnn/03/cnn_0308   0   12          the    DT              (S(NP*           -    -   -   -           *        *        (ARG1*    (2
+bn/cnn/03/cnn_0308   0   13        notes   NNS                   *)        note   -   3   -           *        *             *)    2)
+bn/cnn/03/cnn_0308   0   14         were   VBD                (VP*           be   -   -   -           *        *             *     -
+bn/cnn/03/cnn_0308   0   15        found   VBN                (VP*         find  01   1   -           *        *           (V*)    -
+bn/cnn/03/cnn_0308   0   16           on    IN                (PP*           -    -   -   -           *        *    (ARGM-LOC*     -
+bn/cnn/03/cnn_0308   0   17        board    NN               (NP*))       board   -   7   -           *        *             *)   (0)
+bn/cnn/03/cnn_0308   0   18    yesterday    NN         (NP*))))))))   yesterday   -   1   -       (DATE)       *    (ARGM-TMP*)    -
+bn/cnn/03/cnn_0308   0   19            .     .                  *))          -    -   -   -           *        *             *     -
+
+bn/cnn/03/cnn_0308   0    0    Passengers   NNS   (TOP(S(NP*)   passenger   -   1   -   *    (ARG1*)        *        *    -
+bn/cnn/03/cnn_0308   0    1          were   VBD         (VP*           be   -   -   -   *         *         *        *    -
+bn/cnn/03/cnn_0308   0    2         taken   VBN         (VP*         take  01   4   -   *       (V*)        *        *    -
+bn/cnn/03/cnn_0308   0    3            to    IN         (PP*           -    -   -   -   *    (ARG2*         *        *    -
+bn/cnn/03/cnn_0308   0    4           the    DT      (NP(NP*           -    -   -   -   *         *         *        *   (1
+bn/cnn/03/cnn_0308   0    5          ship    NN            *         ship   -   1   -   *         *         *        *    -
+bn/cnn/03/cnn_0308   0    6            's   POS            *)          -    -   -   -   *         *         *        *    1)
+bn/cnn/03/cnn_0308   0    7        dining    NN            *         dine   -   -   -   *         *         *        *    -
+bn/cnn/03/cnn_0308   0    8         rooms   NNS           *))        room   -   1   -   *         *)        *        *    -
+bn/cnn/03/cnn_0308   0    9         while    IN       (SBAR*           -    -   -   -   *         *         *        *    -
+bn/cnn/03/cnn_0308   0   10          bomb    NN  (S(NP(ADJP*         bomb   -   1   -   *         *    (ARG1*)  (ARG0*    -
+bn/cnn/03/cnn_0308   0   11      sniffing   VBG            *)       sniff  01   3   -   *         *       (V*)       *    -
+bn/cnn/03/cnn_0308   0   12          dogs   NNS            *)         dog   -   -   -   *         *    (ARG0*)       *)   -
+bn/cnn/03/cnn_0308   0   13          went   VBD         (VP*           go  02   1   -   *         *         *      (V*)   -
+bn/cnn/03/cnn_0308   0   14          over    IN         (PP*           -    -   -   -   *         *         *   (ARG1*    -
+bn/cnn/03/cnn_0308   0   15           the    DT         (NP*           -    -   -   -   *         *         *        *   (1
+bn/cnn/03/cnn_0308   0   16          ship    NN      *)))))))        ship   -   1   -   *         *         *        *)   1)
+bn/cnn/03/cnn_0308   0   17             .     .           *))          -    -   -   -   *         *         *        *    -
+
+#end document

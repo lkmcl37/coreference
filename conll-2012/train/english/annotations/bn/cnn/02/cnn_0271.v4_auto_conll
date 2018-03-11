@@ -1,0 +1,68 @@
+#begin document (bn/cnn/02/cnn_0271); part 000
+bn/cnn/02/cnn_0271   0    0           Walt   NNP  (TOP(S(NP(NP*           -    -   -   -     (PERSON*   (ARG0*        *   (1
+bn/cnn/02/cnn_0271   0    1        Rodgers   NNP              *)          -    -   -   -            *)       *        *    -
+bn/cnn/02/cnn_0271   0    2              ,     ,              *           -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0    3            3rd   NNP           (NP*           -    -   -   -        (ORG*        *        *    -
+bn/cnn/02/cnn_0271   0    4        Cavalry   NNP             *))          -    -   -   -            *)       *)       *    1)
+bn/cnn/02/cnn_0271   0    5           says   VBZ           (VP*          say  01   1   -            *      (V*)       *    -
+bn/cnn/02/cnn_0271   0    6          Iraqi    JJ    (SBAR(S(NP*           -    -   -   -        (NORP)       *   (ARG2*    -
+bn/cnn/02/cnn_0271   0    7        missile    NN              *)     missile   -   1   -            *        *        *)   -
+bn/cnn/02/cnn_0271   0    8            hit   VBD           (VP*          hit  01   1   -            *        *      (V*)   -
+bn/cnn/02/cnn_0271   0    9      operation    NN        (NP(NP*    operation   -   1   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   10         center    NN              *)      center   -   2   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   11            for    IN           (PP*           -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   12            2nd    JJ     (NP(NP(NP*           -    -   -   -        (ORG*        *        *    -
+bn/cnn/02/cnn_0271   0   13        Brigade   NNP              *           -    -   -   -            *)       *        *    -
+bn/cnn/02/cnn_0271   0   14            3rd   NNP              *           -    -   -   -        (ORG*        *        *    -
+bn/cnn/02/cnn_0271   0   15       Infantry   NNP              *)          -    -   -   -            *)       *        *    -
+bn/cnn/02/cnn_0271   0   16          Zrigs   NNP           (NP*           -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   17          South   NNP              *           -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   18        Baghdad   NNP             *))          -    -   -   -         (GPE)       *        *    -
+bn/cnn/02/cnn_0271   0   19              ,     ,              *           -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   20             at    IN   (NP(QP(ADVP*           -    -   -   -   (CARDINAL*        *        *   (0
+bn/cnn/02/cnn_0271   0   21          least   JJS              *)          -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   22           four    CD              *)          -    -   -   -            *)       *        *    0)
+bn/cnn/02/cnn_0271   0   23           dead    JJ              *)          -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   24              ,     ,              *           -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   25            two    CD           (NP*           -    -   -   -    (CARDINAL)       *        *   (0
+bn/cnn/02/cnn_0271   0   26       soldiers   NNS              *)     soldier   -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   27            and    CC              *           -    -   -   -            *        *        *    -
+bn/cnn/02/cnn_0271   0   28            two    CD           (NP*           -    -   -   -    (CARDINAL)       *        *    -
+bn/cnn/02/cnn_0271   0   29    journalists   NNS       *))))))))          -    -   -   -            *        *        *    0)
+bn/cnn/02/cnn_0271   0   30              .     .             *))          -    -   -   -            *        *        *    -
+
+bn/cnn/02/cnn_0271   0    0        Others   NNS           (TOP(S(NP*)        -    -   -   -            *    (ARG0*)    -
+bn/cnn/02/cnn_0271   0    1        report   VBP                 (VP*     report  01   1   -            *       (V*)    -
+bn/cnn/02/cnn_0271   0    2            at    RB  (SBAR(S(NP(QP(ADVP*         -    -   -   -   (CARDINAL*         *    (2
+bn/cnn/02/cnn_0271   0    3         least   RBS                    *)        -    -   -   -            *         *     -
+bn/cnn/02/cnn_0271   0    4           15     CD                   *))        -    -   -   -            *)        *     2)
+bn/cnn/02/cnn_0271   0    5           are   VBP                 (VP*        are   -   -   -            *         *     -
+bn/cnn/02/cnn_0271   0    6       wounded   VBN                 (VP*    wounded   -   -   -            *         *     -
+bn/cnn/02/cnn_0271   0    7             ,     ,                    *         -    -   -   -            *         *     -
+bn/cnn/02/cnn_0271   0    8          some    DT              (NP(NP*)        -    -   -   -            *         *     -
+bn/cnn/02/cnn_0271   0    9            of    IN                 (PP*         -    -   -   -            *         *     -
+bn/cnn/02/cnn_0271   0   10          them   PRP               (NP*)))        -    -   -   -            *         *    (2)
+bn/cnn/02/cnn_0271   0   11    critically    RB          (ADVP*))))))        -    -   -   -            *         *     -
+bn/cnn/02/cnn_0271   0   12             .     .                   *))        -    -   -   -            *         *     -
+
+bn/cnn/02/cnn_0271   0    0           Hope   VBP              (TOP(S(VP*           hope   -   1   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0    1             to    TO                  (S(VP*             -    -   -   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0    2            get    VB                    (VP*            get  01   1   -          *       (V*)       *             *     -
+bn/cnn/02/cnn_0271   0    3           Walt   NNP                    (NP*)            -    -   -   -    (PERSON)   (ARG1*)       *             *    (1)
+bn/cnn/02/cnn_0271   0    4             up    RP                   (PRT*)            -    -   -   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0    5             in    IN                    (PP*             -    -   -   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0    6              a    DT              (NP(NP(QP*             -    -   -   -     (TIME*         *        *             *     -
+bn/cnn/02/cnn_0271   0    7         couple    NN                       *)        couple   -   1   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0    8        minutes   NNS                       *)        minute   -   1   -          *)        *        *             *     -
+bn/cnn/02/cnn_0271   0    9             to    TO             (SBAR(S(VP*             -    -   -   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0   10            get    VB                    (VP*            get  01   1   -          *         *      (V*)            *     -
+bn/cnn/02/cnn_0271   0   11           more   JJR                    (NP*             -    -   -   -          *         *   (ARG1*             *     -
+bn/cnn/02/cnn_0271   0   12    information    NN                       *)   information   -   1   -          *         *        *)            *     -
+bn/cnn/02/cnn_0271   0   13             on    IN                    (PP*             -    -   -   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0   14           what    WP             (SBAR(WHNP*)            -    -   -   -          *         *        *        (ARG1*)    -
+bn/cnn/02/cnn_0271   0   15             is   VBZ                  (S(VP*             be   -   -   -          *         *        *             *     -
+bn/cnn/02/cnn_0271   0   16      happening   VBG                    (VP*         happen  01   1   -          *         *        *           (V*)    -
+bn/cnn/02/cnn_0271   0   17          there    RB   (ADVP*))))))))))))))))            -    -   -   -          *         *        *    (ARGM-LOC*)    -
+bn/cnn/02/cnn_0271   0   18              .     .                      *))            -    -   -   -          *         *        *             *     -
+
+#end document

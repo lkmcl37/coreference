@@ -1,0 +1,1115 @@
+#begin document (nw/wsj/23/wsj_2366); part 000
+nw/wsj/23/wsj_2366   0   0    Population     NN  (TOP(NP(NP(NML*    population  -   1   -   (WORK_OF_ART*   -
+nw/wsj/23/wsj_2366   0   1         Drain     NN                *)        drain  -   4   -               *   -
+nw/wsj/23/wsj_2366   0   2          Ends   NNPS                *)           -   -   -   -               *   -
+nw/wsj/23/wsj_2366   0   3           For     IN             (PP*            -   -   -   -               *   -
+nw/wsj/23/wsj_2366   0   4    Midwestern     JJ             (NP*            -   -   -   -               *   -
+nw/wsj/23/wsj_2366   0   5        States   NNPS             *))))           -   -   -   -               *)  -
+
+nw/wsj/23/wsj_2366   0   0        IOWA   NNP   (TOP(S(NP*)     -    -   -   -    (GPE)   (ARG0*)  -
+nw/wsj/23/wsj_2366   0   1          IS   VBZ         (VP*      be   -   1   -       *         *   -
+nw/wsj/23/wsj_2366   0   2      MAKING   VBG         (VP*    make  03   1   -       *       (V*)  -
+nw/wsj/23/wsj_2366   0   3           a    DT         (NP*      -    -   -   -       *    (ARG1*   -
+nw/wsj/23/wsj_2366   0   4    comeback    NN          *)))     -    -   -   -       *         *)  -
+nw/wsj/23/wsj_2366   0   5           .     .           *))     -    -   -   -       *         *   -
+
+nw/wsj/23/wsj_2366   0   0          So    RB   (TOP(SINV(ADVP*)   -    -   -   -       *    (ARG2*)  -
+nw/wsj/23/wsj_2366   0   1         are   VBP              (VP*)   be  01   1   -       *       (V*)  -
+nw/wsj/23/wsj_2366   0   2     Indiana   NNP           (NP(NP*)   -    -   -   -    (GPE)        *   -
+nw/wsj/23/wsj_2366   0   3           ,     ,                 *    -    -   -   -       *         *   -
+nw/wsj/23/wsj_2366   0   4        Ohio   NNP              (NP*    -    -   -   -    (GPE)        *   -
+nw/wsj/23/wsj_2366   0   5         and    CC                 *    -    -   -   -       *         *   -
+nw/wsj/23/wsj_2366   0   6    Michigan   NNP                *))   -    -   -   -    (GPE)        *   -
+nw/wsj/23/wsj_2366   0   7           .     .                *))   -    -   -   -       *         *   -
+
+nw/wsj/23/wsj_2366   0    0           The    DT  (TOP(S(NP(NP*            -    -   -   -            *   (ARG1*        *   -
+nw/wsj/23/wsj_2366   0    1    population    NN              *)   population   -   1   -            *        *        *   -
+nw/wsj/23/wsj_2366   0    2            of    IN           (PP*            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0    3           all    DT           (NP*            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0    4          four    CD              *            -    -   -   -    (CARDINAL)       *        *   -
+nw/wsj/23/wsj_2366   0    5        states   NNS            *)))        state   -   2   -            *        *)       *   -
+nw/wsj/23/wsj_2366   0    6            is   VBZ           (VP*            be  01   1   -            *      (V*)       *   -
+nw/wsj/23/wsj_2366   0    7            on    IN           (PP*            -    -   -   -            *   (ARG2*        *   -
+nw/wsj/23/wsj_2366   0    8           the    DT           (NP*            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0    9       upswing    NN             *))      upswing   -   -   -            *        *)       *   -
+nw/wsj/23/wsj_2366   0   10             ,     ,              *            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   11     according   VBG           (PP*        accord   -   2   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   12            to    IN           (PP*            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   13           new    JJ           (NP*            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   14        Census   NNP          (NML*            -    -   -   -        (ORG*        *        *   -
+nw/wsj/23/wsj_2366   0   15        Bureau   NNP              *)           -    -   -   -            *)       *        *   -
+nw/wsj/23/wsj_2366   0   16     estimates   NNS            *)))     estimate   -   1   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   17             ,     ,              *            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   18     following   VBG           (PP*        follow  01   2   -            *        *      (V*)  -
+nw/wsj/23/wsj_2366   0   19      declines   NNS        (NP(NP*)      decline   -   1   -            *        *   (ARG2*   -
+nw/wsj/23/wsj_2366   0   20    throughout    IN           (PP*            -    -   -   -       (DATE*        *        *   -
+nw/wsj/23/wsj_2366   0   21           the    DT           (NP*            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   22         early    JJ              *            -    -   -   -            *        *        *   -
+nw/wsj/23/wsj_2366   0   23         1980s   NNS          *)))))           -    -   -   -            *)       *        *)  -
+nw/wsj/23/wsj_2366   0   24             .     .             *))           -    -   -   -            *        *        *   -
+
+nw/wsj/23/wsj_2366   0    0       The    DT  (TOP(S(NP(NP*      -    -   -   -   *    (ARG1*   (ARG1*   -
+nw/wsj/23/wsj_2366   0    1     gains   NNS              *)   gain   -   1   -   *         *)       *   -
+nw/wsj/23/wsj_2366   0    2         ,     ,              *      -    -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    3        to    TO    (SBAR(S(VP*      -    -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    4        be    VB           (VP*      be  01   1   -   *       (V*)       *   -
+nw/wsj/23/wsj_2366   0    5      sure    JJ     (ADJP*)))))     -    -   -   -   *    (ARG2*)       *   -
+nw/wsj/23/wsj_2366   0    6         ,     ,              *)     -    -   -   -   *         *        *)  -
+nw/wsj/23/wsj_2366   0    7       are   VBP           (VP*      be  01   1   -   *         *      (V*)  -
+nw/wsj/23/wsj_2366   0    8    rather    RB         (ADJP*      -    -   -   -   *         *   (ARG2*   -
+nw/wsj/23/wsj_2366   0    9     small    JJ             *))     -    -   -   -   *         *        *)  -
+nw/wsj/23/wsj_2366   0   10         .     .             *))     -    -   -   -   *         *        *   -
+
+nw/wsj/23/wsj_2366   0    0          Iowa    NNP   (TOP(S(S(NP*)           -    -   -   -         (GPE)      (ARG0*)       *         *   -
+nw/wsj/23/wsj_2366   0    1             ,      ,              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0    2           for     IN           (PP*            -    -   -   -            *   (ARGM-DIS*        *         *   -
+nw/wsj/23/wsj_2366   0    3      instance     NN          (NP*))     instance   -   1   -            *            *)       *         *   -
+nw/wsj/23/wsj_2366   0    4             ,      ,              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0    5           saw    VBD           (VP*           see  01   3   -            *          (V*)       *         *   -
+nw/wsj/23/wsj_2366   0    6           its   PRP$         (S(NP*            -    -   -   -            *       (ARG1*   (ARG1*         *   -
+nw/wsj/23/wsj_2366   0    7    population     NN              *)   population   -   1   -            *            *        *)        *   -
+nw/wsj/23/wsj_2366   0    8          grow     VB           (VP*          grow  01   4   -            *            *      (V*)        *   -
+nw/wsj/23/wsj_2366   0    9            by     IN           (PP*            -    -   -   -            *            *   (ARG2*         *   -
+nw/wsj/23/wsj_2366   0   10       11,000      CD        (NP(NP*            -    -   -   -    (CARDINAL)           *        *         *   -
+nw/wsj/23/wsj_2366   0   11        people    NNS              *)       people   -   1   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   12             ,      ,              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   13            or     CC              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   14          0.4      CD           (NP*            -    -   -   -    (PERCENT*            *        *         *   -
+nw/wsj/23/wsj_2366   0   15             %     NN            *)))           -    -   -   -            *)           *        *)        *   -
+nw/wsj/23/wsj_2366   0   16             ,      ,              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   17       between     IN           (PP*            -    -   -   -       (DATE*            *        *         *   -
+nw/wsj/23/wsj_2366   0   18         1987      CD           (NP*            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   19           and     CC              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   20         1988      CD         *))))))           -    -   -   -            *)           *)       *         *   -
+nw/wsj/23/wsj_2366   0   21             ,      ,              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   22           the     DT           (NP*            -    -   -   -        (ORG*            *        *    (ARG0*   -
+nw/wsj/23/wsj_2366   0   23        Census    NNP              *            -    -   -   -            *            *        *         *   -
+nw/wsj/23/wsj_2366   0   24        Bureau    NNP              *)           -    -   -   -            *)           *        *         *)  -
+nw/wsj/23/wsj_2366   0   25          says    VBZ           (VP*)          say  01   1   -            *            *        *       (V*)  -
+nw/wsj/23/wsj_2366   0   26             .      .             *))           -    -   -   -            *            *        *    (ARG1*)  -
+
+nw/wsj/23/wsj_2366   0    0       Still    RB    (TOP(S(ADVP*)         -    -   -   -        *    (ARGM-DIS*)            *   -
+nw/wsj/23/wsj_2366   0    1           ,     ,               *          -    -   -   -        *             *             *   -
+nw/wsj/23/wsj_2366   0    2        even    RB            (NP*          -    -   -   -        *        (ARG1*             *   -
+nw/wsj/23/wsj_2366   0    3        that    DT               *          -    -   -   -        *             *             *   -
+nw/wsj/23/wsj_2366   0    4      modest    JJ               *          -    -   -   -        *             *             *   -
+nw/wsj/23/wsj_2366   0    5    increase    NN               *)   increase   -   1   -        *             *)            *   -
+nw/wsj/23/wsj_2366   0    6          is   VBZ            (VP*          be  01   1   -        *           (V*)            *   -
+nw/wsj/23/wsj_2366   0    7        good    JJ         (NP(NP*          -    -   -   -        *             *             *   -
+nw/wsj/23/wsj_2366   0    8        news    NN               *)       news   -   1   -        *             *             *   -
+nw/wsj/23/wsj_2366   0    9         for    IN            (PP*          -    -   -   -        *             *             *   -
+nw/wsj/23/wsj_2366   0   10           a    DT         (NP(NP*          -    -   -   -        *             *        (ARG1*   -
+nw/wsj/23/wsj_2366   0   11       state    NN               *)      state   -   2   -        *             *             *)  -
+nw/wsj/23/wsj_2366   0   12        that   WDT     (SBAR(WHNP*)         -    -   -   -        *             *      (R-ARG1*)  -
+nw/wsj/23/wsj_2366   0   13         had   VBD          (S(VP*        have   -   -   -        *             *             *   -
+nw/wsj/23/wsj_2366   0   14         n't    RB               *          -    -   -   -        *             *    (ARGM-NEG*)  -
+nw/wsj/23/wsj_2366   0   15       grown   VBN            (VP*        grow  01   4   -        *             *           (V*)  -
+nw/wsj/23/wsj_2366   0   16          at    RB          (ADVP*          -    -   -   -        *             *    (ARGM-EXT*   -
+nw/wsj/23/wsj_2366   0   17         all    RB               *)         -    -   -   -        *             *             *)  -
+nw/wsj/23/wsj_2366   0   18       since    IN            (PP*          -    -   -   -        *             *    (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0   19       1981     CD   (NP*))))))))))         -    -   -   -    (DATE)            *             *)  -
+nw/wsj/23/wsj_2366   0   20           .     .              *))         -    -   -   -        *             *             *   -
+
+nw/wsj/23/wsj_2366   0    0       Between    IN  (TOP(S(PP*            -    -   -   -       (DATE*        *   -
+nw/wsj/23/wsj_2366   0    1         1987     CD        (NP*            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0    2           and    CC           *            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0    3         1988     CD          *))           -    -   -   -            *)       *   -
+nw/wsj/23/wsj_2366   0    4             ,     ,           *            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0    5         North   NNP        (NP*            -    -   -   -        (GPE*        *   -
+nw/wsj/23/wsj_2366   0    6        Dakota   NNP           *)           -    -   -   -            *)       *   -
+nw/wsj/23/wsj_2366   0    7           was   VBD        (VP*            be   -   2   -            *        *   -
+nw/wsj/23/wsj_2366   0    8           the    DT     (NP(NP*            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0    9          only    JJ           *            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0   10         state    NN           *)        state   -   2   -            *        *   -
+nw/wsj/23/wsj_2366   0   11            in    IN        (PP*            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0   12           the    DT        (NP*            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0   13       Midwest   NNP         *)))           -    -   -   -         (LOC)       *   -
+nw/wsj/23/wsj_2366   0   14            to    TO      (S(VP*            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0   15          lose    VB        (VP*          lose  02   4   -            *      (V*)  -
+nw/wsj/23/wsj_2366   0   16    population    NN     (NP(NP*)   population   -   1   -            *   (ARG1*   -
+nw/wsj/23/wsj_2366   0   17             ,     ,           *            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0   18             a    DT     (NP(NP*            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0   19          loss    NN           *)         loss   -   3   -            *        *   -
+nw/wsj/23/wsj_2366   0   20            of    IN        (PP*            -    -   -   -            *        *   -
+nw/wsj/23/wsj_2366   0   21        4,000     CD        (NP*            -    -   -   -    (CARDINAL)       *   -
+nw/wsj/23/wsj_2366   0   22        people   NNS    *))))))))       people   -   1   -            *        *)  -
+nw/wsj/23/wsj_2366   0   23             .     .          *))           -    -   -   -            *        *   -
+
+nw/wsj/23/wsj_2366   0    0           Six    CD   (TOP(S(NP(NP*)      -    -   -   -    (CARDINAL)      (ARG1*   -
+nw/wsj/23/wsj_2366   0    1            of    IN            (PP*       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0    2           the    DT            (NP*       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0    3           12     CD               *       -    -   -   -        (LOC*            *   -
+nw/wsj/23/wsj_2366   0    4    midwestern    JJ               *       -    -   -   -            *)           *   -
+nw/wsj/23/wsj_2366   0    5        states   NNS             *)))   state   -   2   -            *            *)  -
+nw/wsj/23/wsj_2366   0    6          have   VBP            (VP*     have   -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0    7          been   VBN            (VP*       be   -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0    8       growing   VBG            (VP*     grow  01   4   -            *          (V*)  -
+nw/wsj/23/wsj_2366   0    9      steadily    RB          (ADVP*)      -    -   -   -            *       (ARG2*)  -
+nw/wsj/23/wsj_2366   0   10         since    IN            (PP*       -    -   -   -            *   (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0   11         1980     CD         (NP(NP*)      -    -   -   -        (DATE)           *   -
+nw/wsj/23/wsj_2366   0   12           --      :               *       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0   13      Illinois   NNP         (NP(NP*       -    -   -   -         (GPE)           *   -
+nw/wsj/23/wsj_2366   0   14             ,     ,               *       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0   15        Kansas   NNP               *       -    -   -   -         (GPE)           *   -
+nw/wsj/23/wsj_2366   0   16             ,     ,               *       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0   17     Minnesota   NNP               *       -    -   -   -         (GPE)           *   -
+nw/wsj/23/wsj_2366   0   18             ,     ,               *       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0   19      Missouri   NNP               *       -    -   -   -         (GPE)           *   -
+nw/wsj/23/wsj_2366   0   20             ,     ,               *       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0   21         South   NNP               *       -    -   -   -        (GPE*            *   -
+nw/wsj/23/wsj_2366   0   22        Dakota   NNP               *)      -    -   -   -            *)           *   -
+nw/wsj/23/wsj_2366   0   23           and    CC               *       -    -   -   -            *            *   -
+nw/wsj/23/wsj_2366   0   24     Wisconsin   NNP      (NP*)))))))      -    -   -   -         (GPE)           *)  -
+nw/wsj/23/wsj_2366   0   25             .     .              *))      -    -   -   -            *            *   -
+
+nw/wsj/23/wsj_2366   0    0           The     DT  (TOP(S(NP*            -    -    -   -       *       (ARG0*   -
+nw/wsj/23/wsj_2366   0    1     Northeast    NNP           *)           -    -    -   -    (LOC)           *)  -
+nw/wsj/23/wsj_2366   0    2           has    VBZ        (VP*          have   -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0    3          been    VBN        (VP*            be   -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0    4       holding    VBG        (VP*          hold  04   10   -       *          (V*)  -
+nw/wsj/23/wsj_2366   0    5           its   PRP$        (NP*            -    -    -   -       *       (ARG1*   -
+nw/wsj/23/wsj_2366   0    6           own     JJ           *)           -    -    -   -       *            *)  -
+nw/wsj/23/wsj_2366   0    7            in     IN        (PP*            -    -    -   -       *   (ARGM-LOC*   -
+nw/wsj/23/wsj_2366   0    8           the     DT        (NP*            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0    9    population     NN           *    population   -    2   -       *            *   -
+nw/wsj/23/wsj_2366   0   10          race     NN       *)))))         race   -    1   -       *            *)  -
+nw/wsj/23/wsj_2366   0   11             .      .          *))           -    -    -   -       *            *   -
+
+nw/wsj/23/wsj_2366   0    0         Seven     CD   (TOP(S(NP(NP*)           -    -   -   -    (CARDINAL)      (ARG1*        *            *   -
+nw/wsj/23/wsj_2366   0    1            of     IN            (PP*            -    -   -   -            *            *        *            *   -
+nw/wsj/23/wsj_2366   0    2          nine     CD            (NP*            -    -   -   -    (CARDINAL)           *        *            *   -
+nw/wsj/23/wsj_2366   0    3        states    NNS             *)))        state   -   2   -            *            *)       *            *   -
+nw/wsj/23/wsj_2366   0    4          have    VBP            (VP*          have   -   -   -            *            *        *            *   -
+nw/wsj/23/wsj_2366   0    5         grown    VBN            (VP*          grow  01   4   -            *          (V*)       *            *   -
+nw/wsj/23/wsj_2366   0    6          each     DT            (NP*            -    -   -   -            *   (ARGM-TMP*        *            *   -
+nw/wsj/23/wsj_2366   0    7          year     NN               *)         year   -   1   -            *            *)       *            *   -
+nw/wsj/23/wsj_2366   0    8         since     IN            (PP*            -    -   -   -            *   (ARGM-TMP*        *            *   -
+nw/wsj/23/wsj_2366   0    9         1980      CD           (NP*))           -    -   -   -        (DATE)           *)       *            *   -
+nw/wsj/23/wsj_2366   0   10             ,      ,               *            -    -   -   -            *            *        *            *   -
+nw/wsj/23/wsj_2366   0   11     including    VBG            (PP*       include  01   1   -            *            *      (V*)           *   -
+nw/wsj/23/wsj_2366   0   12           New    NNP         (NP(NP*            -    -   -   -        (GPE*            *   (ARG1*       (ARG1*   -
+nw/wsj/23/wsj_2366   0   13          York    NNP               *)           -    -   -   -            *)           *        *            *)  -
+nw/wsj/23/wsj_2366   0   14             ,      ,               *            -    -   -   -            *            *        *            *   -
+nw/wsj/23/wsj_2366   0   15         which    WDT     (SBAR(WHNP*)           -    -   -   -            *            *        *     (R-ARG1*)  -
+nw/wsj/23/wsj_2366   0   16          lost    VBD          (S(VP*          lose  02   2   -            *            *        *          (V*)  -
+nw/wsj/23/wsj_2366   0   17            4      CD         (NP(NP*            -    -   -   -    (PERCENT*            *        *       (ARG2*   -
+nw/wsj/23/wsj_2366   0   18             %     NN               *)           -    -   -   -            *)           *        *            *   -
+nw/wsj/23/wsj_2366   0   19            of     IN            (PP*            -    -   -   -            *            *        *            *   -
+nw/wsj/23/wsj_2366   0   20           its   PRP$            (NP*            -    -   -   -            *            *        *            *   -
+nw/wsj/23/wsj_2366   0   21    population     NN             *)))   population   -   1   -            *            *        *            *)  -
+nw/wsj/23/wsj_2366   0   22        during     IN            (PP*            -    -   -   -            *            *        *   (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0   23           the     DT            (NP*            -    -   -   -       (DATE*            *        *            *   -
+nw/wsj/23/wsj_2366   0   24         1970s    NNS       *)))))))))           -    -   -   -            *)           *        *)           *)  -
+nw/wsj/23/wsj_2366   0   25             .      .              *))           -    -   -   -            *            *        *            *   -
+
+nw/wsj/23/wsj_2366   0    0              And    CC    (TOP(S*         -    -   -   -        *            *    (ARGM-DIS*)  -
+nw/wsj/23/wsj_2366   0    1         although    IN     (SBAR*         -    -   -   -        *            *             *   -
+nw/wsj/23/wsj_2366   0    2     Pennsylvania   NNP     (S(NP*         -    -   -   -     (GPE)      (ARG0*             *   -
+nw/wsj/23/wsj_2366   0    3              and    CC          *         -    -   -   -        *            *             *   -
+nw/wsj/23/wsj_2366   0    4    Massachusetts   NNP          *)        -    -   -   -     (GPE)           *)            *   -
+nw/wsj/23/wsj_2366   0    5         suffered   VBD       (VP*     suffer  01   2   -        *          (V*)            *   -
+nw/wsj/23/wsj_2366   0    6           slight    JJ       (NP*         -    -   -   -        *       (ARG1*             *   -
+nw/wsj/23/wsj_2366   0    7         declines   NNS          *)   decline   -   1   -        *            *)            *   -
+nw/wsj/23/wsj_2366   0    8          earlier   RBR     (ADVP*         -    -   -   -   (DATE*   (ARGM-TMP*             *   -
+nw/wsj/23/wsj_2366   0    9               in    IN       (PP*         -    -   -   -        *            *             *   -
+nw/wsj/23/wsj_2366   0   10              the    DT       (NP*         -    -   -   -        *            *             *   -
+nw/wsj/23/wsj_2366   0   11           decade    NN     *))))))    decade   -   1   -        *)           *)            *   -
+nw/wsj/23/wsj_2366   0   12                ,     ,          *         -    -   -   -        *            *             *   -
+nw/wsj/23/wsj_2366   0   13             they   PRP       (NP*)        -    -   -   -        *            *        (ARG1*)  -
+nw/wsj/23/wsj_2366   0   14              are   VBP       (VP*        are   -   -   -        *            *             *   -
+nw/wsj/23/wsj_2366   0   15          growing   VBG       (VP*       grow  01   4   -        *            *           (V*)  -
+nw/wsj/23/wsj_2366   0   16            again    RB   (ADVP*)))        -    -   -   -        *            *    (ARGM-TMP*)  -
+nw/wsj/23/wsj_2366   0   17                .     .         *))        -    -   -   -        *            *             *   -
+
+nw/wsj/23/wsj_2366   0    0            At     IN  (TOP(S(PP*            -    -    -   -       *   (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0    1           the     DT        (NP*            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0    2          same     JJ           *            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0    3          time     NN          *))         time   -   12   -       *            *)  -
+nw/wsj/23/wsj_2366   0    4             ,      ,           *            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0    5       several     JJ     (NP(NP*            -    -    -   -       *       (ARG0*   -
+nw/wsj/23/wsj_2366   0    6        states    NNS           *)        state   -    2   -       *            *   -
+nw/wsj/23/wsj_2366   0    7            in     IN        (PP*            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0    8           the     DT        (NP*            -    -    -   -   (LOC*            *   -
+nw/wsj/23/wsj_2366   0    9         South    NNP           *            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0   10           and     CC           *            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0   11          West    NNP         *)))           -    -    -   -       *)           *)  -
+nw/wsj/23/wsj_2366   0   12          have    VBP        (VP*          have   -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0   13           had    VBN        (VP*          have  03    2   -       *          (V*)  -
+nw/wsj/23/wsj_2366   0   14         their   PRP$        (NP*            -    -    -   -       *       (ARG1*   -
+nw/wsj/23/wsj_2366   0   15           own     JJ           *            -    -    -   -       *            *   -
+nw/wsj/23/wsj_2366   0   16    population     NN           *    population   -    2   -       *            *   -
+nw/wsj/23/wsj_2366   0   17    turnaround     NN         *)))           -    -    -   -       *            *)  -
+nw/wsj/23/wsj_2366   0   18             .      .          *))           -    -    -   -       *            *   -
+
+nw/wsj/23/wsj_2366   0    0          Seven    CD  (TOP(S(NP(NP*            -    -   -   -    (CARDINAL)      (ARG1*        (ARG0*   -
+nw/wsj/23/wsj_2366   0    1         states   NNS              *)        state   -   2   -            *            *)            *   -
+nw/wsj/23/wsj_2366   0    2           that   WDT    (SBAR(WHNP*)           -    -   -   -            *     (R-ARG1*)            *   -
+nw/wsj/23/wsj_2366   0    3           grew   VBD         (S(VP*          grow  01   4   -            *          (V*)            *   -
+nw/wsj/23/wsj_2366   0    4             in    IN           (PP*            -    -   -   -            *   (ARGM-TMP*             *   -
+nw/wsj/23/wsj_2366   0    5            the    DT           (NP*            -    -   -   -       (DATE*            *             *   -
+nw/wsj/23/wsj_2366   0    6          early    JJ              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0    7          1980s   NNS         *))))))           -    -   -   -            *)           *)            *)  -
+nw/wsj/23/wsj_2366   0    8            are   VBP           (VP*           are   -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0    9            now    RB         (ADVP*)           -    -   -   -            *            *    (ARGM-TMP*)  -
+nw/wsj/23/wsj_2366   0   10         losing   VBG           (VP*          lose  02   5   -            *            *           (V*)  -
+nw/wsj/23/wsj_2366   0   11     population    NN        (NP(NP*)   population   -   2   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   12            --      :              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   13           West   NNP        (NP(NP*            -    -   -   -        (GPE*            *             *   -
+nw/wsj/23/wsj_2366   0   14       Virginia   NNP              *)           -    -   -   -            *)           *             *   -
+nw/wsj/23/wsj_2366   0   15              ,     ,              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   16    Mississippi   NNP           (NP*)           -    -   -   -         (GPE)           *             *   -
+nw/wsj/23/wsj_2366   0   17              ,     ,              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   18      Louisiana   NNP           (NP*            -    -   -   -         (GPE)           *             *   -
+nw/wsj/23/wsj_2366   0   19              ,     ,              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   20       Oklahoma   NNP              *            -    -   -   -         (GPE)           *             *   -
+nw/wsj/23/wsj_2366   0   21              ,     ,              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   22        Montana   NNP              *            -    -   -   -         (GPE)           *             *   -
+nw/wsj/23/wsj_2366   0   23              ,     ,              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   24        Wyoming   NNP              *            -    -   -   -         (GPE)           *             *   -
+nw/wsj/23/wsj_2366   0   25            and    CC              *            -    -   -   -            *            *             *   -
+nw/wsj/23/wsj_2366   0   26         Alaska   NNP          *)))))           -    -   -   -         (GPE)           *             *   -
+nw/wsj/23/wsj_2366   0   27              .     .             *))           -    -   -   -            *            *             *   -
+
+nw/wsj/23/wsj_2366   0    0       Overall     RB    (TOP(S(ADVP*)         -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0    1             ,      ,               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0    2        though     RB          (ADVP*)         -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0    3             ,      ,               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0    4           the     DT          (S(NP*          -    -   -   -   (LOC*        (ARG0*         *        *             *   -
+nw/wsj/23/wsj_2366   0    5         South    NNP               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0    6           and     CC               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0    7          West    NNP               *)         -    -   -   -       *)            *)        *        *             *   -
+nw/wsj/23/wsj_2366   0    8         still     RB          (ADVP*)         -    -   -   -       *    (ARGM-TMP*)        *        *             *   -
+nw/wsj/23/wsj_2366   0    9       outpace     VB            (VP*     outpace  01   1   -       *           (V*)        *        *             *   -
+nw/wsj/23/wsj_2366   0   10           the     DT            (NP*          -    -   -   -       *        (ARG1*         *        *             *   -
+nw/wsj/23/wsj_2366   0   11     Northeast    NNP               *          -    -   -   -    (LOC)            *         *        *             *   -
+nw/wsj/23/wsj_2366   0   12           and     CC               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0   13       Midwest    NNP             *)))         -    -   -   -    (LOC)            *)        *        *             *   -
+nw/wsj/23/wsj_2366   0   14             ,      ,               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0   15           and     CC               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0   16          fast     RB  (S(NP(NP(ADJP*          -    -   -   -       *             *    (ARG2*)  (ARG0*             *   -
+nw/wsj/23/wsj_2366   0   17            -    HYPH               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0   18       growing    VBG               *)       grow  01   4   -       *             *       (V*)       *             *   -
+nw/wsj/23/wsj_2366   0   19        states    NNS               *)      state   -   2   -       *             *    (ARG1*)       *             *   -
+nw/wsj/23/wsj_2366   0   20          like     IN            (PP*          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0   21       Florida    NNP         (NP(NP*)         -    -   -   -    (GPE)            *         *        *             *   -
+nw/wsj/23/wsj_2366   0   22           and     CC               *          -    -   -   -       *             *         *        *             *   -
+nw/wsj/23/wsj_2366   0   23    California    NNP         (NP*))))         -    -   -   -    (GPE)            *         *        *)            *   -
+nw/wsj/23/wsj_2366   0   24        ensure     VB            (VP*      ensure  01   1   -       *             *         *      (V*)            *   -
+nw/wsj/23/wsj_2366   0   25          that     IN          (SBAR*          -    -   -   -       *             *         *   (ARG1*             *   -
+nw/wsj/23/wsj_2366   0   26           the     DT          (S(NP*          -    -   -   -       *             *         *        *        (ARG1*   -
+nw/wsj/23/wsj_2366   0   27       pattern     NN               *)    pattern   -   5   -       *             *         *        *             *)  -
+nw/wsj/23/wsj_2366   0   28          will     MD            (VP*          -    -   -   -       *             *         *        *    (ARGM-MOD*)  -
+nw/wsj/23/wsj_2366   0   29      continue     VB       (VP*))))))   continue  01   1   -       *             *         *        *)          (V*)  -
+nw/wsj/23/wsj_2366   0   30             .      .              *))         -    -   -   -       *             *         *        *             *   -
+
+nw/wsj/23/wsj_2366   0    0          But    CC  (TOP(S*        -    -   -   -       *             *             *   -
+nw/wsj/23/wsj_2366   0    1          the    DT  (NP(NP*        -    -   -   -       *        (ARG1*        (ARG1*   -
+nw/wsj/23/wsj_2366   0    2       growth    NN        *    growth   -   1   -       *             *             *   -
+nw/wsj/23/wsj_2366   0    3          gap    NN        *)      gap   -   1   -       *             *             *   -
+nw/wsj/23/wsj_2366   0    4      between    IN     (PP*        -    -   -   -       *             *             *   -
+nw/wsj/23/wsj_2366   0    5          the    DT  (NP(NP*        -    -   -   -   (LOC*             *             *   -
+nw/wsj/23/wsj_2366   0    6          Sun   NNP        *        -    -   -   -       *             *             *   -
+nw/wsj/23/wsj_2366   0    7         Belt   NNP        *)       -    -   -   -       *)            *             *   -
+nw/wsj/23/wsj_2366   0    8          and    CC        *        -    -   -   -       *             *             *   -
+nw/wsj/23/wsj_2366   0    9        other    JJ     (NP*        -    -   -   -       *             *             *   -
+nw/wsj/23/wsj_2366   0   10      regions   NNS     *))))   region   -   3   -       *             *)            *)  -
+nw/wsj/23/wsj_2366   0   11          has   VBZ     (VP*      have   -   -   -       *             *             *   -
+nw/wsj/23/wsj_2366   0   12      clearly    RB   (ADVP*)       -    -   -   -       *    (ARGM-ADV*)   (ARGM-ADV*)  -
+nw/wsj/23/wsj_2366   0   13      started   VBN     (VP*     start  01   2   -       *           (V*)            *   -
+nw/wsj/23/wsj_2366   0   14    narrowing   VBG   (VP*)))   narrow  01   1   -       *             *           (V*)  -
+nw/wsj/23/wsj_2366   0   15            .     .       *))       -    -   -   -       *             *             *   -
+
+nw/wsj/23/wsj_2366   0   0            More    RBR  (TOP(X*              -    -   -   -   *        *   -
+nw/wsj/23/wsj_2366   0   1         Elderly     JJ        *              -    -   -   -   *        *   -
+nw/wsj/23/wsj_2366   0   2        Maintain     VB        *        maintain  01   1   -   *      (V*)  -
+nw/wsj/23/wsj_2366   0   3           Their   PRP$     (NP*              -    -   -   -   *   (ARG1*   -
+nw/wsj/23/wsj_2366   0   4    Independence     NN      *)))   independence   -   1   -   *        *)  -
+
+nw/wsj/23/wsj_2366   0    0      THANKS   NNS   (TOP(S(S(NP(NP*)     thanks   -   1   -   *             *   -
+nw/wsj/23/wsj_2366   0    1          TO    IN              (PP*          -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    2      modern    JJ              (NP*          -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    3    medicine    NN              *))))   medicine   -   1   -   *             *   -
+nw/wsj/23/wsj_2366   0    4           ,     ,                 *          -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    5        more   JJR              (NP*          -    -   -   -   *        (ARG1*   -
+nw/wsj/23/wsj_2366   0    6     couples   NNS                 *)     couple   -   2   -   *             *)  -
+nw/wsj/23/wsj_2366   0    7         are   VBP              (VP*         are   -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    8     growing   VBG              (VP*        grow  01   1   -   *           (V*)  -
+nw/wsj/23/wsj_2366   0    9         old    JJ            (ADJP*)         -    -   -   -   *        (ARG2*)  -
+nw/wsj/23/wsj_2366   0   10    together    RB          (ADVP*)))         -    -   -   -   *    (ARGM-ADV*)  -
+nw/wsj/23/wsj_2366   0   11           .     .                *))         -    -   -   -   *             *   -
+
+nw/wsj/23/wsj_2366   0    0            And    CC     (TOP(S*        -    -   -   -   *        *    (ARGM-DIS*)  -
+nw/wsj/23/wsj_2366   0    1           even    RB   (PP(ADVP*)       -    -   -   -   *        *    (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0    2          after    IN           *        -    -   -   -   *        *             *   -
+nw/wsj/23/wsj_2366   0    3         losing   VBG      (S(VP*      lose  02   2   -   *      (V*)            *   -
+nw/wsj/23/wsj_2366   0    4              a    DT        (NP*        -    -   -   -   *   (ARG1*             *   -
+nw/wsj/23/wsj_2366   0    5         spouse    NN        *))))   spouse   -   1   -   *        *)            *)  -
+nw/wsj/23/wsj_2366   0    6              ,     ,           *        -    -   -   -   *        *             *   -
+nw/wsj/23/wsj_2366   0    7           more   JJR     (NP(NP*)       -    -   -   -   *        *        (ARG1*   -
+nw/wsj/23/wsj_2366   0    8             of    IN        (PP*        -    -   -   -   *        *             *   -
+nw/wsj/23/wsj_2366   0    9            the    DT        (NP*        -    -   -   -   *        *             *   -
+nw/wsj/23/wsj_2366   0   10        elderly    JJ         *)))       -    -   -   -   *        *             *)  -
+nw/wsj/23/wsj_2366   0   11            are   VBP        (VP*       are   -   -   -   *        *             *   -
+nw/wsj/23/wsj_2366   0   12        staying   VBG        (VP*      stay  01   1   -   *        *           (V*)  -
+nw/wsj/23/wsj_2366   0   13    independent    JJ    (ADJP*)))       -    -   -   -   *        *        (ARG3*)  -
+nw/wsj/23/wsj_2366   0   14              .     .          *))       -    -   -   -   *        *             *   -
+
+nw/wsj/23/wsj_2366   0    0                       A    DT  (TOP(S(NP(NP*            -    -   -   -           *   (ARG0*         *            *   -
+nw/wsj/23/wsj_2366   0    1                     new    JJ              *            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0    2                  Census   NNP          (NML*            -    -   -   -       (ORG*        *         *            *   -
+nw/wsj/23/wsj_2366   0    3                  Bureau   NNP              *)           -    -   -   -           *)       *         *            *   -
+nw/wsj/23/wsj_2366   0    4                   study    NN              *)        study   -   3   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0    5                      of    IN           (PP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0    6                     the    DT           (NP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0    7    noninstitutionalized    JJ              *            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0    8              population    NN            *)))   population   -   1   -           *        *)        *            *   -
+nw/wsj/23/wsj_2366   0    9                   shows   VBZ           (VP*          show  01   1   -           *      (V*)        *            *   -
+nw/wsj/23/wsj_2366   0   10                    that    IN         (SBAR*            -    -   -   -           *   (ARG1*         *            *   -
+nw/wsj/23/wsj_2366   0   11                     64     CD      (S(NP(NP*            -    -   -   -   (PERCENT*        *         *       (ARG0*   -
+nw/wsj/23/wsj_2366   0   12                       %    NN              *)           -    -   -   -           *)       *         *            *   -
+nw/wsj/23/wsj_2366   0   13                      of    IN           (PP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   14                  people   NNS        (NP(NP*)       people   -   1   -           *        *    (ARG1*)           *   -
+nw/wsj/23/wsj_2366   0   15                    aged   VBN         (ADJP*           age  01   1   -      (DATE*        *       (V*)           *   -
+nw/wsj/23/wsj_2366   0   16                     65     CD        (NP(QP*            -    -   -   -           *        *    (ARG2*            *   -
+nw/wsj/23/wsj_2366   0   17                      to    TO              *            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   18                     74     CD         *))))))           -    -   -   -           *)       *         *)           *)  -
+nw/wsj/23/wsj_2366   0   19                    were   VBD           (VP*            be   -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   20                  living   VBG           (VP*          live  01   2   -           *        *         *          (V*)  -
+nw/wsj/23/wsj_2366   0   21                    with    IN           (PP*            -    -   -   -           *        *         *   (ARGM-MNR*   -
+nw/wsj/23/wsj_2366   0   22                       a    DT           (NP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   23                  spouse    NN             *))       spouse   -   1   -           *        *         *            *)  -
+nw/wsj/23/wsj_2366   0   24                      in    IN           (PP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   25                   1988     CD          (NP*))           -    -   -   -       (DATE)       *         *            *   -
+nw/wsj/23/wsj_2366   0   26                       ,     ,              *            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   27                      up    RB         (ADVP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   28                    from    IN           (PP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   29                     59     CD           (NP*            -    -   -   -   (PERCENT*        *         *            *   -
+nw/wsj/23/wsj_2366   0   30                       %    NN              *)           -    -   -   -           *)       *         *            *   -
+nw/wsj/23/wsj_2366   0   31                      in    IN           (PP*            -    -   -   -           *        *         *            *   -
+nw/wsj/23/wsj_2366   0   32                   1970     CD   (NP*)))))))))           -    -   -   -       (DATE)       *)        *            *   -
+nw/wsj/23/wsj_2366   0   33                       .     .             *))           -    -   -   -           *        *         *            *   -
+
+nw/wsj/23/wsj_2366   0    0       This    DT        (TOP(S(NP*)     -    -   -   -   *        (ARG0*)            *   -
+nw/wsj/23/wsj_2366   0    1       does   VBZ              (VP*     doe   -   -   -   *             *             *   -
+nw/wsj/23/wsj_2366   0    2        n't    RB                 *      -    -   -   -   *    (ARGM-NEG*)            *   -
+nw/wsj/23/wsj_2366   0    3       mean    VB              (VP*    mean  01   1   -   *           (V*)            *   -
+nw/wsj/23/wsj_2366   0    4       they   PRP       (SBAR(S(NP*)     -    -   -   -   *             *        (ARG0*)  -
+nw/wsj/23/wsj_2366   0    5        're   VBP              (VP*      be   -   1   -   *             *             *   -
+nw/wsj/23/wsj_2366   0    6       less   RBR            (ADJP*      -    -   -   -   *             *             *   -
+nw/wsj/23/wsj_2366   0    7     likely    JJ                 *      -    -   -   -   *             *             *   -
+nw/wsj/23/wsj_2366   0    8         to    TO            (S(VP*      -    -   -   -   *             *             *   -
+nw/wsj/23/wsj_2366   0    9       live    VB              (VP*    live  01   2   -   *             *           (V*)  -
+nw/wsj/23/wsj_2366   0   10      alone    RB            (ADVP*)     -    -   -   -   *             *             *   -
+nw/wsj/23/wsj_2366   0   11          ,     ,                 *      -    -   -   -   *             *             *   -
+nw/wsj/23/wsj_2366   0   12    however    RB   (ADVP*))))))))))     -    -   -   -   *             *    (ARGM-DIS*)  -
+nw/wsj/23/wsj_2366   0   13          .     .                *))     -    -   -   -   *             *             *   -
+
+nw/wsj/23/wsj_2366   0    0        That    DT  (TOP(S(NP*        -    -   -   -           *       (ARG1*   -
+nw/wsj/23/wsj_2366   0    1       share    NN           *)    share   -   2   -           *            *)  -
+nw/wsj/23/wsj_2366   0    2         has   VBZ        (VP*      have   -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    3    remained   VBN        (VP*    remain  01   1   -           *          (V*)  -
+nw/wsj/23/wsj_2366   0    4          at    IN        (PP*        -    -   -   -           *       (ARG3*   -
+nw/wsj/23/wsj_2366   0    5       about    RB     (NP(QP*        -    -   -   -   (PERCENT*            *   -
+nw/wsj/23/wsj_2366   0    6         24     CD           *)       -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    7           %    NN          *))       -    -   -   -           *)           *)  -
+nw/wsj/23/wsj_2366   0    8       since    IN        (PP*        -    -   -   -           *   (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0    9       1970     CD     (NP*))))       -    -   -   -       (DATE)           *)  -
+nw/wsj/23/wsj_2366   0   10           .     .          *))       -    -   -   -           *            *   -
+
+nw/wsj/23/wsj_2366   0    0         What    WP   (TOP(S(SBAR(WHNP*)       -    -   -   -   *    (ARG1*)  (ARG1*            *   -
+nw/wsj/23/wsj_2366   0    1          has   VBZ              (S(VP*      have   -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0    2      changed   VBN             (VP*))))   change  01   1   -   *       (V*)       *)           *   -
+nw/wsj/23/wsj_2366   0    3           is   VBZ                (VP*        be  01   1   -   *         *      (V*)           *   -
+nw/wsj/23/wsj_2366   0    4         that    IN              (SBAR*        -    -   -   -   *         *   (ARG2*            *   -
+nw/wsj/23/wsj_2366   0    5         more   JJR           (S(NP(NP*)       -    -   -   -   *         *        *       (ARG0*   -
+nw/wsj/23/wsj_2366   0    6           of    IN                (PP*        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0    7          the    DT                (NP*        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0    8        young    JJ                   *        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0    9      elderly    JJ                 *)))       -    -   -   -   *         *        *            *)  -
+nw/wsj/23/wsj_2366   0   10          are   VBP                (VP*       are   -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   11       living   VBG                (VP*      live  01   1   -   *         *        *          (V*)  -
+nw/wsj/23/wsj_2366   0   12         with    IN             (PP(PP*        -    -   -   -   *         *        *   (ARGM-MNR*   -
+nw/wsj/23/wsj_2366   0   13      spouses   NNS               (NP*))   spouse   -   1   -   *         *        *            *)  -
+nw/wsj/23/wsj_2366   0   14       rather    RB             (CONJP*        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   15         than    IN                   *)       -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   16         with    IN                (PP*        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   17        other    JJ             (NP(NP*        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   18    relatives   NNS                   *)       -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   19            ,     ,                   *        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   20         such    JJ                (PP*        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   21           as    IN                   *        -    -   -   -   *         *        *            *   -
+nw/wsj/23/wsj_2366   0   22     children   NNS       (NP*))))))))))    child   -   1   -   *         *        *)           *   -
+nw/wsj/23/wsj_2366   0   23            .     .                  *))       -    -   -   -   *         *        *            *   -
+
+nw/wsj/23/wsj_2366   0    0           In    IN  (TOP(S(PP*        -    -   -   -           *   (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0    1        1988     CD       (NP*))       -    -   -   -       (DATE)           *)  -
+nw/wsj/23/wsj_2366   0    2            ,     ,           *        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    3          10     CD     (NP(NP*        -    -   -   -   (PERCENT*       (ARG0*   -
+nw/wsj/23/wsj_2366   0    4            %    NN           *)       -    -   -   -           *)           *   -
+nw/wsj/23/wsj_2366   0    5           of    IN        (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    6        those    DT     (NP(QP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    7         aged    JJ           *        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    8          65     CD           *        -    -   -   -      (DATE*            *   -
+nw/wsj/23/wsj_2366   0    9           to    TO           *        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   10          74     CD        *))))       -    -   -   -           *)           *)  -
+nw/wsj/23/wsj_2366   0   11        lived   VBN        (VP*      live  01   2   -           *          (V*)  -
+nw/wsj/23/wsj_2366   0   12         with    IN        (PP*        -    -   -   -           *   (ARGM-MNR*   -
+nw/wsj/23/wsj_2366   0   13    relatives   NNS     (NP(NP*)       -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   14        other    JJ      (ADJP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   15         than    IN        (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   16      spouses   NNS    (NP*)))))   spouse   -   1   -           *            *)  -
+nw/wsj/23/wsj_2366   0   17            ,     ,           *        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   18         down    RB      (ADVP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   19         from    IN        (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   20          15     CD        (NP*        -    -   -   -   (PERCENT*            *   -
+nw/wsj/23/wsj_2366   0   21            %    NN           *)       -    -   -   -           *)           *   -
+nw/wsj/23/wsj_2366   0   22           in    IN        (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   23        1970     CD    (NP*)))))       -    -   -   -       (DATE)           *   -
+nw/wsj/23/wsj_2366   0   24            .     .          *))       -    -   -   -           *            *   -
+
+nw/wsj/23/wsj_2366   0   0         As    IN  (TOP(S(SBAR*        -    -      -   -   *         *   -
+nw/wsj/23/wsj_2366   0   1     people   NNS        (S(NP*)   people   -      1   -   *    (ARG1*)  -
+nw/wsj/23/wsj_2366   0   2        get   VBP          (VP*       get  01   11.2   -   *       (V*)  -
+nw/wsj/23/wsj_2366   0   3       even    RB        (ADJP*        -    -      -   -   *    (ARG2*   -
+nw/wsj/23/wsj_2366   0   4      older   JJR          *))))       -    -      -   -   *         *)  -
+nw/wsj/23/wsj_2366   0   5          ,     ,             *        -    -      -   -   *         *   -
+nw/wsj/23/wsj_2366   0   6       many    JJ          (NP*)       -    -      -   -   *         *   -
+nw/wsj/23/wsj_2366   0   7     become   VBP          (VP*    become   -      1   -   *         *   -
+nw/wsj/23/wsj_2366   0   8    widowed   VBN       (ADJP*))    widow   -      -   -   *         *   -
+nw/wsj/23/wsj_2366   0   9          .     .            *))       -    -      -   -   *         *   -
+
+nw/wsj/23/wsj_2366   0    0         But    CC     (TOP(S*        -    -   -   -           *         *            *    (ARGM-DIS*)  -
+nw/wsj/23/wsj_2366   0    1        even    RB   (PP(ADVP*)       -    -   -   -           *         *            *    (ARGM-ADV*   -
+nw/wsj/23/wsj_2366   0    2       among    IN           *        -    -   -   -           *         *            *             *   -
+nw/wsj/23/wsj_2366   0    3       those    DT     (NP(NP*)       -    -   -   -           *    (ARG1*)           *             *   -
+nw/wsj/23/wsj_2366   0    4        aged   VBN        (VP*       age  01   1   -           *       (V*)           *             *   -
+nw/wsj/23/wsj_2366   0    5         75     CD     (NP(QP*        -    -   -   -      (DATE*    (ARG2*            *             *   -
+nw/wsj/23/wsj_2366   0    6         and    CC           *        -    -   -   -           *         *            *             *   -
+nw/wsj/23/wsj_2366   0    7       older   JJR       *)))))       -    -   -   -           *)        *)           *             *)  -
+nw/wsj/23/wsj_2366   0    8           ,     ,           *        -    -   -   -           *         *            *             *   -
+nw/wsj/23/wsj_2366   0    9         the    DT     (NP(NP*        -    -   -   -           *         *       (ARG0*        (ARG1*   -
+nw/wsj/23/wsj_2366   0   10       share    NN           *)    share   -   2   -           *         *            *)            *   -
+nw/wsj/23/wsj_2366   0   11      living   VBG        (VP*      live  01   2   -           *         *          (V*)            *   -
+nw/wsj/23/wsj_2366   0   12        with    IN        (PP*        -    -   -   -           *         *   (ARGM-MNR*             *   -
+nw/wsj/23/wsj_2366   0   13           a    DT        (NP*        -    -   -   -           *         *            *             *   -
+nw/wsj/23/wsj_2366   0   14      spouse    NN        *))))   spouse   -   1   -           *         *            *)            *)  -
+nw/wsj/23/wsj_2366   0   15        rose   VBD        (VP*      rise  01   2   -           *         *            *           (V*)  -
+nw/wsj/23/wsj_2366   0   16    slightly    RB      (ADVP*)       -    -   -   -           *         *            *        (ARG2*)  -
+nw/wsj/23/wsj_2366   0   17           ,     ,           *        -    -   -   -           *         *            *             *   -
+nw/wsj/23/wsj_2366   0   18          to    IN        (PP*        -    -   -   -           *         *            *        (ARG4*   -
+nw/wsj/23/wsj_2366   0   19         40     CD        (NP*        -    -   -   -   (PERCENT*         *            *             *   -
+nw/wsj/23/wsj_2366   0   20           %    NN          *))       -    -   -   -           *)        *            *             *)  -
+nw/wsj/23/wsj_2366   0   21          in    IN        (PP*        -    -   -   -           *         *            *    (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0   22       1988     CD       (NP*))       -    -   -   -       (DATE)        *            *             *)  -
+nw/wsj/23/wsj_2366   0   23        from    IN        (PP*        -    -   -   -           *         *            *        (ARG3*   -
+nw/wsj/23/wsj_2366   0   24         38     CD     (NP(NP*        -    -   -   -   (PERCENT*         *            *             *   -
+nw/wsj/23/wsj_2366   0   25           %    NN           *)       -    -   -   -           *)        *            *             *   -
+nw/wsj/23/wsj_2366   0   26          in    IN        (PP*        -    -   -   -           *         *            *             *   -
+nw/wsj/23/wsj_2366   0   27       1970     CD    (NP*)))))       -    -   -   -       (DATE)        *            *             *)  -
+nw/wsj/23/wsj_2366   0   28           .     .          *))       -    -   -   -           *         *            *             *   -
+
+nw/wsj/23/wsj_2366   0    0            Like     IN  (TOP(S(PP*      -    -   -   -   *   (ARGM-MNR*            *   -
+nw/wsj/23/wsj_2366   0    1           their   PRP$        (NP*      -    -   -   -   *            *            *   -
+nw/wsj/23/wsj_2366   0    2         younger    JJR           *      -    -   -   -   *            *            *   -
+nw/wsj/23/wsj_2366   0    3    counterparts    NNS          *))     -    -   -   -   *            *)           *   -
+nw/wsj/23/wsj_2366   0    4               ,      ,           *      -    -   -   -   *            *            *   -
+nw/wsj/23/wsj_2366   0    5             the     DT        (NP*      -    -   -   -   *       (ARG1*       (ARG0*   -
+nw/wsj/23/wsj_2366   0    6           older     JJ           *      -    -   -   -   *            *            *   -
+nw/wsj/23/wsj_2366   0    7         elderly     JJ           *)     -    -   -   -   *            *)           *)  -
+nw/wsj/23/wsj_2366   0    8             are    VBP        (VP*      be  01   1   -   *          (V*)           *   -
+nw/wsj/23/wsj_2366   0    9            less    RBR      (ADJP*      -    -   -   -   *       (ARG2*            *   -
+nw/wsj/23/wsj_2366   0   10          likely     JJ           *      -    -   -   -   *            *            *   -
+nw/wsj/23/wsj_2366   0   11              to     TO      (S(VP*      -    -   -   -   *            *            *   -
+nw/wsj/23/wsj_2366   0   12            live     VB        (VP*    live  01   2   -   *            *          (V*)  -
+nw/wsj/23/wsj_2366   0   13            with     IN        (PP*      -    -   -   -   *            *   (ARGM-MNR*   -
+nw/wsj/23/wsj_2366   0   14           other     JJ        (NP*      -    -   -   -   *            *            *   -
+nw/wsj/23/wsj_2366   0   15       relatives    NNS     *)))))))     -    -   -   -   *            *)           *)  -
+nw/wsj/23/wsj_2366   0   16               .      .          *))     -    -   -   -   *            *            *   -
+
+nw/wsj/23/wsj_2366   0    0         Only    RB  (TOP(S(NP(NP(NP(QP*        -    -     -   -   (PERCENT*   (ARG0*   -
+nw/wsj/23/wsj_2366   0    1          17     CD                    *)       -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0    2            %    NN                    *)       -    -     -   -           *)       *   -
+nw/wsj/23/wsj_2366   0    3           of    IN                 (PP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0    4        those    DT                 (NP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0    5         aged    JJ                    *        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0    6          75     CD                  *)))       -    -     -   -      (DATE*        *   -
+nw/wsj/23/wsj_2366   0    7          and    CC                    *        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0    8        older   JJR                (NP*))       -    -     -   -           *)       *)  -
+nw/wsj/23/wsj_2366   0    9        lived   VBN                 (VP*      live  01   5.8   -           *      (V*)  -
+nw/wsj/23/wsj_2366   0   10         with    IN                 (PP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   11    relatives   NNS              (NP(NP*)       -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   12        other    JJ               (ADJP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   13         than    IN                 (PP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   14      spouses   NNS              (NP(NP*)   spouse   -     1   -           *        *   -
+nw/wsj/23/wsj_2366   0   15           in    IN                 (PP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   16        1988     CD           (NP*)))))))       -    -     -   -       (DATE)       *   -
+nw/wsj/23/wsj_2366   0   17            ,     ,                    *        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   18         down    RB               (ADVP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   19         from    IN                 (PP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   20          26     CD                 (NP*        -    -     -   -   (PERCENT*        *   -
+nw/wsj/23/wsj_2366   0   21            %    NN                    *)       -    -     -   -           *)       *   -
+nw/wsj/23/wsj_2366   0   22           in    IN                 (PP*        -    -     -   -           *        *   -
+nw/wsj/23/wsj_2366   0   23        1970     CD             (NP*)))))       -    -     -   -       (DATE)       *   -
+nw/wsj/23/wsj_2366   0   24            .     .                   *))       -    -     -   -           *        *   -
+
+nw/wsj/23/wsj_2366   0    0           The    DT  (TOP(S(NP(NP*          -    -   -   -           *             *   (ARG1*   -
+nw/wsj/23/wsj_2366   0    1    likelihood    NN              *)         -    -   -   -           *             *        *   -
+nw/wsj/23/wsj_2366   0    2            of    IN           (PP*          -    -   -   -           *             *        *   -
+nw/wsj/23/wsj_2366   0    3        living   VBG         (S(VP*        live  01   2   -           *           (V*)       *   -
+nw/wsj/23/wsj_2366   0    4         alone    RB         (ADVP*)         -    -   -   -           *    (ARGM-MNR*)       *   -
+nw/wsj/23/wsj_2366   0    5        beyond    IN           (PP*          -    -   -   -           *    (ARGM-TMP*        *   -
+nw/wsj/23/wsj_2366   0    6           the    DT        (NP(NP*          -    -   -   -      (DATE*             *        *   -
+nw/wsj/23/wsj_2366   0    7           age    NN              *)        age   -   1   -           *             *        *   -
+nw/wsj/23/wsj_2366   0    8            of    IN           (PP*          -    -   -   -           *             *        *   -
+nw/wsj/23/wsj_2366   0    9           75     CD    (NP*))))))))         -    -   -   -           *)            *)       *)  -
+nw/wsj/23/wsj_2366   0   10           has   VBZ           (VP*        have   -   -   -           *             *        *   -
+nw/wsj/23/wsj_2366   0   11     increased   VBN           (VP*    increase  01   1   -           *             *      (V*)  -
+nw/wsj/23/wsj_2366   0   12            to    IN           (PP*          -    -   -   -           *             *   (ARG4*   -
+nw/wsj/23/wsj_2366   0   13           40     CD           (NP*          -    -   -   -   (PERCENT*             *        *   -
+nw/wsj/23/wsj_2366   0   14             %    NN             *))         -    -   -   -           *)            *        *)  -
+nw/wsj/23/wsj_2366   0   15          from    IN           (PP*          -    -   -   -           *             *   (ARG3*   -
+nw/wsj/23/wsj_2366   0   16           32     CD           (NP*          -    -   -   -   (PERCENT*             *        *   -
+nw/wsj/23/wsj_2366   0   17             %    NN           *))))         -    -   -   -           *)            *        *)  -
+nw/wsj/23/wsj_2366   0   18             .     .             *))         -    -   -   -           *             *        *   -
+
+nw/wsj/23/wsj_2366   0    0           More   JJR  (TOP(S(NP*        -    -   -   -   *       (ARG1*         *   -
+nw/wsj/23/wsj_2366   0    1         people   NNS           *)   people   -   1   -   *            *)        *   -
+nw/wsj/23/wsj_2366   0    2            are   VBP        (VP*       are   -   -   -   *            *         *   -
+nw/wsj/23/wsj_2366   0    3      remaining   VBG        (VP*    remain  01   1   -   *          (V*)        *   -
+nw/wsj/23/wsj_2366   0    4    independent    JJ      (ADJP*)       -    -   -   -   *       (ARG3*)        *   -
+nw/wsj/23/wsj_2366   0    5         longer   RBR      (ADVP*        -    -   -   -   *   (ARGM-TMP*         *   -
+nw/wsj/23/wsj_2366   0    6     presumably    RB           *)       -    -   -   -   *            *)        *   -
+nw/wsj/23/wsj_2366   0    7        because    IN      (SBAR*        -    -   -   -   *            *         *   -
+nw/wsj/23/wsj_2366   0    8           they   PRP      (S(NP*)       -    -   -   -   *            *    (ARG1*)  -
+nw/wsj/23/wsj_2366   0    9            are   VBP        (VP*        be  01   1   -   *            *       (V*)  -
+nw/wsj/23/wsj_2366   0   10         better   JJR      (ADJP*        -    -   -   -   *            *         *   -
+nw/wsj/23/wsj_2366   0   11            off    RP           *)       -    -   -   -   *            *         *   -
+nw/wsj/23/wsj_2366   0   12     physically    RB      (ADVP*        -    -   -   -   *            *         *   -
+nw/wsj/23/wsj_2366   0   13            and    CC           *        -    -   -   -   *            *         *   -
+nw/wsj/23/wsj_2366   0   14    financially    RB      *))))))       -    -   -   -   *            *         *   -
+nw/wsj/23/wsj_2366   0   15              .     .          *))       -    -   -   -   *            *         *   -
+
+nw/wsj/23/wsj_2366   0   0    Careers    NNS   (TOP(S(NP*)   career   -   -   -   (WORK_OF_ART*    (ARG0*)  -
+nw/wsj/23/wsj_2366   0   1      Count     VB         (VP*     count  01   3   -               *       (V*)  -
+nw/wsj/23/wsj_2366   0   2       Most    RBS  (S(VP(ADVP*        -    -   -   -               *    (ARG1*   -
+nw/wsj/23/wsj_2366   0   3        For     IN         (PP*        -    -   -   -               *         *   -
+nw/wsj/23/wsj_2366   0   4        the     DT         (NP*        -    -   -   -               *         *   -
+nw/wsj/23/wsj_2366   0   5       Well    NNP          *)))       -    -   -   -               *)        *   -
+nw/wsj/23/wsj_2366   0   6         -    HYPH            *        -    -   -   -               *         *   -
+nw/wsj/23/wsj_2366   0   7         to     TO            *        -    -   -   -               *         *   -
+nw/wsj/23/wsj_2366   0   8         -    HYPH            *        -    -   -   -               *         *   -
+nw/wsj/23/wsj_2366   0   9         Do     VB        *)))))       do   -   1   -               *         *)  -
+
+nw/wsj/23/wsj_2366   0    0        MANY    JJ  (TOP(S(NP*         -    -   -   -   *   (ARG0*   -
+nw/wsj/23/wsj_2366   0    1    AFFLUENT    JJ           *         -    -   -   -   *        *   -
+nw/wsj/23/wsj_2366   0    2      people   NNS           *)    people   -   1   -   *        *)  -
+nw/wsj/23/wsj_2366   0    3       place   VBP        (VP*      place  01   1   -   *      (V*)  -
+nw/wsj/23/wsj_2366   0    4    personal    JJ        (NP*         -    -   -   -   *   (ARG1*   -
+nw/wsj/23/wsj_2366   0    5     success    NN           *    success   -   2   -   *        *   -
+nw/wsj/23/wsj_2366   0    6         and    CC           *         -    -   -   -   *        *   -
+nw/wsj/23/wsj_2366   0    7       money    NN           *)     money   -   2   -   *        *)  -
+nw/wsj/23/wsj_2366   0    8       above    IN        (PP*         -    -   -   -   *   (ARG2*   -
+nw/wsj/23/wsj_2366   0    9      family    NN      (NP*)))    family   -   1   -   *        *)  -
+nw/wsj/23/wsj_2366   0   10           .     .          *))        -    -   -   -   *        *   -
+
+nw/wsj/23/wsj_2366   0    0             At    IN  (TOP(S(ADVP*          -    -   -   -          *   (ARGM-ADV*         *   -
+nw/wsj/23/wsj_2366   0    1          least   JJS             *)         -    -   -   -          *            *)        *   -
+nw/wsj/23/wsj_2366   0    2           that    DT          (NP*)         -    -   -   -          *       (ARG1*)        *   -
+nw/wsj/23/wsj_2366   0    3             's   VBZ          (VP*          be  01   2   -          *          (V*)        *   -
+nw/wsj/23/wsj_2366   0    4           what    WP   (SBAR(WHNP*)         -    -   -   -          *       (ARG2*    (ARG1*)  -
+nw/wsj/23/wsj_2366   0    5              a    DT     (S(NP(NP*          -    -   -   -          *            *    (ARG0*   -
+nw/wsj/23/wsj_2366   0    6         survey    NN             *)     survey   -   1   -          *            *         *   -
+nw/wsj/23/wsj_2366   0    7             by    IN          (PP*          -    -   -   -          *            *         *   -
+nw/wsj/23/wsj_2366   0    8          Ernst   NNP       (NP(NP*          -    -   -   -      (ORG*            *         *   -
+nw/wsj/23/wsj_2366   0    9              &    CC             *          -    -   -   -          *            *         *   -
+nw/wsj/23/wsj_2366   0   10          Young   NNP             *)         -    -   -   -          *)           *         *   -
+nw/wsj/23/wsj_2366   0   11            and    CC             *          -    -   -   -          *            *         *   -
+nw/wsj/23/wsj_2366   0   12    Yankelovich   NNP       (NP(NP*)         -    -   -   -    (PERSON)           *         *   -
+nw/wsj/23/wsj_2366   0   13              ,     ,             *          -    -   -   -          *            *         *   -
+nw/wsj/23/wsj_2366   0   14         Clancy   NNP          (NP*)         -    -   -   -    (PERSON)           *         *   -
+nw/wsj/23/wsj_2366   0   15              ,     ,             *          -    -   -   -          *            *         *   -
+nw/wsj/23/wsj_2366   0   16        Shulman   NNP      (NP*)))))         -    -   -   -    (PERSON)           *         *)  -
+nw/wsj/23/wsj_2366   0   17      indicates   VBZ       (VP*))))   indicate  01   1   -          *            *)      (V*)  -
+nw/wsj/23/wsj_2366   0   18              .     .            *))         -    -   -   -          *            *         *   -
+
+nw/wsj/23/wsj_2366   0    0            Two     CD          (TOP(S(NP(NP*        -    -   -   -   (CARDINAL*   (ARG0*             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0    1             -    HYPH                      *        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0    2         thirds    NNS                      *)       -    -   -   -            *)       *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0    3             of     IN                   (PP*        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0    4    respondents    NNS                 (NP*)))       -    -   -   -            *        *)            *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0    5           said    VBD                   (VP*       say  01   1   -            *      (V*)            *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0    6           they    PRP            (SBAR(S(NP*)       -    -   -   -            *   (ARG1*        (ARG0*)        *        *             *        *   -
+nw/wsj/23/wsj_2366   0    7       strongly     RB                 (ADVP*)       -    -   -   -            *        *    (ARGM-MNR*)        *        *             *        *   -
+nw/wsj/23/wsj_2366   0    8           felt    VBD                   (VP*      feel  01   1   -            *        *           (V*)        *        *             *        *   -
+nw/wsj/23/wsj_2366   0    9            the     DT                   (NP*        -    -   -   -            *        *        (ARG1*         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   10           need     NN                      *      need   -   1   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   11             to     TO                 (S(VP*        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   12             be     VB                   (VP*        be  01   1   -            *        *             *       (V*)       *             *        *   -
+nw/wsj/23/wsj_2366   0   13     successful     JJ                 (ADJP*)       -    -   -   -            *        *             *    (ARG2*)       *             *        *   -
+nw/wsj/23/wsj_2366   0   14             in     IN                   (PP*        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   15          their   PRP$                   (NP*        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   16           jobs    NNS                     *))      job   -   1   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   17              ,      ,                      *        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   18          while     IN                 (SBAR*        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   19          fewer    JJR              (S(NP(QP*        -    -   -   -   (CARDINAL*        *             *         *   (ARG0*             *        *   -
+nw/wsj/23/wsj_2366   0   20           than     IN                      *        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   21           half     CD                     *))       -    -   -   -            *)       *             *         *        *)            *        *   -
+nw/wsj/23/wsj_2366   0   22           said    VBD                   (VP*       say  01   1   -            *        *             *         *      (V*)            *        *   -
+nw/wsj/23/wsj_2366   0   23           they    PRP            (SBAR(S(NP*)       -    -   -   -            *        *             *         *   (ARG1*        (ARG0*)       *   -
+nw/wsj/23/wsj_2366   0   24       strongly     RB                 (ADVP*)       -    -   -   -            *        *             *         *        *    (ARGM-MNR*)       *   -
+nw/wsj/23/wsj_2366   0   25           felt    VBD                   (VP*      feel  01   1   -            *        *             *         *        *           (V*)       *   -
+nw/wsj/23/wsj_2366   0   26            the     DT                   (NP*        -    -   -   -            *        *             *         *        *        (ARG1*        *   -
+nw/wsj/23/wsj_2366   0   27           need     NN                      *      need   -   1   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   28             to     TO                 (S(VP*        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   29          spend     VB                   (VP*     spend  02   1   -            *        *             *         *        *             *      (V*)  -
+nw/wsj/23/wsj_2366   0   30           more    JJR                   (NP*        -    -   -   -            *        *             *         *        *             *   (ARG1*   -
+nw/wsj/23/wsj_2366   0   31           time     NN                      *)     time   -   3   -            *        *             *         *        *             *        *)  -
+nw/wsj/23/wsj_2366   0   32           with     IN                   (PP*        -    -   -   -            *        *             *         *        *             *   (ARG2*   -
+nw/wsj/23/wsj_2366   0   33          their   PRP$                   (NP*        -    -   -   -            *        *             *         *        *             *        *   -
+nw/wsj/23/wsj_2366   0   34       families    NNS   *))))))))))))))))))))   family   -   1   -            *        *)            *)        *        *)            *)       *)  -
+nw/wsj/23/wsj_2366   0   35              .      .                     *))       -    -   -   -            *        *             *         *        *             *        *   -
+
+nw/wsj/23/wsj_2366   0    0         Being   VBG  (TOP(S(VP(VP*          be   -   1   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    1    successful    JJ         (ADJP*          -    -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    2            in    IN           (PP*          -    -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    3       careers   NNS        (NP*))))     career   -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    4           and    CC              *          -    -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    5      spending   VBG           (VP*       spend   -   2   -   *         *        *   -
+nw/wsj/23/wsj_2366   0    6           the    DT        (NP(NP*          -    -   -   -   *    (ARG1*        *   -
+nw/wsj/23/wsj_2366   0    7         money    NN              *)      money   -   2   -   *         *)       *   -
+nw/wsj/23/wsj_2366   0    8          they   PRP    (SBAR(S(NP*)         -    -   -   -   *    (ARG0*)       *   -
+nw/wsj/23/wsj_2366   0    9          make   VBP           (VP*        make  01   3   -   *       (V*)       *   -
+nw/wsj/23/wsj_2366   0   10           are   VBP    (SBAR(S(VP*          be  01   1   -   *         *      (V*)  -
+nw/wsj/23/wsj_2366   0   11           top    JJ        (NP(NP*          -    -   -   -   *         *   (ARG2*   -
+nw/wsj/23/wsj_2366   0   12    priorities   NNS              *)   priority   -   1   -   *         *        *   -
+nw/wsj/23/wsj_2366   0   13           for    IN           (PP*          -    -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0   14          this    DT           (NP*          -    -   -   -   *         *        *   -
+nw/wsj/23/wsj_2366   0   15         group    NN   *))))))))))))      group   -   1   -   *         *        *)  -
+nw/wsj/23/wsj_2366   0   16             .     .             *))         -    -   -   -   *         *        *   -
+
+nw/wsj/23/wsj_2366   0    0        Unlike    IN  (TOP(S(PP*         -    -   -   -   *   (ARGM-ADV*   -
+nw/wsj/23/wsj_2366   0    1          most   JJS     (NP(NP*         -    -   -   -   *            *   -
+nw/wsj/23/wsj_2366   0    2       studies   NNS           *)     study   -   3   -   *            *   -
+nw/wsj/23/wsj_2366   0    3            of    IN        (PP*         -    -   -   -   *            *   -
+nw/wsj/23/wsj_2366   0    4           the    DT        (NP*         -    -   -   -   *            *   -
+nw/wsj/23/wsj_2366   0    5      affluent    JJ           *         -    -   -   -   *            *   -
+nw/wsj/23/wsj_2366   0    6        market    NN        *))))    market   -   1   -   *            *)  -
+nw/wsj/23/wsj_2366   0    7             ,     ,           *         -    -   -   -   *            *   -
+nw/wsj/23/wsj_2366   0    8          this    DT        (NP*)        -    -   -   -   *       (ARG0*)  -
+nw/wsj/23/wsj_2366   0    9        survey   VBP        (VP*     survey   -   3   -   *            *   -
+nw/wsj/23/wsj_2366   0   10      excluded   VBN        (VP*    exclude  01   1   -   *          (V*)  -
+nw/wsj/23/wsj_2366   0   11           the    DT        (NP*         -    -   -   -   *       (ARG1*   -
+nw/wsj/23/wsj_2366   0   12    super-rich    NN         *)))        -    -   -   -   *            *)  -
+nw/wsj/23/wsj_2366   0   13             .     .          *))        -    -   -   -   *            *   -
+
+nw/wsj/23/wsj_2366   0    0      Average    JJ  (TOP(S(S(NP(NP*        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    1    household    NN                *        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    2       income    NN                *)   income   -   1   -         *        *   -
+nw/wsj/23/wsj_2366   0    3          for    IN             (PP*        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    4          the    DT             (NP*        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    5       sample    NN              *)))   sample   -   2   -         *        *   -
+nw/wsj/23/wsj_2366   0    6          was   VBD             (VP*        be   -   1   -         *        *   -
+nw/wsj/23/wsj_2366   0    7            $     $             (NP*        -    -   -   -   (MONEY*        *   -
+nw/wsj/23/wsj_2366   0    8     194,000     CD              *)))       -    -   -   -         *)       *   -
+nw/wsj/23/wsj_2366   0    9            ,     ,                *        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0   10          and    CC                *        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0   11      average    JJ           (S(NP*        -    -   -   -         *   (ARG1*   -
+nw/wsj/23/wsj_2366   0   12          net    NN                *       net   -   3   -         *        *   -
+nw/wsj/23/wsj_2366   0   13       assets   NNS                *)    asset   -   2   -         *        *)  -
+nw/wsj/23/wsj_2366   0   14         were   VBD             (VP*        be   -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0   15     reported   VBN             (VP*    report  01   1   -         *      (V*)  -
+nw/wsj/23/wsj_2366   0   16           as    IN             (PP*        -    -   -   -   (MONEY*   (ARG2*   -
+nw/wsj/23/wsj_2366   0   17            $     $             (NP*        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0   18     775,000     CD            *)))))       -    -   -   -         *)       *)  -
+nw/wsj/23/wsj_2366   0   19            .     .               *))       -    -   -   -         *        *   -
+
+nw/wsj/23/wsj_2366   0    0        The     DT   (TOP(S(NP*        -    -   -   -            *   (ARG1*             *   -
+nw/wsj/23/wsj_2366   0    1       goal     NN            *)     goal   -   1   -            *        *)            *   -
+nw/wsj/23/wsj_2366   0    2        was    VBD         (VP*        be   -   2   -            *        *             *   -
+nw/wsj/23/wsj_2366   0    3         to     TO       (S(VP*        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0    4      learn     VB         (VP*     learn  01   2   -            *      (V*)            *   -
+nw/wsj/23/wsj_2366   0    5      about     IN         (PP*        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0    6        one     CD   (NP(NP(NP*)       -    -   -   -    (CARDINAL)       *             *   -
+nw/wsj/23/wsj_2366   0    7         of     IN         (PP*        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0    8      today     NN      (NP(NP*     today   -   2   -        (DATE)       *             *   -
+nw/wsj/23/wsj_2366   0    9         's    POS            *)       -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   10    fastest    RBS       (ADJP*        -    -   -   -            *        *    (ARGM-MNR*)  -
+nw/wsj/23/wsj_2366   0   11         -    HYPH            *        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   12    growing    VBG            *)     grow  01   4   -            *        *           (V*)  -
+nw/wsj/23/wsj_2366   0   13     income     NN            *    income   -   1   -            *        *        (ARG1*)  -
+nw/wsj/23/wsj_2366   0   14     groups    NNS          *)))    group   -   1   -            *        *      (C-ARG1*)  -
+nw/wsj/23/wsj_2366   0   15          ,      ,            *        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   16        the     DT         (NP*        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   17      upper     JJ       (ADJP*        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   18         -    HYPH            *        -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   19     middle     JJ            *)       -    -   -   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   20      class     NN      *)))))))    class   -   1   -            *        *             *   -
+nw/wsj/23/wsj_2366   0   21          .      .           *))       -    -   -   -            *        *             *   -
+
+nw/wsj/23/wsj_2366   0    0         Although     IN  (TOP(S(SBAR*            -    -   -   -            *         *   (ARGM-ADV*   -
+nw/wsj/23/wsj_2366   0    1             they    PRP        (S(NP*)           -    -   -   -            *    (ARG0*)           *   -
+nw/wsj/23/wsj_2366   0    2        represent    VBP          (VP*     represent  01   1   -            *       (V*)           *   -
+nw/wsj/23/wsj_2366   0    3             only     RB    (NP(NP(QP*            -    -   -   -    (PERCENT*    (ARG1*            *   -
+nw/wsj/23/wsj_2366   0    4               2      CD             *)           -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0    5                %     NN             *)           -    -   -   -            *)        *            *   -
+nw/wsj/23/wsj_2366   0    6               of     IN          (PP*            -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0    7              the     DT          (NP*            -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0    8       population     NN        *))))))   population   -   1   -            *         *)           *)  -
+nw/wsj/23/wsj_2366   0    9                ,      ,             *            -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0   10             they    PRP          (NP*)           -    -   -   -            *         *       (ARG0*)  -
+nw/wsj/23/wsj_2366   0   11          control    VBP          (VP*       control  01   1   -            *         *          (V*)  -
+nw/wsj/23/wsj_2366   0   12           nearly     RB    (NP(NP(QP*            -    -   -   -   (CARDINAL*         *       (ARG1*   -
+nw/wsj/23/wsj_2366   0   13              one     CD             *            -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0   14               -    HYPH             *            -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0   15            third     NN            *))           -    -   -   -            *)        *            *   -
+nw/wsj/23/wsj_2366   0   16               of     IN          (PP*            -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0   17    discretionary     JJ          (NP*            -    -   -   -            *         *            *   -
+nw/wsj/23/wsj_2366   0   18           income     NN          *))))       income   -   1   -            *         *            *)  -
+nw/wsj/23/wsj_2366   0   19                .      .            *))           -    -   -   -            *         *            *   -
+
+nw/wsj/23/wsj_2366   0    0         Across    IN     (TOP(S(PP*            -    -   -   -   *   (ARGM-LOC*   (ARGM-LOC*         *         *   (ARGM-LOC*           *   -
+nw/wsj/23/wsj_2366   0    1            the    DT           (NP*            -    -   -   -   *            *            *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0    2          board    NN             *))        board   -   7   -   *            *)           *)        *         *            *)          *   -
+nw/wsj/23/wsj_2366   0    3              ,     ,              *            -    -   -   -   *            *            *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0    4          these    DT           (NP*            -    -   -   -   *       (ARG0*       (ARG0*         *         *       (ARG0*           *   -
+nw/wsj/23/wsj_2366   0    5      consumers   NNS              *)     consumer   -   1   -   *            *)           *)        *         *            *)          *   -
+nw/wsj/23/wsj_2366   0    6          value   VBP        (VP(VP*         value  01   2   -   *          (V*)           *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0    7        quality    NN          (NP*))      quality   -   1   -   *       (ARG1*)           *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0    8              ,     ,              *            -    -   -   -   *            *            *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0    9            buy   VBP           (VP*           buy  01   1   -   *            *          (V*)        *         *            *           *   -
+nw/wsj/23/wsj_2366   0   10           what    WP    (SBAR(WHNP*)           -    -   -   -   *            *       (ARG1*    (ARG1*)        *            *           *   -
+nw/wsj/23/wsj_2366   0   11           they   PRP         (S(NP*)           -    -   -   -   *            *            *    (ARG0*)        *            *           *   -
+nw/wsj/23/wsj_2366   0   12           like   VBP           (VP*          like  01   2   -   *            *            *       (V*)        *            *           *   -
+nw/wsj/23/wsj_2366   0   13         rather    RB         (ADVP*            -    -   -   -   *            *            *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0   14           than    IN           (PP*            -    -   -   -   *            *            *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0   15           just    RB    (SBAR(WHNP*            -    -   -   -   *            *            *         *    (ARG1*            *           *   -
+nw/wsj/23/wsj_2366   0   16           what    WP              *)           -    -   -   -   *            *            *         *         *)           *           *   -
+nw/wsj/23/wsj_2366   0   17           they   PRP         (S(NP*)           -    -   -   -   *            *            *         *    (ARG0*)           *           *   -
+nw/wsj/23/wsj_2366   0   18           need   VBP   (VP*)))))))))         need  01   1   -   *            *            *)        *       (V*)           *           *   -
+nw/wsj/23/wsj_2366   0   19              ,     ,              *            -    -   -   -   *            *            *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0   20            and    CC              *            -    -   -   -   *            *            *         *         *            *           *   -
+nw/wsj/23/wsj_2366   0   21     appreciate   VBP           (VP*    appreciate  02   2   -   *            *            *         *         *          (V*)          *   -
+nw/wsj/23/wsj_2366   0   22       products   NNS        (NP(NP*)      product   -   1   -   *            *            *         *         *       (ARG1*      (ARG1*)  -
+nw/wsj/23/wsj_2366   0   23           that   WDT    (SBAR(WHNP*)           -    -   -   -   *            *            *         *         *            *    (R-ARG1*)  -
+nw/wsj/23/wsj_2366   0   24            are   VBP         (S(VP*            be  01   1   -   *            *            *         *         *            *         (V*)  -
+nw/wsj/23/wsj_2366   0   25    distinctive    JJ   (ADJP*)))))))           -    -   -   -   *            *            *         *         *            *)     (ARG2*)  -
+nw/wsj/23/wsj_2366   0   26              .     .             *))           -    -   -   -   *            *            *         *         *            *           *   -
+
+nw/wsj/23/wsj_2366   0    0         Despite     IN  (TOP(S(S(PP*        -    -   -   -            *    (ARGM-ADV*             *         *   -
+nw/wsj/23/wsj_2366   0    1           their   PRP$          (NP*        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0    2    considerable     JJ             *        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0    3         incomes    NNS             *    income   -   1   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0    4             and     CC             *        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0    5          assets    NNS            *))    asset   -   2   -            *             *)            *         *   -
+nw/wsj/23/wsj_2366   0    6               ,      ,             *        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0    7             40      CD       (NP(NP*        -    -   -   -    (PERCENT*        (ARG0*             *         *   -
+nw/wsj/23/wsj_2366   0    8               %     NN             *)       -    -   -   -            *)            *             *         *   -
+nw/wsj/23/wsj_2366   0    9              of     IN          (PP*        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   10             the     DT       (NP(NP*        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   11     respondents    NNS             *)       -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   12              in     IN          (PP*        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   13             the     DT          (NP*        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   14           study     NN         *)))))    study   -   3   -            *             *)            *         *   -
+nw/wsj/23/wsj_2366   0   15              do    VBP          (VP*        do   -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   16             n't     RB             *        -    -   -   -            *    (ARGM-NEG*)            *         *   -
+nw/wsj/23/wsj_2366   0   17            feel     VB          (VP*      feel  01   1   -            *           (V*)            *         *   -
+nw/wsj/23/wsj_2366   0   18     financially     RB        (ADJP*        -    -   -   -            *        (ARG1*             *         *   -
+nw/wsj/23/wsj_2366   0   19          secure     JJ          *))))       -    -   -   -            *             *)            *         *   -
+nw/wsj/23/wsj_2366   0   20               ,      ,             *        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   21             and     CC             *        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   22             one     CD        (S(NP*        -    -   -   -   (CARDINAL*             *        (ARG0*         *   -
+nw/wsj/23/wsj_2366   0   23              -    HYPH             *        -    -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   24          fourth     JJ             *)       -    -   -   -            *)            *             *)        *   -
+nw/wsj/23/wsj_2366   0   25              do    VBP          (VP*        do   -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   26             n't     RB             *        -    -   -   -            *             *    (ARGM-NEG*)        *   -
+nw/wsj/23/wsj_2366   0   27            feel     VB          (VP*      feel  02   3   -            *             *           (V*)        *   -
+nw/wsj/23/wsj_2366   0   28            that     IN        (SBAR*        -    -   -   -            *             *        (ARG1*         *   -
+nw/wsj/23/wsj_2366   0   29            they    PRP        (S(NP*)       -    -   -   -            *             *             *    (ARG0*)  -
+nw/wsj/23/wsj_2366   0   30            have    VBP          (VP*      have   -   -   -            *             *             *         *   -
+nw/wsj/23/wsj_2366   0   31            made    VBN          (VP*      make  01   3   -            *             *             *       (V*)  -
+nw/wsj/23/wsj_2366   0   32              it    PRP   (NP*))))))))       -    -   -   -            *             *             *)   (ARG1*)  -
+nw/wsj/23/wsj_2366   0   33               .      .            *))       -    -   -   -            *             *             *         *   -
+
+nw/wsj/23/wsj_2366   0    0         Twenty    CD    (TOP(S(NP*         -    -   -   -   (PERCENT*        (ARG0*         *   -
+nw/wsj/23/wsj_2366   0    1        percent    NN             *)   percent   -   1   -           *)            *)        *   -
+nw/wsj/23/wsj_2366   0    2             do   VBP          (VP*         do   -   -   -           *             *         *   -
+nw/wsj/23/wsj_2366   0    3            n't    RB             *         -    -   -   -           *    (ARGM-NEG*)        *   -
+nw/wsj/23/wsj_2366   0    4           even    RB        (ADVP*)        -    -   -   -           *    (ARGM-ADV*)        *   -
+nw/wsj/23/wsj_2366   0    5           feel    VB          (VP*       feel  02   3   -           *           (V*)        *   -
+nw/wsj/23/wsj_2366   0    6           they   PRP   (SBAR(S(NP*)        -    -   -   -           *             *    (ARG1*)  -
+nw/wsj/23/wsj_2366   0    7            are   VBP          (VP*         be  01   1   -           *             *       (V*)  -
+nw/wsj/23/wsj_2366   0    8    financially    RB        (ADJP*         -    -   -   -           *             *    (ARG2*   -
+nw/wsj/23/wsj_2366   0    9           well    RB             *         -    -   -   -           *             *         *   -
+nw/wsj/23/wsj_2366   0   10            off    JJ        *))))))        -    -   -   -           *             *         *)  -
+nw/wsj/23/wsj_2366   0   11              .     .            *))        -    -   -   -           *             *         *   -
+
+nw/wsj/23/wsj_2366   0    0           Many    JJ   (TOP(S(NP(NP*)   -    -   -   -   *        (ARG1*   -
+nw/wsj/23/wsj_2366   0    1             of    IN            (PP*    -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    2            the    DT            (NP*    -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    3       affluent    JJ             *)))   -    -   -   -   *             *)  -
+nw/wsj/23/wsj_2366   0    4            are   VBP            (VP*    be  01   1   -   *           (V*)  -
+nw/wsj/23/wsj_2366   0    5            n't    RB               *    -    -   -   -   *    (ARGM-NEG*)  -
+nw/wsj/23/wsj_2366   0    6    comfortable    JJ          (ADJP*    -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    7           with    IN            (PP*    -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    8     themselves   PRP          (NP*)))   -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0    9              ,     ,               *    -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0   10         either    RB         (ADVP*))   -    -   -   -   *             *   -
+nw/wsj/23/wsj_2366   0   11              .     .              *))   -    -   -   -   *             *   -
+
+nw/wsj/23/wsj_2366   0    0     About    RB  (TOP(S(NP(QP*      -    -   -   -   (PERCENT*        (ARG0*   -
+nw/wsj/23/wsj_2366   0    1       40     CD              *)     -    -   -   -           *             *   -
+nw/wsj/23/wsj_2366   0    2         %    NN              *)     -    -   -   -           *)            *)  -
+nw/wsj/23/wsj_2366   0    3        do   VBP           (VP*      do   -   -   -           *             *   -
+nw/wsj/23/wsj_2366   0    4       n't    RB              *      -    -   -   -           *    (ARGM-NEG*)  -
+nw/wsj/23/wsj_2366   0    5      feel    VB           (VP*    feel  02   1   -           *           (V*)  -
+nw/wsj/23/wsj_2366   0    6      they   PRP    (SBAR(S(NP*)     -    -   -   -           *        (ARG1*   -
+nw/wsj/23/wsj_2366   0    7       're   VBP           (VP*      be   -   1   -           *             *   -
+nw/wsj/23/wsj_2366   0    8      more   RBR         (ADJP*      -    -   -   -           *             *   -
+nw/wsj/23/wsj_2366   0    9      able    JJ              *      -    -   -   -           *             *   -
+nw/wsj/23/wsj_2366   0   10      than    IN           (PP*      -    -   -   -           *             *   -
+nw/wsj/23/wsj_2366   0   11    others   NNS    (NP*))))))))     -    -   -   -           *             *)  -
+nw/wsj/23/wsj_2366   0   12         .     .             *))     -    -   -   -           *             *   -
+
+nw/wsj/23/wsj_2366   0    0        While    IN    (TOP(S(SBAR*      -    -   -   -           *         *         *   (ARGM-ADV*   -
+nw/wsj/23/wsj_2366   0    1    twothirds   NNS          (S(NP*)     -    -   -   -           *    (ARG0*)        *            *   -
+nw/wsj/23/wsj_2366   0    2         feel   VBP            (VP*    feel  01   1   -           *       (V*)        *            *   -
+nw/wsj/23/wsj_2366   0    3         some    DT         (NP(NP*      -    -   -   -           *    (ARG1*         *            *   -
+nw/wsj/23/wsj_2366   0    4        guilt    NN               *)     -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0    5        about    IN            (PP*      -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0    6        being   VBG          (S(VP*      be  01   1   -           *         *       (V*)           *   -
+nw/wsj/23/wsj_2366   0    7     affluent    JJ   (ADJP*))))))))     -    -   -   -           *         *)   (ARG2*)           *)  -
+nw/wsj/23/wsj_2366   0    8            ,     ,               *      -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0    9         only    RB         (NP(QP*      -    -   -   -   (PERCENT*         *         *       (ARG0*   -
+nw/wsj/23/wsj_2366   0   10          25     CD               *)     -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   11            %    NN               *)     -    -   -   -           *)        *         *            *)  -
+nw/wsj/23/wsj_2366   0   12         give   VBP            (VP*    give  01   1   -           *         *         *          (V*)  -
+nw/wsj/23/wsj_2366   0   13            $     $      (NP(NP(QP*      -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   14       2,500     CD               *      -    -   -   -      (MONEY)        *         *            *   -
+nw/wsj/23/wsj_2366   0   15           or    CC               *      -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   16         more   JJR              *))     -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   17           to    IN            (PP*      -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   18      charity    NN           (NP*))     -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   19         each    DT            (NP*      -    -   -   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   20         year    NN             *)))   year   -   1   -           *         *         *            *   -
+nw/wsj/23/wsj_2366   0   21            .     .              *))     -    -   -   -           *         *         *            *   -
+
+nw/wsj/23/wsj_2366   0    0        Thirty     CD  (TOP(S(S(NP(QP*            -    -    -   -   (CARDINAL*        (ARG0*            *         *         *   -
+nw/wsj/23/wsj_2366   0    1            -    HYPH                *            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0    2          five     CD                *)           -    -    -   -            *)            *            *         *         *   -
+nw/wsj/23/wsj_2366   0    3       percent     NN                *)      percent   -    1   -            *             *)           *         *         *   -
+nw/wsj/23/wsj_2366   0    4        attend    VBP             (VP*        attend  01    1   -            *           (V*)           *         *         *   -
+nw/wsj/23/wsj_2366   0    5     religious     JJ             (NP*            -    -    -   -            *        (ARG1*            *         *         *   -
+nw/wsj/23/wsj_2366   0    6      services    NNS                *)      service   -    2   -            *             *)           *         *         *   -
+nw/wsj/23/wsj_2366   0    7     regularly     RB         (ADVP*)))           -    -    -   -            *    (ARGM-TMP*)           *         *         *   -
+nw/wsj/23/wsj_2366   0    8             ;      :                *            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0    9            at     IN           (S(PP*            -    -    -   -            *             *   (ARGM-TMP*         *         *   -
+nw/wsj/23/wsj_2366   0   10           the     DT             (NP*            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   11          same     JJ                *            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   12          time     NN               *))         time   -   12   -            *             *            *)        *         *   -
+nw/wsj/23/wsj_2366   0   13             ,      ,                *            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   14           60      CD             (NP*            -    -    -   -    (PERCENT*             *       (ARG0*         *         *   -
+nw/wsj/23/wsj_2366   0   15             %     NN                *)           -    -    -   -            *)            *            *)        *         *   -
+nw/wsj/23/wsj_2366   0   16          feel    VBP             (VP*          feel  02    3   -            *             *          (V*)        *         *   -
+nw/wsj/23/wsj_2366   0   17          that     IN           (SBAR*            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   18            in     IN           (S(PP*            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   19          life     NN            (NP*))         life   -    1   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   20           one    PRP             (NP*)           -    -    -   -            *             *            *    (ARG0*)   (ARG0*)  -
+nw/wsj/23/wsj_2366   0   21     sometimes     RB           (ADVP*)           -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   22           has    VBZ             (VP*          have  02   12   -            *             *            *       (V*)        *   -
+nw/wsj/23/wsj_2366   0   23            to     TO           (S(VP*            -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   24    compromise     VB             (VP*    compromise  01    1   -            *             *            *         *       (V*)  -
+nw/wsj/23/wsj_2366   0   25           one     CD          (NP(NP*            -    -    -   -            *             *            *         *    (ARG1*   -
+nw/wsj/23/wsj_2366   0   26            's    POS                *)           -    -    -   -            *             *            *         *         *   -
+nw/wsj/23/wsj_2366   0   27    principles    NNS        *)))))))))    principle   -    1   -            *             *            *         *         *)  -
+nw/wsj/23/wsj_2366   0   28             .      .               *))           -    -    -   -            *             *            *         *         *   -
+
+nw/wsj/23/wsj_2366   0   0    Odds   NNPS  (TOP(NP*   -   -   -   -   *   -
+nw/wsj/23/wsj_2366   0   1     and     CC         *   -   -   -   -   *   -
+nw/wsj/23/wsj_2366   0   2    Ends   NNPS        *))  -   -   -   -   *   -
+
+nw/wsj/23/wsj_2366   0    0           THE    DT  (TOP(S(NP(NP*            -    -    -   -        *            *       (ARG1*   -
+nw/wsj/23/wsj_2366   0    1        NUMBER    NN              *)       number   -    1   -        *            *            *   -
+nw/wsj/23/wsj_2366   0    2            of    IN           (PP*            -    -    -   -        *            *            *   -
+nw/wsj/23/wsj_2366   0    3         women   NNS        (NP(NP*         woman   -    1   -        *       (ARG0*            *   -
+nw/wsj/23/wsj_2366   0    4           and    CC              *            -    -    -   -        *            *            *   -
+nw/wsj/23/wsj_2366   0    5    minorities   NNS              *)           -    -    -   -        *            *)           *   -
+nw/wsj/23/wsj_2366   0    6           who    WP    (SBAR(WHNP*)           -    -    -   -        *     (R-ARG0*)           *   -
+nw/wsj/23/wsj_2366   0    7          hold   VBP         (S(VP*          hold  01    5   -        *          (V*)           *   -
+nw/wsj/23/wsj_2366   0    8          jobs   NNS        (NP(NP*)          job   -    1   -        *            *            *   -
+nw/wsj/23/wsj_2366   0    9            in    IN           (PP*            -    -    -   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   10           top    JJ           (NP*            -    -    -   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   11    management    NN            *)))   management   -    1   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   12            in    IN           (PP*            -    -    -   -        *   (ARGM-LOC*            *   -
+nw/wsj/23/wsj_2366   0   13           the    DT        (NP(NP*            -    -    -   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   14        nation    NN              *        nation   -    1   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   15            's   POS              *)           -    -    -   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   16       largest   JJS              *            -    -    -   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   17         banks   NNS       *))))))))         bank   -    1   -        *            *)           *)  -
+nw/wsj/23/wsj_2366   0   18           has   VBZ           (VP*          have   -   12   -        *            *            *   -
+nw/wsj/23/wsj_2366   0   19          more   RBR         (ADVP*            -    -    -   -        *            *   (ARGM-ADV*   -
+nw/wsj/23/wsj_2366   0   20          than    IN              *)           -    -    -   -        *            *            *)  -
+nw/wsj/23/wsj_2366   0   21       doubled   VBN           (VP*        double  01    1   -        *            *          (V*)  -
+nw/wsj/23/wsj_2366   0   22         since    IN           (PP*            -    -    -   -        *            *   (ARGM-TMP*   -
+nw/wsj/23/wsj_2366   0   23         1978     CD        (NP*))))           -    -    -   -    (DATE)           *            *)  -
+nw/wsj/23/wsj_2366   0   24             .     .             *))           -    -    -   -        *            *            *   -
+
+nw/wsj/23/wsj_2366   0    0            The    DT     (TOP(S(NP*          -    -   -   -        (ORG*   (ARG0*         *   -
+nw/wsj/23/wsj_2366   0    1       American   NNP              *          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0    2        Bankers   NNP              *          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0    3    Association   NNP              *)         -    -   -   -            *)       *)        *   -
+nw/wsj/23/wsj_2366   0    4           says   VBZ           (VP*         say  01   1   -            *      (V*)        *   -
+nw/wsj/23/wsj_2366   0    5           that    IN         (SBAR*          -    -   -   -            *   (ARG1*         *   -
+nw/wsj/23/wsj_2366   0    6          women   NNS         (S(NP*)      woman   -   1   -            *        *    (ARG0*)  -
+nw/wsj/23/wsj_2366   0    7           make   VBP           (VP*        make  07   6   -            *        *       (V*)  -
+nw/wsj/23/wsj_2366   0    8             up    RP          (PRT*)         -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0    9            47     CD        (NP(NP*          -    -   -   -    (PERCENT*        *         *   -
+nw/wsj/23/wsj_2366   0   10              %    NN              *)         -    -   -   -            *)       *         *   -
+nw/wsj/23/wsj_2366   0   11             of    IN           (PP*          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   12      officials   NNS        (NP(NP*)   official   -   1   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   13            and    CC              *          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   14       managers   NNS        (NP(NP*)    manager   -   1   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   15             in    IN           (PP*          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   16            the    DT           (NP*          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   17            top    JJ              *          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   18            50     CD              *          -    -   -   -    (CARDINAL)       *         *   -
+nw/wsj/23/wsj_2366   0   19          banks   NNS          *)))))       bank   -   1   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   20              ,     ,              *          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   21             up    RB         (ADVP*          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   22           from    IN           (PP*          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   23            33     CD           (NP*          -    -   -   -    (PERCENT*        *         *   -
+nw/wsj/23/wsj_2366   0   24              %    NN              *)         -    -   -   -            *)       *         *   -
+nw/wsj/23/wsj_2366   0   25             in    IN           (PP*          -    -   -   -            *        *         *   -
+nw/wsj/23/wsj_2366   0   26          1978     CD   (NP*)))))))))         -    -   -   -        (DATE)       *)        *   -
+nw/wsj/23/wsj_2366   0   27              .     .             *))         -    -   -   -            *        *         *   -
+
+nw/wsj/23/wsj_2366   0    0           The    DT  (TOP(S(NP(NP*          -    -   -   -           *   (ARG1*   -
+nw/wsj/23/wsj_2366   0    1         share    NN              *)      share   -   2   -           *        *   -
+nw/wsj/23/wsj_2366   0    2            of    IN           (PP*          -    -   -   -           *        *   -
+nw/wsj/23/wsj_2366   0    3    minorities   NNS        (NP(NP*)         -    -   -   -           *        *   -
+nw/wsj/23/wsj_2366   0    4            in    IN           (PP*          -    -   -   -           *        *   -
+nw/wsj/23/wsj_2366   0    5         those    DT           (NP*          -    -   -   -           *        *   -
+nw/wsj/23/wsj_2366   0    6     positions   NNS          *)))))   position   -   5   -           *        *)  -
+nw/wsj/23/wsj_2366   0    7           has   VBZ           (VP*        have   -   -   -           *        *   -
+nw/wsj/23/wsj_2366   0    8         risen   VBN           (VP*        rise  01   2   -           *      (V*)  -
+nw/wsj/23/wsj_2366   0    9            to    IN           (PP*          -    -   -   -           *   (ARG4*   -
+nw/wsj/23/wsj_2366   0   10           16     CD           (NP*          -    -   -   -   (PERCENT*        *   -
+nw/wsj/23/wsj_2366   0   11             %    NN             *))         -    -   -   -           *)       *)  -
+nw/wsj/23/wsj_2366   0   12          from    IN           (PP*          -    -   -   -           *   (ARG3*   -
+nw/wsj/23/wsj_2366   0   13           12     CD           (NP*          -    -   -   -   (PERCENT*        *   -
+nw/wsj/23/wsj_2366   0   14             %    NN           *))))         -    -   -   -           *)       *)  -
+nw/wsj/23/wsj_2366   0   15           ...     :              *          -    -   -   -           *        *   -
+nw/wsj/23/wsj_2366   0   16             .     .             *))         -    -   -   -           *        *   -
+
+nw/wsj/23/wsj_2366   0    0          Per     FW  (TOP(S(NP(NP(ADJP*           -    -   -   -        *       (ARG1*   -
+nw/wsj/23/wsj_2366   0    1           -    HYPH                   *           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0    2       capita     FW                   *)          -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0    3     personal     JJ                   *           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0    4       income     NN                   *)      income   -   1   -        *            *   -
+nw/wsj/23/wsj_2366   0    5           in     IN                (PP*           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0    6          the     DT                (NP*           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0    7         U.S.    NNP                 *)))          -    -   -   -     (GPE)           *)  -
+nw/wsj/23/wsj_2366   0    8         grew    VBD                (VP*         grow  01   4   -        *          (V*)  -
+nw/wsj/23/wsj_2366   0    9       faster    RBR           (NP(ADVP*           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0   10         than     IN                (PP*           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0   11    inflation     NN              (NP*)))   inflation   -   1   -        *            *   -
+nw/wsj/23/wsj_2366   0   12         last     JJ                   *           -    -   -   -   (DATE*            *   -
+nw/wsj/23/wsj_2366   0   13         year     NN                   *)        year   -   1   -        *)           *   -
+nw/wsj/23/wsj_2366   0   14            ,      ,                   *           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0   15    according    VBG                (PP*       accord   -   2   -        *   (ARGM-ADV*   -
+nw/wsj/23/wsj_2366   0   16           to     IN                (PP*           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0   17          the     DT             (NP(NP*           -    -   -   -    (ORG*            *   -
+nw/wsj/23/wsj_2366   0   18       Bureau    NNP                   *)          -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0   19           of     IN                (PP*           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0   20     Economic    NNP                (NP*           -    -   -   -        *            *   -
+nw/wsj/23/wsj_2366   0   21     Analysis    NNP              *))))))          -    -   -   -        *)           *)  -
+nw/wsj/23/wsj_2366   0   22            .      .                  *))          -    -   -   -        *            *   -
+
+nw/wsj/23/wsj_2366   0    0        The    DT  (TOP(S(NP(NP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    1     amount    NN              *)   amount   -   3   -           *            *   -
+nw/wsj/23/wsj_2366   0    2         of    IN           (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    3     income    NN        (NP(NP*)   income   -   1   -           *       (ARG1*)  -
+nw/wsj/23/wsj_2366   0    4    divvied   VBN           (VP*     divvy  01   -   -           *          (V*)  -
+nw/wsj/23/wsj_2366   0    5         up    RP          (PRT*)       -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    6        for    IN           (PP*        -    -   -   -           *   (ARGM-PRP*   -
+nw/wsj/23/wsj_2366   0    7       each    DT           (NP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0    8        man    NN         *))))))      man   -   2   -           *            *)  -
+nw/wsj/23/wsj_2366   0    9          ,     ,              *        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   10      woman    NN           (NP*     woman   -   1   -           *            *   -
+nw/wsj/23/wsj_2366   0   11        and    CC              *        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   12      child    NN              *)    child   -   2   -           *            *   -
+nw/wsj/23/wsj_2366   0   13        was   VBD           (VP*        be   -   2   -           *            *   -
+nw/wsj/23/wsj_2366   0   14          $     $     (NP(NP(NP*        -    -   -   -     (MONEY*            *   -
+nw/wsj/23/wsj_2366   0   15    16,489     CD              *)       -    -   -   -           *)           *   -
+nw/wsj/23/wsj_2366   0   16         in    IN           (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   17      1988     CD         (NP*)))       -    -   -   -       (DATE)           *   -
+nw/wsj/23/wsj_2366   0   18          ,     ,              *        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   19         up    RB         (ADVP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   20       6.6     CD           (NP*        -    -   -   -   (PERCENT*            *   -
+nw/wsj/23/wsj_2366   0   21          %    NN              *)       -    -   -   -           *)           *   -
+nw/wsj/23/wsj_2366   0   22       from    IN           (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   23          $     $           (NP*        -    -   -   -     (MONEY*            *   -
+nw/wsj/23/wsj_2366   0   24    15,472     CD              *)       -    -   -   -           *)           *   -
+nw/wsj/23/wsj_2366   0   25         in    IN           (PP*        -    -   -   -           *            *   -
+nw/wsj/23/wsj_2366   0   26      1987     CD      (NP*))))))       -    -   -   -       (DATE)           *   -
+nw/wsj/23/wsj_2366   0   27          .     .             *))       -    -   -   -           *            *   -
+
+nw/wsj/23/wsj_2366   0    0            Per    FW  (TOP(S(NP(NML*        -    -   -   -         *   (ARG1*   -
+nw/wsj/23/wsj_2366   0    1         capita    FW               *)       -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    2       personal    JJ               *        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    3         income    NN               *)   income   -   1   -         *        *)  -
+nw/wsj/23/wsj_2366   0    4         ranged   VBD            (VP*     range  01   1   -         *      (V*)  -
+nw/wsj/23/wsj_2366   0    5           from    IN            (PP*        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    6              $     $      (NP(NP(NP*        -    -   -   -   (MONEY*        *   -
+nw/wsj/23/wsj_2366   0    7        11,116     CD               *)       -    -   -   -         *)       *   -
+nw/wsj/23/wsj_2366   0    8             in    IN            (PP*        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0    9    Mississippi   NNP          (NP*)))       -    -   -   -      (GPE)       *   -
+nw/wsj/23/wsj_2366   0   10             to    TO               *        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0   11              $     $            (NP*        -    -   -   -   (MONEY*        *   -
+nw/wsj/23/wsj_2366   0   12        23,059     CD               *)       -    -   -   -         *)       *   -
+nw/wsj/23/wsj_2366   0   13             in    IN            (PP*        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0   14    Connecticut   NNP        (NP*)))))       -    -   -   -      (GPE)       *   -
+nw/wsj/23/wsj_2366   0   15            ...     :               *        -    -   -   -         *        *   -
+nw/wsj/23/wsj_2366   0   16              .     .              *))       -    -   -   -         *        *   -
+
+nw/wsj/23/wsj_2366   0    0         There     EX   (TOP(S(NP*)         -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0    1           are    VBP         (VP*          be  -   3   -            *   -
+nw/wsj/23/wsj_2366   0    2         13.1      CD   (NP(NP(QP*          -   -   -   -   (CARDINAL*   -
+nw/wsj/23/wsj_2366   0    3       million     CD            *)         -   -   -   -            *)  -
+nw/wsj/23/wsj_2366   0    4      students    NNS            *)    student  -   1   -            *   -
+nw/wsj/23/wsj_2366   0    5            in     IN         (PP*          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0    6       college     NN        (NP*))    college  -   1   -            *   -
+nw/wsj/23/wsj_2366   0    7          this     DT         (NP*          -   -   -   -       (DATE*   -
+nw/wsj/23/wsj_2366   0    8          fall     NN           *))       fall  -   1   -            *)  -
+nw/wsj/23/wsj_2366   0    9             ,      ,            *          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   10            up     RB       (ADVP*          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   11            2      CD         (NP*          -   -   -   -    (PERCENT*   -
+nw/wsj/23/wsj_2366   0   12             %     NN            *)         -   -   -   -            *)  -
+nw/wsj/23/wsj_2366   0   13          from     IN         (PP*          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   14         1988      CD       (NP*)))         -   -   -   -        (DATE)  -
+nw/wsj/23/wsj_2366   0   15             ,      ,            *          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   16           the     DT      (NP(NP*          -   -   -   -        (ORG*   -
+nw/wsj/23/wsj_2366   0   17      National    NNP            *          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   18        Center    NNP            *)         -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   19           for     IN         (PP*          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   20     Education    NNP         (NP*          -   -   -   -            *   -
+nw/wsj/23/wsj_2366   0   21    Statistics   NNPS            *          -   -   -   -            *)  -
+nw/wsj/23/wsj_2366   0   22     estimates    NNS         *))))   estimate  -   1   -            *   -
+nw/wsj/23/wsj_2366   0   23             .      .           *))         -   -   -   -            *   -
+
+nw/wsj/23/wsj_2366   0    0       About     RB  (TOP(S(S(NP(QP*         -    -   -   -   (PERCENT*    (ARG1*        *   -
+nw/wsj/23/wsj_2366   0    1         54      CD                *)        -    -   -   -           *         *        *   -
+nw/wsj/23/wsj_2366   0    2           %     NN                *)        -    -   -   -           *)        *)       *   -
+nw/wsj/23/wsj_2366   0    3         are    VBP             (VP*         be  01   1   -           *       (V*)       *   -
+nw/wsj/23/wsj_2366   0    4       women    NNS           (NP*)))     woman   -   2   -           *    (ARG2*)       *   -
+nw/wsj/23/wsj_2366   0    5           ,      ,                *         -    -   -   -           *         *        *   -
+nw/wsj/23/wsj_2366   0    6         and     CC                *         -    -   -   -           *         *        *   -
+nw/wsj/23/wsj_2366   0    7         44      CD           (S(NP*         -    -   -   -   (PERCENT*         *   (ARG1*   -
+nw/wsj/23/wsj_2366   0    8           %     NN                *)        -    -   -   -           *)        *        *)  -
+nw/wsj/23/wsj_2366   0    9         are    VBP             (VP*         be  01   1   -           *         *      (V*)  -
+nw/wsj/23/wsj_2366   0   10        part     JJ         (NP(NML*         -    -   -   -           *         *   (ARG2*   -
+nw/wsj/23/wsj_2366   0   11          -    HYPH                *         -    -   -   -           *         *        *   -
+nw/wsj/23/wsj_2366   0   12        time     NN                *)      time   -   3   -           *         *        *   -
+nw/wsj/23/wsj_2366   0   13    students    NNS              *)))   student   -   1   -           *         *        *)  -
+nw/wsj/23/wsj_2366   0   14           .      .               *))        -    -   -   -           *         *        *   -
+
+#end document
