@@ -10,13 +10,13 @@
    - to run both TRAIN and TEST procedures, follow the steps below (may take around 20 mins to train):
    1. python run.py train : to train the model
    2. python run.py test : to test the trained model on test data
-   3. perl scorers/scorer.pl all gold.txt output.txt "none" :
+   3. perl scorers/scorer.pl all gold.txt response.txt "none" :
    to evaluate the response with all metric measurements
    - to test on dev data with already trained model:
    1. python run.py dev
-   2. perl scorers/scorer.pl all gold.txt output.txt "none"
+   2. perl scorers/scorer.pl all gold.txt response.txt "none"
    - to only quickly check the test evaluation result:
-   1. perl scorers/scorer.pl all gold.txt output.txt "none"
+   1. perl scorers/scorer.pl all gold.txt response.txt "none"
 
 3. For developers:
    - to improve the performance, only need to tune the feature.py and model in line 43 in run.py.
